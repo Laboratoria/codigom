@@ -1,5 +1,3 @@
-# Table of contents
-
 ## Bienvenida
 
 * [Inicio](README.md)
