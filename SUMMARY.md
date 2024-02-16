@@ -23,4 +23,3 @@
 * [El proyecto](proyecto.md)
 
 * [Quiero preguntar sobre el proyecto](slidoproyecto.md)
-
