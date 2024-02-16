@@ -1,8 +1,10 @@
-## Bienvenida
+## Inicio
 
-* [Inicio](README.md)
+* [Bienvenida](README.md)
 * Prepara tu entorno
   * [Desarrollo Web](environment_dev.md)
+  * Diseño de experiencias de usuario
+  * Análisis de datos
 
 ## Recomendaciones
 
