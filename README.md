@@ -4,9 +4,12 @@
 
 Nuestra filosofía de aprendizaje se basa en el respeto por toda diversidad, por lo que nos proponemos que sea una experiencia inclusiva, sin importar tu edad, tu situación, tu origen ni tu manera de ser y de relacionarte con el mundo, eres bienvenida por ser tú. 
 
-![dandelion,colorful,people of color,color change,popart,inked,yellow,cyan,magenta,red,blue,meadow,green,flower,seeds,air,nature,grass,food,white,banner,background,texture,close,details,poster,concise,decoration,still life,flying seeds,texfreiraum,fine art,people,change,convert,manipulated,transform,transformation,or,color cast,esoteric,creative,creativity,mindfulness,scrap,scrapbooking,intuition,visual accents,perspective,free pictures, free photos, free images, royalty free, free illustrations, public domain](https://storage.needpix.com/rsynced_images/dandelion-2817950_1280.jpg)
+```
+![Foto de dientes de león multicolores](/assets/dandelion.jpg)
+*A single track trail outside of Albuquerque, New Mexico.*
+```
 
-No estamos buscando ofrecerte un catálogo más de “consumo de contenido” con *rankings* de mejores y peores. Queremos crear junto contigo una experiencia en la que puedas aprender en comunidad, en libertad, autónomamente, de acuerdo a tu contexto y disponibilidad.
+}No estamos buscando ofrecerte un catálogo más de “consumo de contenido” con *rankings* de mejores y peores. Queremos crear junto contigo una experiencia en la que puedas aprender en comunidad, en libertad, autónomamente, de acuerdo a tu contexto y disponibilidad.
 
 Después podrás continuar tu camino como mejor te parezca, en Laboratoria o donde tú quieras y puedas.
 
