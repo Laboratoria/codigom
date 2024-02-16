@@ -4,12 +4,9 @@
 
 Nuestra filosofía de aprendizaje se basa en el respeto por toda diversidad, por lo que nos proponemos que sea una experiencia inclusiva, sin importar tu edad, tu situación, tu origen ni tu manera de ser y de relacionarte con el mundo, eres bienvenida por ser tú. 
 
-```
-![Foto de dientes de león multicolores](/assets/dandelion.jpg)
-*A single track trail outside of Albuquerque, New Mexico.*
-```
+![](assets/2024-02-16-18-36-43-dandelion.jpg)
 
-}No estamos buscando ofrecerte un catálogo más de “consumo de contenido” con *rankings* de mejores y peores. Queremos crear junto contigo una experiencia en la que puedas aprender en comunidad, en libertad, autónomamente, de acuerdo a tu contexto y disponibilidad.
+No estamos buscando ofrecerte un catálogo más de “consumo de contenido” con *rankings* de mejores y peores. Queremos crear junto contigo una experiencia en la que puedas aprender en comunidad, en libertad, autónomamente, de acuerdo a tu contexto y disponibilidad.
 
 Después podrás continuar tu camino como mejor te parezca, en Laboratoria o donde tú quieras y puedas.
 
