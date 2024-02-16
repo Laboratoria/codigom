@@ -1,7 +1,8 @@
 ## Bienvenida
 
 * [Inicio](README.md)
-* [Sobre el bootcamp de Laboratoria](informacion.md)
+* Prepara tu entorno
+  * [Desarrollo Web](environment_dev.md)
 
 ## Recomendaciones
 
