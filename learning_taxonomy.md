@@ -2,7 +2,7 @@
 
 Antes de continuar, es importante que tengamos un entendimiento compartido sobre el uso de los siguientes conceptos. 
 
-<img src="file:///home/diegovelezg/Documentos/GitHub/codigom/assets/lego_teris.jpg" title="" alt="Create an image with a frontal view that showcases a game of Tetris played with LEGO bricks, where the pieces are depicted falling from top to bottom. The image should capture the LEGO Tetris shapes (such as T, L, square, line, and Z shapes) in vibrant colors, caught in the midst of gameplay. These pieces should be shown in various stages of descent, emphasizing the dynamic aspect of them cascading down. Focus on the LEGO pieces themselves, excluding any game interface elements, and arrange them in a clear, frontal perspective to highlight the strategic placement and movement of the Tetris LEGO blocks. The aspect ratio should be 10:3 to accommodate the vertical nature of the game's progression." data-align="left">
+<img src="/assets/lego_teris.jpg" title="" alt="" data-align="left">
 
 ## Habilidad (H)
 
