@@ -1,5 +1,7 @@
 # Filosofía de aprendizaje
 
+**Tiempo de lectura** :stopwatch:: 2min
+
 ## La única manera de aprender, es hacer lo que no sabes
 
 La filosofía de aprendizaje de Laboratoria se basa en la necesidad de que desarrolles tu habilidad de aprender a aprender como herramienta principal para conseguir un primer empleo como Desarrolladora Web o Diseñadora UX, y que puedas desarrollar una carrera profesional exitosa en una industria en la que todo está en constante cambio y en la que continuar aprendiendo será una necesidad indispensable para adaptarte.

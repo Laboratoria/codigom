@@ -1,8 +1,10 @@
+**Tiempo de lectura** :stopwatch:: 3min
+
 Buscamos construir una comunidad basada en la tolerancia y la igualdad. 
 
-Así como la fe y la religión, la "moral" y las "costumbres" son acuerdos arbitrarios entre grupos de personas, no son verdades universales. Lo que para ti puede ser un lenguaje o comportamiento "grosero", quizás es de uso común/coloquial en otras culturas, países, ciudades, etc.
+Así como la fe y la religión, la "moral" y las "costumbres" son acuerdos arbitrarios entre grupos de personas, no son verdades universales. Lo que para ti puede ser un lenguaje o comportamiento "grosero", quizás es de uso común/coloquial en otras culturas, países, ciudades, etc. y te corresponde respetar.
 
-No obstante, creemos que es necesario definir algunos límites con unas pocas pautas y reglas generales que todas aceptamos voluntariamente.
+No obstante, creemos que es necesario definir algunos límites con una pauta general y reglas de separación del programa que todas aceptamos voluntariamente.
 
 ## Pauta general
 
@@ -14,11 +16,11 @@ No obstante, creemos que es necesario definir algunos límites con unas pocas pa
 
 - No atropelles el derecho de nadie a la privacidad.
   
-  - Si estás en cualquier videollamada, antes de sacar una captura de pantalla y/o grabar para cualquier fin. solicita el consentimiento explícito de todas las personas cuya imagen y/o nombre aparecen en la pantalla. 
+  - Si estás en cualquier plataforma con otras personas, antes de sacar una captura de pantalla y/o grabar para cualquier fin, solicita el consentimiento explícito de aquellas cuya imagen y/o nombre aparecen en la pantalla. 
   
   - Si quieres usar cualquier herramienta de IA de transcripción de conversaciones, etc. Solicita el consentimiento explícito de todas las personas presentes. 
 
-## Razones para tu separación inmediata con cero tolerancia:
+## Separación inmediata con cero tolerancia:
 
 1. Ejercer cualquier tipo de acoso, *bullying* y/o discriminación contra cualquier persona participante en cualquier espacio. 
 
@@ -26,9 +28,9 @@ No obstante, creemos que es necesario definir algunos límites con unas pocas pa
 
 3. Incurrir en una relación física y/o afectiva, casual o permanente, con cualquier persona del equipo de Laboratoria durante tu participación en el programa. Esta situación también tendrá como consecuencia el término de la relación laboral de esa persona con Laboratoria. 
 
-## Razones para una sola advertencia antes de tu separación
+## Dos advertencias antes de tu separación
 
-1. Tratar de manera que le resulte irrespetuosa a una persona y que estatlo manifieste (basta su sola opinión). 
+1. Tratar de manera que le resulte irrespetuosa a una persona y que esta lo manifieste (basta su sola opinión). 
 
 2. Difusión de calumnias (acusaciones falsas) que dañen la reputación de las personas. 
 

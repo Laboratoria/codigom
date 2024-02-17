@@ -14,7 +14,7 @@ Este es nuestro objetivo último, que puedas desarrollar habilidades que te perm
 
 ## Meta de aprendizaje (M)
 
-Podrías imaginarlas como pasos intermedios que te llevaran, poco a poco, a la construcción y desarrollo de la(s) habilidad(es). En nuestra metáfora, podría ser por ejemplo:
+Podrías imaginarlas como pasos intermedios que te llevarán, poco a poco, a la construcción y desarrollo de la(s) habilidad(es). En nuestra metáfora, podría ser por ejemplo:
 
 - Practicar el equilibrio sin pedalear.
 
