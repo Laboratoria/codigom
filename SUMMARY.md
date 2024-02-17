@@ -1,18 +1,16 @@
 ## Inicio
 
 * [Bienvenida](README.md)
-* [Principios de convivencia](rules_conduct.md)
+* [Reglas de convivencia](rules_conduct.md)
 * Prepara tu entorno
   * [Desarrollo Web](environment_dev.md)
   * Diseño de experiencias de usuario
   * Análisis de datos
 
-## Metodología
+## Modelo de aprendizaje
 
-* [Filosofía de aprendizaje](learning_philosophy.md)
-* [Taxonomía](learning_taxonomy.md)
-* [La anatomía de un reto](learning_projectAnatomy.md)
-
-
-
-
+* [Filosofía](learning_philosophy.md)
+* [Habilidades y metas](learning_taxonomy.md)
+* [Anatomía de un reto](learning_projectAnatomy.md)
+* [IA para aprender](learning_ai.md)
+* [Trabajo en equipo](learning_teamwork.md)

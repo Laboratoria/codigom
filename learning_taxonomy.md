@@ -2,7 +2,7 @@
 
 Antes de continuar, es importante que tengamos un entendimiento compartido sobre el uso de los siguientes conceptos. 
 
-<img src="/assets/lego_teris.jpg" title="" alt="" data-align="left">
+![](assets/a097d308964f1d213e348a8cc0706fe5dda2a4f0.jpg)
 
 ## Habilidad (H)
 
