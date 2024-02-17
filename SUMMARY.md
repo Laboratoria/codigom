@@ -6,12 +6,11 @@
   * Diseño de experiencias de usuario
   * Análisis de datos
 
-## Recomendaciones
+## Metodología
 
-* [Busca aprender activamente antes que esperar a que te enseñemos](recomendaciones/aprendizaje.md)
-* [Sé transparente en lugar de intentar parecer la candidata “perfecta”](recomendaciones/transparencia.md)
-* [Intenta aprender a tu ritmo en lugar de entregar más y de cualquier manera](recomendaciones/ritmo.md)
-* [Recomendaciones generales finales](recomendaciones/generales.md)
+* [Filosofía de aprendizaje](learning_philosophy.md)
+* [Taxonomía](learning_taxonomy.md)
+* [La anatomía de un reto](learning_projectAnatomy.md)
 
 ## Información general
 
