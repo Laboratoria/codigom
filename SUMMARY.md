@@ -2,7 +2,7 @@
 
 * [Bienvenida](README.md)
 * [Reglas de convivencia](rules_conduct.md)
-* Prepara tu entorno
+* [Prepara tu entorno](environment_gen.md)
   * [Desarrollo Web](environment_dev.md)
   * Diseño de experiencias de usuario
   * Análisis de datos
