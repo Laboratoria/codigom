@@ -9,6 +9,7 @@
 ## Metodología
 
 * [Filosofía de aprendizaje](learning_philosophy.md)
+* [Principios de convivencia](rules_conduct.md)
 * [Taxonomía](learning_taxonomy.md)
 * [La anatomía de un reto](learning_projectAnatomy.md)
 
