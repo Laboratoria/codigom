@@ -1,16 +1,14 @@
-[Laura Sanchez](mailto:laura.sanchez@laboratoria.la) [Araceli Michelena](mailto:araceli.michelena@laboratoria.la) [Diego Vélez](mailto:diego@laboratoria.la)
+**Tiempo de lectura** :stopwatch:: 12min
 
-Tiempo de lectura aproximado: 12 min
+La mundo profesional al que has decidido acercarte, implica crear/mejorar productos o servicios de gran complejidad en un contexto de innovación constante. Este tipo de trabajos, sea en  Desarrollo Web, Diseño de Experiencias de Usuario o Análisis de Datos, se conocen como trabajos de la era del conocimiento porque, precisamente, implican trabajar con el conocimiento (abstracto) de las personas y no con máquinas o en fábricas. Este tipo de trabajo depende de la altísima interacción entre personas y de su capacidad para adaptarse y colaborar con el fin de lograr objetivos comunes.
 
-La carrera profesional que has elegido implica crear/mejorar productos o servicios de gran complejidad en un contexto de innovación constante. Este tipo de trabajos, sea en  Desarrollo Web, Diseño de Experiencias de Usuario o Análisis de Datos, se conocen como trabajos de la era del conocimiento porque, precisamente, implican trabajar con el conocimiento (abstracto) de las personas y no con máquinas o en fábricas. Este tipo de trabajo depende de la altísima interacción entre personas y de su capacidad para adaptarse y colaborar con el fin de lograr objetivos comunes.
+Si bien esto parece una obviedad, en la práctica muchas veces enfrentamos el trabajo en equipo con ingenuidad y una mentalidad inapropiada que nos produce frustración y esfuerzo desperdiciado. Solemos pensar que trabajar en equipo implica sumar esfuerzos como si las personas fuéramos máquinas. Es típico creer que si agregamos personas a un equipo, el esfuerzo se redistribuye en partes iguales y, por lo tanto, terminaremos el trabajo más pronto y mejor; si lo piensas un poco, es un concepto de eficiencia sumamente “mecánico”. Pensar así implica dejar de lado complejidades de la comunicación entre las personas y los desafíos a los que se enfrentan.  
 
-Si bien esto parece una obviedad, en la práctica muchas veces enfrentamos el trabajo en equipo con ingenuidad y una mentalidad que nos produce solamente frustración y esfuerzo desperdiciado. Solemos pensar que trabajar en equipo implica sumar esfuerzos como si las personas fuéramos máquinas. Es típico creer que si agregamos personas a un equipo, el esfuerzo se redistribuye en partes iguales y, por lo tanto, terminaremos el trabajo más pronto y mejor; si lo piensas un poco, es un concepto de eficiencia sumamente “mecánico”. De la misma manera que regar el doble una planta para que crezca en la mitad del tiempo puede parecernos algo sin sentido, con el trabajo en equipo pasa lo mismo. Pensar así implica dejar de lado complejidades de la comunicación entre las personas y los desafíos a los que se están enfrentando.  
-
-Si prefieres saltar toda la parte más conceptual e ir directo a las recomendaciones, anda a [Mitos sobre el trabajo en equipo](https://docs.google.com/document/d/1A-nfOa31h12CDL5e4Nu7Wn1m472Y0UEZugmvqycjjBY/edit#heading=h.khdi6ohhkop9). De lo contrario, sigue leyendo.
+Si prefieres saltar toda la parte conceptual (y quizás aburrida) e ir directo a las recomendaciones, anda a [Mitos sobre el trabajo en equipo](#mitos-sobre-el-trabajo-en-equipo). De lo contrario, sigue leyendo. 
 
 # La complejidad de la comunicación no es solamente un asunto de la habilidad individual de cada persona
 
-Asumimos que todos los problemas de comunicación tienen que ver con la habilidad de comunicación efectiva de cada persona. Es un sesgo comprensible pero equivocado, porque ignora algo tan elemental como, por ejemplo, la cantidad de canales de comunicación entre las personas y su impacto directo en la complejización del trabajo en equipo. Así, la cantidad de canales de comunicación posibles, como se ve en la figura, aumentan muchísimo mientras más personas sean:
+Asumimos que todos los problemas de comunicación tienen que ver con la habilidad de comunicación efectiva de cada persona. Es un sesgo comprensible pero equivocado porque ignora algo tan elemental como, por ejemplo, la cantidad de canales de comunicación posibles y su impacto directo en la complejización del trabajo en equipo. Así, la cantidad de canales de comunicación posibles, como se ve en la figura, no aumenta de manera lineal mientras más personas sean:
 
 ![pasted image 0.png](https://codahosted.io/docs/UrlCH0OK3j/blobs/bl-Yr2yKQEgxo/88cfaf5bdde596a7bf3611b3be8096dc873e6406d0507939816137d360f0bcdce512a7dd516f25c8915737aa1dcaadc8b3d9e354dae4b2d7d68e5d369089ac4eba4de23de7ddf80112693afd643a5d3bab2114d579126a2a6637356fe20457c48dce5114)
 
@@ -18,37 +16,37 @@ Asumimos que todos los problemas de comunicación tienen que ver con la habilida
 
 Cantidad de canales de comunicación posibles = N * (N-1) / 2 donde N es la cantidad de personas.
 
-Es obvia la cantidad de cosas que pueden salir mal en la comunicación de equipos grandes, ¿verdad?. Esta es la principal razón por la que, por ejemplo, muchas veces se prefieren equipos de trabajo multidisciplinarios de no más de 7 personas. Es también la razón por la que en el bootcamp intentamos mantener los equipos de trabajo relativamente pequeños. Así puedes  desarrollar habilidades y experiencia, pero sin complejizar tanto tu proceso como para que interfiera con el aprendizaje efectivo. Buscamos un equilibrio razonable.
+Es obvia la cantidad de cosas que pueden salir mal en la comunicación de equipos grandes, ¿verdad?. Esta es la principal razón por la que muchas veces se prefieren equipos de trabajo multidisciplinarios de no más de 5-7 personas. Es también la razón por la que te recomendamos procurar grupos de colaboración-trabajo relativamente pequeños. Así puedes  desarrollar habilidades y experiencia, pero sin complejizar excesivamente tu proceso  de aprendizaje efectivo. Busca un equilibrio razonable.
 
 # La interpretación de la “única realidad”
 
-Los seres humanos tenemos la impresión de que la realidad es una sola, de que nuestro cerebro es infalible en la interpretación de la misma y, por lo tanto, estar de acuerdo es algo que no debería requerir demasiado esfuerzo. Esto está impulsado por ese mismo pensamiento de la búsqueda de una supuesta “eficiencia” pero es absurdo y sobresimplifica todo artificialmente. Veamos algunas ideas importantes al respecto..
+Los seres humanos tenemos la impresión de que la realidad es una sola, de que nuestro cerebro es infalible en la interpretación de la misma y, por lo tanto, estar de acuerdo es algo que no debería requerir demasiado esfuerzo. Esto está impulsado por ese mismo pensamiento que busca una supuesta “eficiencia”, pero es absurdo y sobresimplifica todo artificialmente. Veamos algunas ideas importantes al respecto..
 
 ## Diversidad cultural
 
-Si piensas en el agua congelada que cae en invierno, seguramente tengas una que otra palabra para referirte a eso, como por ejemplo nieve o granizo. Pero si conversas con algunas personas de Finlandia, te sorprendería saber que tienen decenas de palabras para referirse a eso mismo para lo que tú solamente tienes 2 o 3 palabras. Entonces, los aspectos culturales determinan muchas veces cómo interpretamos la realidad y cómo interactuamos.
+Si piensas en el agua congelada que cae en invierno, seguramente tengas una que otra palabra para referirte a eso, como por ejemplo "nieve"" o "granizo". Pero si conversas con algunas personas de Finlandia, te sorprendería saber que tienen decenas de palabras para referirse a eso mismo para lo que tú solamente tienes 2 o 3 palabras. Entonces, los aspectos culturales determinan muchas veces cómo interpretamos la realidad y cómo interactuamos.
 
-En el contexto del trabajo en equipo, las diferencias culturales pueden evidenciarse en los valores, las creencias, la comunicación y las actitudes que asumimos. Y ninguna está necesariamente “bien” o “mal”.
+Las diferencias culturales pueden evidenciarse en los valores, las creencias, la comunicación y las actitudes que asumimos. Ninguna está necesariamente “bien” o “mal”, depende.
 
-Por ejemplo, en algunas culturas se valora mucho la cohesión del grupo y se busca preservar esto, mientras que en otras encontramos mayor tendencia al individualismo y a la competencia. Esto puede influir en cómo se aborda el concepto de trabajo en equipo, facilitando o dificultando la colaboración. En algunas culturas las personas tienden a comunicarse de forma muy directa, expresando abiertamente sus opiniones; en otras el intento de preservar la cohesión conlleva a una comunicación más indirecta y reservada. Este choque en formas de comunicación, si no es reconocido y abordado, puede llevar a malos entendidos o dificultades en la colaboración.
+Por ejemplo, en algunas culturas se valora mucho la cohesión del grupo y se busca su preservación, mientras que en otras encontramos una mayor tendencia al individualismo y a la competencia. Esto puede influir en cómo se aborda de trabajo en equipo y la colaboración. En algunas culturas las personas tienden a comunicarse de forma muy directa, expresando abiertamente sus opiniones y discrepancias; en otras el intento de preservar la cohesión conlleva a una comunicación más indirecta y reservada. Este choque en formas de comunicación, si no es reconocido explícitamente, puede llevar a malos entendidos o dificultades.
 
 ## Diversidad neurocognitiva y diversidad de soluciones
 
 La infinita variación en el funcionamiento neurocognitivo dentro de nuestra especie da lugar a infinitas maneras de percibir e interpretar la realidad y, por lo tanto, muchísimas distintas perspectivas para entender, enfrentar y resolver los problemas.
 
-Tendemos a pensar que hay una única forma de hacer “bien” las cosas y que el objetivo de un equipo de trabajo es encontrarla. Sin embargo, en la práctica te darás cuenta de que frente a un mismo problema o desafío surgirán más soluciones posibles que personas involucradas en el proceso. Casi nunca hay una única respuesta o una sola manera de hacer las cosas, y tampoco se pueden intentar absolutamente todas las opciones - sería un desgaste de tiempo innecesario. Hay que decidirse por una o por algunas y, por lo tanto, descartar las demás. Lo importante es tener la apertura inicial para considerar muchas alternativas posibles más allá de nuestras creencias personales. Si todas piensan en una misma solución, sospecha.
+Tendemos a pensar que hay una única forma de hacer “bien” las cosas y que el objetivo de un equipo de trabajo es encontrarla. Sin embargo, en la práctica te darás cuenta de que frente a un mismo problema o desafío surgirán más soluciones posibles que personas involucradas en el proceso. Casi nunca hay una única respuesta o una sola manera de hacer las cosas, y tampoco se pueden intentar absolutamente todas las opciones - sería un desgaste de tiempo innecesario. Hay que decidirse por una o por algunas y, por lo tanto, descartar las demás. Lo importante es tener la apertura inicial para considerar muchas alternativas posibles más allá de nuestras creencias personales. Si todas piensan en una misma y única solución, preocúpate.
 
 ## Sesgos cognitivos
 
-Los sesgos cognitivos son tendencias involuntarias a cometer errores o fallos a la hora de interpretar la realidad. Esos errores, a su vez, influyen en cómo actuamos o en las decisiones que tomamos. “La realidad” es un conjunto de información demasiado grande para tu cerebro, y en la vida “cotidiana” debes actuar rápido, por lo que tu cerebro prefiere depender de un conjunto limitado de información conocida. Desde un punto de vista evolutivo, estos sesgos son una manera eficiente de evitar pensar demasiado (gastar demasiada energía) para tomar una decisión. Se basan en usar tus experiencias pasadas mucho más que la evidencia y la razón o la lógica.
+Los sesgos cognitivos son tendencias involuntarias a cometer errores o fallos a la hora de interpretar la realidad. Esos errores, a su vez, influyen en cómo actuamos y en las decisiones que tomamos. “La realidad” es un conjunto de información demasiado grande para tu cerebro, y en la vida “cotidiana” debes actuar rápido, por lo que tu cerebro prefiere depender de un conjunto limitado de información conocida. Desde un punto de vista evolutivo, estos sesgos son una manera eficiente de evitar pensar demasiado (gastar demasiada energía) para tomar una decisión. Se basan en usar tus experiencias pasadas mucho más que la evidencia y la razón o la lógica.
 
-Si bien estos sesgos realmente nos permiten, en términos generales, sobrevivir; pueden ser un obstáculo cuando nos enfrentamos a tareas o situaciones nuevas, complejas o a trabajar con personas que tienen interpretaciones de la realidad diferentes a la nuestra.
+Si bien muchos de estos sesgos nos permiten, en términos generales, sobrevivir; pueden ser un obstáculo cuando nos enfrentamos a situaciones inciertas y complejas.
 
-Queremos darte algunos ejemplos para que comprendas a qué nos referimos cuando decimos que pueden ser obstáculos:
+Queremos darte algunos ejemplos concretos para explicar mejor a qué nos referimos cuando decimos que pueden ser obstáculos:
 
 ### Sesgo de disponibilidad heurística
 
-Es un atajo mental que otorga más valor y credibilidad a la información que tienes disponible y que es más fácil de recordar. Por ejemplo, durante tus experiencias de aprendizaje pasadas obtuviste buenas calificaciones al memorizar contenido, y al presentar a tiempo trabajos en grupo en los que se dividieron por partes y luego unieron todo. Tal vez tu mente asocie que esta forma de trabajo (la que conoces) es la mejor y más efectiva. Probar nuevas estrategias o métodos te causará incomodidad y tal vez requiere un mayor y más consciente esfuerzo, pero podría ser mucho más efectivo.
+Es un atajo mental que otorga más valor y credibilidad solamente a la información que tienes disponible y que es más fácil de recordar. Por ejemplo, durante tus experiencias de aprendizaje pasadas obtuviste buenas calificaciones al memorizar contenido, y al presentar a tiempo trabajos en grupo en los que se dividieron por partes y luego unieron todo a último momento. Tu mente puede "decirte" que esta forma de trabajo (la que conoces) es la mejor y más efectiva. Probar nuevas estrategias o métodos te causará incomodidad y tal vez requiere un mayor y más consciente esfuerzo, pero podría ser mucho más efectivo.
 
 ### Sesgo de confirmación
 
@@ -60,29 +58,29 @@ Es posible que por las experiencias o creencias previas al bootcamp ya existan e
 
 ## ⛔ Mito 1: Vamos a ser amigas y llevarnos de maravilla.
 
-En el bootcamp tu objetivo es aprender. Si bien esperamos que forjes relaciones con tus compañeras, no es un requisito para tener un trabajo en equipo profesional, satisfactorio y productivo. De la misma forma, el hecho de que lleves una muy buena relación e incluso tengas una amistad con tus compañeras de equipo, no es necesariamente una señal ni garantía de que el trabajo en equipo esté funcionando y aportando al aprendizaje de todas.
+Tu objetivo es aprender. Si bien esperamos que forjes relaciones sanas con tus compañeras, no es un requisito para tener un trabajo en equipo profesional, satisfactorio y productivo. De la misma forma, el hecho de que lleves una muy buena relación e incluso tengas una amistad ciertas compañeras, no es necesariamente una señal ni garantía de que el trabajo en equipo esté funcionando y aportando al aprendizaje de todas las involucradas.
 
 ## ⛔ Mito 2: Trabajar en equipo implica siempre llegar a una solución que guste a todas.
 
-Elegir implica descartar alternativas, y para eso es indispensable que alguien ceda en su posición. Te recomendamos que el análisis para tomar la decisión se haga de la manera más lógica y racional posible, dejando fuera las preferencias arbitrarias o basadas simplemente en “opiniones”. El simple hecho de pensar, considerar, discutir y comparar distintas alternativas ya es un gran aporte en términos de aprendizaje.
+Elegir implica, necesariamente, descartar alternativas. Para eso es indispensable que alguien ceda en su posición. Te recomendamos que el análisis para tomar la decisión se haga de la manera más lógica y racional posible, dejando fuera las preferencias arbitrarias o basadas simplemente en “opiniones”. El simple hecho de pensar, considerar, discutir y comparar distintas alternativas ya es un gran aporte en términos de aprendizaje.
 
 ## ⛔ Mito 3: Trabajar en equipo implica estar siempre disponibles para las demás.
 
-Está muy arraigada la dañina idea de que hay que esforzarse hasta el agotamiento y la enfermedad para “progresar”. No todas tenemos la misma energía, ni las mismas responsabilidades, ni los mismos horarios o disponibilidad, etc. y eso no está “mal”. Se trata de lograr formas de trabajar incluso con esas diferencias, y respetando el espacio y descanso que sea indispensable para cada quien.
+Está muy arraigada la dañina idea de que hay que esforzarse hasta el agotamiento y la enfermedad para “progresar”. No todas tenemos la misma energía, ni las mismas responsabilidades, ni los mismos horarios o disponibilidad, etc. y eso no está “mal”. Se trata de conseguir trabajar incluso con esas diferencias, y respetando el espacio y descanso que sea indispensable para cada quien.
 
 ## ⛔ Mito 4: Necesitamos “confianza” para hablar de los temas difíciles.
 
-Hablar de asuntos “difíciles” es incómodo independientemente del tipo de relación que tengas con las personas. Plantea los problemas oportunamente, sin temor, de forma directa y racional, evita que parezca un asunto personal, enfócate en el problema y no en las personas. Sé honesta, pero también amable. Esas conversaciones “difíciles” son un paso importante para construir confianza, no necesariamente al revés. Al inicio puede ser incómodo tener esas conversaciones pero mientras más avance el tiempo, las situaciones sencillas pueden producir el efecto de “bola de nieve” y generar nuevos problemas que eran solucionables desde el inicio.
+Hablar de asuntos “difíciles” es incómodo independientemente del tipo de relación que tengas con las personas. Plantea los problemas oportunamente, sin temor, de forma directa y racional, evita que parezca un asunto personal, enfócate en el problema y no en las personas. Sé honesta, pero también amable. Esas conversaciones “difíciles” son un paso importante para construir confianza. Mientras más avance el tiempo sin abordar los problemas,, las situaciones sencillas pueden producir el efecto de “bola de nieve”.
 
-## ⛔ Mito 5: Tener dificultades es el resultado de ser “incompetentes” o  tener “problemas de life skills” y significa un fracaso que es mejor ocultar.
+## ⛔ Mito 5: Tener dificultades es el resultado de ser “incompetentes”.
 
-Ya sabemos que es esperable y frecuente que un equipo de trabajo enfrente dificultades de todo tipo. No tiene sentido que te esfuerces en ocultarlo para no tener que conversarlo o pedir guía al equipo del bootcamp. Esta es una de esas clásicas situaciones en las que te diríamos que si ya supieras desenvolverte en este tipo de trabajos no tendrías por qué estar en el bootcamp. Entendemos que estás aquí para aprender. Entre más pronto abordes los problemas, más pronto podrás identificar posibles soluciones.  
+Esta es una de esas clásicas situaciones en las que te diríamos que si ya supieras desenvolverte en este tipo de trabajos no tendrías por qué estar aquí. Entendemos que vienes para aprender. Entre más pronto cuestiones tus creencias, más pronto aprenderás.
 
-## ⛔ Mito 6: Divide y reinarás
+## ⛔ Mito 6: Divide y vencerás
 
-Es probable que por creencias o experiencias pasadas tiendas a pensar que, para avanzar más rápido, la mejor opción es dividir el proyecto en partes que después se unirán. El resultado de esto podría ser un frankestein que al unirse no funcione o no tenga sentido, además de un aprendizaje en el que cada una aprendió solamente de la parte que hizo. La división por tareas es una estrategia perfecta para el trabajo industrial, donde las personas deben hacer tareas repetitivas y priorizar los tiempos de producción por sobre la creatividad y la posibilidad de las personas de ideas soluciones en conjunto. En la industria digital y por ende en el bootcamp priorizaremos el trabajo colaborativo, la ideación y la resolución de problemas en conjunto con tus compañeras. Es importante que encuentres un balance entre la colaboración en la “solución general” y las responsabilidades individuales.
+De esto hablamos brevemente antes. El resultado de dividir el trabajo como si de una fábrica de ladrillos se tratase, puede ser un Frankestein pegoteado que no significó aprendizaje para ninguna de las involucradas. Es importante que encuentres un balance entre la colaboración en la “solución general” y las responsabilidades individuales.
 
-# Principios para el trabajo en equipo en el bootcamp de <L>
+# Principios para el trabajo en equipo en Laboratoria
 
 - Aprendizaje y profesionalismo por sobre la amistad.
 - Respeto a la diversidad por sobre el pensamiento único o normativo.

@@ -1,20 +1,22 @@
-**Tiempo de lectura** :stopwatch:: 3min
+**Tiempo de lectura** :stopwatch:: 5min
 
 Buscamos construir una comunidad basada en la tolerancia y la igualdad. 
 
-Así como la fe y la religión, la "moral" y las "costumbres" son acuerdos arbitrarios entre grupos de personas, no son verdades universales. Lo que para ti puede ser un lenguaje o comportamiento "grosero", quizás es de uso común/coloquial en otras culturas, países, ciudades, etc. y te corresponde respetar.
+Así como la fe y la religión, la "moral" y las "costumbres" son acuerdos arbitrarios entre grupos de personas, no son verdades universales. Lo que para ti puede ser un lenguaje o comportamiento "grosero", quizás es de uso común/coloquial en otras culturas, países, ciudades, etc. ,y te corresponde respetar.
 
-No obstante, creemos que es necesario definir algunos límites con una pauta general y reglas de separación del programa que todas aceptamos voluntariamente.
+No obstante, e independientemente de esas consideraciones, nos parece necesario definir límites para nuestro comportamiento, que todas aceptamos voluntariamente, con una pauta general y reglas de separación del programa.
 
 ## Pauta general
 
 - Presume siempre buenas intenciones. 
 
-- Trata a todas las personas con respeto e igualdad, más allá de las formas. 
+- Haz siempre todo lo posible por cumplir con tus compromisos.
+
+- Trata a todas las personas con respeto e igualdad, más allá de las formalidades. 
 
 - Respeta las decisiones individuales de cada persona aunque no estés de acuerdo. Somos todas adultas y cada quien hace su vida como mejor le parece.
 
-- No atropelles el derecho de nadie a la privacidad.
+- No atropelles el derecho de nadie a su privacidad.
   
   - Si estás en cualquier plataforma con otras personas, antes de sacar una captura de pantalla y/o grabar para cualquier fin, solicita el consentimiento explícito de aquellas cuya imagen y/o nombre aparecen en la pantalla. 
   

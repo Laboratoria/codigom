@@ -1,4 +1,4 @@
-# Taxonomía
+# Habilidades y Metas de Aprendizaje
 
 Antes de continuar, es importante que tengamos un entendimiento compartido sobre el uso de los siguientes conceptos. 
 
@@ -23,3 +23,5 @@ Podrías imaginarlas como pasos intermedios que te llevarán, poco a poco, a la 
 - Pedalear en línea recta solamente.
 
 - etc.
+
+Inicialmente, son estas metas de aprendizaje (M) las que abordaremos una a una en distintos retos prácticos que tendrás que completar.
