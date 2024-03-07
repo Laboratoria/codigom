@@ -2,7 +2,7 @@
 
 Antes de continuar, es importante que tengamos un entendimiento compartido sobre el uso de los siguientes conceptos. 
 
-![](assets/a097d308964f1d213e348a8cc0706fe5dda2a4f0.jpg)
+![](../assets/2024-03-07-18-23-41-a097d308964f1d213e348a8cc0706fe5dda2a4f0.jpg)
 
 ## Habilidad (H)
 
