@@ -9,7 +9,7 @@
 * [IA como herramienta de aprendizaje](curriculum_model/learning_model_ai.md)
 
 ## Habilidades transversales o _life skills_
-* [Autoconocimiento](curriculum_lif/learning_lif_selfAwareness.md)
+* [Autoconocimiento](curriculum_lif/learning_lif_selfawareness.md)
 * [Trabajo en equipo](curriculum_lif/learning_lif_teamwork.md)
 
 ## Desarrollo Web
