@@ -8,9 +8,9 @@
 * [El mito de los promedios](curriculum_model/learning_model_average.md)
 * [IA como herramienta de aprendizaje](curriculum_model/learning_model_ai.md)
 
-  ## Habilidades transversales o _life skills_
-* [HTML](curriculum_lif/learning_lif_selfAwareness.md)
-* [HTML](curriculum_lif/learning_lif_teamwork.md)
+## Habilidades transversales o _life skills_
+* [Autoconocimiento](curriculum_lif/learning_lif_selfAwareness.md)
+* [Trabajo en equipo](curriculum_lif/learning_lif_teamwork.md)
 
 ## Desarrollo Web
 * [HTML](curriculum_dev/html.md)
