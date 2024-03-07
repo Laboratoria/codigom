@@ -1,4 +1,4 @@
-## HTML: HyperText Markup Language
+# HTML: HyperText Markup Language
 
 HTML (*HyperText Markup Language)* o Lenguaje de Marcado de Hipertexto es el lenguaje utilizado para crear la estructura de una página web. Los archivos que contienen HTML, se guardan con la extensión .HTML. Es algo el equivalente a crear documentos con formato Word, Excel , etc.
 

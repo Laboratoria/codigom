@@ -1,12 +1,12 @@
-Úsalas a tu favor (para aprender realmente) y no en tu contra (para tener la ilusión del aprendizaje solamente).
+# IA como poderosa herramienta de aprendizaje
 
-# La inútil resistencia al cambio ante la invasión de las IAs o “instantáneas” 🍜
+Úsalas a tu favor (para aprender realmente) y no en tu contra (para tener la ilusión del aprendizaje solamente).
 
 Con la avalancha de herramientas de IA “listas para usar en el navegador”, se ha generado una discusión sobre su uso en la educación. Una buena parte de la discusión está referida a la necesidad por controlar y resistir el inevitable cambio. Hay miles de *posts* y noticias sobre intentos desesperados por definir políticas y reglas para un uso “correcto” de la IAs. Detectar y castigar el “plagio” se ha convertido en uno  de los ejes centrales de la discusión.
 
 Esto es fácil de comprender desde el punto de vista de la educación tradicional en la que la responsabilidad de lograr, medir y “acreditar” el aprendizaje recae principalmente en lxs profesorxs; todo encaja cuando el aprendizaje se entiende como una mercancía que se debe “entregar satisfactoriamente” a quien aprende. No necesariamente ocurre lo mismo si abordamos el asunto desde una propuesta de aprendizaje auto-dirigida diseñada para adultas responsables.
 
-# Una oportunidad
+## Una oportunidad
 
 En un modelo de aprendizaje auto-dirigido que busca el desarrollo de habilidades transversales como aprender a aprender, pensamiento crítico y solución de problemas, la llegada de estas herramientas significa una enorme oportunidad para liberar y energizar la confianza y autonomía necesarias para aprender.
 
