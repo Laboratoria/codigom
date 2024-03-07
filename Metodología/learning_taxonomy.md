@@ -1,4 +1,4 @@
-# Habilidades y Metas de Aprendizaje
+# 4. Habilidades y Metas de Aprendizaje
 
 Antes de continuar, es importante que tengamos un entendimiento compartido sobre el uso de los siguientes conceptos. 
 

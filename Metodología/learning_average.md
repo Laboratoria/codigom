@@ -1,4 +1,4 @@
-# El mito de los promedios
+# 3. El mito de los promedios
 
 Hace algunos años trabajábamos intensamente por darle forma y estructura al nuevo modelo de aprendizaje de Laboratoira. Descubrir el trabajo de Todd Rose significó un vendaval de aire fresco, habíamos encontrado alguien que nos hablaba directo al corazón por cómo entendíamos el aprendizaje.
 

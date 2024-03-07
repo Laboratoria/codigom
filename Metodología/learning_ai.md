@@ -1,4 +1,4 @@
-# IA como poderosa herramienta de aprendizaje
+# 5. IA como herramienta de aprendizaje
 
 Úsalas a tu favor (para aprender realmente) y no en tu contra (para tener sólo la ilusión del aprendizaje).
 

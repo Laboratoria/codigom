@@ -1,4 +1,4 @@
-# La transformación del trabajo y las oportunidades
+# 1. La transformación del trabajo y las oportunidades
 
 **Tiempo de lectura** :stopwatch:: 10min
 
