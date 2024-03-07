@@ -2,8 +2,6 @@
 
 **Tiempo de lectura** :stopwatch:: 12min
 
-## Introducción
-
 Todo el trabajo de la industria digital, implica crear y mejorar productos o servicios de alta complejidad en un contexto de innovación constante. Este tipo de trabajos, sea en Desarrollo Web, Diseño de Experiencias de Usuario o Análisis de Datos, se conocen como trabajos de la era del conocimiento porque, precisamente, implican trabajar con el conocimiento (abstracto) y las habilidades de las personas y no con máquinas o en fábricas. Este tipo de trabajo depende de la interacción entre personas y de su capacidad para adaptarse y colaborar con el fin de lograr objetivos comunes.
 
 Si bien esto parece una obviedad, en la práctica muchas veces enfrentamos el trabajo en equipo con ingenuidad y una mentalidad inapropiada que nos produce frustración y esfuerzo desperdiciado. Solemos pensar que trabajar en equipo implica sumar esfuerzos como si las personas fuéramos máquinas. Es típico creer que si agregamos personas a un equipo, el esfuerzo se redistribuye en partes iguales y, por lo tanto, terminaremos el trabajo más pronto y mejor; si lo piensas un poco, es un concepto de eficiencia sumamente “mecánico”. Pensar así implica dejar de lado complejidades de la comunicación entre las personas y los desafíos a los que se enfrentan.  
