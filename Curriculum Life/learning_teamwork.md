@@ -92,4 +92,6 @@ De esto hablamos brevemente antes. El resultado de dividir el trabajo como si de
 
 ---
 
-# 
+:seedling: "Pensar rápido, pensar despacio" es un libro de Daniel Kahneman, ganador del Premio Nobel, que explora los dos sistemas que moldean nuestro pensamiento: el Sistema 1, rápido, intuitivo y emocional, y el Sistema 2, más lento, deliberativo y lógico. Kahneman desentraña cómo estas dos formas de pensar influyen en nuestras decisiones y nuestro juicio, a menudo de maneras que nos predisponen a errores y sesgos cognitivos. El libro ofrece una mirada profunda a cómo operamos mentalmente, revelando que aunque creemos que nuestras decisiones son racionales, a menudo están mucho más influenciadas por emociones y heurísticas automáticas de lo que pensamos. 
+
+---
