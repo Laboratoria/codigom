@@ -1,4 +1,4 @@
-# 1. La transformación del trabajo y las oportunidades
+# La transformación del trabajo y las oportunidades
 
 **Tiempo de lectura** :stopwatch:: 10min
 
@@ -16,7 +16,7 @@ La educación “industrial” del sXX funcionó muy bien para proveer de “fue
 
 Este nuevo paradigma ha incrementado la demanda de habilidades como el pensamiento crítico, la resolución de problemas complejos y la adaptabilidad. Es por eso que la filosofía de aprendizaje de Laboratoria se basa en la necesidad de que desarrolles ese tipo de habilidades, con especial énfasis en tu habilidad de aprender a aprender como herramienta principal para desempeñarte en cualquier empleo presente y futuro porque todo estará en constante cambio y transformación.
 
-### Para profesiones especializadas
+### Para carreras especializadas
 
 Bien sea que te quieras dedicar enteramente al **desarrollo web**, al **análisis de datos** o al **diseño de experiencias de usuario**, vas a necesitar estas habilidades para poder trabajar efectivamente y para seguir aprendiendo de manera permanente si es que quieres mantener tu empleo. Una simple búsqueda en Google sobre la importancia del aprendizaje continuo y las habilidades transversales o del sXXI te darán cualquier claridad que te falte. Esto no es un asunto de opiniones, son realidades concretas y tangibles.
 

@@ -1,4 +1,4 @@
-# 2. Metodología de aprendizaje
+# Filosofía de aprendizaje
 
 **Tiempo de lectura** :stopwatch:: 10min
 
