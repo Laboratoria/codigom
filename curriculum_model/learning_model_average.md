@@ -1,5 +1,7 @@
 # El mito de los promedios
 
+**Tiempo :stopwatch: :** 25min
+
 Hace algunos años trabajábamos intensamente por darle forma y estructura al nuevo modelo de aprendizaje de Laboratoira. Descubrir el trabajo de Todd Rose significó un vendaval de aire fresco, habíamos encontrado alguien que nos hablaba directo al corazón por cómo entendíamos el aprendizaje.
 
 Rose es un académico y autor innovador en el campo de la educación. Fue director del Laboratorio de Ciencias de la Individualidad en la Escuela de Educación de Harvard. Su investigación se centra en el desarrollo de métodos educativos que honran la individualidad y promueven el éxito de cada estudiante.

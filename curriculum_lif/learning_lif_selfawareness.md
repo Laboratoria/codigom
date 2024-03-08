@@ -1,6 +1,6 @@
 # Autoconocimiento
 
-**Tiempo de lectura** :stopwatch:: 5min
+**Tiempo :stopwatch: :** 5min
 
 ## Introducción
 

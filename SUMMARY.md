@@ -1,7 +1,9 @@
 # Table of contents
+
 * [Inicio](README.md)
 
 ## Metodología de aprendizaje
+
 * [La transformación del trabajo y las oportunidades](curriculum_model/learning_model_work.md)
 * [Filosofía de aprendizaje](curriculum_model/learning_model_philosophy.md)
 * [Habilidades y Metas de Aprendizaje](curriculum_model/learning_model_taxonomy.md)
@@ -9,11 +11,10 @@
 * [IA como herramienta de aprendizaje](curriculum_model/learning_model_ai.md)
 
 ## Habilidades transversales o _life skills_
+
 * [Autoconocimiento](curriculum_lif/learning_lif_selfawareness.md)
 * [Trabajo en equipo](curriculum_lif/learning_lif_teamwork.md)
 
 ## Desarrollo Web
+
 * [HTML](curriculum_dev/html.md)
-
-
-

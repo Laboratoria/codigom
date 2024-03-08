@@ -1,5 +1,7 @@
 # IA como herramienta de aprendizaje
 
+**Tiempo :stopwatch: :** 10min
+
 Úsalas a tu favor (para aprender realmente) y no en tu contra (para tener sólo la ilusión del aprendizaje).
 
 Con la avalancha de herramientas de IA “listas para usar en el navegador”, se ha generado una discusión sobre su uso en la educación. Hay miles de *posts* y noticias sobre intentos desesperados por definir políticas y reglas para un uso “correcto” de la IAs. Detectar y castigar el “plagio” se ha convertido en uno  de los ejes centrales de la discusión.
