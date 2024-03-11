@@ -1,10 +1,12 @@
 # HTML: HyperText Markup Language
 
+> **Tip**: la mejor manera de aprender conceptos que son tan nuevos y abstractos es ponerlos a prueba y observar el resultado. En lugar de ponerte a leer toooooooodo, tratando de entender y memorizar (cosa que no deberías ni intentar), lee algo y ve a probar para que veas cómo funciona realmente más allá de las palabras de un texto.
+
 HTML (*HyperText Markup Language)* o Lenguaje de Marcado de Hipertexto es el lenguaje utilizado para crear la estructura de una página web. Los archivos que contienen HTML, se guardan con la extensión .HTML. Es algo el equivalente a crear documentos con formato Word, Excel , etc.
 
 Un documento HTML simple se ve así "por dentro":
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -41,7 +43,7 @@ Si te equivocas de símbolos u omites ponerlos como se espera, el navegador "int
 
 Un elemento puede otros elementos o etiquetas HTML. Esto se llama *anidamiento*.
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -73,7 +75,7 @@ Puedes complementar revisando [este enlace]([Referencia de Elementos HTML - HTML
 
 Por ejemplo, [el elemento `<img>` para agregar una imagen a tu página](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/img) y habrás notado que no tiene una etiqueta de cierre y, por lo tanto, no tiene "contenido":
 
-```
+```html
 <img src="https://es.wikipedia.org/static/images/icons/wikipedia.png">
 ```
 
@@ -85,7 +87,7 @@ Agregar comentarios a tu código HTML puede ser de gran utilidad. Es como dejar 
 
 Para definir un comentario en HTML, usamos las etiquetas `<!--` para arbrir el comentario y `-->` para cerrarlo.
 
-```
+```html
 <!-- Esto es un comentario. No se verá en la web, pero sí en mi código. -->
 ```
 
@@ -93,7 +95,7 @@ Para definir un comentario en HTML, usamos las etiquetas `<!--` para arbrir el
 
 Los atributos proveen información adicional sobre el contenido de un elemento que no se quiere que aparezca en el contenido que ve el usuario. En algunos casos agregan características y/o comportamiento a tu elemento HTML. Los atributos aparecen en la **etiqueta de apertura** del elemento y consisten de dos partes: un nombre y un valor, separados por un signo de igual (`=`).
 
-```
+```html
 <a href="http://laboratoria.la/" target="_blank" title="Página de inicio de Laboratoria">Ir a Laboratoria</a>
 ```
 
