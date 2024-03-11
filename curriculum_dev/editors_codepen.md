@@ -14,7 +14,7 @@ Para lAs principiantes, comenzar con herramientas innecesariamente complejas pue
 
 Anda al sitio de [CodePen](https://codepen.io/) y crea tu cuenta. A Muchas veces es útil crear con tu cuenta de Google (por ejemplo).
 
-![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-44-08-codePen_01.png)
+![](../assets/2024-03-11-14-44-08-codePen_01.png)
 
 ### Crea tu primer "Pen"
 
