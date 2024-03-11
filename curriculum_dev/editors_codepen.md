@@ -14,7 +14,7 @@ Para lAs principiantes, comenzar con herramientas innecesariamente complejas pue
 
 Anda al sitio de [CodePen](https://codepen.io/) y crea tu cuenta. A Muchas veces es útil crear con tu cuenta de Google (por ejemplo).
 
-![](assets/2024-03-11-14-44-08-codePen_01.png)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-44-08-codePen_01.png)
 
 ### Crea tu primer "Pen"
 
@@ -22,46 +22,46 @@ En CodePen, se le llaman "Pen" a un proyecto individual que consta de HTML, CSS,
 
 Cuando estés lista para comenzar a "codear", crea tu primer "Pen" 
 
-![](assets/2024-03-11-14-45-32-codePen_03.png)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-45-32-codePen_03.png)
 
 ## Tu primer Pen
 
 Así se verá tu primer "proyecto" completamente en blanco.
 
-![](assets/2024-03-11-14-53-55-codePen_04.png)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-53-55-codePen_04.png)
 
 Ponle un nombre para que te sea fácil identificar qué harás acá.
 
-![](assets/2024-03-11-14-54-34-codePen_05.png)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-54-34-codePen_05.png)
 
 ### HTML
 
 Este espacio es donde escribirás tu código HTML
 
-![](assets/2024-03-11-14-54-51-codePen_06.png)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-54-51-codePen_06.png)
 
 ### CSS
 
 Y acá escribirás tu código CSS.
 
-![](assets/2024-03-11-14-55-26-codePen_07.png)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-55-26-codePen_07.png)
 
 ### Guarda tu primer "Pen"
 
-![](assets/2024-03-11-14-55-59-codePen_08.png)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-55-59-codePen_08.png)
 
 ### Todos tus "Pens"
 
 A partir de ahora, acá encontrarás todos los "Pens" que hayas creado.
 
-![](assets/2024-03-11-14-56-27-codePen_09.png)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-56-27-codePen_09.png)
 
 ### Comparte tu trabajo
 
 Cuando quieras compartir tu trabajo para mostrar el resultado o pedir comentarios/ayuda de alguna compañera, debes obtener el enlace/*link* al "Pen"
 
-![](assets/2024-03-11-14-57-03-codePen_10.png)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-57-03-codePen_10.png)
 
-![](assets/2024-03-11-14-57-10-codePen_11.png)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/2024-03-11-14-57-10-codePen_11.png)
 
 ¡Listo!
