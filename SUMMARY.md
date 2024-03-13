@@ -22,3 +22,5 @@
 * [HTML Semántico](curriculum_dev/html_semantic.md)
 * [HTML Formularios](curriculum_dev/html_forms.md)
 * [CSS](curriculum_dev/css.md)
+
+---
