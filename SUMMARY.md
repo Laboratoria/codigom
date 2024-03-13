@@ -20,4 +20,5 @@
 * [CodePen](curriculum_dev/editors_codepen.md)
 * [HTML](curriculum_dev/html.md)
 * [HTML Semántico](curriculum_dev/html_semantic.md)
+* [HTML Formularios](curriculum_dev/html_forms.md)
 * [CSS](curriculum_dev/css.md)
