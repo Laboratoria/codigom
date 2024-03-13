@@ -83,13 +83,15 @@ h1 {
 }
 ```
 
+> **Nota**: si estás trabajando en CodePen, el enlace se hace "automágicamente". Sin embargo, es importante que sepas cómo funciona realmente "por detrás" para que lo puedas hacer cuando uses otros [editores de código](editors_codepen.md).
+
 La etiqueta `<link>` cuenta con el atributo `rel` para indicar la relación del documento enlazado con el actual. El uso más común para este atributo es especificar el enlace a una hoja de estilos externa: el atributo `rel` se establece con valor `stylesheet`. El atributo `href` se establece con la ruta a la hoja de estilos externa para dar formato a la página. En el ejemplo anterior, dado que el archivo a linkear se encuentra en nuestro propio ambiente, simplemente le ponemos el nombre del archivo: `style.css`.
 
 ## Sintaxis CSS
 
-Así como en cualquier idioma la sintaxis se refiera a la parte de la gramática que estudia el modo en que se combinan las palabras y los grupos de palabras para expresar significados, sucede lo mismo en los lenguajes (idiomas) que usamos para indicarle al navegador lo que debe mostrar.
+Así como en cualquier idioma la sintaxis se refiera a la parte de la gramática que estudia el modo en que se combinan las palabras y los grupos de palabras para expresar significados, sucede lo mismo en los lenguajes (idiomas) que usamos para indicarle al navegador qué y cómo lo debe mostrar.
 
-Como puedes ver en la lección anterior, para especificar un estilo hacemos uso de los pares **`propiedades : valores`.**
+Como puedes ver en la sección anterior, para especificar un estilo hacemos uso de los pares de información **`propiedades : valores`.**
 
 - Propiedades: son identificadores que indican a las personas qué característica de estilo (ancho, color de fondo, fuente) se quiere cambiar.
 

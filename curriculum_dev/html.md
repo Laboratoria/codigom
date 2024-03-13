@@ -1,6 +1,6 @@
 # HTML: HyperText Markup Language
 
-> **Tip**: la mejor manera de aprender conceptos que son tan nuevos y abstractos es ponerlos a prueba y observar el resultado. En lugar de ponerte a leer toooooooodo, tratando de entender y memorizar (cosa que no deberías ni intentar), lee algo y ve a probar para que veas cómo funciona realmente más allá de las palabras de un texto.
+> **Tip**: la mejor manera de aprender conceptos que son tan nuevos y abstractos es ponerlos a prueba y observar el resultado. En lugar de ponerte a leer toooooooodo, tratando de entender y memorizar (cosa que no deberías ni intentar), lee algo y ve a probar para que veas cómo funciona realmente más allá de las palabras del texto.
 
 HTML (*HyperText Markup Language)* o Lenguaje de Marcado de Hipertexto es el lenguaje utilizado para crear la estructura de una página web. Los archivos que contienen HTML, se guardan con la extensión .HTML. Es algo el equivalente a crear documentos con formato Word, Excel , etc.
 
@@ -31,7 +31,7 @@ Revisando directamente la documentación del [Mozilla Developer Network](https:
 
 ## Anatomía de un elemento HTML
 
-Salvo algunas excepciones (por ejemplo `<!DOCTYPE html>`), los elementos HTML comienzan con una `etiqueta de apertura (o inicio)` y terminan con una `etiqueta de cierre (o fin)`. Por ejemplo, el elemento `p` comienza con la etiqueta de inicio `<p>` y termina con la etiqueta de cierre `</p>`. El texto que se encuentra entre las etiquetas de apertura y de cierre es el *contenido* del elemento, en este caso un párrafo.
+Salvo algunas excepciones (por ejemplo `<!DOCTYPE html>`), los elementos HTML comienzan con una `etiqueta de apertura (o inicio)` y terminan con una `etiqueta de cierre (o fin)`. Por ejemplo, el elemento `p`, que indica un párrafo, comienza con la etiqueta de inicio `<p>` y termina con la etiqueta de cierre `</p>`. El texto que se encuentra entre las etiquetas de apertura y de cierre es el *contenido* del elemento, en este caso un párrafo.
 
 ![Ejemplo etiqueta](https://user-images.githubusercontent.com/25906896/39716065-df4e7158-51f4-11e8-9a4c-90f1e82bcd09.png)
 
