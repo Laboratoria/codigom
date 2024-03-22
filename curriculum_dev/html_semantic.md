@@ -1,6 +1,6 @@
 # HTML semántico
 
-Los `div` son un excelente recurso para agrupar contenido de forma lógica y con ello poder darle estilos particulares a ciertas secciones. Por muchos usando se usaron los `div` como único recurso para agrupar contenido. Sin embargo, muchas web tienden a tener una estructura similar y a contener elementos comunes. Por ejemplo, casi todos los productos en la web tienen una cabecera, un menú de navegación, un contenido principal, contenido secundario, un footer, etc.
+Los `div` son un excelente recurso para agrupar contenido de forma lógica y con ello poder darle estilos particulares a ciertas secciones. Por muchos años se usaron los `div` como único recurso para agrupar contenido. Sin embargo, muchas web tienden a tener una estructura similar y a contener elementos comunes. Por ejemplo, casi todos los productos en la web tienen una cabecera, un menú de navegación, un contenido principal, contenido secundario, un footer, etc.
 
 Revisando la documentación del MDN sobre [estructura web y documentación](https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/estructura) podemos extraer:
 

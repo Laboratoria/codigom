@@ -41,7 +41,7 @@ Si te equivocas de símbolos u omites ponerlos como se espera, el navegador "int
 
 ## Anidamiento HTML
 
-Un elemento puede otros elementos o etiquetas HTML. Esto se llama *anidamiento*.
+Un elemento puede tener otros elementos o etiquetas HTML. Esto se llama *anidamiento*.
 
 ```html
 <!DOCTYPE html>
