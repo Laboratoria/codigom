@@ -14,6 +14,7 @@
 
 * [Autoconocimiento](curriculum_lif/learning_lif_selfawareness.md)
 * [Trabajo en equipo](curriculum_lif/learning_lif_teamwork.md)
+* [Bienestar digital](curriculum_lif/learning_lif_digital_wb_intro.md)
 
 ## Desarrollo Web
 
