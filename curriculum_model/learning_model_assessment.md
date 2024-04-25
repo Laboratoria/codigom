@@ -29,7 +29,8 @@ Para responder estas incógnitas puedes optar, **además**, por recibir la evalu
 Sigue los siguientes pasos para participar de la dinámica:  
 
 1. Deja un comentario pidiendo evaluación y un enlace/liga al recurso para que todas puedan acceder. 
-   <img title="" src="../assets/2024-04-24%2017-06-47.png" alt="" width="502">También puedes etiquetar o "arrobar" a la compañera de la que quieres recibir el la evaluación en particular.
+   <img title="" src="../assets/2024-04-24%2017-06-47.png" alt="" width="502">
+   También puedes etiquetar o "arrobar" a la compañera de la que quieres recibir el la evaluación en particular.
    
    <img title="" src="../assets/2024-04-24%2017-09-04.png" alt="" width="507">
 
@@ -44,3 +45,5 @@ Sigue los siguientes pasos para participar de la dinámica:
 --- 
 
 🐝 Las abejas colaboran estrechamente en la construcción de sus panales. Si una abeja coloca cera de manera ineficiente o incorrecta, otras abejas modificarán o corregirán estas imperfecciones para asegurar que el panal tenga la estructura hexagonal óptima. 
+
+:seedling: Feedback en general (TBD)
