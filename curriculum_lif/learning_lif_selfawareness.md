@@ -23,12 +23,4 @@ Fomentar la autoconciencia es, por lo tanto, un camino hacia una vida más plena
 
 :seedling: TBD
 
-- [ ] 1 
-
-- [ ] 2
-
-- [ ] 3
-
-- [ ] 4
-
 --- 
