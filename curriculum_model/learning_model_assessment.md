@@ -29,8 +29,10 @@ Para responder estas incógnitas puedes optar, **además**, por recibir la evalu
 Sigue los siguientes pasos para participar de la dinámica:  
 
 1. Deja un comentario pidiendo evaluación y un enlace/liga al recurso para que todas puedan acceder. 
+   
    <img title="" src="../assets/2024-04-24%2017-06-47.png" alt="" width="502">
-
+   
+   
    También puedes etiquetar o "arrobar" a la compañera de la que quieres recibir el la evaluación en particular.
    
    <img title="" src="../assets/2024-04-24%2017-09-04.png" alt="" width="507">
@@ -41,7 +43,7 @@ Sigue los siguientes pasos para participar de la dinámica:
 
 3. Tú también puedes mejorar tu aprendizaje evaluando el trabajo de otras y, además, obtener más 🍯. Usa la misma dedicación y cuidado que pones para evaluar tu propio trabajo.
 
-> Si tienes cualquier tipo de duda sobre la evaluación, pregunta en el canal [#General]([Discord](https://discord.com/channels/1209273049304666113/1209273050076291097))
+> Si tienes cualquier tipo de duda sobre la evaluación, pregunta en el canal [#General](https://discord.com/channels/1209273049304666113/1209273050076291097)
 
 --- 
 
