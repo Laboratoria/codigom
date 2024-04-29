@@ -2,17 +2,17 @@
 
 **Tiempo :stopwatch: :** 10min
 
-A la gran mayoría nos educaron para seguir instrucciones, a callar mientras un profesor hablaba y hablaba, a memorizar, sin saber por qué ni para qué, una lista de cosas que debíamos responder en un examen que cuantificaba nuestro “conocimiento” y que nos clasificaba en un *ranking* de mejores y peores, comparándonos como si fuéramos ladrillos idénticos; una atroz negación de nuestra multidimensional e infinita diversidad. **Nuestros talentos individuales quedaron, muchas veces, ocultos para siempre por estar “fuera de la norma”.****
+A la gran mayoría nos "educaron"" para seguir instrucciones, a callar mientras un profesor hablaba y hablaba, a memorizar, sin saber por qué ni para qué, una lista de cosas que debíamos responder en un examen que cuantificaba nuestro “conocimiento” y que nos clasificaba en un *ranking* de mejores y peores, comparándonos como si fuéramos ladrillos idénticos; una atroz negación de nuestra infinita diversidad. **Nuestros talentos individuales quedaron, muchas veces, ocultos para siempre por estar “fuera de la norma”.****
 
 ## Tú, estudiante, eres el centro
 
-Nuestro modelo de aprendizaje cambia el tradicional paradigma de “yo te enseño” a “yo aprendo”. Ya hemos hablado de la importancia del desarrollo de habilidades de largo plazo como aprender a aprender para acceder a trabajos que no están en desaparición.
+Nuestra filosofía de aprendizaje cambia el tradicional paradigma de “yo te enseño” a “yo aprendo”. [Ya hemos hablado de la importancia del desarrollo de habilidades de largo plazo como aprender a aprender para acceder a trabajos que no están en desaparición](learning_model_work.md).
 
 ![](../assets/2024-03-07-16-22-25-image.png)
 
-Sea cual sea el tiempo que pases aquí, esperamos que te lleves una experiencia que te sume para trabajar en entornos de incertidumbre en los que ya no se necesita  planificar y ejecutar las mismas tareas, pero sí aprender constantemente y adaptarse al cambio permanente.
+Sea cual sea el tiempo que pases aquí, esperamos que te lleves una experiencia que te sume para trabajar en entornos de incertidumbre en los se requiere aprender constantemente y adaptarse al cambio permanente en lugar de planificar y ejecutar las mismas tareas. 
 
-¿Por qué tenemos que aprender lo mismo a la misma vez?, ¿por qué no podemos  tomar decisiones conscientes sobre nuestro aprendizaje y hacernos cargo de ellas?, ¿qué tiene de extraordinario que cada quien aprenda a su ritmo?, ¿no es parte de la vida saber lidiar con que tenemos habilidades diferentes?, ¿no es la autonomía una habilidad esencial para trabajar y vivir?, ¿no es todo esto algo que deberíamos ejercitar tanto como podamos?
+¿Por qué tenemos que aprender lo mismo a la misma vez?, ¿por qué no podemos  tomar decisiones conscientes sobre nuestro aprendizaje y hacernos cargo de ellas?, ¿qué tiene de extraordinario que cada quien aprenda a su ritmo?, ¿no es parte de la vida saber lidiar con que tenemos habilidades diferentes?, ¿no es la autonomía una habilidad esencial para trabajar y vivir?, ¿no es todo esto algo que deberíamos ejercitar tanto como podamos? Tú estás a cargo de tu propio aprendizaje.
 
 ## La única manera de aprender, es hacer lo que no sabes
 
@@ -22,7 +22,7 @@ Conocer algo no es lo mismo que tener una destreza para hacer algo. Saber de la 
 
 De la educación tradicional, muchas veces hemos quedado con la idea de que "recordar" para responder un cuestionario es lo más importante. Si bien eso puede ser valioso para muchos contextos y situaciones, aquí proponemos que eso deben ser insumos para el real objetivo que es desarrollar habilidades. Debes ser capaz de hacer algo concreto y real con lo que has aprendido.
 
-Por eso, en lugar de que tengas "contenido" o "materia" que debes leer y memorizar para luego responder un cuestionario, y después hacer un ejercicio; el vehículo para aprender serán los **retos**. En cada reto encontrarás el requerimiento de lo que debes lograr **hacer** y, todos los insumos para adquirir el conocimiento necesario, ponerlo en práctica para lograr lo que se requiere, y autoevaluar tu trabajo. 
+Por eso, en lugar de que tengas "contenido" o "materia" que debes leer y memorizar para luego responder un cuestionario, y después hacer un ejercicio; el vehículo para aprender serán las **actividades** y **retos**. En cada caso encontrarás el requerimiento de lo que debes **conseguir hacer**, todos los insumos para adquirir el conocimiento necesario, ponerlo en práctica para lograr lo que se requiere, y autoevaluar tu trabajo. 
 
 ## Neuroplasticidad y mentalidad de crecimiento
 

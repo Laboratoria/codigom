@@ -1,8 +1,34 @@
-# ¿Cómo se organizan los retos?
+# ¿Cómo voy a aprender?
 
 **Tiempo :stopwatch: :** 10min
 
-Antes de continuar, es importante que tengamos un entendimiento compartido sobre el uso de los siguientes conceptos. 
+Hay muchas razones por las que creemos en un aprendizaje significativo que involucra el conocimiento y desarrollo de  y habilidades "técnicas" pero también habilidades transversales "para la vida".  
+
+Sabemos que embarcarse en aprender algo nuevo puede ser un gran desafío, especialmente cuando no estás segura de cuánto interés o afinidad tienes en un área específica, ni cómo se alinea con tu contexto actual, ni qué nivel de aprendizaje realmente quieres o necesitas. 
+
+> Quizás solamente buscas informarte un poco de las oportunidades de la **economía digital**, compartir ideas y experiencias en comunidad con otras mujeres. Quizás te sirve aprender a usar algunas herramientas para mejorar tu actual trabajo, automatizar procesos, etc. Quizás tienes claro que quieres un cambio radical de carrera y quieres en dar ese primer paso de aprendizaje de habilidades concretas. 
+> 
+> En todos los casos eres bienvenida. 
+
+## Bloque introductorio
+
+Por eso, para cada área o "campo" te ofrecemos **un bloque introductorio** diseñado para darte una visión clara y concreta, en un formato flexible y de bajo compromiso.
+
+En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios de la disciplina de tu elección. Este enfoque te permite sumergirte sin la presión de un compromiso largo, perfecto para descubrir si tu interés inicial se convierte en habilidades concretas o simplemente en un conocimiento valioso para tu crecimiento personal y profesional.
+
+Este bloque no sólo te informará, sino que te motivará a reflexionar sobre cómo estas disciplinas impactan en la vida diaria de las personas y cómo podrías integrarlas en tu futuro. El bloque concluye con un "reto" o "mini-proyecto" que te dará la oportunidad de poner en práctica lo aprendido y entender mejor si es algo que quisieras continuar aprendiendo. Además, es la manera como continúa el resto del aprendizaje posible, "aprender haciendo". 
+
+Es tu oportunidad de explorar libremente, con la mente abierta y sin la presión de una decisión a largo plazo. ¿Lista para comenzar este viaje? 
+
+- 🔵 Desarrollo web
+
+- 🟢 No code - IA
+
+- 🟠 Análisis de datos
+
+## Habilidades
+
+Si después de completar el bloque introductorio, 
 
 ![](../assets/2024-03-07-18-23-41-a097d308964f1d213e348a8cc0706fe5dda2a4f0.jpg)
 
@@ -50,4 +76,8 @@ Supongamos que tienes que desarrollar la habilidad de andar en bicicleta. Para c
 
 Ya se entiende mejor, ¿verdad?
 
-## ---
+---
+
+> 💬 [**Comenta en Discord**]([Discord](https://discord.com/channels/1209273049304666113/1215447305579274271)) :
+
+---
