@@ -3,7 +3,7 @@
 **Tiempo :stopwatch: :** 10min
 
 <audio controls>
-  <source src="../assets/TTS/.mp3" type="audio/mpeg">
+  <source src="../assets/TTS/Test_ES.mp3" type="audio/mpeg">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
@@ -33,7 +33,7 @@ Es tu oportunidad de explorar libremente, con la mente abierta y sin la presión
 
 Si después de completar el bloque introductorio, quieres continuar, te encontrarás con que hemos agrupado todo en función de **habilidades concretas** de cada área. Así, para cada habilidad, te encontrarás con módulos que cubren aspectos de la habilidad y retos o actividades que es lo que irás completando poco a poco para conseguir desarrollar la habilidad indicada.
 
-![](../assets/2024-03-07-18-23-41-a097d308964f1d213e348a8cc0706fe5dda2a4f0.jpg)
+![](../assets/2024-03-07-18-23-41-.jpg)
 
 Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o muñeca rusa 🪆
 
