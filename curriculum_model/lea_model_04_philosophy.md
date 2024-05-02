@@ -36,18 +36,16 @@ No estamos diciendo que con esfuerzo y disciplina se puede conseguir “todo en 
 
 ## Aprendizaje significativo
 
-Vas a dudar pero recuerda que el aprendizaje no es lineal. Te vas a sentir atascada, confundida, "tonta", frustrada, vas a querer salir corriendo y decir "esto no es para mí". Ten paciencia, confía en la manera que te proponemos para aprender. 
+Vas a dudar pero recuerda que el aprendizaje no es lineal. Te vas a sentir atascada, confundida, "tonta", frustrada, vas a querer salir corriendo y decir "esto no es para mí". Ten paciencia, confía en la manera que te proponemos para aprender. Aprender a tolerar la frustración que causan las barreras y retrasar la satisfacción de conseguirlo, es indispensable para volverte experta en aprender a aprender.
 
-Si consigues sintonizar, te llevarás una experiencia transformadora.
+Si consigues sintonizar, te llevarás una experiencia transformadora. Esperamos que así sea.
 
 ![](../assets/2024-03-07-16-26-06-image.png)
 
 Además, ¡no te olvides que estarás rodeada de mujeres con perfiles diversos que estarán aprendiendo también! Es fundamental la comunidad para conseguir un aprendizaje colaborativo y efectivo. 
 
-## Preguntas frecuentes
-
 ---
 
-:seedling: TBD
+> 💬 **[Comenta en Discord:]([Discord](https://discord.com/channels/1209273049304666113/1215446781375160360))** ¿Te parece una visión exagerada sobre el cambio del empleo?, ¿es algo que ya estás viviendo directamente?, ¿qué temores tienes al respecto?
 
 ---
