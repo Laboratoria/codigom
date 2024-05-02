@@ -11,11 +11,11 @@
 
 Indispensable para comenzar
 
-- [La transformación del trabajo y las oportunidades](curriculum_model/learning_model_work.md)
-- [El mito de los promedios](curriculum_model/learning_model_average.md)
-- [Filosofía de aprendizaje](curriculum_model/learning_model_philosophy.md)
-- [IA como herramienta de aprendizaje](curriculum_model/learning_model_ai.md)
-- [Evaluaciones](curriculum_model/learning_model_assessment.md)
+- [La transformación del trabajo y las oportunidades](curriculum_model/lea_model_work.md)
+- [El mito de los promedios](curriculum_model/lea_model_average.md)
+- [Filosofía de aprendizaje](curriculum_model/lea_model_philosophy.md)
+- [IA como herramienta de aprendizaje](curriculum_model/lea_model_ai.md)
+- [Evaluaciones](curriculum_model/lea_model_assessment.md)
 
 ## Habilidades transversales o _core skills_
 
