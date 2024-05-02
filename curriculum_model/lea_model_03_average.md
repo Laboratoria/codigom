@@ -2,6 +2,12 @@
 
 **Tiempo :stopwatch: :** 25min
 
+---
+
+> :headphones: Recuerda que puedes usar la extensión de [Speechify]([Extensión de Chrome de Texto a Voz: ¡Pruebe ya! - Speechify](https://speechify.com/es/extension-de-chrome/)) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
+
+---
+
 Hace algunos años trabajábamos intensamente por darle forma y estructura al nuevo modelo de aprendizaje de Laboratoira. Descubrir el trabajo de Todd Rose significó un vendaval de aire fresco, habíamos encontrado alguien que nos hablaba directo al corazón por cómo entendíamos el aprendizaje.
 
 Rose es un académico y autor innovador en el campo de la educación. Fue director del Laboratorio de Ciencias de la Individualidad en la Escuela de Educación de Harvard. Su investigación se centra en el desarrollo de métodos educativos que honran la individualidad y promueven el éxito de cada estudiante.
@@ -18,6 +24,10 @@ Su trabajo es relevante porque desafía conceptos arraigados sobre la igualdad y
 
 ---
 
-:seedling: Otro libro muy interesante de Rose es "*Dark Horse*: Lograr el éxito a través de la búsqueda de la realización", en él explora las trayectorias no convencionales hacia el éxito. El libro desmitifica la idea de que hay un único camino predefinido hacia el logro, presentando en cambio historias de personas atípicas que han encontrado la satisfacción y el éxito siguiendo rutas personalizadas que reflejan sus intereses y valores únicos. Rose argumenta que la clave para el éxito real es una profunda autoconciencia y la disposición a perseguir lo que realmente nos importa, incluso cuando se desvía de las normas sociales o expectativas. 
+> 💬 **[Comenta en Discord:]([Discord](https://discord.com/channels/1209273049304666113/1215448579662028820))** ¿Habías pensado alguna vez en las implicaciones de que casi todo esté hecho para "los promedios"?, ¿te das cuenta de lo absurdo y, sin embargo, aceptado que tenemos esto?
 
 ---
+
+Opcional si quieres profundizar por tu cuenta:
+
+:seedling: Otro libro muy interesante de Rose es "*Dark Horse*: Lograr el éxito a través de la búsqueda de la realización", en él explora las trayectorias no convencionales hacia el éxito. El libro desmitifica la idea de que hay un único camino predefinido hacia el logro, presentando en cambio historias de personas atípicas que han encontrado la satisfacción y el éxito siguiendo rutas personalizadas que reflejan sus intereses y valores únicos. Rose argumenta que la clave para el éxito real es una profunda autoconciencia y la disposición a perseguir lo que realmente nos importa, incluso cuando se desvía de las normas sociales o expectativas. 

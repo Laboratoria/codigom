@@ -2,6 +2,12 @@
 
 **Tiempo :stopwatch: :** 10min
 
+---
+
+> :headphones: Recuerda que puedes usar la extensión de [Speechify]([Extensión de Chrome de Texto a Voz: ¡Pruebe ya! - Speechify](https://speechify.com/es/extension-de-chrome/)) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
+
+---
+
 A la gran mayoría nos "educaron"" para seguir instrucciones, a callar mientras un profesor hablaba y hablaba, a memorizar, sin saber por qué ni para qué, una lista de cosas que debíamos responder en un examen que cuantificaba nuestro “conocimiento” y que nos clasificaba en un *ranking* de mejores y peores, comparándonos como si fuéramos ladrillos idénticos; una atroz negación de nuestra infinita diversidad. **Nuestros talentos individuales quedaron, muchas veces, ocultos para siempre por estar “fuera de la norma”.**
 
 ## Tú, estudiante, eres el centro
@@ -46,6 +52,6 @@ Además, ¡no te olvides que estarás rodeada de mujeres con perfiles diversos q
 
 ---
 
-> 💬 **[Comenta en Discord:]([Discord](https://discord.com/channels/1209273049304666113/1215446781375160360))** ¿Te parece una visión exagerada sobre el cambio del empleo?, ¿es algo que ya estás viviendo directamente?, ¿qué temores tienes al respecto?
+> 💬 [Comenta en Discord:]([Discord](https://discord.com/channels/1209273049304666113/1215446781375160360)) ¿Qué conflictos se acaban de generar en tu 🧠? Comenta la idea que más pensamientos te produjo, para bien o para mal. 
 
 ---

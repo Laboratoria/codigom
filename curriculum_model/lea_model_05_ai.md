@@ -8,8 +8,6 @@ Con la avalancha de herramientas de IA “listas para usar en el navegador”, s
 
 Esto es fácil de comprender desde el punto de vista de la educación tradicional en la que la responsabilidad de lograr, medir y “acreditar” el aprendizaje recae principalmente en lxs profesorxs; todo encaja cuando el aprendizaje se entiende como una mercancía que se debe “entregar satisfactoriamente” a cada ~~cliente~~ estudiante. No necesariamente ocurre lo mismo si abordamos el asunto desde una propuesta de aprendizaje auto-dirigido diseñada para adultas responsables.
 
-![](../assets/2024-03-07-08-16-53-image.png)
-
 ## Una oportunidad
 
 En un modelo de aprendizaje que busca, además de lo técnico, el desarrollo de habilidades transversales como son aprender a aprender, pensamiento crítico y solución de problemas, la llegada de estas herramientas significa una enorme oportunidad para liberar y energizar la confianza y la autonomía necesarias para aprender. 
