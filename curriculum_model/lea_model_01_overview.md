@@ -2,11 +2,11 @@
 
 **Tiempo :stopwatch: :** 10min
 
----
+
 
 > :headphones: Recuerda que puedes usar la extensión de [Speechify]([Extensión de Chrome de Texto a Voz: ¡Pruebe ya! - Speechify](https://speechify.com/es/extension-de-chrome/)) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
 
----
+
 
 ## Contexto
 
@@ -19,6 +19,8 @@ En todos los casos eres bienvenida porque hemos diseñado la experiencia de mane
 Por otro lado, es importante que sepas que hay muchas razones por las que creemos en un tipo de aprendizaje significativo que involucra el conocimiento y desarrollo de habilidades "técnicas", pero también habilidades transversales "para la vida". Te invitamos a explorar el contenido y actividades que hay al respecto.
 
 ## Estructura
+
+![](../assets/2024-03-07-18-23-41-.jpg)
 
 ### Bloque introductorio
 
@@ -35,8 +37,6 @@ Es tu oportunidad de explorar libremente, con la mente abierta y sin la presión
 ### Desarrollo de habilidades
 
 Si después de completar el bloque introductorio, quieres continuar, te encontrarás con que hemos agrupado todo en función de **habilidades concretas** de cada área. Así, para cada habilidad, te encontrarás con módulos que cubren aspectos específicos de la habilidad, y retos o actividades que es lo que irás completando poco a poco para conseguir desarrollar la habilidad indicada.
-
-![](../assets/2024-03-07-18-23-41-.jpg)
 
 Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o muñeca rusa 🪆
 
