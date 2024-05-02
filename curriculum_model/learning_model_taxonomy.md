@@ -2,6 +2,14 @@
 
 **Tiempo :stopwatch: :** 10min
 
+Nota: Recuerda que si quieres escuchar una narración de este texto en lugar de leer, puedes instalar la extensión Speechify 
+
+<audio controls>
+  <source src="https://murf.ai/embeds/index.html?embedId=lvmrp03d" type="audio/mpeg">
+  Tu navegador no soporta el elemento de audio.
+</audio>
+
+
 Hay muchas razones por las que creemos en un aprendizaje significativo que involucra el conocimiento y desarrollo de  y habilidades "técnicas" pero también habilidades transversales "para la vida".  
 
 Sabemos que embarcarse en aprender algo nuevo puede ser un gran desafío, especialmente cuando no estás segura de cuánto interés o afinidad tienes en un área específica, ni cómo se alinea con tu contexto actual, ni qué nivel de aprendizaje realmente quieres o necesitas. 
