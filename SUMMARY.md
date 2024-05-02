@@ -3,7 +3,7 @@
 ## Bienvenida:
 
 * [Inicio](README.md)
-* [¿Cómo voy a aprender?](lea_model_overview.md)
+* [¿Cómo voy a aprender?](curriculum_model/lea_model_overview.md)
 
 ## Metodología de aprendizaje
 
