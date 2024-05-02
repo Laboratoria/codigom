@@ -1,8 +1,12 @@
 # ¿Cómo voy a aprender?
 
-:headphones: Recuerda que puedes usar la extensión de [Speechify]([Extensión de Chrome de Texto a Voz: ¡Pruebe ya! - Speechify](https://speechify.com/es/extension-de-chrome/)) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
-
 **Tiempo :stopwatch: :** 10min
+
+---
+
+> :headphones: Recuerda que puedes usar la extensión de [Speechify]([Extensión de Chrome de Texto a Voz: ¡Pruebe ya! - Speechify](https://speechify.com/es/extension-de-chrome/)) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
+
+---
 
 ## Contexto
 
@@ -36,6 +40,8 @@ Si después de completar el bloque introductorio, quieres continuar, te encontra
 
 Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o muñeca rusa 🪆
 
+---
+
 #### :large_blue_circle: Habilidad (H)
 
 Una habilidad es una destreza para ejecutar o hacer algo concreto. Puedes comprender el concepto de gravedad, velocidad, equilibrio, etc., pero eso no significa que tengas **la habilidad de andar en bicicleta**.
@@ -43,6 +49,8 @@ Una habilidad es una destreza para ejecutar o hacer algo concreto. Puedes compre
 La habilidad es esa capacidad práctica de aplicar lo que sabes, o incluso lo que intuyes,  para lograr hacer algo efectivamente: andar en bicicleta. Este es nuestro objetivo último, que puedas desarrollar habilidades que te permitan hacer cosas de verdad, en la practica.
 
 Una habilidad se desarrolla **completando todos los retos de los todos los módulos** que se indiquen. En ese sentido, las habilidades funcionan como un "contenedor" de módulos.
+
+---
 
 #### :large_blue_diamond: Módulo (M)
 
@@ -56,6 +64,8 @@ Los módulos son un “contenedor” de varios retos actividades que están agru
 
 - Que puedas tener referencia un poco más "grande" o "general" de cuánto vas aprendiendo.
 
+---
+
 #### :small_blue_diamond: Reto o "actividad" (R)
 
 En Laboratoria, desde hace años creemos firmemente en "aprender haciendo" (*learning by doing*).
@@ -63,6 +73,8 @@ En Laboratoria, desde hace años creemos firmemente en "aprender haciendo" (*lea
 El reto es el principal vehículo de aprendizaje. Cada uno es 100% autocontenido, es decir que indica lo que debes conseguir hacer y contiene todos los insumos para adquirir el conocimiento necesario y ponerlo en práctica.
 
 Cada reto aborda una sola meta de aprendizaje, pero es posible que haya más de un reto para una misma meta de aprendizaje. La finalidad de esto es que practiques más de una vez una misma meta si así nos parece necesario.
+
+---
 
 ### Pongamos todo junto en un ejemplo
 
@@ -100,20 +112,18 @@ Puedes llegar solamente hasta acá y está totalmente OK. Pero si quieres contin
   
   - Reto 2.1 - Tomar curvas: ....
   
-  - etc...
+  - etc.
 
-##### **Habilidad**: ciclismo de montaña.
+##### **Habilidad**: ciclismo de montaña....
 
-etc, etc....
+Ya se entiende mejor, ¿verdad? 
 
-Ya se entiende mejor, ¿verdad?
+- :question: Plantea tus dudas por *chat* en el [canal #general de Discord](%5BDiscord%5D(https://discord.com/channels/1209273049304666113/1209273050076291097))
 
-### ▶️ Ahora puedes comenzar con el bloque introductorio de "metodología de aprendizaje" y luego con el/las áreas que quieras.
+- 💬 Si quieres abrir una discusión, puedes hacerlo en el [foro de aprendizaje transversal en Discord](%5BDiscord%5D(https://discord.com/channels/1209273049304666113/1217834825260601407)) :
 
----
+--- 
 
-> :question: Puedes preguntar tus dudas por *chat* en el [**canal #general de Discord**]([Discord](https://discord.com/channels/1209273049304666113/1209273050076291097))
-> 
-> 💬 Si quieres abrir una discusión, puedes hacerlo en el [**foro de aprendizaje transversal en Discord**]([Discord](https://discord.com/channels/1209273049304666113/1217834825260601407)) :
+> ▶️ Ahora puedes comenzar con el bloque introductorio de "metodología de aprendizaje" y luego con el/las áreas que quieras.
 
 ---
