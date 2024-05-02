@@ -1,11 +1,10 @@
 # ¿Cómo voy a aprender?
 
+:headphones: Recuerda que puedes usar la extensión de [Speechify]([Extensión de Chrome de Texto a Voz: ¡Pruebe ya! - Speechify](https://speechify.com/es/extension-de-chrome/)) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
+
 **Tiempo :stopwatch: :** 10min
 
-<audio controls>
-  <source src="../assets/TTS/Test_ES.mp3" type="audio/mpeg">
-  Tu navegador no soporta el elemento de audio.
-</audio>
+## Contexto
 
 Sabemos que embarcarse en aprender algo nuevo puede ser un gran desafío, especialmente cuando no estás segura de cuánto interés o afinidad tienes en un área específica, ni cómo se alinea con tu contexto actual, ni qué nivel de aprendizaje realmente quieres o necesitas. 
 
@@ -13,7 +12,7 @@ Quizás solamente buscas informarte un poco de las oportunidades de la **econom�
 
 En todos los casos eres bienvenida porque hemos diseñado la experiencia de manera que se adecue a cada una. :smile:
 
-Por otro lado, es importante que sepas que hay muchas razones por las que creemos en un  aprendizaje significativo que involucra el conocimiento y desarrollo de habilidades "técnicas", pero también habilidades transversales "para la vida". Te invitamos a explorar el contenido y actividades que hay al respecto.
+Por otro lado, es importante que sepas que hay muchas razones por las que creemos en un tipo de aprendizaje significativo que involucra el conocimiento y desarrollo de habilidades "técnicas", pero también habilidades transversales "para la vida". Te invitamos a explorar el contenido y actividades que hay al respecto.
 
 ## Estructura
 
@@ -25,13 +24,13 @@ Para cada área o "campo" técnico te ofrecemos un bloque introductorio diseñad
 
 Este enfoque te permite sumergirte sin la presión de un compromiso largo, ideal para descubrir si tu interés inicial se convierte en habilidades concretas o simplemente en un conocimiento valioso para tu crecimiento personal y profesional.
 
-Este bloque no sólo te informará, sino que te motivará a reflexionar sobre cómo estas disciplinas impactan en la vida diaria de las personas y cómo podrías integrarlas en tu futuro. El bloque concluye con un "reto" o "mini-proyecto" que te dará la oportunidad de poner en práctica lo aprendido para que puedas entender mejor si es algo que quisieras continuar aprendiendo. 
+Este bloque no sólo te informará, sino que te motivará a reflexionar sobre cómo estas disciplinas impactan en la vida diaria de las personas y cómo podrías integrarlas en tu futuro. El bloque concluye con un "reto" o "mini-proyecto" que te dará la oportunidad de poner en práctica algo de lo aprendido para que puedas entender si es algo que quisieras continuar aprendiendo. 
 
 Es tu oportunidad de explorar libremente, con la mente abierta y sin la presión de una decisión o compromiso a largo plazo. ¿Lista para comenzar este viaje? 
 
 ### Desarrollo de habilidades
 
-Si después de completar el bloque introductorio, quieres continuar, te encontrarás con que hemos agrupado todo en función de **habilidades concretas** de cada área. Así, para cada habilidad, te encontrarás con módulos que cubren aspectos de la habilidad y retos o actividades que es lo que irás completando poco a poco para conseguir desarrollar la habilidad indicada.
+Si después de completar el bloque introductorio, quieres continuar, te encontrarás con que hemos agrupado todo en función de **habilidades concretas** de cada área. Así, para cada habilidad, te encontrarás con módulos que cubren aspectos específicos de la habilidad, y retos o actividades que es lo que irás completando poco a poco para conseguir desarrollar la habilidad indicada.
 
 ![](../assets/2024-03-07-18-23-41-.jpg)
 
@@ -41,15 +40,13 @@ Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o 
 
 Una habilidad es una destreza para ejecutar o hacer algo concreto. Puedes comprender el concepto de gravedad, velocidad, equilibrio, etc., pero eso no significa que tengas **la habilidad de andar en bicicleta**.
 
-La habilidad es esa capacidad práctica de aplicar lo que sabes, o incluso lo que intuyes,  para lograr hacer algo efectivamente: andar en bicicleta.
-
-Este es nuestro objetivo último, que puedas desarrollar habilidades que te permitan hacer cosas de verdad, en la practica.
+La habilidad es esa capacidad práctica de aplicar lo que sabes, o incluso lo que intuyes,  para lograr hacer algo efectivamente: andar en bicicleta. Este es nuestro objetivo último, que puedas desarrollar habilidades que te permitan hacer cosas de verdad, en la practica.
 
 Una habilidad se desarrolla **completando todos los retos de los todos los módulos** que se indiquen. En ese sentido, las habilidades funcionan como un "contenedor" de módulos.
 
 #### :large_blue_diamond: Módulo (M)
 
-Los módulos son un “contenedor” de varios retos que "tiene sentido" que estén agrupados. Buscamos:
+Los módulos son un “contenedor” de varios retos actividades que están agrupados para:
 
 - Intercalar temas de aprendizaje:
   
@@ -61,15 +58,15 @@ Los módulos son un “contenedor” de varios retos que "tiene sentido" que est
 
 #### :small_blue_diamond: Reto o "actividad" (R)
 
-En Laboratoria, desde hace años creemos firmemente en "aprender haciendo" (*learning by doing*) y en el aprendizaje activo.
+En Laboratoria, desde hace años creemos firmemente en "aprender haciendo" (*learning by doing*).
 
-El reto es el principal vehículo de aprendizaje. Cada uno es 100% autocontenido, es decir que indica el requerimiento de lo que debes hacer y todos los insumos  para adquirir el conocimiento necesario y ponerlo en práctica para lograr hacerlo.
+El reto es el principal vehículo de aprendizaje. Cada uno es 100% autocontenido, es decir que indica lo que debes conseguir hacer y contiene todos los insumos para adquirir el conocimiento necesario y ponerlo en práctica.
 
 Cada reto aborda una sola meta de aprendizaje, pero es posible que haya más de un reto para una misma meta de aprendizaje. La finalidad de esto es que practiques más de una vez una misma meta si así nos parece necesario.
 
 ### Pongamos todo junto en un ejemplo
 
-Supongamos que quieres desarrollar la habilidad de andar en bicicleta. Para conseguirlo, deberás completar pasos intermedios que te llevarán, poco a poco, a la construcción y desarrollo de la habilidad. En nuestra caso, podría ser que tengas que completar todos los retos del módulo 1.
+Supongamos que quieres desarrollar la habilidad de andar en bicicleta. Para conseguirlo, deberás completar pasos intermedios que te llevarán, poco a poco, a la construcción y desarrollo de la habilidad. El área o campo se vería algo así:
 
 ##### Bloque introductorio
 
@@ -89,7 +86,7 @@ Conocimiento fundamental. Las actividades son del tipo lecturas, vídeos, reflex
 
 Puedes llegar solamente hasta acá y está totalmente OK. Pero si quieres continuar, pasarías directamente al desarrollo de la primera habilidad.
 
-##### **Habilidad**: andar en bicicleta.
+##### **Habilidad**: andar en bicicleta en la ciudad.
 
 - **Módulo 1**: avanzar 100 metros en línea recta sin perder los dientes ni los anteojos.
   
@@ -105,9 +102,13 @@ Puedes llegar solamente hasta acá y está totalmente OK. Pero si quieres contin
   
   - etc...
 
+##### **Habilidad**: ciclismo de montaña.
+
+etc, etc....
+
 Ya se entiende mejor, ¿verdad?
 
-### ▶️ Ahora puedes comenzar con el bloque introductorio de "metodología de aprendizaje"
+### ▶️ Ahora puedes comenzar con el bloque introductorio de "metodología de aprendizaje" y luego con el/las áreas que quieras.
 
 ---
 
