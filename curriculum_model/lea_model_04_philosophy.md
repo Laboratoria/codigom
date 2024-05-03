@@ -50,8 +50,8 @@ Si consigues sintonizar, te llevarás una experiencia transformadora. Esperamos 
 
 Además, ¡no te olvides que estarás rodeada de mujeres con perfiles diversos que estarán aprendiendo también! Es fundamental la comunidad para conseguir un aprendizaje colaborativo y efectivo. 
 
----
+--- 
 
-> 💬 [Comenta en Discord:]([Discord](https://discord.com/channels/1209273049304666113/1215446781375160360)) ¿Qué conflictos se acaban de generar en tu 🧠? Comenta la idea que más pensamientos te produjo, para bien o para mal. 
+> 💬 [Comenta en Discord:](https://discord.com/channels/1209273049304666113/1215446781375160360) ¿Qué conflictos se acaban de generar en tu 🧠? Comenta la idea que más pensamientos te produjo, para bien o para mal. 
 
----
+--- 

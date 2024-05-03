@@ -24,10 +24,10 @@ Su trabajo es relevante porque desafía conceptos arraigados sobre la igualdad y
 
 ---
 
-> 💬 **[Comenta en Discord:]([Discord](https://discord.com/channels/1209273049304666113/1215448579662028820))** ¿Habías pensado alguna vez en las implicaciones de que casi todo esté hecho para "los promedios"?, ¿te das cuenta de lo absurdo y, sin embargo, aceptado que tenemos esto?
+> 💬 [Comenta en Discord:](https://discord.com/channels/1209273049304666113/1215448579662028820) ¿Habías pensado alguna vez en las implicaciones de que casi todo esté hecho para "los promedios"?, ¿te das cuenta de lo absurdo y, sin embargo, aceptado que tenemos esto?
 
 ---
 
 Opcional si quieres profundizar por tu cuenta:
 
-:seedling: Otro libro muy interesante de Rose es "*Dark Horse*: Lograr el éxito a través de la búsqueda de la realización", en él explora las trayectorias no convencionales hacia el éxito. El libro desmitifica la idea de que hay un único camino predefinido hacia el logro, presentando en cambio historias de personas atípicas que han encontrado la satisfacción y el éxito siguiendo rutas personalizadas que reflejan sus intereses y valores únicos. Rose argumenta que la clave para el éxito real es una profunda autoconciencia y la disposición a perseguir lo que realmente nos importa, incluso cuando se desvía de las normas sociales o expectativas. 
+:seedling: Otro libro muy interesante de Rose es "*Dark Horse*: Lograr el éxito a través de la búsqueda de la realización". El libro desmitifica la idea de que hay un único camino predefinido hacia el logro, presentando en cambio historias de personas atípicas que han encontrado la satisfacción y el éxito siguiendo rutas personalizadas que reflejan sus intereses y valores únicos. Rose argumenta que la clave para el "éxito"" real es una profunda autoconciencia y la disposición a perseguir lo que realmente nos importa, incluso cuando se desvía de las normas sociales o expectativas. 

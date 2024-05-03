@@ -61,3 +61,9 @@ Lo que no queremos es que te conviertas en una máquina de copiar y pegar; si lo
 Seguramente estaremos hablando y utilizando mucho más todo esto para acelerar y mejorar tu aprendizaje, por ahora, eres libre de decidir cuál de las píldoras tomar.
 
 ![image.png](https://codahosted.io/docs/e8wmWdSwLD/blobs/bl-5fUVyjHL8x/89ddf7521ad05b9be177c88db99e0664549653badeeaeb8631d3efd69d7d0fa27f5e1c1da8e38a5fd57fd563f4a6a01bd266b19ec662b9727ded6ccdc7c7a9f38298006e66b32df4bc725211f5833cf63d66ee65e3677a7c45412e3f82f2b60bc43f92dd)
+
+---
+
+> 💬 [Comenta en Discord:](https://discord.com/channels/1209273049304666113/1215449353250938901) ¿Hay algo que te preocupe sobre usar las IAs para aprender?, ¿te parece que son contraproducentes?, ¿tienes alguna recomendación sobre cómo las estás usando de forma responsable?
+
+---

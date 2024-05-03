@@ -116,14 +116,8 @@ Ya se entiende mejor, ¿verdad?
 
 ---
 
-> - :question: Plantea tus dudas por *chat* en el [canal #general de Discord](%5BDiscord%5D(https://discord.com/channels/1209273049304666113/1209273050076291097))
+> - :question: Plantea tus dudas por *chat* en el [canal #general de Discord](https://discord.com/channels/1209273049304666113/1209273050076291097)
 > 
-> - ([Discord](https://discord.com/channels/1209273049304666113/1209273050076291097))
-> 
-> - [Disccccc](discord://discord.com/channels/1209273049304666113/1209273050076291097)
-> 
-> - discord://discord.com/channels/1209273049304666113/1209273050076291097
-> 
-> - 💬 Si quieres abrir una discusión, puedes hacerlo en el [foro de aprendizaje transversal en Discord](%5BDiscord%5D(https://discord.com/channels/1209273049304666113/1217834825260601407)) :
+> - 💬 Si quieres abrir una discusión, puedes hacerlo en el [foro de aprendizaje transversal en Discord](https://discord.com/channels/1209273049304666113/1217834825260601407)
 
 ---  
