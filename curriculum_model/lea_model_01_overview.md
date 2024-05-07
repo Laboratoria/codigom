@@ -1,6 +1,6 @@
 # ¿Cómo voy a aprender?
 
-**Tiempo :stopwatch: :** 10min
+**Tiempo :stopwatch: :** 15min
 
 > :headphones: Recuerda que puedes usar la extensión de [Speechify](https://speechify.com/es/extension-de-chrome/) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
 
@@ -8,7 +8,7 @@
 
 Sabemos que embarcarse en aprender algo nuevo puede ser un gran desafío, especialmente cuando no estás segura de cuánto interés o afinidad tienes en un área específica, ni cómo se alinea con tu contexto actual, ni qué nivel de aprendizaje realmente quieres o necesitas. 
 
-Quizás solamente buscas informarte un poco de las oportunidades de la **economía digital**, compartir ideas y experiencias en comunidad con otras mujeres. Quizás te sirve aprender a usar algunas herramientas para mejorar tu actual trabajo, automatizar procesos, etc. Quizás tienes claro que quieres un cambio radical de carrera y quieres en dar ese primer paso de aprendizaje de habilidades concretas.
+Quizás solamente buscas informarte un poco de las oportunidades de la **economía digital**, compartir ideas y experiencias en comunidad con otras mujeres. Quizás te sirve aprender a usar algunas herramientas para mejorar tu actual trabajo, automatizar procesos, etc. Quizás tienes claro que quieres un cambio radical de carrera y quieres en dar ese primer paso de aprendizaje.
 
 En todos los casos eres bienvenida porque hemos diseñado la experiencia de manera que se adecue a cada una. :smile:
 
@@ -16,7 +16,7 @@ Por otro lado, es importante que sepas que hay muchas razones por las que creemo
 
 ## Estructura
 
-![](../assets/2024-03-07-18-23-41-.jpg)
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/metodolog_01.png)
 
 ### Bloque introductorio
 
@@ -35,6 +35,8 @@ Es tu oportunidad de explorar libremente, con la mente abierta y sin la presión
 Si después de completar el bloque introductorio, quieres continuar, te encontrarás con que hemos agrupado todo en función de **habilidades concretas** de cada área. Así, para cada habilidad, te encontrarás con módulos que cubren aspectos específicos de la habilidad, y retos o actividades que es lo que irás completando poco a poco para conseguir desarrollar la habilidad indicada.
 
 Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o muñeca rusa 🪆
+
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/metodolog_02.png)
 
 ---
 
@@ -74,7 +76,7 @@ Cada reto aborda una sola meta de aprendizaje, pero es posible que haya más de 
 
 ### Pongamos todo junto en un ejemplo
 
-Supongamos que quieres desarrollar la habilidad de andar en bicicleta. Para conseguirlo, deberás completar pasos intermedios que te llevarán, poco a poco, a la construcción y desarrollo de la habilidad. El área o campo se vería algo así:
+Supongamos que te quieres convertir en ciclista. Para conseguirlo, deberás completar pasos intermedios que te llevarán, poco a poco, a la construcción y desarrollo de las habilidades. El área o campo se vería algo así:
 
 ##### Bloque introductorio
 

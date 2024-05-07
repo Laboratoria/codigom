@@ -3,13 +3,10 @@
 ## Bienvenida:
 
 * [Inicio](README.md)
-* [¿Cómo voy a aprender?](curriculum_model/lea_model_01_overview.md)
 
 ## Metodología de aprendizaje
 
-### Bloque Introductorio. Indispensable
-
-Indispensable para comenzar
+**[Introductorio: ¿Cómo voy a aprender?](curriculum_model/lea_model_01_overview.md)**
 
 - [La transformación del trabajo y las oportunidades](curriculum_model/lea_model_02_work.md)
 - [El mito de los promedios](curriculum_model/lea_model_03_average.md)
@@ -19,19 +16,33 @@ Indispensable para comenzar
 
 ## Habilidades transversales o _core skills_
 
-Módulo 1: Lo indispensable para comenzar
+Introductorio: Módulo 1: Lo indispensable para comenzar
 
-* [Autoconocimiento](curriculum_lif/learning_lif_selfawareness.md)
-* [Trabajo en equipo](curriculum_lif/learning_lif_teamwork.md)
-* [Bienestar digital](curriculum_lif/learning_lif_digital_wb_intro.md)
+- [Autoconocimiento](curriculum_lif/learning_lif_selfawareness.md)
+- [Trabajo en equipo](curriculum_lif/learning_lif_teamwork.md)
+- [Bienestar](curriculum_lif/learning_lif_digital_wb_intro.md)
 
 ## Desarrollo Web
 
-* [Introducción]()
-  
-  [CodePen](curriculum_dev/editors_codepen.md)
-  
-  * [Error de DOCTYPE](curriculum_dev/editors_codepen_doctype.md)
+### Bloque Introductorio
+
+**[Módulo 1: Todo sobre el desarrollo Web](https://laboratoria1.gitbook.io/codigom)**
+
+- Entendiendo Internet y la Web 
+- Qué es el desarrollo web front-end y qué es el back-end
+- El Impacto del Desarrollo Web en la Vida Cotidiana
+- Tendencias Actuales y Futuras en el Desarrollo Web
+- Herramientas y Tecnologías básicas del Desarrollo Web
+
+**[Módulo 2: Tu primera web con estilos básicos]()**
+
+- Reto 2.1: Mi Primera Página HTML
+- Reflexiona y comenta
+
+### 🔵 Habilidad (H): Maquetación Web, básica
+
+- [CodePen](curriculum_dev/editors_codepen.md)
+* [Error de DOCTYPE](curriculum_dev/editors_codepen_doctype.md)
 
 * [HTML](curriculum_dev/html.md)
 

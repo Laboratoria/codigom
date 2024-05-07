@@ -32,7 +32,7 @@ Por eso, en lugar de que tengas "contenido" o "materia" que debes leer y memoriz
 
 ## Neuroplasticidad y mentalidad de crecimiento
 
-Algunas décadas atrás, los científicos todavía pensaban que un cerebro maduro era “estático” y, por lo tanto, incapaz de cambiar. Hoy sabemos que nuestros [cerebros y sistemas nerviosos cambian constantemente](https://www.cognifit.com/es/plasticidad-cerebral), en función y forma, hasta que morimos; es un proceso dinámico de aprendizaje y adaptación en base a nuestras experiencias. Dos casos excepcionalmente demostrativos son: el cambio en tamaño del [hipocampo de conductores de taxi londinenses](https://www.ncbi.nlm.nih.gov/pubmed/17024677), que deben conocer y memorizar miles de calles, en comparación con conductores de autobuses que hacen siempre la misma ruta, y los [cambios de tamaño y forma en los cerebros de personas que comienzan a meditar](https://www.washingtonpost.com/news/inspired-life/wp/2015/05/26/harvard-neuroscientist-meditation-not-only-reduces-stress-it-literally-changes-your-brain/), en tan sólo 8 semanas. Ese cambio, no obstante, no es lineal ni predecible, es un proceso que requiere humildad, disciplina y paciencia.
+Algunas décadas atrás, los científicos todavía pensaban que un cerebro maduro era “estático” y, por lo tanto, incapaz de cambiar. Hoy sabemos que **nuestros cerebros y sistemas nerviosos cambian constantemente**, en función y forma, hasta que morimos; es un proceso dinámico de aprendizaje y adaptación en base a nuestras experiencias. Dos casos excepcionalmente demostrativos son: el **cambio en tamaño del hipocampo de conductores de taxi londinenses**, que deben conocer y memorizar miles de calles, en comparación con conductores de autobuses que hacen siempre la misma ruta, y los [cambios de tamaño y forma en los cerebros de personas que comienzan a meditar], en tan sólo 8 semanas. Ese cambio, no obstante, no es lineal ni predecible, es un proceso que requiere humildad, disciplina y paciencia.
 
 ![](../assets/2024-03-07-16-25-59-image.png)
 
@@ -55,3 +55,11 @@ Además, ¡no te olvides que estarás rodeada de mujeres con perfiles diversos q
 > 💬 [Comenta en Discord:](https://discord.com/channels/1209273049304666113/1215446781375160360) ¿Qué conflictos se acaban de generar en tu 🧠? Comenta la idea que más pensamientos te produjo, para bien o para mal. 
 
 --- 
+
+Opcional si quieres profundizar por tu cuenta:
+
+- :seedling: 📄 [Plasticidad Cerebral y Neuronal, Neurogénesis. Neuroplasticidad ejercicios mentales](https://www.cognifit.com/es/plasticidad-cerebral)
+
+- :seedling: 📄 [London taxi drivers and bus drivers: a structural MRI and neuropsychological analysis - PubMed](https://pubmed.ncbi.nlm.nih.gov/17024677/)
+
+- :seedling: 📺 [La neurociencia de la meditación. Nazareth Castellanos, neurocientífica - YouTube](https://youtu.be/5xOGYn0KvnU?si=dqc30-UOAI_f24ag)
