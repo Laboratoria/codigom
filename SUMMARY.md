@@ -1,18 +1,20 @@
-# Table of contents
+# Summary​
 
-## Bienvenida:
+## Bienvenida​
 
 * [Inicio](README.md)
+
+## Metodología de aprendizaje​
+
+* [Introductorio: ¿Cómo voy a aprender?](curriculum_model/lea_model_01_overview.md)
+	* [La transformación del trabajo y las oportunidades](curriculum_model/lea_model_02_work.md)
+    * [El mito de los promedios](curriculum_model/lea_model_03_average.md)
+    * [Filosofía de aprendizaje](curriculum_model/lea_model_04_philosophy.md)
+    * [IA como herramienta de aprendizaje](curriculum_model/lea_model_05_ai.md)
+    * [Evaluaciones](curriculum_model/lea_model_06_assessment.md)
+
 ---
 
-## Metodología de aprendizaje
-
-**[Introductorio: ¿Cómo voy a aprender?](curriculum_model/lea_model_01_overview.md)**
-- [La transformación del trabajo y las oportunidades](curriculum_model/lea_model_02_work.md)
-- [El mito de los promedios](curriculum_model/lea_model_03_average.md)
-- [Filosofía de aprendizaje](curriculum_model/lea_model_04_philosophy.md)
-- [IA como herramienta de aprendizaje](curriculum_model/lea_model_05_ai.md)
-- [Evaluaciones](curriculum_model/lea_model_06_assessment.md)
 
 ## Habilidades transversales o _core skills_
 Introductorio: Módulo 1: Lo indispensable para comenzar
@@ -46,17 +48,4 @@ Introductorio: Módulo 1: Lo indispensable para comenzar
 ---
 
 
-‌‌# Summary​
-
-## Bienvenida​
-
-* [Inicio](README.md)
-
-## Metodología de aprendizaje​
-
-* [Introductorio: ¿Cómo voy a aprender?](curriculum_model/lea_model_01_overview.md)
-  * [La transformación del trabajo y las oportunidades](curriculum_model/lea_model_02_work.md)
-  * [El mito de los promedios](curriculum_model/lea_model_03_average.md)
-  * [Filosofía de aprendizaje](curriculum_model/lea_model_04_philosophy.md)
-  * [IA como herramienta de aprendizaje](curriculum_model/lea_model_05_ai.md)
-  * [Evaluaciones](curriculum_model/lea_model_06_assessment.md)
+‌‌
