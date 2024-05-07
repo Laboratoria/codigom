@@ -25,3 +25,12 @@ Buscamos informar y ayudar a participante a responder:
 5. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan en esta disciplina? Saber con qué se trabajará puede afectar el interés y la disposición a aprender. Link con Módulo 2, transición.
 
 Módulo 2 (6 hrs): Conocimiento fundamental  (lecturas, videos, etc + reflexión y participación en comentarios, foros, etc.) + Aplicación 1 reto/micro-proyecto autocontenido de no más de 3 hrs**
+
+# Expandable blocks
+
+<details>
+<summary>Expandable block</summary>
+  algo
+  algo 2
+  algo 3
+</details>
