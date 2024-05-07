@@ -15,13 +15,14 @@
 
 ## 🌈 Habilidades transversales o core skills
 
-* [Introducción: Lo indispensable para comenzar](curriculum_lif/lea_lif_overview.md)
-  * [Autoconocimiento](curriculum_lif/self_awareness/learning_lif_selfawareness.md)
-  * [Trabajo en equipo](curriculum_lif/teamwork/learning_lif_teamwork.md)
-  * [Bienestar](curriculum_lif/wellbeign/learning_lif_digital_wb_intro.md)
-  * [Reflexiona y comenta](curriculum_lif/learning_lif_digital_wb_intro.md)
-* Bienestar digital (en prep...)
-* Finanzas personales (en prep...)
+* [Lo indispensable para comenzar]
+	*
+    * [Autoconocimiento](curriculum_lif/self_awareness/learning_lif_selfawareness.md)
+    * [Trabajo en equipo](curriculum_lif/teamwork/learning_lif_teamwork.md)
+    * [Bienestar](curriculum_lif/wellbeign/learning_lif_digital_wb_intro.md)
+    * [Reflexiona y comenta](curriculum_lif/learning_lif_digital_wb_intro.md)
+  * Bienestar digital (en prep...)
+  * Finanzas personales (en prep...)
 
 ## 🔵 Desarrollo Web
 
@@ -30,15 +31,15 @@
 Bloque Introductorio
 
 * [Módulo 1: Todo sobre el desarrollo Web](https://laboratoria1.gitbook.io/codigom)
-  * Entendiendo Internet y la Web 
-  * Qué es el desarrollo web front-end y qué es el back-end
-  * El Impacto del Desarrollo Web en la Vida Cotidiana
-  * Tendencias Actuales y Futuras en el Desarrollo Web
-  * Herramientas y Tecnologías básicas del Desarrollo Web
+    * Entendiendo Internet y la Web 
+    * Qué es el desarrollo web front-end y qué es el back-end
+    * El Impacto del Desarrollo Web en la Vida Cotidiana
+    * Tendencias Actuales y Futuras en el Desarrollo Web
+    * Herramientas y Tecnologías básicas del Desarrollo Web
 
 * [Módulo 2: Tu primera web con estilos básicos y reflexión final]()
-  * Reto 2.1: Mi Primera Página HTML
-  * Reflexiona y comenta
+    * Reto 2.1: Mi Primera Página HTML
+    * Reflexiona y comenta
 
 ### Habilidad (H): Maquetación Web, básica
 
