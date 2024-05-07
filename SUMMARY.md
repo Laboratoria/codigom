@@ -14,7 +14,7 @@
 * [Evaluaciones](curriculum_model/lea_model_06_assessment.md)
 
 ## Habilidades transversales o core skills
-Lo indispensable para comenzar
+* Lo indispensable para comenzar
     * [Autoconocimiento](curriculum_lif/learning_lif_selfawareness.md)
     * [Trabajo en equipo](curriculum_lif/learning_lif_teamwork.md)
     * [Bienestar](curriculum_lif/learning_lif_digital_wb_intro.md)
