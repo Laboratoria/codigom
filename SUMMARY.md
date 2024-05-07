@@ -15,7 +15,7 @@
 
 ## 🌈 Habilidades transversales o core skills
 
-* Lo indispensable para comenzar
+* [Introducción: Lo indispensable para comenzar](curriculum_lif/lea_lif_overview.md)
   * [Autoconocimiento](curriculum_lif/self_awareness/learning_lif_selfawareness.md)
   * [Trabajo en equipo](curriculum_lif/teamwork/learning_lif_teamwork.md)
   * [Bienestar](curriculum_lif/wellbeign/learning_lif_digital_wb_intro.md)
@@ -25,11 +25,11 @@
 
 ## 🔵 Desarrollo Web
 
-[Intro text:](https://laboratoria1.gitbook.io/codigom)
+[Inicio y ruta de aprendizaje](/curriculum_dev/lea_dev_overview.md)
 
 ### Bloque Introductorio
 
-**[Módulo 1: Todo sobre el desarrollo Web](https://laboratoria1.gitbook.io/codigom)**
+[Módulo 1: Todo sobre el desarrollo Web](https://laboratoria1.gitbook.io/codigom)
 
 - Entendiendo Internet y la Web 
 - Qué es el desarrollo web front-end y qué es el back-end
@@ -37,7 +37,7 @@
 - Tendencias Actuales y Futuras en el Desarrollo Web
 - Herramientas y Tecnologías básicas del Desarrollo Web
 
-**[Módulo 2: Tu primera web con estilos básicos y reflexión final]()**
+[Módulo 2: Tu primera web con estilos básicos y reflexión final]()
 
 - Reto 2.1: Mi Primera Página HTML
 - Reflexiona y comenta
