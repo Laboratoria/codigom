@@ -13,16 +13,16 @@
 * [IA como herramienta de aprendizaje](curriculum_model/lea_model_05_ai.md)
 * [Evaluaciones](curriculum_model/lea_model_06_assessment.md)
 
-## Habilidades transversales o _core skills_
+## Habilidades transversales o core skills
 Lo indispensable para comenzar
     * [Autoconocimiento](curriculum_lif/learning_lif_selfawareness.md)
     * [Trabajo en equipo](curriculum_lif/learning_lif_teamwork.md)
     * [Bienestar](curriculum_lif/learning_lif_digital_wb_intro.md)
-    * [Reflexiona y comenta](https://laboratoria1.gitbook.io/codigom)
-* [Bienestar digital](/)
+    * [Reflexiona y comenta](curriculum_lif/learning_lif_digital_wb_intro.md)
+* Bienestar digital(TBD)
+* Finanzas personales(TBD)
 
-
-## Desarrollo Web​
+## Desarrollo Web
 [Intro text:](https://laboratoria1.gitbook.io/codigom)
 
 ### Bloque Introductorio
