@@ -15,20 +15,20 @@
 
 ## 🌈 Habilidades transversales o core skills
 
-* [Lo indispensable para comenzar]
+* Lo indispensable para comenzar
 	* [Introducción](curriculum_lif/lea_lif_overview.md)
     * [Autoconocimiento](curriculum_lif/self_awareness/learning_lif_selfawareness.md)
     * [Trabajo en equipo](curriculum_lif/teamwork/learning_lif_teamwork.md)    
 	* [Bienestar](curriculum_lif/wellbeign/learning_lif_digital_wb_intro.md)
 	* [Reflexiona y comenta](curriculum_lif/learning_lif_digital_wb_intro.md)
-* [Bienestar digital (en prep...)](tmp.md)
-* [Finanzas personales (en prep...)](tmp.md)
+* Bienestar digital (en prep...)
+* Finanzas personales (en prep...)
 
 ## 🔵 Desarrollo Web
 
 * [Inicio y ruta de aprendizaje](/curriculum_dev/lea_dev_overview.md)
 
-Bloque Introductorio
+* Bloque Introductorio
 
 * [Módulo 1: Todo sobre el desarrollo Web](https://laboratoria1.gitbook.io/codigom)
     * Entendiendo Internet y la Web 
