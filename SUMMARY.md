@@ -28,27 +28,27 @@
 
 * [Inicio y ruta de aprendizaje](/curriculum_dev/lea_dev_overview.md)
 
-* Bloque Introductorio
+  * Bloque Introductorio
 
-* [Módulo 1: Todo sobre el desarrollo Web](https://laboratoria1.gitbook.io/codigom)
-    * Entendiendo Internet y la Web 
-    * Qué es el desarrollo web front-end y qué es el back-end
-    * El Impacto del Desarrollo Web en la Vida Cotidiana
-    * Tendencias Actuales y Futuras en el Desarrollo Web
-    * Herramientas y Tecnologías básicas del Desarrollo Web
+  * [Módulo 1: Todo sobre el desarrollo Web](https://laboratoria1.gitbook.io/codigom)
+      * Entendiendo Internet y la Web 
+      * Qué es el desarrollo web front-end y qué es el back-end
+      * El Impacto del Desarrollo Web en la Vida Cotidiana
+      * Tendencias Actuales y Futuras en el Desarrollo Web
+      * Herramientas y Tecnologías básicas del Desarrollo Web
 
-* [Módulo 2: Tu primera web con estilos básicos y reflexión final]()
-    * Reto 2.1: Mi Primera Página HTML
-    * Reflexiona y comenta
+  * [Módulo 2: Tu primera web con estilos básicos y reflexión final]()
+      * Reto 2.1: Mi Primera Página HTML
+      * Reflexiona y comenta
 
-### Habilidad (H): Maquetación Web, básica
+  * Habilidad (H): Maquetación Web, básica
 
-* [CodePen](curriculum_dev/editors_codepen.md)
-* [Error de DOCTYPE](curriculum_dev/editors_codepen_doctype.md)
-* [HTML](curriculum_dev/html.md)
-* [HTML Semántico](curriculum_dev/html_semantic.md)
-* [HTML Formularios](curriculum_dev//html_forms.md)
-* [CSS](curriculum_dev/css.md)
+      * [CodePen](curriculum_dev/editors_codepen.md)
+      * [Error de DOCTYPE](curriculum_dev/editors_codepen_doctype.md)
+      * [HTML](curriculum_dev/html.md)
+      * [HTML Semántico](curriculum_dev/html_semantic.md)
+      * [HTML Formularios](curriculum_dev//html_forms.md)
+      * [CSS](curriculum_dev/css.md)
 
 ---
 
