@@ -38,7 +38,7 @@
     * [Tendencias actuales y futuras en el Desarrollo Web](/activities/00_01_04_dev_trends.md)
     * [Herramientas y tecnologías básicas del Desarrollo Web](/activities/00_01_05_dev_tools.md)
   
-  * Módulo 2: Tu primera web con estilos básicos
+  * Módulo 2: Tu primera web
     
     * [Reto: Mi Primera Página HTML](/activities/00_02_01_myfirst.md)
     * [Reflexiona y comenta](/activities/00_02_02_close.md)
