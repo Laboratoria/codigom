@@ -26,7 +26,7 @@ Buscamos informar y ayudar a participante a responder:
 
 Módulo 2 (6 hrs): Conocimiento fundamental  (lecturas, videos, etc + reflexión y participación en comentarios, foros, etc.) + Aplicación 1 reto/micro-proyecto autocontenido de no más de 3 hrs**
 
-# Expandable blocks
+# Rutas
 
 <details>
 <summary>🔵 Bloque Introductorio</summary>
