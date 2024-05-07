@@ -44,3 +44,19 @@ Introductorio: Módulo 1: Lo indispensable para comenzar
 - [HTML Formularios](curriculum_dev//html_forms.md)
 - [CSS](curriculum_dev/css.md)
 ---
+
+
+‌‌# Summary​
+
+## Bienvenida​
+
+* [Inicio](README.md)
+
+## Metodología de aprendizaje​
+
+* [Introductorio: ¿Cómo voy a aprender?](curriculum_model/lea_model_01_overview.md)
+  * [La transformación del trabajo y las oportunidades](curriculum_model/lea_model_02_work.md)
+  * [El mito de los promedios](curriculum_model/lea_model_03_average.md)
+  * [Filosofía de aprendizaje](curriculum_model/lea_model_04_philosophy.md)
+  * [IA como herramienta de aprendizaje](curriculum_model/lea_model_05_ai.md)
+  * [Evaluaciones](curriculum_model/lea_model_06_assessment.md)
