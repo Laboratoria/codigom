@@ -40,7 +40,7 @@
   
   * Módulo 2: Tu primera web con estilos básicos
     
-    * [Reto 2.1: Mi Primera Página HTML](/activities/00_02_01_myfirst.md)
+    * [Reto: Mi Primera Página HTML](/activities/00_02_01_myfirst.md)
     * [Reflexiona y comenta](/activities/00_02_02_close.md)
   
   * Habilidad (H): Maquetación Web, básica
