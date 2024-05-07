@@ -14,13 +14,13 @@
 * [Evaluaciones](curriculum_model/lea_model_06_assessment.md)
 
 ## Habilidades transversales o _core skills_​
-* [Introductorio: Lo indispensable para comenzar](https://laboratoria1.gitbook.io/codigom)
+* [Introductorio: Lo indispensable para comenzar]()
     * [Autoconocimiento](curriculum_lif/learning_lif_selfawareness.md)
     * [Trabajo en equipo](curriculum_lif/learning_lif_teamwork.md)
     * [Bienestar](curriculum_lif/learning_lif_digital_wb_intro.md)
     * [Reflexiona y comenta](https://laboratoria1.gitbook.io/codigom)
 
-## Desarrollo Web
+## Desarrollo Web​
 [Intro text:](https://laboratoria1.gitbook.io/codigom)
 
 ### Bloque Introductorio
