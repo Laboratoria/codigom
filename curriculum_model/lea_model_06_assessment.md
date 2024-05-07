@@ -2,6 +2,12 @@
 
 **Tiempo :stopwatch: :** 5min
 
+---
+
+> :headphones: Recuerda que puedes usar la extensión de [Speechify](https://speechify.com/es/extension-de-chrome/) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
+
+---
+
 ## Introducción
 
 Poner en práctica tu capacidad de evaluar, no sólo refuerza tus habilidades prácticas, sino que también potencia **capacidades cognitivas** cruciales. Este proceso te permite desarrollar una **metacognición** efectiva, es decir, tu habilidad de observar críticamente el proceso de aprendizaje y el trabajo hecho, y a pensar de manera analítica. 

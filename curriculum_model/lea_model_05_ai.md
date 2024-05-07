@@ -1,6 +1,12 @@
 # IA como herramienta de aprendizaje
 
-**Tiempo :stopwatch: :** 10min
+**Tiempo :stopwatch: :** 20min
+
+---
+
+> :headphones: Recuerda que puedes usar la extensión de [Speechify](https://speechify.com/es/extension-de-chrome/) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
+
+---
 
 Úsalas a tu favor (para aprender realmente) y no en tu contra (para tener sólo la ilusión del aprendizaje).
 

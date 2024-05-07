@@ -12,7 +12,7 @@ A la gran mayoría nos "educaron"" para seguir instrucciones, a callar mientras 
 
 ## Tú, estudiante, eres el centro
 
-Nuestra filosofía de aprendizaje cambia el tradicional paradigma de “yo te enseño” a “yo aprendo”. Ya hemos hablado de la importancia del desarrollo de habilidades de largo plazo como aprender a aprender para acceder a [trabajos que no están en desaparición](learning_model_work.md).
+Nuestra filosofía de aprendizaje cambia el tradicional paradigma de “yo te enseño” a “yo aprendo”. Ya hemos hablado de la importancia del desarrollo de habilidades de largo plazo como aprender a aprender para acceder a [trabajos que no están en desaparición](lea_model_02_work.md).
 
 ![](../assets/2024-03-07-16-22-25-image.png)
 
