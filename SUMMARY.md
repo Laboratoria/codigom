@@ -27,7 +27,7 @@
 
 * [Inicio y ruta de aprendizaje](/curriculum_dev/lea_dev_overview.md)
 
-### Bloque Introductorio
+Bloque Introductorio
 
 * [Módulo 1: Todo sobre el desarrollo Web](https://laboratoria1.gitbook.io/codigom)
   * Entendiendo Internet y la Web 
@@ -36,7 +36,7 @@
   * Tendencias Actuales y Futuras en el Desarrollo Web
   * Herramientas y Tecnologías básicas del Desarrollo Web
 
-[Módulo 2: Tu primera web con estilos básicos y reflexión final]()
+* [Módulo 2: Tu primera web con estilos básicos y reflexión final]()
   * Reto 2.1: Mi Primera Página HTML
   * Reflexiona y comenta
 
