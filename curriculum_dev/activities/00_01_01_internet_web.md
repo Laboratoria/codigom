@@ -1,7 +1,5 @@
 # Entendiendo Internet y la Web
 
-**
-
 Antes de sumergirnos en el fascinante mundo del desarrollo web, es crucial entender dos conceptos fundamentales: Internet y la World Wide Web (WWW). A menudo, se usan indistintamente, pero tienen significados y funciones distintas. Aquí te explicaremos las diferencias clave entre ambas:
 
 ### ¿Qué es la World Wide Web?
@@ -19,5 +17,3 @@ Los navegadores web son aplicaciones que utilizamos para acceder a la WWW a trav
 ### Conclusión
 
 Entender la diferencia entre Internet y la WWW es esencial para comprender cómo funciona la comunicación en línea y el desarrollo web. Mientras que Internet es la infraestructura global que conecta dispositivos, la WWW es la parte de Internet que permite acceder a documentos y recursos a través de navegadores web. A medida que te adentres en el mundo del desarrollo web, comprenderás cómo estas dos entidades trabajan juntas para ofrecer la experiencia digital que conocemos hoy en día.
-
-**
