@@ -22,7 +22,7 @@ Introductorio: Módulo 1: Lo indispensable para comenzar
 ---
 
 ## Desarrollo Web
-Intro text: 
+[Intro text:](https://laboratoria1.gitbook.io/codigom)
 
 ### Bloque Introductorio
 **[Módulo 1: Todo sobre el desarrollo Web](https://laboratoria1.gitbook.io/codigom)**
