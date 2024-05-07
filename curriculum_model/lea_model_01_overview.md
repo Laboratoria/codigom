@@ -16,7 +16,7 @@ Por otro lado, es importante que sepas que hay muchas razones por las que creemo
 
 ## Estructura
 
-![](/home/diegovelezg/Documentos/GitHub/codigom/assets/metodolog_01.png)
+![](../assets/metodolog_01.png)
 
 ### Bloque introductorio
 
@@ -36,7 +36,7 @@ Si después de completar el bloque introductorio, quieres continuar, te encontra
 
 Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o muñeca rusa 🪆
 
-![](/home/diegovelezg/Documentos/GitHub/codigom/assets/metodolog_02.png)
+![](../assets/metodolog_02.png)
 
 ---
 

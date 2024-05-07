@@ -29,7 +29,9 @@
 * [Inicio y ruta de aprendizaje](curriculum_dev/lea_dev_overview.md)
 
 * Bloque Introductorio
+  
   * [Módulo 1: Todo sobre el desarrollo Web](curriculum_dev/activities/00_01_00_all_about.md)
+    
     * [Entendiendo Internet y la Web](curriculum_dev/activities/00_01_01_internet_web.md)
     * [Qué es el desarrollo web front-end y qué es el back-end](curriculum_dev/activities/00_01_02_web_dev.md)
     * [El impacto del Desarrollo Web en la vida cotidiana](curriculum_dev/activities/00_01_03_dev_life.md)
@@ -37,10 +39,12 @@
     * [Herramientas y tecnologías básicas del Desarrollo Web](curriculum_dev/activities/00_01_05_dev_tools.md)
   
   * Módulo 2: Tu primera web 
+    
     * [Reto: Mi Primera Página HTML](curriculum_dev/activities/00_02_01_myfirst.md)
     * [Reflexiona y comenta](curriculum_dev/activities/00_02_02_close.md)
 
 * Habilidad (H): Maquetación Web, básica
+  
   * 🔷 Módulo 1 : Tu primera web con estilos básicos
     * 🔹Reto 1.1 : Mi Primera Página HTML
     * 🔹Reto 1.2 : Agregando estilos con CSS
@@ -53,6 +57,7 @@
   * 🔷 Módulo 4 : Programar sin escribir código (en prep...)
 
 * Tópicos
+  
   * [CodePen](curriculum_dev/topics/editors_codepen.md)
   * [Error de DOCTYPE](curriculum_dev/topics/editors_codepen_doctype.md)
   * [HTML](curriculum_dev/topics/html.md)

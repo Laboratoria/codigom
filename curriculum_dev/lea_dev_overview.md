@@ -29,8 +29,13 @@ Módulo 2 (6 hrs): Conocimiento fundamental  (lecturas, videos, etc + reflexió
 # Expandable blocks
 
 <details>
-<summary>Expandable block</summary>
-  algo
-  algo 2
-  algo 3
+<summary>🔵 Bloque Introductorio</summary>
+</details>
+
+<details>
+<summary>🔵 Habilidad (H): Maquetación Web, básica</summary>
+</details>
+
+<details>
+<summary>🔵 Habilidad (H): Funcionalidad Web, básica</summary>
 </details>
