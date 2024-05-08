@@ -15,11 +15,13 @@ En resumen, ofrece una variedad de roles y especializaciones que pueden adaptars
 ## Ruta: Desarrollo Web Front-end
 
 <details>
-<summary>🔵 Bloque Introductorio</summary>
+<summary>[🔵 Bloque Introductorio](00_01_00_all_about.md)</summary>
 
 Diseñado para darte una visión clara y concreta, en un formato flexible y con poco compromiso. En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios y tendrás la oportunidad de poner en práctica lo aprendido en un reto o mini proyecto.
 
-Módulo 1: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión. Buscamos acercarte respuestas simples y breves a las preguntas:
+**[Módulo 1](00_01_01_internet_web.md)**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión. 
+
+Buscamos acercarte respuestas simples y breves a las preguntas:
 
 1. ¿Qué es exactamente esta disciplina?
 2. ¿Para qué sirve en la vida cotidiana de la gente?
@@ -27,7 +29,9 @@ Módulo 1: Conocimiento fundamental en formato de lecturas, videos, etc. + refle
 4. ¿Cuáles son las perspectivas de futuro?
 5. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan?
 
-Módulo 2: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión + trabajo en un reto práctico. Buscamos permitirte la aplicación de lo aprendido y tu reflexión sobre tu propio proceso de autoaprendizaje y motivación para continuar.
+**[Módulo 2](00_02_01_myfirst.md)**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión + trabajo en un reto práctico. 
+
+Buscamos permitirte la aplicación de lo aprendido y tu reflexión sobre tu propio proceso de autoaprendizaje y motivación para continuar.
 
 </details>
 
@@ -48,3 +52,5 @@ Lo que aprenderás:
   en preparación....
 
 </details>
+
+<a ref="discord://discord.com/channels/1209273049304666113/1209273050076291097">Únete a nuestro Discord</a>
