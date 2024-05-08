@@ -1,4 +1,4 @@
-# DEV-Intro
+# Desarrollo Web
 
 ¡Bienvenida a tu primer paso en un viaje de descubrimiento y aprendizaje! 
 
@@ -12,17 +12,7 @@ Te proponemos algo para lo que no requieres un GRAN compromiso de ningún tipo. 
 
 - Módulo 1 (4 hrs): Información-contexto. Las actividades son del tipo lecturas, videos, reflexión y participación en comentarios, foros, etc. Cada una gatilla con preguntas, invita a comentar, etc.
 
-Buscamos informar y ayudar a participante a responder:
 
-1. ¿Qué es exactamente esta disciplina? Definición clara y precisa. Qué estudia o qué problemas busca resolver.
-
-2. ¿Para qué sirve en la vida cotidiana de la gente? Explicación de cómo los resultados o aplicaciones impactan directamente en la vida diaria de las personas, tanto a nivel individual como comunitario.
-
-3. ¿Qué hace alguien que se dedica a esto? Ejemplo específico. Descripción de un día típico o de las tareas comunes que realiza una profesional en este campo.
-
-4. ¿Cuáles son las perspectivas de futuro para esta disciplina? Información sobre las tendencias de crecimiento, innovación y evolución dentro de la disciplina, incluyendo cómo podría cambiar en los próximos años.
-
-5. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan en esta disciplina? Saber con qué se trabajará puede afectar el interés y la disposición a aprender. Link con Módulo 2, transición.
 
 Módulo 2 (6 hrs): Conocimiento fundamental  (lecturas, videos, etc + reflexión y participación en comentarios, foros, etc.) + Aplicación 1 reto/micro-proyecto autocontenido de no más de 3 hrs**
 
@@ -30,6 +20,17 @@ Módulo 2 (6 hrs): Conocimiento fundamental  (lecturas, videos, etc + reflexió
 
 <details>
 <summary>🔵 Bloque Introductorio</summary>
+Buscamos informar y ayudar a participante a responder:
+
+1. ¿Qué es exactamente esta disciplina? Definición clara y precisa. Qué estudia o qué problemas busca resolver.
+  
+2. ¿Para qué sirve en la vida cotidiana de la gente? Explicación de cómo los resultados o aplicaciones impactan directamente en la vida diaria de las personas, tanto a nivel individual como comunitario.
+  
+3. ¿Qué hace alguien que se dedica a esto? Ejemplo específico. Descripción de un día típico o de las tareas comunes que realiza una profesional en este campo.
+  
+4. ¿Cuáles son las perspectivas de futuro para esta disciplina? Información sobre las tendencias de crecimiento, innovación y evolución dentro de la disciplina, incluyendo cómo podría cambiar en los próximos años.
+  
+5. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan en esta disciplina? Saber con qué se trabajará puede afectar el interés y la disposición a aprender. Link con Módulo 2, transición.
 </details>
 
 <details>
