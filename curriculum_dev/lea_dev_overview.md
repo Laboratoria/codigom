@@ -1,42 +1,50 @@
 # Desarrollo Web
 
-¡Bienvenida a tu primer paso en un viaje de descubrimiento y aprendizaje! 
+**Tiempo:** :stopwatch: 5min
 
-En este primer bloque introductorio en Discord, hemos considerado precisamente estas prioridades. Te proporcionamos una plataforma para explorar a tu propio ritmo, iniciando con tareas y proyectos que fomentan el aprendizaje autodirigido y práctico.
+El desarrollo web es la disciplina dedicada a la creación, mantenimiento y optimización de soluciones digitales que operan a través de la web. Esto abarca desde sitios web hasta aplicaciones complejas y servicios que facilitan interacciones digitales en múltiples plataformas, no solo entre personas y computadoras, sino también exclusivamente entre computadoras y otros dispositivos.
 
-Este módulo no solo introduce la disciplina de forma clara y aplicable, sino que también está diseñado para ser inclusivo y accesible para todas, respetando la diversidad y promoviendo un ambiente de aprendizaje seguro y acogedor para personas con distintas capacidades cognitivas. Al final de estas dos semanas, tendrás una mejor idea de cómo estas disciplinas pueden encajar en tu vida, ayudándote a decidir si deseas profundizar más en este campo de estudio.
+Esta disciplina es fundamental para la sociedad y la economía modernas, ya que no solo facilita la presencia digital y la conexión entre organizaciones y consumidores de todo el mundo, sino que también asegura el funcionamiento óptimo de millones de dispositivos de diversas índoles en todo momento.
 
-Te proponemos algo para lo que no requieres un GRAN compromiso de ningún tipo. Para el tema que te interese, hay una “introducción” que te permitirá aprender lo elemental y, en consecuencia, decidir si quieres continuar. Características:
+El desarrollo web se caracteriza por su constante evolución. Nuevas herramientas, librerías, patrones de trabajo, tendencias, etc.  emergen regularmente, lo que requiere que las profesionales se mantengan actualizadas a través del **aprendizaje permanente**. Esta naturaleza dinámica del desarrollo web no sólo mantiene el campo vibrante y desafiante, sino que también crea constantemente oportunidades para el crecimiento profesional y la innovación.
 
-- Rango de tiempo estimado 2 semanas, a 5 hrs x semana (10 horas como máximo)
+En resumen, ofrece una variedad de roles y especializaciones que pueden adaptarse a diferentes intereses y habilidades, lo que la convierte en una carrera atractiva y prometedora. 
 
-- Módulo 1 (4 hrs): Información-contexto. Las actividades son del tipo lecturas, videos, reflexión y participación en comentarios, foros, etc. Cada una gatilla con preguntas, invita a comentar, etc.
+**Esfuerzo hasta la competencia mínima:** 😅😅😅😅😅
 
-
-
-Módulo 2 (6 hrs): Conocimiento fundamental  (lecturas, videos, etc + reflexión y participación en comentarios, foros, etc.) + Aplicación 1 reto/micro-proyecto autocontenido de no más de 3 hrs**
-
-# Rutas
+## Ruta: Desarrollo Web Front-end
 
 <details>
 <summary>🔵 Bloque Introductorio</summary>
-Buscamos informar y ayudar a participante a responder:
 
-1. ¿Qué es exactamente esta disciplina? Definición clara y precisa. Qué estudia o qué problemas busca resolver.
-  
-2. ¿Para qué sirve en la vida cotidiana de la gente? Explicación de cómo los resultados o aplicaciones impactan directamente en la vida diaria de las personas, tanto a nivel individual como comunitario.
-  
-3. ¿Qué hace alguien que se dedica a esto? Ejemplo específico. Descripción de un día típico o de las tareas comunes que realiza una profesional en este campo.
-  
-4. ¿Cuáles son las perspectivas de futuro para esta disciplina? Información sobre las tendencias de crecimiento, innovación y evolución dentro de la disciplina, incluyendo cómo podría cambiar en los próximos años.
-  
-5. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan en esta disciplina? Saber con qué se trabajará puede afectar el interés y la disposición a aprender. Link con Módulo 2, transición.
+Diseñado para darte una visión clara y concreta, en un formato flexible y con poco compromiso. En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios y tendrás la oportunidad de poner en práctica lo aprendido en un reto o mini proyecto.
+
+Módulo 1: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión. Buscamos acercarte respuestas simples y breves a las preguntas:
+
+1. ¿Qué es exactamente esta disciplina?
+2. ¿Para qué sirve en la vida cotidiana de la gente?
+3. ¿Qué hace exactamente alguien que se dedica a esto?
+4. ¿Cuáles son las perspectivas de futuro?
+5. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan?
+
+Módulo 2: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión + trabajo en un reto práctico. Buscamos permitirte la aplicación de lo aprendido y tu reflexión sobre tu propio proceso de autoaprendizaje y motivación para continuar.
+
 </details>
 
 <details>
 <summary>🔵 Habilidad (H): Maquetación Web, básica</summary>
+
+Lo que aprenderás:
+
+1. Desarrollar sitios web responsivos: Asegurando que se vean y funcionen bien en las pantallas de los dispositivos más comunes.
+
+2. Implementar Interfaces de Usuario (UI) Interactivas: Creación de elementos interactivos y dinámicos en una página (botones, formularios, etc.) para permitir interacciones específicas con las usuarias.
+
 </details>
 
 <details>
 <summary>🔵 Habilidad (H): Funcionalidad Web, básica</summary>
+
+  en preparación....
+
 </details>
