@@ -18,10 +18,6 @@ En resumen, ofrece una variedad de roles y especializaciones que pueden adaptars
 <summary>🔵 Bloque Introductorio</summary>
 
 [Ir a:](00_01_00_all_about.md)
-  
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
 
 Diseñado para darte una visión clara y concreta, en un formato flexible y con poco compromiso. En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios y tendrás la oportunidad de poner en práctica lo aprendido en un reto o mini proyecto.
 
