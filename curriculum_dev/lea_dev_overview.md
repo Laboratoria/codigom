@@ -15,11 +15,17 @@ En resumen, ofrece una variedad de roles y especializaciones que pueden adaptars
 ## Ruta: Desarrollo Web Front-end
 
 <details>
-<summary>[🔵 Bloque Introductorio](00_01_00_all_about.md)</summary>
+<summary>🔵 Bloque Introductorio</summary>
+
+[Ir a:](00_01_00_all_about.md)
+  
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
 
 Diseñado para darte una visión clara y concreta, en un formato flexible y con poco compromiso. En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios y tendrás la oportunidad de poner en práctica lo aprendido en un reto o mini proyecto.
 
-**[Módulo 1](00_01_01_internet_web.md)**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión. 
+**Módulo 1**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión. 
 
 Buscamos acercarte respuestas simples y breves a las preguntas:
 
@@ -29,7 +35,7 @@ Buscamos acercarte respuestas simples y breves a las preguntas:
 4. ¿Cuáles son las perspectivas de futuro?
 5. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan?
 
-**[Módulo 2](00_02_01_myfirst.md)**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión + trabajo en un reto práctico. 
+**Módulo 2**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión + trabajo en un reto práctico. 
 
 Buscamos permitirte la aplicación de lo aprendido y tu reflexión sobre tu propio proceso de autoaprendizaje y motivación para continuar.
 
