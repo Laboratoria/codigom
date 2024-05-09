@@ -26,17 +26,21 @@ Esto ignora el contexto en el que se desenvuelven estas habilidades. Puede ser q
 
 ![pasted image 0.png](../assets/lifeskills_dinamica.png)
 
-### Creencias
+### Pilares
+
+#### Creencias
 
 Desde pensar que el desarrollo del cerebro es fijo, que “no puedo” aprender tal o cual cosa, que las mujeres tal y los hombres tal otra, etc. Que el aprendizaje es lineal, que las calificaciones son una buena manera de representar el aprendizaje, que es “justo” que todas aprendamos lo mismo y al mismo tiempo, etc. Te invitamos a discutir y revisar muchas de estas creencias para ir construyendo ideas nuevas.
 
 Conceptos asociados: neuroplasticidad y “Mentalidad de Crecimiento”, autoeficacia, sesgos, carga cultural, género, etc.
 
-### Autoconocimiento (meta-habilidad)
+#### Autoconocimiento (meta-habilidad)
 
 El autoconocimiento (*self-awareness*) no solamente es un componente de la metacognición consciente sino que también puede ser visto como un resultado de la misma. Es la habilidad de examinar y entender quiénes somos en relación al dinámico mundo que nos rodea, nos permite controlar nuestro comportamiento y ajustar nuestras creencias, no solamente sobre nosotras mismas, sino que más importante aún, entre individuos.
 
 Conceptos asociados:  introspección, juicio/criterio, pensamiento crítico, autopercepción (sesgos inconscientes), propósito, *self-awareness*. metacognición.
+
+#### 
 
 ### Premisas sobre las habilidades
 

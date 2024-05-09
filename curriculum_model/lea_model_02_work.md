@@ -58,12 +58,10 @@ Piensa la cantidad inmensa de trabajo manual que se hace en miles de empleos y p
 
 --- 
 
-<small>
 Opcional si quieres profundizar por tu cuenta:
 
 :seedling: [Reporte del Foro Económico Mundial]([Futuro del empleo 2023: Estos son los trabajos en los que más aumenta o disminuye la demanda | Foro Económico Mundial](https://es.weforum.org/agenda/2023/05/futuro-del-empleo-2023-estas-son-las-funciones-que-mas-crecen-y-las-que-mas-disminuyen/) sobre el futuro del empleo y las habilidades más requeridas por las empresas.
 
 :seedling: En su libro "*Range: Why Generalists Triumph in a Specialized World*", de D. Epstein, argumenta que en un mundo hiperespecializado, las personas con amplios intereses y experiencias diversas (generalistas) a menudo tienen ventajas sobre los especialistas porque sobresalen en adaptabilidad, resolución de problemas complejos y pensamiento innovador.
-</small>
 
 ----
