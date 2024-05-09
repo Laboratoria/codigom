@@ -26,6 +26,8 @@ Cada actividad o reto contiene una **guía** que te permitirá evaluar si efecti
 
 Cuando hayas completado la autoevaluación, ya sabes que debes reaccionar con ✅ al enunciado. Recibirás una cantidad de 🍯 que representa la cantidad de aprendizaje conseguido por completar la actividad.
 
+Comparte la URL de tu trabajo en el hilo debajo del enunciado en Discord.
+
 ## 2. Agregar evaluación de pares
 
 No obstante, seguro te has encontrado con la incógnita de saber si interpretaste correctamente la guía de autoevaluación, si en tu trabajo hay algún error o fallo que no hayas detectado o simplemente buscas una confirmación que te permita continuar con más confianza.
@@ -36,7 +38,7 @@ Para responder estas incógnitas puedes optar, **además**, por recibir la evalu
 
 Sigue los siguientes pasos para participar de la dinámica:  
 
-1. Deja un comentario pidiendo evaluación y un enlace/liga al recurso para que todas puedan acceder. 
+1. Deja un mensaje según corresponda en 🔵[dev-ayuda](https://discord.com/channels/1209273049304666113/1210673338947739758) |🟢[noc-ayuda](https://discord.com/channels/1209273049304666113/1230553558823342120) | 🟠[dat-ayuda](https://discord.com/channels/1209273049304666113/1232000787719262270) pidiendo evaluaciónde una compañera y un enlace/liga al recurso para que todas puedan acceder. 
    
    <img title="" src="../assets/2024-04-24%2017-06-47.png" alt="" width="502">
    
