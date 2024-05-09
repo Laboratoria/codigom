@@ -16,9 +16,9 @@
 ## 🌈 Habilidades transversales o core skills
 
 * [Lo indispensable para comenzar](curriculum_lif/lea_lif_overview.md)
-  * [Autoconocimiento](curriculum_lif/self_awareness/learning_lif_selfawareness.md)
-  * [Trabajo en equipo](curriculum_lif/teamwork/learning_lif_teamwork.md)    
-  * [Bienestar](curriculum_lif/wellbeign/learning_lif_digital_wb_intro.md)
+  * [Autoconocimiento](curriculum_lif/self_awareness/lea_lif_selfawareness.md)
+  * [Trabajo en equipo](curriculum_lif/teamwork/lea_lif_teamwork.md)    
+  * [Bienestar](curriculum_lif/wellbeign/lea_lif_wellbeign_intro.md)
   * [Reflexiona y comenta](curriculum_lif/learning_lif_digital_wb_intro.md)
 * Bienestar digital (en prep...)
 * Finanzas personales (en prep...)
