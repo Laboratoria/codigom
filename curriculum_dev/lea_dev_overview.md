@@ -15,12 +15,11 @@ En resumen, ofrece una variedad de roles y especializaciones que pueden adaptars
 ## Ruta: Desarrollo Web Front-end
 
 <details>
-<summary>🔵 Bloque Introductorio</summary>
+<summary>🔵 Bloque Introductorio, indispensable</summary>
 
-[Ir a:](00_01_00_all_about.md)
-
-Diseñado para darte una visión clara y concreta, en un formato flexible y con poco compromiso. En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios y tendrás la oportunidad de poner en práctica lo aprendido en un reto o mini proyecto.
-
+Buscamos acercarte una visión clara y concreta, en un formato flexible y con poco compromiso. En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios y tendrás la oportunidad de poner en práctica lo aprendido en un reto o mini proyecto.
+  
+Lo que aprenderás:
 **Módulo 1**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión. 
 
 Buscamos acercarte respuestas simples y breves a las preguntas:
@@ -54,5 +53,3 @@ Lo que aprenderás:
   en preparación....
 
 </details>
-
-<a ref="discord://discord.com/channels/1209273049304666113/1209273050076291097">Únete a nuestro Discord</a>

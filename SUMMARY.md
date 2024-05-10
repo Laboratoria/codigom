@@ -19,6 +19,7 @@
 
 * Bloque Introductorio
   
+  * [Enfoque](curriculum_lif/lea_lif_enfoque.md)
   * [Autoconocimiento](curriculum_lif/self_awareness/lea_lif_selfawareness.md)
   * [Trabajo en equipo](curriculum_lif/teamwork/lea_lif_teamwork.md)    
   * [Bienestar](curriculum_lif/wellbeign/lea_lif_wellbeign_intro.md)
