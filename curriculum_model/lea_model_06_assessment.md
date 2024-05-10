@@ -38,13 +38,13 @@ Para responder estas incógnitas puedes optar, **además**, por recibir la evalu
 
 Sigue los siguientes pasos para participar de la dinámica:  
 
-1. Deja un mensaje según corresponda en 🔵[dev-ayuda](https://discord.com/channels/1209273049304666113/1210673338947739758) |🟢[noc-ayuda](https://discord.com/channels/1209273049304666113/1230553558823342120) | 🟠[dat-ayuda](https://discord.com/channels/1209273049304666113/1232000787719262270) pidiendo evaluaciónde una compañera y un enlace/liga al recurso para que todas puedan acceder. 
+1. Deja un mensaje según corresponda en 🔵[dev-ayuda](https://discord.com/channels/1209273049304666113/1210673338947739758) |🟢[noc-ayuda](https://discord.com/channels/1209273049304666113/1230553558823342120) | 🟠[dat-ayuda](https://discord.com/channels/1209273049304666113/1232000787719262270) pidiendo evaluaciónde una compañera y un enlace/liga al recurso para que todas puedan acceder.  
    
    <img title="" src="../assets/2024-04-24%2017-06-47.png" alt="" width="502">
    
    También puedes etiquetar o "arrobar" a la compañera de la que quieres recibir el la evaluación en particular.
-
-<img title="" src="../assets/2024-04-24%2017-09-04.png" alt="" width="507">
+   <img src="../assets/2024-04-24%2017-09-04.png" title="" alt="" width="489">
+   
 
 2. Cuando una compañera responda a tu mensaje podrás decidir si quieres recompensarla por su ayuda reaccionando a su respuesta con 🍯. De esa manera, das 5🍯 y ella recibe 8🍯.
    
