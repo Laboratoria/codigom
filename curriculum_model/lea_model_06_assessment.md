@@ -43,12 +43,13 @@ Sigue los siguientes pasos para participar de la dinámica:
    <img title="" src="../assets/2024-04-24%2017-06-47.png" alt="" width="502">
    
    También puedes etiquetar o "arrobar" a la compañera de la que quieres recibir el la evaluación en particular.
-   <img src="../assets/2024-04-24%2017-09-04.png" title="" alt="" width="489">
    
+   <img src="../assets/2024-04-24%2017-09-04.png" title="" alt="" width="489">
 
 2. Cuando una compañera responda a tu mensaje podrás decidir si quieres recompensarla por su ayuda reaccionando a su respuesta con 🍯. De esa manera, das 5🍯 y ella recibe 8🍯.
+   ![](../assets/2024-04-24%2017-24-01.png)
    
-   <img src="../assets/2024-04-24%2017-24-01.png" title="" alt="" width="529">
+   
 
 3. Tú también puedes mejorar tu aprendizaje evaluando el trabajo de otras y, además, obtener más 🍯. Usa la misma dedicación y cuidado que pones para evaluar tu propio trabajo.
 
