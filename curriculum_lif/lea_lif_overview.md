@@ -33,3 +33,14 @@ Lo que aprenderás:
 4. El bienestar como prerequisito para el aprendizaje y el desempeño en general.
 
 </details>
+<details>
+<summary>🔵 Bienestar</summary>
+
+En preparación
+
+</details>
+<summary>🔵 Finanzas personales</summary>
+
+En preparación
+
+</details>

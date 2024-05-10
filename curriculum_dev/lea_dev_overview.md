@@ -18,7 +18,7 @@ En resumen, ofrece una variedad de roles y especializaciones que pueden adaptars
 <summary>🔵 Bloque Introductorio, indispensable</summary>
 
 Buscamos acercarte una visión clara y concreta, en un formato flexible y con poco compromiso. En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios y tendrás la oportunidad de poner en práctica lo aprendido en un reto o mini proyecto.
-  
+
 Lo que aprenderás:
 **Módulo 1**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión. 
 
