@@ -1,5 +1,7 @@
 # Tendencias actuales y futuras en el Desarrollo Web
 
+**Tiempo:** ⏱ 5min
+
 El panorama del desarrollo web front-end está en constante cambio, impulsado por las nuevas tecnologías y las demandas cambiantes de los usuarios. Para estar a la vanguardia, es fundamental mantenerse actualizado sobre las últimas tendencias. A continuación, se presenta una actualización de las tendencias mencionadas anteriormente, junto con algunas nuevas que están ganando impulso en 2024:
 
 La irrupción de la inteligencia artificial (IA) en el desarrollo web está transformando la industria de maneras significativas. Esta tecnología no solo optimiza procesos existentes, sino que también introduce nuevas capacidades y desafíos. Por un lado, la IA puede automatizar tareas repetitivas como la codificación de elementos básicos de la interfaz de usuario, la optimización del rendimiento de los sitios web y el testing automatizado. Esto puede reducir la demanda de desarrolladores para tareas rutinarias y mecánicas, lo que potencialmente podría llevar a una disminución en algunos tipos de empleo en el sector.

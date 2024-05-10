@@ -48,8 +48,6 @@ Sigue los siguientes pasos para participar de la dinámica:
 
 2. Cuando una compañera responda a tu mensaje podrás decidir si quieres recompensarla por su ayuda reaccionando a su respuesta con 🍯. De esa manera, das 5🍯 y ella recibe 8🍯.
    ![](../assets/2024-04-24%2017-24-01.png)
-   
-   
 
 3. Tú también puedes mejorar tu aprendizaje evaluando el trabajo de otras y, además, obtener más 🍯. Usa la misma dedicación y cuidado que pones para evaluar tu propio trabajo.
 

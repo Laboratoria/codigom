@@ -1,5 +1,7 @@
 # El impacto del Desarrollo Web en la vida cotidiana
 
+**Tiempo:** ⏱ 5min
+
 El desarrollo web front-end juega un papel fundamental en nuestra vida cotidiana al influir directamente en la experiencia del usuario en una amplia gama de plataformas en línea, desde redes sociales hasta tiendas en línea. Aquí exploramos cómo el front-end afecta nuestras interacciones en la web:
 
 ### Experiencia de Usuario en Redes Sociales
