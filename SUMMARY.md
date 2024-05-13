@@ -48,22 +48,22 @@
     * [Reto: Mi Primera Página HTML](curriculum_dev/activities/00_02_01_myfirst.md)
     * [Reflexiona y comenta](curriculum_dev/activities/00_02_02_close.md)
 
-* 🔵 [Habilidad (H): Maquetación Web, básica](01_00_00_overview.md)
+* 🔵 [Habilidad (H): Maquetación Web, básica](curriculum_dev/activities/01_00_00_overview.md)
   
-  * 🔷 [Módulo 1 : Tu primera web con estilos básicos](01_01_00_modulo_myFirstWeb.md)
+  * 🔷 [Módulo 1 : Tu primera web con estilos básicos](curriculum_dev/activities/01_01_00_modulo_myFirstWeb.md)
   
-    * 🔹[Reto 1.1 : Mi Primera Página HTML](01_01_00_modulo_myFirstWeb.md)
-    * 🔹[Reto 1.2 : Agregando estilos con CSS](01_01_02_project_add_CSS.md)
+    * 🔹[Reto 1.1 : Mi Primera Página HTML](curriculum_dev/activities/01_01_00_modulo_myFirstWeb.md)
+    * 🔹[Reto 1.2 : Agregando estilos con CSS](curriculum_dev/activities/01_01_02_project_add_CSS.md)
     
-  * 🔷 [Módulo 2 : Tu primer formulario web](01_02_00_modulo_form.md)
+  * 🔷 [Módulo 2 : Tu primer formulario web](curriculum_dev/activities/01_02_00_modulo_form.md)
   
-    * 🔹[Reto 2.1 : Creación de un formulario](01_02_01_project_formulario.md)
+    * 🔹[Reto 2.1 : Creación de un formulario](curriculum_dev/activities/01_02_01_project_formulario.md)
     
-  * 🔷 [Módulo 3 : Diseño web responsivo](01_03_00_modulo_responsive.md)
+  * 🔷 [Módulo 3 : Diseño web responsivo](curriculum_dev/activities/01_03_00_modulo_responsive.md)
   
-    * 🔹[Reto 3.1 : Diseño Responsivo con Media Queries](01_03_01_project_responsive_mediaqueries.md)
-    * 🔹[Reto 3.2 : Diseño responsivo con unidades relativas y flexbox](01_03_02_project_responsive_flexbox.md)
-    * 🔹[Reto 3.3 : Imágenes responsivas con HTML y CSS](01_03_03_project_responsive_images.md)
+    * 🔹[Reto 3.1 : Diseño Responsivo con Media Queries](curriculum_dev/activities/01_03_01_project_responsive_mediaqueries.md)
+    * 🔹[Reto 3.2 : Diseño responsivo con unidades relativas y flexbox](curriculum_dev/activities/01_03_02_project_responsive_flexbox.md)
+    * 🔹[Reto 3.3 : Imágenes responsivas con HTML y CSS](curriculum_dev/activities/01_03_03_project_responsive_images.md)
     
   * 🔷 Módulo 4 : Programar sin escribir código (en prep...)
 
