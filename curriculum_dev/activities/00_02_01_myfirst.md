@@ -13,14 +13,6 @@ Aprenderás a crear una página web muy simple utilizando `HTML`, el lenguaje fu
 
 En este reto práctico, crearás una página que simule la nota de un diario o periódico. Para hacerlo, utilizarás un editor de código "en la nube" llamado CodePen y aplicarás distintas etiquetas que aprenderás para dar formato al texto.
 
-## Insumos para tu aprendizaje
-
-- [CodePen como tu primer editor de código](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen)
-  - [Ignorar el error DOCTYPE de CodePen](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_doctype)
-- [Texto: introducción a HTML](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/html)
-- [Video: introducción al HTML](https://youtu.be/ewZ_YWbIWXI?si=FEGJuPSPf-WUh-2P)
-- [Video: elementos HTML](https://www.youtube.com/watch?v=vIoO52MdZFE)
-
 ## Guía de evaluación
 
 Aprender a monitorear y evaluar tu aprendizaje permanente (*lifelong learning*) es una habilidad fundamental para la vida. La responsabilidad primordial es tuya y de nadie más. 
@@ -35,9 +27,17 @@ Como todo en la vida, hay muchas maneras de resolver un mismo problema, se hará
 
 - [x] No incluyes un subtítulo `<h2>` con la fecha de la publicación.
 
-- [x] No Incluyes 3 párrafos `<p>` con el "contenido"" de la nota incluyendo citas `<blockquote>` y fragmentos destacados con `<em>` y `<strong>`.
+- [x] No Incluyes 3 párrafos `<p>` con el "contenido"" de la nota incluyendo fragmentos destacados con tipo de texto `<strong>` (negrita). 
 
-- [x] No incluyes una lista desordenada `<ul>` o una lista ordenada `<ol>` con algunos puntos clave de la nota.
+- [x] No incluyes una lista desordenada `<ul>` con algunos puntos clave de la nota.
+
+## Insumos para tu aprendizaje
+
+- [CodePen como tu primer editor de código](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen)
+  - [Ignorar el error DOCTYPE de CodePen](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_doctype)
+- [Texto: introducción a HTML](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/html)
+- [Video: introducción al HTML](https://youtu.be/ewZ_YWbIWXI?si=FEGJuPSPf-WUh-2P)
+- [Video: elementos HTML](https://www.youtube.com/watch?v=vIoO52MdZFE)
 
 ## Pauta de trabajo
 

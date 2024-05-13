@@ -1,15 +1,55 @@
-# Reto 2.1: Mi Primera Página HTML
+# 🔹Reto 2.1: Mi Primera Página HTML
 
---- 
+**Dificultad:** 🌻
+**Aprendizaje:** 🍯🍯
+**Tiempo:** ⏱⏱⏱
+**Reacciona** con :eyes: cuando comiences la lectura y/o actividad.
 
-Dificultad: 🌻
+# :small_blue_diamond:Reto 2.1 : Mi Primera Página HTML
 
-Aprendizaje: 🍯🍯
+## Meta de Aprendizaje
 
-Tiempo: ⏱⏱⏱
+Aprenderás a utilizar las etiquetas básicas de `HTML` para crear una página sencilla que contenga únicamente texto, enlaces e imágenes.
 
----
+## Descripción
 
-🔵 Habilidad (H): Maquetación Web, básica > 🔷 Módulo 1: Tu primera web con estilos básicos > **🔹Reto 1.1: Mi Primera Página HTML** > 🔹Reto 1.2: Agregando estilos con CSS
+Vamos a continuar repitiendo algunos aprendizajes del reto del bloque introductorio y agregaremos otros nuevos.
 
---- 
+Utilizando un nuevo proyecto de CodePen, crea una página `HTML` simple que funcione como tu presentación personal. Esta debe incluir un título, un párrafo de bienvenida, una lista de intereses o *hobbies*, un enlace a un sitio web de tu interés y una imagen apropiada.
+
+### No cumples con la meta de aprendizaje si:
+
+- [x] No tienes etiquetas de apertura y de cierre para todos los casos.
+
+- [x] Tu nombre no está como título principal utilizando la etiqueta `<h1>`.
+
+- [x] No incluyes 2 párrafos `<p>` de bienvenida o introducción sobre ti. En el contenido de tus párrafos:
+  
+  - [x] No incluyes una cita `<blockquote>` de una frase que te resulte interesante. 
+  
+  - [x] No incluyes 2 fragmentos de texto destacados con `<em>` o `<strong>`.
+
+- [x] No incluyes una lista ordenada `<ol>` de tus intereses o *hobbies*.
+
+- [x] No incluyes un enlace que funcione `<a>`  un sitio web que te guste.
+
+- [x] Una imagen `<img>` que te represente o que te guste.
+
+## Insumos para tu aprendizaje
+
+- [CodePen como tu primer editor de código](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen)
+  - [Ignorar el error DOCTYPE de CodePen](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_doctype)
+- [Texto: introducción a HTML](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/html)
+- [Video: introducción al HTML](https://youtu.be/ewZ_YWbIWXI?si=FEGJuPSPf-WUh-2P)
+- [Video: elementos HTML](https://www.youtube.com/watch?v=vIoO52MdZFE)
+- [Video: Atributos HTML](https://youtu.be/_QZT7adJGIg?si=qSXHjPF2PYjJY8ow)
+
+## Pauta de trabajo
+
+- Eres libre de hacer una página con cualquier otra temática o estructura siempre que cumplas con los criterios de evaluación.
+- Vas a encontrar millones de códigos de ejemplo en Internet. Asegúrate de que comprendes lo que estás haciendo. **No te limites a copiar y pegar sin pensar, analizar, probar, modificar, etc.**
+- Comienza agregando una etiqueta cada vez y verificando que funciona antes de continuar.
+- Recuerda que en CodePen no necesitas crear la estructura básica de HTML : `<html>`, `<head>` y `<body>` porque CodePen ya incluye esas etiquetas aunque no las veas.
+- Para la etiqueta de la imagen, utiliza la URL de una que ya esté "en línea". Puedes subir la que quieras a https://imgur.com/ y obtener la URL con el botón "Grab Link".
+- Recuerda que puedes pedir [la evaluación de una compañera antes de terminar tu reto](https://laboratoria1.gitbook.io/codigom/curriculum_model/lea_model_06_assessment.md).
+- ¡Diviértete y disfruta del proceso de aprendizaje! Recuerda que estar aturdida y confundida es parte natural del proceso.

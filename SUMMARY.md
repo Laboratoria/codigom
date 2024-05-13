@@ -33,7 +33,7 @@
 
 * [Inicio y ruta de aprendizaje](curriculum_dev/lea_dev_overview.md)
 
-* Bloque Introductorio
+* 🔵 Bloque Introductorio
   
   * [Módulo 1: Todo sobre el desarrollo Web](curriculum_dev/activities/00_01_00_all_about.md)
     
@@ -48,9 +48,9 @@
     * [Reto: Mi Primera Página HTML](curriculum_dev/activities/00_02_01_myfirst.md)
     * [Reflexiona y comenta](curriculum_dev/activities/00_02_02_close.md)
 
-* Habilidad (H): Maquetación Web, básica
+* 🔵 [Habilidad (H): Maquetación Web, básica](01_00_00_overview.md)
   
-  * 🔷 Módulo 1 : Tu primera web con estilos básicos
+  * 🔷 [Módulo 1 : Tu primera web con estilos básicos](01_01_00_modulo_myFirstWeb.md)
     * 🔹Reto 1.1 : Mi Primera Página HTML
     * 🔹Reto 1.2 : Agregando estilos con CSS
   * 🔷 Módulo 2 : Tu primer formulario web
@@ -61,7 +61,7 @@
     * 🔹Reto 3.3 : Imágenes responsivas con HTML y CSS
   * 🔷 Módulo 4 : Programar sin escribir código (en prep...)
 
-* Tópicos
+* 🔵 Tópicos
   
   * [CodePen](curriculum_dev/topics/editors_codepen.md)
   * [Error de DOCTYPE](curriculum_dev/topics/editors_codepen_doctype.md)

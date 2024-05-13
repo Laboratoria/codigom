@@ -1,12 +1,12 @@
 # Reflexiona y comenta
 
-Ahora que terminaste el bloque introductorio, completa la siguiente actividad para terminar.
+Ahora que completaste el bloque introductorio, completa la siguiente actividad para terminar.
 
 Escribe un mensaje numerado en el hilo, de manera que cubras lo siguiente:
 
 ## 1. Integración
 
-¿De qué manera diferente o nueva crees que podrías integras algunas de las muchas ideas presentadas?
+¿De qué manera diferente o nueva crees que podrías integrar algunas de las muchas ideas presentadas?
 
 ## 2. Aprender a aprender
 
@@ -23,5 +23,3 @@ En una oración, ¿qué tan motivada te sientes para seguir aprendiendo sobre c�
 > - 1... 2... y 3....
 
 ---
-
-
