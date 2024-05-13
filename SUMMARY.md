@@ -52,7 +52,7 @@
   
   * 🔷 [Módulo 1 : Tu primera web con estilos básicos](curriculum_dev/activities/01_01_00_modulo_myFirstWeb.md)
   
-    * [Reto 1.1 : Mi Primera Página HTML](curriculum_dev/activities/01_01_00_modulo_myFirstWeb.md)
+    * [Reto 1.1 : Mi Primera Página HTML](curriculum_dev/activities/01_01_01_modulo_myFirstWeb.md)
     * [Reto 1.2 : Agregando estilos con CSS](curriculum_dev/activities/01_01_02_project_add_CSS.md)
     
   * 🔷 [Módulo 2 : Tu primer formulario web](curriculum_dev/activities/01_02_00_modulo_form.md)
