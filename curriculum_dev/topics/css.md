@@ -4,89 +4,6 @@
 
 CSS son las siglas de *Cascading Style Sheets* (en español: hojas de estilo en cascada). Es un lenguaje usado para definir y crear la presentación de un documento escrito en HTML. CSS describe cómo deben ser presentados en la pantalla los elementos del documento. Con CSS damos estilo y diseño a las páginas web. Cambiamos colores, tamaños, espacios, agregamos animaciones, etc.
 
-Existen tres opciones para incluir CSS en un documento HTML:
-
-### 1. CSS *Inline*
-
-Con el atributo style, agregamos estilos directamente a los elementos HTML. Por ejemplo, así le damos un estilo específicamente al elemento `h1`
-
-```html
-<h1 style="color:blue; background-color:yellow; border: 1px solid black;">¡Hola Mundo!</h1>
-```
-
-En el navegador, el se vería así:
-
-![Inline Style](https://github.com/Laboratoria/curricula-js/blob/632783f957accef3442934c87cecd254a202f2db/03-interactive-site/00-html-and-css/02-css/img-inline-style.png?raw=true)
-
-Esta forma de agregar CSS puede estar muy bien si estás comenzando a aprender porque te facilita ver los resultados y entender lo que estás haciendo. No obstante, no es la manera de trabajar recomendada. Su mantenimiento puede ser muy ineficiente. ¿Te imaginas tener que actualizar cada una de las líneas de código para cada uno de los 10 encabezados `h2` que haya en una sola página, o en todo un sitio con decenas de páginas?
-
-Además, estamos mezclando la información de estilo con la información estructural del HTML, haciendo el CSS difícil de leer y de entender. Manteniendo los distintos tipos de código separados y puros, se facilitará la tarea a aquellos que vayan a trabajar posteriormente en el código. Recuerda que siempre debes pensar en organizar tu código de una manera que facilita a otros entender lo que estás haciendo.
-
-### 2. CSS en la sección *head* del documento HTML
-
-Otra opción es colocar los estilos dentro de un elemento html `<style>` que colocamos en la sección `head`. Por ejemplo, para representar los mismos estilos del `h1` anterior tendríamos lo siguiente:
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Entendiendo CSS</title>
-    <style>
-      h1 {
-        color: blue;
-        background-color: yellow;
-        border: 1px solid black;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>¡Hola Mundo!</h1>
-  </body>
-</html>
-```
-
-Este método continúa siendo ineficiente. ¿Qué pasa si necesitas estilos similares en otras páginas del mismo sitio web? Tendrías que repetir los estilos en cada una de las páginas.
-
-### 3. Hoja de estilos CSS externa
-
-La manera ideal de agregar estilos es tener un archivo CSS separado de tu archivo HTML. Todos los estilos se incluirán en este archivo externo de tipo CSS , que se enlazarán desde cada una de las páginas HTML mediante la etiqueta html `<link>` (enlace).
-
-Cabe mencionar que este enlace externo puede ser un archivo que esta en tu PC o un enlace a un archivo externo de Internet. (una dirección HTTP)
-
-En el caso de nuestro ejemplo anterior con los estilos para el `h1`, tendríamos dos archivos:
-
-#### Archivo `index.html`
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Entendiendo CSS</title>
-    <!--Enlace a archivo que esta en la misma computadora-->
-    <link rel="stylesheet" href="style.css">
-    <!-- o enlace a archivo que esta en internet, uno u otro.-->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-  </body>
-</html>
-```
-
-#### Archivo `style.css`
-
-```css
-h1 {
-  color: blue;
-  background-color: yellow;
-  border: 1px solid black;
-}
-```
-
-> **Nota**: si estás trabajando en CodePen, el enlace se hace "automágicamente". Sin embargo, es importante que sepas cómo funciona realmente "por detrás" para que lo puedas hacer cuando uses otros [editores de código](editors_codepen.md).
-
-La etiqueta `<link>` cuenta con el atributo `rel` para indicar la relación del documento enlazado con el actual. El uso más común para este atributo es especificar el enlace a una hoja de estilos externa: el atributo `rel` se establece con valor `stylesheet`. El atributo `href` se establece con la ruta a la hoja de estilos externa para dar formato a la página. En el ejemplo anterior, dado que el archivo a linkear se encuentra en nuestro propio ambiente, simplemente le ponemos el nombre del archivo: `style.css`.
-
 ## Sintaxis CSS
 
 Así como en cualquier idioma la sintaxis se refiera a la parte de la gramática que estudia el modo en que se combinan las palabras y los grupos de palabras para expresar significados, sucede lo mismo en los lenguajes (idiomas) que usamos para indicarle al navegador qué y cómo lo debe mostrar.
@@ -208,3 +125,95 @@ Veamos un ejemplo:
 ```
 
 ---
+
+## ¿Cómo se agrega CSS en un documento HTML?
+
+Existen tres opciones:
+
+### 1. CSS *Inline*
+
+**Nota si estás trabajando en CodePen:** Esto lo puedes hacer y funcionará según lo esperado.
+
+Con el atributo style, agregamos estilos directamente a los elementos HTML. Por ejemplo, así le damos un estilo específicamente al elemento `h1`
+
+```html
+<h1 style="color:blue; background-color:yellow; border: 1px solid black;">¡Hola Mundo!</h1>
+```
+
+En el navegador, el se vería así:
+
+![Inline Style](https://github.com/Laboratoria/curricula-js/blob/632783f957accef3442934c87cecd254a202f2db/03-interactive-site/00-html-and-css/02-css/img-inline-style.png?raw=true)
+
+Esta forma de agregar CSS puede estar muy bien si estás comenzando a aprender porque te facilita ver los resultados y entender lo que estás haciendo. No obstante, no es la manera de trabajar recomendada. Su mantenimiento puede ser muy ineficiente. ¿Te imaginas tener que actualizar cada una de las líneas de código para cada uno de los 10 encabezados `h2` que haya en una sola página, o en todo un sitio con decenas de páginas?
+
+Además, estamos mezclando la información de estilo con la información estructural del HTML, haciendo el CSS difícil de leer y de entender. Manteniendo los distintos tipos de código separados y puros, se facilitará la tarea a aquellos que vayan a trabajar posteriormente en el código. Recuerda que siempre debes pensar en organizar tu código de una manera que facilita a otros entender lo que estás haciendo. 
+
+### 2. CSS en la sección *head* del documento HTML
+
+**Nota si estás trabajando en CodePen:** Esto no lo puedes hacer. Recuerda que CodePen ya incluye (oculta) la única etiqueta `<head>` que se admite para cada documento `HTML` y tú no la puedes modificar (ni siquiera la puedes ver). No obstante, es importante que sepas cómo funciona realmente todo.
+
+Otra opción es colocar los estilos dentro de un elemento html `<style>` que colocamos en la sección `head`. Por ejemplo, para representar los mismos estilos del `h1` anterior tendríamos lo siguiente:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Entendiendo CSS</title>
+    <style>
+      h1 {
+        color: blue;
+        background-color: yellow;
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>¡Hola Mundo!</h1>
+  </body>
+</html>
+```
+
+Este método continúa siendo ineficiente. ¿Qué pasa si necesitas estilos similares en otras páginas del mismo sitio web? Tendrías que repetir los estilos en cada una de las páginas.
+
+### 3. Hoja de estilos CSS externa
+
+**Nota si estás trabajando en CodePen:** No es necesario que agregues 
+`<link rel="stylesheet" etc...` a tu código HTML, de eso se encarga CodePen "detrás de las cortinas". No obstante, es importante que sepas cómo funciona realmente todo.
+
+La manera ideal de agregar estilos es tener un archivo CSS separado de tu archivo HTML. Todos los estilos se incluirán en este archivo externo de tipo CSS , que se enlazarán desde cada una de las páginas HTML mediante la etiqueta html `<link>` (enlace).
+
+Cabe mencionar que este enlace externo puede ser un archivo que esta en tu PC o un enlace a un archivo externo de Internet. (una dirección HTTP)
+
+En el caso de nuestro ejemplo anterior con los estilos para el `h1`, tendríamos dos archivos:
+
+#### Archivo `index.html`
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Entendiendo CSS</title>
+    <!--Enlace a archivo que esta en la misma computadora-->
+    <link rel="stylesheet" href="style.css">
+    <!-- o enlace a archivo que esta en internet, uno u otro.-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+  </body>
+</html>
+```
+
+#### Archivo `style.css`
+
+```css
+h1 {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+```
+
+> **Nota**: si estás trabajando en CodePen, el enlace se hace "automágicamente". Sin embargo, es importante que sepas cómo funciona realmente "por detrás" para que lo puedas hacer cuando uses otros [editores de código](editors_codepen.md).
+
+La etiqueta `<link>` cuenta con el atributo `rel` para indicar la relación del documento enlazado con el actual. El uso más común para este atributo es especificar el enlace a una hoja de estilos externa: el atributo `rel` se establece con valor `stylesheet`. El atributo `href` se establece con la ruta a la hoja de estilos externa para dar formato a la página. En el ejemplo anterior, dado que el archivo a linkear se encuentra en nuestro propio ambiente, simplemente le ponemos el nombre del archivo: `style.css`.

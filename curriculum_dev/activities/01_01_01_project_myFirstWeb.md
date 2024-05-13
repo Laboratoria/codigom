@@ -9,13 +9,13 @@
 
 ## Meta de Aprendizaje
 
-Aprenderás a utilizar las etiquetas básicas de `HTML` para crear una página sencilla que contenga únicamente texto, enlaces e imágenes.
+Aprenderás a utilizar etiquetas adicionales de `HTML` para crear una página sencilla que contenga únicamente texto, enlaces e imágenes.
 
 ## Descripción
 
-Vamos a continuar repitiendo algunos aprendizajes del reto del bloque introductorio y agregaremos otros nuevos.
+Continuarás trabajando sólo con `HTML` pero agregaremos algunas etiquetas nuevas para que puedas practicar un poco más.
 
-Utilizando un nuevo proyecto de CodePen, crea una página `HTML` simple que funcione como tu presentación personal. Esta debe incluir un título, un párrafo de bienvenida, una lista de intereses o *hobbies*, un enlace a un sitio web de tu interés y una imagen apropiada.
+Utilizando un nuevo proyecto de CodePen, crea una página `HTML` simple que funcione como tu presentación personal. Esta debe incluir un título, 2 párrafos de bienvenida, una lista de intereses o *hobbies*, un enlace a un sitio web de tu interés y una imagen apropiada.
 
 ### No cumples con la meta de aprendizaje si:
 
