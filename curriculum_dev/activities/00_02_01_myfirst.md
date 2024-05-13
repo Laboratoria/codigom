@@ -1,11 +1,8 @@
 # :small_blue_diamond: Reto 2.1 : Mi Primera Página HTML
 
 **Dificultad:** :sunflower:﻿
-
 **Aprendizaje:** :honey_pot:﻿
-
 **Tiempo:** ⏱⏱ 3-6 hrs.
-
 **Reacciona** con :eyes:﻿ cuando comiences la lectura, actividad o reto.
 
 ## Meta de Aprendizaje
