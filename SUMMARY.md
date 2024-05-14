@@ -43,7 +43,7 @@
     * [Tendencias actuales y futuras en el Desarrollo Web](curriculum_dev/activities/00_01_04_dev_trends.md)
     * [Herramientas y tecnologías básicas del Desarrollo Web](curriculum_dev/activities/00_01_05_dev_tools.md)
   
-  * [Módulo 2: Tu primera web](curriculum_dev/activities/00_02_00_practice.md)
+  * [Módulo 2: Aprende haciendo tu primera página](curriculum_dev/activities/00_02_00_practice.md)
     
     * [Reto: Mi Primera Página HTML](curriculum_dev/activities/00_02_01_myfirst.md)
     * [Reflexiona y comenta](curriculum_dev/activities/00_02_02_close.md)
