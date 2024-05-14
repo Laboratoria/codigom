@@ -2,7 +2,10 @@
 
 **Tiempo:** ⏱️ 5min
 
-Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión.
+**Formato:** 
+
+* Conocimiento fundamental en formato de lecturas, videos, etc. 
+* Reflexión y participación en comentarios y foros de discusión. 
 
 Buscamos acercarte respuestas simples y breves a las preguntas:
 

@@ -51,10 +51,9 @@ A un mismo elemento HTML se le pueden aplicar varias reglas CSS y cada regla CSS
 
 Existen múltiples selectores. En la siguiente documentación puedes explorar más sobre selectores. No te pongas a "estudiar", es totalmente innecesario, basta que sepas lo que son y más o menos cuáles existen, luego, cada vez que necesites algo específico, sabrás donde ir a buscar:
 
-- [Selectores Simples - MDN](https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Selectores_simples)
-- [Selectores Básicos - Libros Web](http://librosweb.es/libro/css/capitulo_2/selectores_basicos.html)
-- [Selectores de Atributos - MDN](https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Selectores_de_Atributos)
-- [Pseudo Selectores - MDN](https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Pseudo-clases_y_pseudo-elementos)
+- [Selectores Simples - MDN](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)
+- [Selectores de Atributos - MDN](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors)
+- [Pseudo Selectores - MDN](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)
 
 Pon especial atención en estos:
 
@@ -86,14 +85,14 @@ Al terminar tu investigación, debes ser capaz de entender los 3 factores que de
 - ¿Se aplica el estilo con mayor o menor especificidad?
 - ¿Cómo se calcula la especificidad?
 - ¿Qué significa `!important`? ¿Por qué **NO** debemos usarlo a menos que sea estrictamente necesario?
-- ¿Todos los estilos en CSS se heredan? ¿Por qué?
+- ¿Todos los estilos en `CSS` se heredan? ¿Por qué?
 - ¿Qué es y para qué sirve `inherit`?
 
 ## Valores y unidades
 
-Existen una gran variedad de valores CSS,los cuales se pueden expresar con diferentes unidades. Por ejemplo: la altura, el ancho y el margen de un elemento pueden ser definidos en milímetros, centímetros, pulgadas o pixeles. El color podemos definirlo con palabras clave (como `red`), con valores, o con el modelo RGB.
+Existen una gran variedad de valores `CSS`, los cuales se pueden expresar con diferentes unidades. Por ejemplo: la altura, el ancho y el margen de un elemento pueden ser definidos en milímetros, centímetros, pulgadas o pixels. El color podemos definirlo con palabras clave como `red`, con valores, o con el modelo RGB.
 
-Haz tu investigación de los siguientes recursos y aprende las múltiples formas de representar los valores en CSS:
+Haz tu investigación de los siguientes recursos y aprende las múltiples formas de representar los valores en `CSS`:
 
 - [Valores y unidades - MDN](https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Valores_y_unidades)
 - [Unidades y medidas - Librosweb](http://librosweb.es/libro/css/capitulo_3/unidades_de_medida.html)
@@ -101,9 +100,9 @@ Haz tu investigación de los siguientes recursos y aprende las múltiples formas
 
 Al finalizar esta lectura, debes saber responder las siguientes preguntas:
 
-- Dame un ejemplo de una undidad absoluta y una relativa
+- Dame un ejemplo de una unidad absoluta y una relativa
 - ¿Para qué sirve `line-height`?
-- ¿Para qué sirven valores en procentajes? Dame un ejemplo
+- ¿Para qué sirven valores en porcentajes? Dame un ejemplo
 - El tamaño de fuente por defecto que los navegadores usan antes de aplicar CSS es de ...
 - ¿Qué unidad es `#ff0000`? ¿Qué color representa?
 - ¿RGB es una función?

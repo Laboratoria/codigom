@@ -41,7 +41,7 @@ Si te equivocas de símbolos u omites ponerlos como se espera, el navegador "int
 
 ## Anidamiento HTML
 
-Un elemento puede tener otros elementos o etiquetas HTML. Esto se llama *anidamiento*.
+Un elemento puede contener otros elementos o etiquetas `HTML`. Esto se llama *anidamiento*. Observa las etiquetas `<em>` y `<strong>` que están dentro de las etiquetas `<p>`.
 
 ```html
 <!DOCTYPE html>
@@ -79,13 +79,13 @@ Por ejemplo, [el elemento `<img>` para agregar una imagen a tu página](https
 <img src="https://es.wikipedia.org/static/images/icons/wikipedia.png">
 ```
 
-Algunas etiquetas no tienen directamente contenido; en su lugar reciben una *fuente* ("src" de *source* en inglés = fuente) de la cual obtener el contenido. Esto es lo que sucede con el elemento `img`. El atributo `src` especifica la fuente del contenido en forma de URL.
+Algunas etiquetas no tienen directamente contenido; en su lugar reciben el contenido desde una *fuente* ("src" de *source* en inglés = fuente). Esto es lo que sucede con el elemento `img`. El atributo `src` especifica la fuente del contenido en forma de URL que debe tener la etiqueta `img`
 
 ## Comentarios en HTML
 
-Agregar comentarios a tu código HTML puede ser de gran utilidad. Es como dejar migas de pan o pistas para tu yo del futuro y evitar tener que recordar tantísimos detalles. 
+Agregar comentarios a tu código `HTML` puede ser de gran utilidad. Es como dejar migas de pan o pistas para tu yo del futuro y evitar tener que recordar tantísimos detalles. 
 
-Para definir un comentario en HTML, usamos las etiquetas `<!--` para arbrir el comentario y `-->` para cerrarlo.
+Para definir un comentario en `HTML`, usamos las etiquetas `<!--` para abrir el comentario y `-->` para cerrarlo.
 
 ```html
 <!-- Esto es un comentario. No se verá en la web, pero sí en mi código. -->
@@ -93,7 +93,7 @@ Para definir un comentario en HTML, usamos las etiquetas `<!--` para arbrir el
 
 ## Atributos
 
-Los atributos proveen información adicional sobre el contenido de un elemento que no se quiere que aparezca en el contenido que ve el usuario. En algunos casos agregan características y/o comportamiento a tu elemento HTML. Los atributos aparecen en la **etiqueta de apertura** del elemento y consisten de dos partes: un nombre y un valor, separados por un signo de igual (`=`).
+Los atributos proveen información adicional sobre el contenido de un elemento pero que no ve el usuario. En algunos casos agregan características y/o comportamiento a tu elemento `HTML`. Los atributos aparecen en la **etiqueta de apertura** del elemento y consisten de dos partes: un nombre y un valor, separados por un signo de igual (`=`).
 
 ```html
 <a href="http://laboratoria.la/" target="_blank" title="Página de inicio de Laboratoria">Ir a Laboratoria</a>

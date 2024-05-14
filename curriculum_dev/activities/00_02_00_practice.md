@@ -1,7 +1,11 @@
-# Aprender haciendo
+# Aprende haciendo
 
 **Tiempo:** ⏱️ 5min
 
-Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión + trabajo en un reto práctico.
+**Formato:** 
 
-Buscamos permitirte la aplicación de lo aprendido y tu reflexión sobre tu propio proceso de autoaprendizaje y motivación para continuar.
+* Conocimiento fundamental en formato de lecturas, videos, etc. 
+* Reflexión y participación en comentarios y foros de discusión. 
+* Trabajo en un reto práctico.
+
+Buscamos permitirte la aplicación de lo aprendido, una reflexión sobre tu propio proceso de aprendizaje y tu motivación para continuar.

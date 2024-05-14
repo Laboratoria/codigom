@@ -8,7 +8,7 @@
 
 ## Meta de Aprendizaje
 
-Aprender lo básico del lenguaje CSS para ser capaz de mejorar la presentación visual de una página HTML aplicando estilos básicos CSS (*Cascade Style Sheets*).
+Aprender lo elemental del lenguaje `CSS` para ser capaz de mejorar la presentación visual de una página `HTML` aplicando estilos básicos `CSS` (*Cascade Style Sheets*). Aprenderás sobre su sintaxis, 
 
 ## Descripción
 
@@ -38,6 +38,6 @@ En el código correspondiente a CSS, añade los siguientes estilos básicos:
 ## Pauta de trabajo
 
 * Como ya hemos comentado, trabajar con CodePen nos evita algunos pasos que sí deberás hacer cuando decidas trabajar con otros editores de código. Así como ya incluye las etiquetas `<html>`, `<head>` y `<body>` y tú no tienes que preocuparte de ellas, tampoco deberás preocuparte por indicar cuál es el archivo externo que contiene los estilos.
-* 
+* Como es obvio, puedes ir en el orden que prefieras
 
 ---

@@ -11,5 +11,3 @@ En este módulo te surmergirás, con calma, en dos lenguajes fundamentales para 
 - Qué son y qué características básicas tienen los lenguajes HTML y CSS.
 - Estructura y etiquetas básicas de HTML.
 - Propiedades de estilo básicas en CSS, selectores y "modelo de caja".
-
-# 

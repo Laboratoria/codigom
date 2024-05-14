@@ -6,7 +6,9 @@
 
 ## Introducción
 
-La habilidad de maquetación web se refiere a la destreza para crear y estructurar visualmente páginas web utilizando los lenguajes HTML y CSS (más adelante también JavaScript), para organizar el contenido y los elementos de diseño de manera efectiva y estética en un navegador web como Chrome, Firefox, Safari, etc. Esta habilidad es indispensable para cualquier desarrolladora web porque te permitirá implementar diseños responsivos y precisos que funcionan en diferentes dispositivos (PC, teléfono, etc.), asegurando que el contenido sea accesible y utilizable para tus usuarias.
+La habilidad de maquetación web se refiere a la destreza para crear y estructurar visualmente páginas web utilizando los lenguajes HTML y CSS (más adelante también JavaScript), para organizar el contenido y los elementos de diseño de manera efectiva y estética en un navegador web como Chrome, Firefox, Safari, etc. 
+
+Esta habilidad es indispensable para cualquier desarrolladora web porque te permitirá implementar diseños responsivos y precisos que funcionan en diferentes dispositivos (PC, teléfono, etc.), asegurando que el contenido sea accesible y utilizable para todas las usuarias.
 
 ## Lo que aprenderás:
 
