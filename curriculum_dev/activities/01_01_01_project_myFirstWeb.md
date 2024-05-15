@@ -2,7 +2,7 @@
 
 **Dificultad:** 🌻
 **Aprendizaje:** 🍯🍯
-**Tiempo:** ⏱⏱⏱
+**Tiempo:** ⏱⏱
 **Reacciona** con :eyes: cuando comiences la lectura y/o actividad.
 
 # :small_blue_diamond:Reto 2.1 : Mi Primera Página HTML
