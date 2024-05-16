@@ -1,0 +1,501 @@
+Pregunta,Alternativa correcta,Texto alternativa correcta
+"**¿Cuál es la etiqueta para definir un encabezado de nivel 2 en HTML?**
+1. <h2>
+2. <h3>
+3. <h4>
+4. <h5>",1,<h2>
+"**¿Cómo se crea una lista desordenada en HTML?**
+1. <ul>
+2. <ol>
+3. <li>
+4. <list>",1,<ul>
+"**¿Cuál es la etiqueta para insertar un enlace en HTML?**
+1. <link>
+2. <a>
+3. <href>
+4. <url>",2,<a>
+"**¿Cuál es la etiqueta correcta para definir una tabla en HTML?**
+1. <table>
+2. <tb>
+3. <tr>
+4. <td>",1,<table>
+"**¿Qué significa HTML?**
+1. Hyper Text Markup Language
+2. High Tech Modern Language
+3. Hyperlinks and Text Markup Language
+4. Home Tool Markup Language",1,Hyper Text Markup Language
+"**¿Cuál es la etiqueta correcta para un salto de línea en HTML?**
+1. <br>
+2. <break>
+3. <lb>
+4. <newline>",1,<br>
+"**¿Cuál es la etiqueta correcta para el elemento de encabezado de nivel 1 en HTML?**
+1. <h1>
+2. <header>
+3. <heading>
+4. <head>",1,<h1>
+"**¿Qué etiqueta se utiliza para definir una lista ordenada en HTML?**
+1. <ul>
+2. <ol>
+3. <li>
+4. <list>",2,<ol>
+"**¿Qué selector CSS se utiliza para aplicar estilos a todos los elementos de una clase específica?**
+1. .clase
+2. #id
+3. *
+4. :hover",1,.clase
+"**¿Qué selector CSS se utiliza para aplicar estilos a un elemento cuando el mouse se desplaza sobre él?**
+1. :hover
+2. :active
+3. :focus
+4. :visited",1,:hover
+"**¿Qué elementos HTML son elementos de bloque por defecto?**
+1. <div> y <span>
+2. <p> y <img>
+3. <h1> y <ul>
+4. <a> y <b>",3,<h1> y <ul>
+"**¿Qué elementos HTML son elementos en línea por defecto?**
+1. <span> y <a>
+2. <div> y <ul>
+3. <p> y <h1>
+4. <img> y <ul>",1,<span> y <a>
+"**¿Qué propiedades CSS controlan el tamaño de un elemento?**
+1. width y height
+2. size y length
+3. width y depth
+4. length y height",1,width y height
+"**¿Qué propiedad CSS se utiliza para controlar el espacio entre los bordes de un elemento y su contenido?**
+1. padding
+2. margin
+3. border-spacing
+4. spacing",1,padding
+"**¿Qué elemento HTML se utiliza para crear un campo de entrada de texto?**
+1. <input type=""text"">
+2. <text>
+3. <textbox>
+4. <field>",1,"<input type=""text"">"
+"**¿Qué atributo se utiliza para especificar el tipo de entrada en un campo de entrada en HTML?**
+1. type
+2. value
+3. placeholder
+4. name",1,type
+"**¿Qué propiedad CSS se utiliza para añadir sombras a los elementos?**
+1. box-shadow
+2. shadow
+3. text-shadow
+4. blur",1,box-shadow
+"**¿Qué propiedad CSS se utiliza para aplicar un efecto de transición suave a un elemento cuando cambia su estado?**
+1. transition
+2. transform
+3. animation
+4. ease",1,transition
+"**¿Qué elemento HTML se utiliza para agrupar elementos de navegación?**
+1. <nav>
+2. <menu>
+3. <ul>
+4. <section>",1,<nav>
+"**¿Qué elemento HTML se utiliza para definir una sección independiente de contenido?**
+1. <div>
+2. <article>
+3. <span>
+4. <aside>",4,<aside>
+"**¿Cuál es la función del elemento <div> en HTML?**
+1. Crear una lista desordenada
+2. Crear un enlace
+3. Crear una división o contenedor genérico
+4. Ninguna de las anteriores",3,Crear una división o contenedor genérico
+"**¿Cuál es la propiedad CSS para cambiar el tamaño de fuente?**
+1. font-size
+2. text-size
+3. font-style
+4. size",1,font-size
+"**¿Cómo se aplica un borde sólido de color rojo a un elemento en CSS?**
+1. border-color: red
+2. border: solid red
+3. border: red solid
+4. border-style: solid; border-color: red;",4,border-style: solid; border-color: red;
+"**¿Cuál es la propiedad CSS para establecer la opacidad de un elemento?**
+1. transparency
+2. opacity
+3. visible
+4. blur",2,opacity
+"**¿Cuál de las siguientes no es una propiedad de visualización en CSS?**
+1. display
+2. visibility
+3. show
+4. none",3,show
+"**¿Cuál es la propiedad CSS para cambiar el color del texto?**
+1. text-color
+2. color
+3. font-color
+4. text-style",2,color
+"**¿Cuál es la estructura básica de un documento HTML?**
+1. <html><head><title><body>
+2. <body><head><html><title>
+3. <html><body><head><title>
+4. <head><html><body><title>",1,<html><head><title><body>
+"**¿Cómo se enlaza una hoja de estilos externa a un documento HTML?**
+1. <link rel=""stylesheet"" href=""styles.css"">
+2. <style src=""styles.css"">
+3. <stylesheet href=""styles.css"">
+4. <style rel=""stylesheet"" href=""styles.css"">",1,"<link rel=""stylesheet"" href=""styles.css"">"
+"**¿Qué significa CSS y cuál es su función en el desarrollo web?**
+1. Cascading Style Sheets; para definir la estructura y contenido de una página web
+2. Central Style Sheet; para aplicar estilos a una página web
+3. Cascading Style Script; para agregar scripts a una página web
+4. Centralized Style System; para organizar estilos en una página web",1,Cascading Style Sheets; para definir la estructura y contenido de una página web
+"**¿Qué es el modelo de caja en CSS?**
+1. Un modelo que describe la relación entre el contenido y los bordes de un elemento
+2. Un modelo matemático para calcular tamaños de cajas en CSS
+3. Un conjunto de reglas para alinear cajas en CSS
+4. Un modelo para organizar cajas en una cuadrícula",1,Un modelo que describe la relación entre el contenido y los bordes de un elemento
+"**¿Cómo se centra un elemento horizontalmente en CSS?**
+1. margin: auto;
+2. align: center;
+3. text-align: center;
+4. margin-left: auto; margin-right: auto;",4,margin-left: auto; margin-right: auto;
+"**¿Cuál es la función de la propiedad ""position"" en CSS?**
+1. Cambiar el tamaño de un elemento
+2. Cambiar la posición de un elemento
+3. Hacer que un elemento flote a la derecha o a la izquierda de su contenedor
+4. Agregar un efecto de transición a un elemento",2,Cambiar la posición de un elemento
+"**¿Cuál es la función de la propiedad ""display"" en CSS?**
+1. Controlar la visibilidad de un elemento
+2. Cambiar el tamaño de un elemento
+3. Cambiar la posición de un elemento
+4. Definir cómo se muestra un elemento en la página",4,Definir cómo se muestra un elemento en la página
+"**¿Qué son las media queries y para qué se utilizan en CSS?**
+1. Una forma de consultar bases de datos de medios de comunicación
+2. Consultas para interactuar con medios de comunicación en JavaScript
+3. Consultas para aplicar estilos basados en características del dispositivo
+4. Una técnica para enviar consultas a servidores de medios",3,Consultas para aplicar estilos basados en características del dispositivo
+"**¿Qué hace la propiedad ""max-width"" en una media query?**
+1. Establece el ancho máximo de un elemento
+2. Establece el ancho mínimo de un elemento
+3. Oculta las características de un elemento si su ancho es mayor que el especificado
+4. Muestra un elemento solo si su ancho es mayor que el especificado",3,Oculta las características de un elemento si su ancho es mayor que el especificado
+"**¿Cuál es la ventaja de usar el diseño responsive en el desarrollo web?**
+1. Mejora la seguridad del sitio web
+2. Mejora la accesibilidad del sitio web
+3. Reduce el tiempo de carga del sitio web
+4. Mejora la compatibilidad del sitio web con diferentes dispositivos",4,Mejora la compatibilidad del sitio web con diferentes dispositivos
+"**¿Cuál es el resultado de typeof true en JavaScript?**
+1. ""boolean""
+2. ""number”
+3. ""string”
+4. ""undefined""",1,"""boolean"""
+"**¿Qué tipo de dato es undefined en JavaScript?**
+1. Object
+2. Null
+3. String
+4. Undefined",4,Undefined
+"**¿Cuál es el resultado de 10 + ""5"" en JavaScript?**
+1. ""15""
+2. 15
+3. ""105""
+4. 105",3,"""105"""
+"**¿Qué hace el operador && en JavaScript?**
+1. OR lógico
+2. AND lógico
+3. NOT lógico
+4. XOR lógico",2,AND lógico
+"**¿Cuál es el operador de asignación en JavaScript?**
+1. =
+2. ==
+3. ===
+4. :=",1,=
+"**¿Cuál es la diferencia entre == y === en JavaScript?**
+1. == compara el valor y el tipo, === solo compara el valor
+2. == compara el valor, === compara el valor y el tipo
+3. == solo compara el valor, === solo compara el tipo
+4. == y === son iguales",2,"== compara el valor, === compara el valor y el tipo"
+"**¿Qué hace el operador !== en JavaScript?**
+1. Comprueba si dos valores son diferentes en valor y tipo
+2. Comprueba si dos valores son iguales en valor y tipo
+3. Comprueba si dos valores son iguales en valor, pero diferentes en tipo
+4. Comprueba si dos valores son diferentes en valor, pero iguales en tipo",1,Comprueba si dos valores son diferentes en valor y tipo
+"**¿Cuál es el resultado de 3 > 2 && 4 > 5 en JavaScript?**
+1. true
+2. false
+3. null
+4. undefined",2,FALSE
+"**¿Qué hace el operador || en JavaScript?**
+1. AND lógico
+2. OR lógico
+3. NOT lógico
+4. XOR lógico",2,OR lógico
+"**¿Cómo se declara una función en JavaScript?**
+1. function myFunction() {}
+2. var myFunction = function() {}
+3. () => {}
+4. both a and b",4,both a and b
+"**¿Qué es el ámbito léxico en JavaScript?**
+1. El alcance de una función
+2. La región de código donde se define una variable
+3. El ámbito global de JavaScript
+4. La relación entre las variables y sus valores",2,La región de código donde se define una variable
+"**¿Cuál es la estructura de una declaración if en JavaScript?**
+1. if (condition) {code block}
+2. if {condition} then {code block}
+3. if (condition) then {code block}
+4. if then (condition) {code block}",1,if (condition) {code block}
+"**¿Qué hace el operador switch en JavaScript?**
+1. Realiza una comparación de igualdad estricta
+2. Ejecuta un bloque de código si una condición es verdadera
+3. Evalúa una expresión y ejecuta un bloque de código según el caso
+4. Ninguna de las anteriores",3,Evalúa una expresión y ejecuta un bloque de código según el caso
+"**¿Qué es el DOM en JavaScript?**
+1. Un modelo de objetos para interactuar con elementos HTML
+2. Un método para definir estilos en una página web
+3. Un sistema de navegación para sitios web
+4. Un formato de archivo para almacenar datos",1,Un modelo de objetos para interactuar con elementos HTML
+"**¿Cómo se selecciona un elemento por su ID en JavaScript?**
+1. document.getElementByID()
+2. document.querySelector()
+3. document.selectByID()
+4. document.getElementById()",4,document.getElementById()
+"**¿Qué es un evento en JavaScript y cómo se maneja?**
+1. Una acción que ocurre en la página web; se maneja con funciones de devolución de llamada
+2. Una función que se ejecuta al cargar la página web
+3. Un objeto que almacena datos del usuario
+4. Un elemento de la interfaz de usuario que muestra información",1,Una acción que ocurre en la página web; se maneja con funciones de devolución de llamada
+"**¿Cómo se crea un nuevo elemento en el DOM con JavaScript?**
+1. document.createElement(""element"")
+2. document.newElement(""element"")
+3. document.addNewElement(""element"")
+4. document.makeElement(""element"")",1,"document.createElement(""element"")"
+"**¿Qué método se utiliza para agregar un elemento hijo a otro elemento en JavaScript?**
+1. appendChild()
+2. addChild()
+3. addTo()
+4. addElement()",1,appendChild()
+"**¿Cómo se elimina un elemento del DOM en JavaScript?**
+1. element.remove()
+2. element.delete()
+3. element.removeChild()
+4. element.clear()",3,element.removeChild()
+"**¿Qué es Bootstrap y para qué se utiliza en desarrollo web?**
+1. Un lenguaje de programación
+2. Un framework de CSS
+3. Un sistema de gestión de contenido
+4. Un motor de búsqueda",2,Un framework de CSS
+"**¿Cómo se agrega el metaetiqueta viewport para Bootstrap?**
+1. <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+2. <meta name=""viewport"" content=""width=1024"">
+3. <meta name=""viewport"" content=""initial-scale=1.0"">
+4. No es necesario agregarla",1,"<meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">"
+"**¿Qué clase se utiliza para crear un contenedor fluido en Bootstrap?**
+1. .container-fluid
+2. .container-fluids
+3. .container-fluidic
+4. .container-fluidly",1,.container-fluid
+"**¿Cuál es la clase para cambiar el tamaño del texto en Bootstrap?**
+1. .text-large
+2. .text-xl
+3. .text-size-lg
+4. .text-big",2,.text-xl
+"**¿Cómo se crea una barra de navegación responsiva en Bootstrap?**
+1. <nav class=""navbar navbar-expand-lg navbar-light bg-light"">
+2. <div class=""nav-bar navbar-expand-lg"">
+3. <navbar class=""navbar navbar-expand-lg navbar-light bg-light"">
+4. <ul class=""nav navbar-nav navbar-right"">",1,"<nav class=""navbar navbar-expand-lg navbar-light bg-light"">"
+"**¿Qué es Tailwind CSS y cómo se diferencia de otros frameworks CSS?**
+1. Un framework de CSS que utiliza clases predefinidas para estilos
+2. Un preprocesador de CSS
+3. Un sistema de diseño basado en componentes
+4. Un framework que solo utiliza estilos en línea",1,Un framework de CSS que utiliza clases predefinidas para estilos
+"**¿Cómo se aplica un margen a un elemento en Tailwind CSS?**
+1. .m-4
+2. .margin-4
+3. .mt-4
+4. .mar-4",3,.mt-4
+"**¿Cuál es la clase para cambiar el tamaño del texto en Tailwind CSS?**
+1. .text-large
+2. .text-xl
+3. .text-size-lg
+4. .text-big",3,.text-size-lg
+"**¿Cómo se crea un botón en Tailwind CSS?**
+1. <button class=""btn btn-primary"">
+2. <button class=""button button-primary"">
+3. <button class=""btn-primary"">
+4. <button class=""btn-lg"">",3,"<button class=""btn-primary"">"
+"**¿Qué clase se utiliza para centrar un elemento horizontalmente en Tailwind CSS?**
+1. .center-x
+2. .mx-auto
+3. .center-h
+4. .hx-center",2,.mx-auto
+"**¿Cómo se agrega un evento de clic a un elemento en JavaScript?**
+1. element.addEventListener(""click"", function() {...});
+2. element.onclick = function() {...};
+3. element.click(function() {...});
+4. element.attachEvent(""click"", function() {...});",1,"element.addEventListener(""click"", function() {...});"
+"**¿Qué es la propagación de eventos en JavaScript?**
+1. La manera en que se manejan los errores en un evento
+2. La forma en que se propaga el evento a través del DOM
+3. El efecto de un evento en la cadena de prototipos
+4. La forma en que se propaga el evento a través de múltiples objetos",2,La forma en que se propaga el evento a través del DOM
+"**¿Cómo se previene la acción predeterminada de un evento en JavaScript?**
+1. event.stop()
+2. event.preventDefault()
+3. event.prevent()
+4. event.default()",2,event.preventDefault()
+"**¿Qué es una promesa en JavaScript?**
+1. Un valor futuro que puede estar disponible ahora, en el futuro o nunca
+2. Una función que devuelve un valor después de un tiempo
+3. Una forma de manejar errores en JavaScript
+4. Un tipo de bucle en JavaScript",1,"Un valor futuro que puede estar disponible ahora, en el futuro o nunca"
+"**¿Cuál es la función de async/await en JavaScript?**
+1. Permitir que una función se ejecute de manera asíncrona y esperar el resultado
+2. Acelerar la ejecución del código
+3. Detener la ejecución del código
+4. Ninguna de las anteriores",1,Permitir que una función se ejecute de manera asíncrona y esperar el resultado
+"**¿Qué es el Callback Hell en JavaScript?**
+1. Una forma de definir funciones en JavaScript
+2. Una situación donde las devoluciones de llamada anidadas se vuelven difíciles de manejar
+3. Un término para un bucle infinito en JavaScript
+4. Ninguna de las anteriores",2,Una situación donde las devoluciones de llamada anidadas se vuelven difíciles de manejar
+"**¿Qué es destructuring en JavaScript?**
+1. Una técnica para dividir una matriz en elementos individuales
+2. Una forma de asignar propiedades de un objeto a variables
+3. Una técnica para combinar dos objetos
+4. Ninguna de las anteriores",2,Una forma de asignar propiedades de un objeto a variables
+"**¿Cuál es la diferencia entre let y var en JavaScript?**
+1. let tiene ámbito de bloque, var tiene ámbito de función
+2. var tiene ámbito de bloque, let tiene ámbito de función
+3. Son equivalentes
+4. let es para números, var es para cadenas",1,"let tiene ámbito de bloque, var tiene ámbito de función"
+"**¿Qué es arrow function en ES6?**
+1. Una función que utiliza la flecha (=>) para definir una función anónima
+2. Una función que utiliza la palabra clave ""arrow"" para definir una función
+3. Una función que devuelve una flecha
+4. Ninguna de las anteriores",1,Una función que utiliza la flecha (=>) para definir una función anónima
+"**¿Qué es el Event Loop en JavaScript?**
+1. bucle que maneja las tareas asíncronas en JavaScript
+2. Un bucle que ejecuta todas las funciones en una página web
+3. Un bucle que controla la entrada del usuario
+4. Un bucle que maneja los eventos del navegador",1,bucle que maneja las tareas asíncronas en JavaScript
+"**¿Qué es una tarea micro en el contexto del Event Loop de JavaScript?**
+1. Una tarea de JavaScript que se ejecuta de forma asíncrona
+2. Una tarea que se ejecuta rápidamente en el navegador
+3. Una tarea que no afecta al rendimiento de la página web
+4. Ninguna de las anteriores",1,Una tarea de JavaScript que se ejecuta de forma asíncrona
+"**¿Qué función se utiliza para crear una tarea asíncrona en JavaScript?**
+1. setTimeout()
+2. setInterval()
+3. requestAnimationFrame()
+4. Todas las anteriores",1,setTimeout()
+"**¿Qué es la programación funcional en JavaScript?**
+1. Un paradigma de programación que trata las funciones como ciudadanos de primera clase
+2. Un enfoque para escribir código utilizando solo funciones puras
+3. Un estilo de programación que evita el uso de bucles y estados compartidos
+4. Todas las anteriores",4,Todas las anteriores
+"**¿Qué son las funciones puras en JavaScript?**
+1. Funciones que siempre devuelven el mismo resultado para los mismos argumentos
+2. Funciones que no tienen efectos secundarios
+3. Funciones que no dependen de datos externos
+4. Todas las anteriores",4,Todas las anteriores
+"**¿Qué es el Local Storage en JavaScript?**
+1. Un método para almacenar datos de forma temporal en el navegador del usuario
+2. Un método para almacenar datos de forma permanente en el servidor
+3. Un método para almacenar datos de forma temporal en el servidor
+4. Ninguna de las anteriores",1,Un método para almacenar datos de forma temporal en el navegador del usuario
+"**¿Cómo se accede al Local Storage en JavaScript?**
+1. localStorage.getItem()
+2. localStorage.setItem()
+3. localStorage.removeItem()
+4. Todas las anteriores",4,Todas las anteriores
+"**¿Qué es el Fetch API en JavaScript?**
+1. Una interfaz para realizar solicitudes HTTP
+2. Una interfaz para interactuar con el DOM
+3. Una interfaz para animaciones en el navegador
+4. Una interfaz para manipular estilos CSS",1,Una interfaz para realizar solicitudes HTTP
+"**¿Qué es Node.js y cuál es su principal uso?**
+1. Un entorno de ejecución de JavaScript en el lado del servidor
+2. Una biblioteca para manipular el DOM
+3. Un framework para el desarrollo de aplicaciones móviles
+4. Una herramienta para la creación de interfaces de usuario",1,Un entorno de ejecución de JavaScript en el lado del servidor
+"**¿Qué es Jest y cuál es su función principal en JavaScript?**
+1. Un framework de pruebas para JavaScript
+2. Una herramienta para depurar código JavaScript
+3. Un lenguaje de programación alternativo a JavaScript
+4. Ninguna de las anteriores",1,Un framework de pruebas para JavaScript
+"**¿Cuál es el objetivo principal del diseño web responsivo?**
+1. Mejorar la velocidad de carga del sitio web
+2. Proporcionar una experiencia de usuario consistente en diferentes dispositivos
+3. Aumentar el número de visitantes del sitio web
+4. Ninguna de las anteriores",2,Proporcionar una experiencia de usuario consistente en diferentes dispositivos
+"**¿Qué significa SEO?**
+1. Search Engine Optimization (Optimización para motores de búsqueda)
+2. Social Engagement Optimization (Optimización para la participación social)
+3. Search Engine Organization (Organización de motores de búsqueda)
+4. Ninguna de las anteriores",1,Search Engine Optimization (Optimización para motores de búsqueda)
+"**¿Por qué es importante el SEO para un sitio web?**
+1. Para mejorar la visibilidad del sitio web en los motores de búsqueda
+2. Para aumentar la velocidad de carga del sitio web
+3. Para optimizar la accesibilidad del sitio web
+4. Todas las anteriores",1,Para mejorar la visibilidad del sitio web en los motores de búsqueda
+"**¿Qué significa accesibilidad web?**
+1. Hacer que el sitio web sea accesible solo para usuarios con discapacidades visuales
+2. Hacer que el sitio web sea accesible para todos, incluidas las personas con discapacidades
+3. Hacer que el sitio web sea accesible solo desde dispositivos móviles
+4. Ninguna de las anteriores",2,"Hacer que el sitio web sea accesible para todos, incluidas las personas con discapacidades"
+"**¿Cuál es un ejemplo de una buena práctica para mejorar la accesibilidad web?**
+1. Usar colores brillantes y texto pequeño
+2. Proporcionar descripciones de imágenes mediante el atributo alt
+3. Utilizar fuentes pequeñas para ahorrar espacio
+4. Ninguna de las anteriores",2,Proporcionar descripciones de imágenes mediante el atributo alt
+"**¿Por qué es importante incluir palabras clave relevantes en el contenido de un sitio web?**
+1. Para mejorar la seguridad del sitio web
+2. Para aumentar la velocidad de carga del sitio web
+3. Para mejorar el posicionamiento en los motores de búsqueda
+4. Ninguna de las anteriores",3,Para mejorar el posicionamiento en los motores de búsqueda
+"**¿Cuál es una buena práctica para mejorar el SEO de un sitio web?**
+1. Utilizar enlaces rotos
+2. Optimizar imágenes con tamaños grandes
+3. Incluir metaetiquetas relevantes
+4. Ninguna de las anteriores",3,Incluir metaetiquetas relevantes
+"**¿Qué es un lector de pantalla?**
+1. Un software que permite a las personas con discapacidad visual escuchar el contenido de una página web
+2. Un software que traduce el contenido de una página web a diferentes idiomas
+3. Un software que muestra el contenido de una página web en un formato de libro electrónico
+4. Ninguna de las anteriores",1,Un software que permite a las personas con discapacidad visual escuchar el contenido de una página web
+"**¿Por qué es importante utilizar etiquetas semánticas en el código HTML para mejorar la accesibilidad web?**
+1. Ayudan a los motores de búsqueda a indexar el sitio web
+2. Facilitan la navegación para usuarios con lectores de pantalla
+3. Reducen la velocidad de carga del sitio web
+4. Ninguna de las anteriores",2,Facilitan la navegación para usuarios con lectores de pantalla
+"**¿Qué es un breakpoint en diseño web responsivo?**
+1. Un punto en el código donde se detiene la ejecución
+2. Un punto donde cambia el diseño de la página en respuesta al tamaño de la pantalla
+3. Un punto donde se optimizan las imágenes de la página
+4. Ninguna de las anteriores",2,Un punto donde cambia el diseño de la página en respuesta al tamaño de la pantalla
+"**¿Qué es un título de página (title tag) en SEO?**
+1. El nombre de la empresa
+2. El nombre del servidor
+3. El título que aparece en la pestaña del navegador y en los resultados de búsqueda
+4. Ninguna de las anteriores",3,El título que aparece en la pestaña del navegador y en los resultados de búsqueda
+"**¿Por qué es importante incluir enlaces internos en un sitio web para SEO?**
+1. Para aumentar el tiempo de carga del sitio web
+2. Para mejorar la navegación y la experiencia del usuario
+3. Para reducir la visibilidad del sitio web en los motores de búsqueda
+4. Ninguna de las anteriores",2,Para mejorar la navegación y la experiencia del usuario
+"**¿Qué es el contraste de color en el contexto de la accesibilidad web?**
+1. La relación entre el color de fondo y el color del texto en una página web
+2. La relación entre el tamaño de la fuente y el color del texto en una página web
+3. La relación entre el ancho de la pantalla y el color de fondo en una página web
+4. Ninguna de las anteriores",1,La relación entre el color de fondo y el color del texto en una página web
+"**¿Por qué es importante el contraste de color para la accesibilidad web?**
+1. Para mejorar el diseño estético de la página web
+2. Para garantizar que el texto sea legible para personas con discapacidad visual
+3. Para reducir el tamaño de los archivos de imagen
+4. Ninguna de las anteriores",2,Para garantizar que el texto sea legible para personas con discapacidad visual
+"**¿Qué es un diseño líquido (fluid layout) en diseño web responsivo?**
+1. Un diseño que utiliza solo líneas rectas y elementos geométricos
+2. Un diseño que se adapta automáticamente al tamaño de la ventana del navegador
+3. Un diseño que utiliza colores líquidos y efectos de transición
+4. Ninguna de las anteriores",2,Un diseño que se adapta automáticamente al tamaño de la ventana del navegador
+"**¿Por qué es importante realizar pruebas en diferentes dispositivos y navegadores al diseñar un sitio web responsivo?**
+1. Para aumentar el tiempo de carga del sitio web
+2. Para garantizar una experiencia de usuario consistente
+3. Para reducir la accesibilidad del sitio web
+4. Ninguna de las anteriores",2,Para garantizar una experiencia de usuario consistente
