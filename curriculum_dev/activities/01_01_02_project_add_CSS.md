@@ -32,11 +32,11 @@ No es un ejercicio estético pero igual intenta mantener tus estilos lo más arm
 
 ## Insumos para tu aprendizaje
 
-- [Texto: CodePen, fork o bifurcación](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_fork.md)
+- [Texto: CodePen, fork o bifurcación](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_fork)
 - [Video: Introducción a CSS](https://www.youtube.com/watch?v=AGDDdsiZ0Ko)
 - [Video: Selectores CSS](https://www.youtube.com/watch?v=ZNskBxLVOfs)
-- [Texto: CSS, introducción](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_intro.md)
-- [Texto: CSS, fundamentos](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_fundamentos.md)
+- [Texto: CSS, introducción](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_intro)
+- [Texto: CSS, fundamentos](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_fundamentos)
 - [Juego: CSS Diner](https://flukeout.github.io/)
 
 ## Pauta de trabajo
