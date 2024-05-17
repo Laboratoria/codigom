@@ -36,30 +36,15 @@ En este ejemplo:
 
 Los selectores básicos en CSS se utilizan para seleccionar y aplicar estilos a elementos HTML. Aquí hay una breve explicación de cada uno:
 
-1. **Selector de Tipo**: <mark>(comenzarás trabajando solamente con estos)</mark>
-   
-   - Selecciona todos los elementos de un tipo específico.
-   - Ejemplo: `p` selecciona todos los párrafos `<p>`.
+1. **Selector de Tipo**: Selecciona todos los elementos de un tipo específico. Ejemplo: `p` selecciona todos los párrafos `<p>`.
 
-2. **Selector de Clase**:
-   
-   - Selecciona todos los elementos con una clase específica.
-   - Ejemplo: `.miClase` selecciona todos los elementos con `class="miClase"`.
+2. **Selector de Clase**: Selecciona todos los elementos con una clase específica. Ejemplo: `.miClase` selecciona todos los elementos con `class="miClase"`.
 
-3. **Selector de ID**:
-   
-   - Selecciona el elemento con un ID específico.
-   - Ejemplo: `#miID` selecciona el elemento con `id="miID"`.
+3. **Selector de ID**: Selecciona el elemento con un ID específico. Ejemplo: `#miID` selecciona el elemento con `id="miID"`.
 
-4. **Selector Universal**:
-   
-   - Selecciona todos los elementos.
-   - Ejemplo: `*` selecciona todos los elementos en la página.
+4. **Selector Universal**: Selecciona todos los elementos. Ejemplo: `*` selecciona todos los elementos en la página.
 
-5. **Selector de Atributo**:
-   
-   - Selecciona elementos que tienen un atributo específico.
-   - Ejemplo: `[type="text"]` selecciona todos los elementos con `type="text"`.
+5. **Selector de Atributo**: Selecciona elementos que tienen un atributo específico. Ejemplo: `[type="text"]` selecciona todos los elementos con `type="text"`.
 
 ### Ejemplos
 
@@ -97,9 +82,7 @@ CSS, o Cascading Style Sheets, utiliza un conjunto de reglas conocidas como "cas
 
 Es posible que en algún momento descubras que el CSS que esperabas que se aplique a un elemento "no funciona". Esto puede ocurrir cuando has creado dos reglas que podrían aplicarse al mismo elemento. La cascada y la especificidad controlan qué regla se aplica cuando hay conflictos o superposición. Es posible que la regla que finalmente se aplica a tu elemento no sea la que esperas, por lo que es crucial entender cómo funcionan estos mecanismos.
 
-> No intentes aprenderte todo de memoria, lo habrás olvidado mañana 🤪. Lo que importa que es sepas que existen estas reglas y más o menos cómo funcionan.
-
-### **Cascada**
+### Cascada
 
 En CSS, la cascada significa que el orden de las reglas es importante: cuando dos reglas tienen la misma especificidad, se aplica la que aparece última en el CSS.
 
@@ -110,23 +93,23 @@ En este ejemplo, el `h1` será azul porque la última regla en el CSS tiene prio
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    h1 {
-      color: red;
-    }
-    h1 {
-      color: blue;
-    }
-  </style>
-</head>
-<body>
-  <h1>Texto en h1</h1>
-</body>
+  <head>
+    <style>
+      h1 {
+        color: red;
+      }
+      h1 {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Texto en h1</h1>
+  </body>
 </html>
 ```
 
-### **Especificidad**
+### Especificidad
 
 La especificidad determina cuál regla se aplica cuando diferentes selectores pueden afectar el mismo elemento. Básicamente, mide lo específico que es un selector:
 
@@ -140,23 +123,23 @@ Aquí, el `h1` será verde porque el selector de clase `.highlight` tiene mayor 
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    h1 {
-      color: red;
-    }
-    .highlight {
-      color: green;
-    }
-  </style>
-</head>
-<body>
-  <h1 class="highlight">Texto en h1</h1>
-</body>
+  <head>
+    <style>
+      h1 {
+        color: red;
+      }
+      .highlight {
+        color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="highlight">Texto en h1</h1>
+  </body>
 </html>
 ```
 
-### **Herencia**
+### Herencia
 
 En CSS, la herencia significa que ciertos valores de propiedades establecidas para elementos padre son heredados por sus elementos hijo, mientras que otros no.
 
@@ -169,25 +152,25 @@ En este caso, el texto del párrafo `<p>` será de color púrpura y usará la fu
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    .parent {
-      color: purple;
-      font-family: Arial, sans-serif;
-    }
-  </style>
-</head>
-<body>
-  <div class="parent">
-    <p>Texto heredado</p>
-  </div>
-</body>
+  <head>
+    <style>
+      .parent {
+        color: purple;
+        font-family: Arial, sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent">
+      <p>Texto heredado</p>
+    </div>
+  </body>
 </html>
 ```
 
 ## Valores y unidades
 
-En CSS, el uso de valores y unidades depende del contexto y los objetivos del diseño. 
+En CSS, el uso de valores y unidades depende del contexto y los objetivos del diseño.
 
 > Por ahora no te compliques innecesariamente la vida intentado memorizar todo, simplemente ocúpate de comprender que hay diferentes maneras de abordar las necesidades. Poco a poco las irás incorporando a tu trabajo.
 
@@ -196,18 +179,18 @@ Aquí tienes un breve resumen:
 ### Unidades Relativas
 
 1. **`em` y `rem`**:
-   
+
    - **`em`**: Relativa al tamaño de la fuente del elemento contenedor.
    - **`rem`**: Relativa al tamaño de la fuente de la raíz (html).
    - **Recomendación**: Usar `rem` para tamaños globales y `em` para tamaños específicos que necesitan ser relativos al contexto local.
 
 2. **Porcentajes (`%`)**:
-   
+
    - Relativos al tamaño del elemento contenedor.
    - **Recomendación**: Útil para layouts flexibles y responsivos, especialmente en anchuras y alturas.
 
 3. **Viewport Units (`vw`, `vh`, `vmin`, `vmax`)**:
-   
+
    - **`vw`**: 1% del ancho del viewport.
    - **`vh`**: 1% de la altura del viewport.
    - **`vmin`**: 1% del menor entre el ancho y la altura del viewport.
@@ -217,30 +200,30 @@ Aquí tienes un breve resumen:
 ### Unidades Absolutas
 
 1. **Píxeles (`px`)**:
-   
+
    - Valor absoluto que no cambia con el contexto.
    - **Recomendación**: Útil para bordes finos, sombras, y cuando se necesita precisión fija.
 
 2. **Otros (pt, pc, in, cm, mm)**:
-   
+
    - Usados principalmente en impresiones o cuando se necesita un tamaño exacto físico.
    - **Recomendación**: En diseño web, es raro su uso; `px`, `em`, `rem` y las viewport units son más comunes y flexibles.
 
 ### Unidades Funcionales
 
 1. **`calc()`**:
-   
+
    - Permite hacer cálculos con diferentes unidades.
    - **Recomendación**: Muy útil para combinaciones dinámicas y precisas, por ejemplo, `width: calc(100% - 50px);`.
 
 2. **CSS Custom Properties (Variables)**:
-   
+
    - Definidas con `--variable-name` y utilizadas con `var(--variable-name)`.
    - **Recomendación**: Facilitan la gestión de temas y valores repetitivos, facilitando el mantenimiento del código.
 
 ### General
 
-- **Diseño Responsivo**: Combina unidades relativas y absolutas para crear *layouts* que se adapten a diferentes tamaños de pantalla.
+- **Diseño Responsivo**: Combina unidades relativas y absolutas para crear _layouts_ que se adapten a diferentes tamaños de pantalla.
 - **Accesibilidad**: Considera el tamaño de fuente adecuado para la legibilidad, utilizando `rem` para escalar fuentes según la configuración del usuario.
 
 ### Ejemplo Práctico
@@ -277,9 +260,10 @@ Estas recomendaciones te ayudarán a mantener un diseño flexible, responsivo y 
 
 ## Comentarios en CSS
 
-Así como es buena práctica comentar tu código html y tu código js, es buena práctica comentar tu CSS. Los comentarios en CSS se hacen de la siguiente manera:
+Así como es buena práctica comentar tu código HTML y JavaScript, es buena práctica comentar tu CSS. Los comentarios en CSS se hacen de la siguiente manera:
 
-- El comienzo se indica mediante los caracteres `/*` * El final del comentario se indica mediante `*/`
+- El comienzo se indica mediante los caracteres `/*`.
+- El final del comentario se indica mediante `*/`.
 
 Veamos un ejemplo:
 
@@ -293,14 +277,16 @@ Veamos un ejemplo:
 
 Existen tres opciones:
 
-### 1. CSS *Inline*
+### 1. CSS _Inline_
 
 > **Nota si estás trabajando en CodePen:** Esto lo puedes hacer y funcionará según lo esperado.
 
 Con el atributo style, agregamos estilos directamente a los elementos HTML. Por ejemplo, así le damos un estilo específicamente al elemento `h1`
 
 ```html
-<h1 style="color:blue; background-color:yellow; border: 1px solid black;">¡Hola Mundo!</h1>
+<h1 style="color:blue; background-color:yellow; border: 1px solid black;">
+  ¡Hola Mundo!
+</h1>
 ```
 
 En el navegador, el se vería así:
@@ -309,13 +295,13 @@ En el navegador, el se vería así:
 
 Esta forma de agregar CSS puede estar muy bien si estás comenzando a aprender porque te facilita ver los resultados y entender lo que estás haciendo. No obstante, no es la manera de trabajar recomendada. Su mantenimiento puede ser muy ineficiente. ¿Te imaginas tener que actualizar cada una de las líneas de código para cada uno de los 10 encabezados `h2` que haya en una sola página, o en todo un sitio con decenas de páginas?
 
-Además, estamos mezclando la información de estilo con la información estructural del HTML, haciendo el CSS difícil de leer y de entender. Manteniendo los distintos tipos de código separados y puros, se facilitará la tarea a aquellos que vayan a trabajar posteriormente en el código. Recuerda que siempre debes pensar en organizar tu código de una manera que facilita a otros entender lo que estás haciendo. 
+Además, estamos mezclando la información de estilo con la información estructural del HTML, haciendo el CSS difícil de leer y de entender. Manteniendo los distintos tipos de código separados y puros, se facilitará la tarea a aquellos que vayan a trabajar posteriormente en el código. Recuerda que siempre debes pensar en organizar tu código de una manera que facilita a otros entender lo que estás haciendo.
 
-### 2. CSS en la sección *head* del documento HTML
+### 2. CSS en la sección _head_ del documento HTML
 
 **Nota si estás trabajando en CodePen:** Esto no lo puedes hacer. Recuerda que CodePen ya incluye (oculta) la única etiqueta `<head>` que se admite para cada documento `HTML` y tú no la puedes modificar (ni siquiera la puedes ver). No obstante, es importante que sepas cómo funciona realmente todo.
 
-Otra opción es colocar los estilos dentro de un elemento html `<style>` que colocamos en la sección `head`. Por ejemplo, para representar los mismos estilos del `h1` anterior tendríamos lo siguiente:
+Otra opción es colocar los estilos dentro de un elemento HTML `<style>` que colocamos en la sección `<head>`. Por ejemplo, para representar los mismos estilos del `h1` anterior tendríamos lo siguiente:
 
 ```html
 <!DOCTYPE html>
@@ -340,7 +326,7 @@ Este método continúa siendo ineficiente. ¿Qué pasa si necesitas estilos simi
 
 ### 3. Hoja de estilos CSS externa
 
-> **Nota si estás trabajando en CodePen:** No es necesario que agregues 
+> **Nota si estás trabajando en CodePen:** No es necesario que agregues
 > `<link rel="stylesheet" etc...` a tu código HTML, de eso se encarga CodePen "detrás de las cortinas". No obstante, es importante que sepas cómo funciona realmente todo.
 
 La manera ideal de agregar estilos es tener un archivo CSS separado de tu archivo HTML. Todos los estilos se incluirán en este archivo externo de tipo CSS , que se enlazarán desde cada una de las páginas HTML mediante la etiqueta html `<link>` (enlace).
@@ -357,12 +343,15 @@ En el caso de nuestro ejemplo anterior con los estilos para el `h1`, tendríamo
   <head>
     <title>Entendiendo CSS</title>
     <!--Enlace a archivo que esta en la misma computadora-->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
     <!-- o enlace a archivo que esta en internet, uno u otro.-->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    />
   </head>
   <body>
-    <h1>Hello World!</h1>
+    <h1>¡Hola Mundo!</h1>
   </body>
 </html>
 ```
