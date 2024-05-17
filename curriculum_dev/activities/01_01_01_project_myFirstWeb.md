@@ -1,11 +1,12 @@
 # 🔹Reto 1.1: Mi Primera Página HTML
 
 **Dificultad:** 🌻
-**Aprendizaje:** 🍯🍯
-**Tiempo:** ⏱⏱
-**Reacciona** con :eyes: cuando comiences la lectura y/o actividad.
 
-# :small_blue_diamond:Reto 2.1 : Mi Primera Página HTML
+**Aprendizaje:** 🍯🍯
+
+**Tiempo:** ⏱⏱
+
+**Reacciona** con :eyes: cuando comiences la lectura y/o actividad.
 
 ## Meta de Aprendizaje
 
