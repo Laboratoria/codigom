@@ -19,35 +19,35 @@ Buscamos acercarte respuestas simples y breves a las preguntas:
 
 5. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan
 
-1. **Concepto de Backend y Frontend**:
+6. **Concepto de Backend y Frontend**:
    
    - **Backend**: Parte del software que no es visible para el usuario, donde se maneja la lógica, bases de datos, y operaciones del servidor.
    - **Frontend**: Parte visible del software, donde el usuario interactúa directamente.
 
-2. **APIs (Interfaz de Programación de Aplicaciones)**:
+7. **APIs (Interfaz de Programación de Aplicaciones)**:
    
    - **Qué son**: Conjuntos de definiciones y protocolos que permiten que un software se comunique con otro.
    - **Cómo se usan**: Ejemplos básicos de cómo conectar diferentes aplicaciones usando APIs.
 
-3. **Lógica Básica de Programación**:
+8. **Lógica Básica de Programación**:
    
    - **Conceptos de Condicionales y Bucles**: Cómo funcionan los "if-else" y los bucles para automatizar decisiones.
    - **Variables y Datos**: Manejo básico de datos y cómo almacenarlos y utilizarlos en las automatizaciones.
 
-4. **Conceptos de Base de Datos**:
+9. **Conceptos de Base de Datos**:
    
    - **Qué son las Bases de Datos**: Almacenamiento estructurado de información.
    - **Operaciones Básicas**: Crear, leer, actualizar y eliminar (CRUD).
 
-5. **Seguridad y Privacidad**:
-   
-   - **Conceptos Básicos de Seguridad**: Importancia de la protección de datos y buenas prácticas.
-   - **Cumplimiento Normativo**: Conocimiento básico de normativas como GDPR.
+10. **Seguridad y Privacidad**:
+    
+    - **Conceptos Básicos de Seguridad**: Importancia de la protección de datos y buenas prácticas.
+    - **Cumplimiento Normativo**: Conocimiento básico de normativas como GDPR.
 
-6. **Casos de Uso y Aplicaciones Prácticas**:
-   
-   - **Ejemplos Reales**: Estudios de caso de empresas o proyectos que han implementado soluciones no-code exitosamente.
-   - **Proyectos Prácticos**: Crear pequeñas aplicaciones o automatizaciones para resolver problemas específicos.
+11. **Casos de Uso y Aplicaciones Prácticas**:
+    
+    - **Ejemplos Reales**: Estudios de caso de empresas o proyectos que han implementado soluciones no-code exitosamente.
+    - **Proyectos Prácticos**: Crear pequeñas aplicaciones o automatizaciones para resolver problemas específicos.
 
 Con estos conocimientos, los participantes tendrán una base sólida para entender y aprovechar las herramientas no-code de manera efectiva.
 

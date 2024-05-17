@@ -87,7 +87,7 @@
   * [Módulo 1: Todo sobre...](curriculum_noc/activities/00_01_00_noc_all_about.md)
     
     * ♦️ [Entendiendo Internet y la Web](curriculum_noc/activities/00_01_01_internet_web.md)
-    * ♦️ [Qué es el desarrollo web front-end y qué es el back-end](curriculum_noc/activities/00_01_02_web_dev.md)
+    * ♦️ [Qué es no-code](curriculum_noc/activities/00_01_02_web_dev.md)
     * [El impacto del Desarrollo Web en la vida cotidiana](curriculum_noc/activities/00_01_03_dev_life.md)
     * [Tendencias actuales y futuras en el Desarrollo Web](curriculum_noc/activities/00_01_04_dev_trends.md)
     * [Herramientas y tecnologías básicas del Desarrollo Web](curriculum_noc/activities/00_01_05_dev_tools.md)
