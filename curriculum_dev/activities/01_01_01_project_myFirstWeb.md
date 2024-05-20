@@ -26,11 +26,11 @@ Utilizando un nuevo proyecto de CodePen, crea una página `HTML` simple que func
 
 - [x] Tu nombre no está como título principal utilizando la etiqueta `<h1>`.
 
-- [x] No incluyes 2 párrafos `<p>` de bienvenida o introducción sobre ti. En el contenido de tus párrafos:
+- [x] No incluyes 2 párrafos `<p>` de bienvenida o introducción sobre ti. 
 
-- [x] No incluyes una cita `<blockquote>` de una frase que te resulte interesante.
+- [x] En el contenido de tus párrafos no incluyes una cita `<blockquote>` de una frase que te resulte interesante.
 
-- [x] No incluyes 2 fragmentos de texto destacados con `<em>` o `<strong>`.
+- [x] En el contenido de tus párrafos no incluyes 2 fragmentos de texto destacados con `<em>` o `<strong>`.
 
 - [x] No incluyes una lista ordenada `<ol>` de tus intereses o _hobbies_.
 
