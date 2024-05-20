@@ -10,7 +10,7 @@ Sabemos que embarcarse en aprender algo nuevo puede ser un gran desafío, especi
 
 Quizás solamente buscas informarte un poco de las oportunidades de la **economía digital**, compartir ideas y experiencias en comunidad con otras mujeres. Quizás te sirve aprender a usar algunas herramientas para mejorar tu actual trabajo, automatizar procesos, etc. Quizás tienes claro que quieres un cambio radical de carrera y quieres en dar ese primer paso de aprendizaje.
 
-En todos los casos eres bienvenida porque hemos diseñado la experiencia de manera que se adecue a cada una. :smile:
+En todos los casos eres bienvenida porque hemos diseñado la experiencia de manera que se adecue a cada persona. :smile:
 
 Por otro lado, es importante que sepas que hay muchas razones por las que creemos en un tipo de aprendizaje significativo que involucra el conocimiento y desarrollo de habilidades "técnicas", pero también habilidades transversales "para la vida". Te invitamos a explorar el contenido y actividades que hay al respecto.
 
@@ -42,17 +42,17 @@ Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o 
 
 #### :large_blue_circle: Habilidad (H)
 
-Una habilidad es una destreza para ejecutar o hacer algo concreto. Puedes comprender el concepto de gravedad, velocidad, equilibrio, etc., pero eso no significa que tengas **la habilidad de andar en bicicleta**.
+Una habilidad es una destreza para ejecutar o hacer algo concreto. Puedes comprender los conceptos de gravedad, velocidad, equilibrio, etc., pero eso no significa que tengas **la habilidad de andar en bicicleta**.
 
 La habilidad es esa capacidad práctica de aplicar lo que sabes, o incluso lo que intuyes,  para lograr hacer algo efectivamente: andar en bicicleta. Este es nuestro objetivo último, que puedas desarrollar habilidades que te permitan hacer cosas de verdad, en la practica.
 
-Una habilidad se desarrolla **completando todos los retos de los todos los módulos** que se indiquen. En ese sentido, las habilidades funcionan como un "contenedor" de módulos.
+Una habilidad se desarrolla **completando todas las actividades y los retos de los todos los módulos** que se incluyen en cada habilidad. En ese sentido, las habilidades funcionan como un "contenedor" de módulos.
 
 ---
 
 #### :large_blue_diamond: Módulo (M)
 
-Los módulos son un “contenedor” de varios retos actividades que están agrupados para:
+Los módulos son un “contenedor” de varias actividades y retos. Se agrupan en módulos para:
 
 - Intercalar temas de aprendizaje:
   
@@ -66,7 +66,7 @@ Los módulos son un “contenedor” de varios retos actividades que están agru
 
 #### :small_blue_diamond: Reto o "actividad" (R)
 
-En Laboratoria, desde hace años creemos firmemente en "aprender haciendo" (*learning by doing*).
+En Laboratoria, desde hace años creemos firmemente en el aprendizaje activo y en  "aprender haciendo" (*learning by doing*).
 
 El reto es el principal vehículo de aprendizaje. Cada uno es 100% autocontenido, es decir que indica lo que debes conseguir hacer y contiene todos los insumos para adquirir el conocimiento necesario y ponerlo en práctica.
 

@@ -24,7 +24,7 @@ Está totalmente OK 👍 si optas únicamente por tu autoevaluación (evaluarte 
 
 Cada actividad o reto contiene una **guía** que te permitirá evaluar si efectivamente conseguiste la meta de aprendizaje indicada. Tómate el tiempo suficiente para revisar tu trabajo siguiendo cada uno de los puntos de la guía.
 
-Cuando hayas completado la autoevaluación, ya sabes que debes reaccionar con ✅ al enunciado. Recibirás una cantidad de 🍯 que representa la cantidad de aprendizaje conseguido por completar la actividad.
+Cuando hayas completado tu autoevaluación, debes reaccionar con ✅ al enunciado en Discord. Recibirás una cantidad de 🍯 que representa la cantidad de aprendizaje conseguido por completar la actividad.
 
 Comparte la URL de tu trabajo en el hilo debajo del enunciado en Discord.
 
