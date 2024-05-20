@@ -12,6 +12,8 @@ Aprender lo elemental del lenguaje `CSS` para ser capaz de mejorar la presentaci
 
 ## Descripción
 
+[Video : Explicación de lo que hay que hacer 🌟](https://www.loom.com/share/07471114231d48559d844f1cad33ea65)
+
 Después de haber establecido la estructura y contenido básico de tu página `HTML` en el reto anterior, es el momento de mejorar su presentación visual con los primeros estilos creados con el lenguaje `CSS`.
 
 No es un ejercicio estético pero igual intenta mantener tus estilos lo más armónicos y agradables que puedas.
@@ -19,15 +21,12 @@ No es un ejercicio estético pero igual intenta mantener tus estilos lo más arm
 **No cumples con la meta de aprendizaje si:**
 
 - [x] Tienes mensajes de error que no has resuelto.
-
 * [x] No conseguiste cambiar el color de fondo de la página `background-color` y el color del texto `color` . Asegúrate de mantener un contraste mínimo que permita leer sin sufrimiento.
 
 * [x] No acomodas de manera intencional tu contenido utilizando `margin`  y `padding`.
-
 - [x] No incluyes al menos 2 diferentes fuentes o tipografías específicas usando `font-family`.
 
 - [x] No muestras al menos 2 tamaños de texto distintos `font-size` para tus párrafos o tu lista. No con `<h1>` o `<h2>` etc. obviamente.
-
 * [x] Tu(s) enlace(s) no tienen algún efecto de transición `transition` o `hover` para resaltarlos cuando el usuario interactúe con ellos.
 
 ## Insumos para tu aprendizaje
@@ -47,3 +46,4 @@ No es un ejercicio estético pero igual intenta mantener tus estilos lo más arm
 - Utiliza comentarios en tu código CSS para explicar qué hace cada regla y por qué la estás aplicando.
 - No tengas miedo de experimentar con diferentes propiedades y valores para ver cómo afectan la apariencia de tu página.
 - No dudes en pedir ayuda y/o retroalimentación a tus compañeras o buscar inspiración en otros sitios web para mejorar el diseño de tu página.
+- [Video : Tutorial o solución](https://www.loom.com/share/36f98b8aecb14c2a8e37055091bf0650)

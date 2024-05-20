@@ -11,6 +11,8 @@ Aprenderás lo básico sobre el lenguaje `HTML` que es el lenguaje fundamental p
 
 ## Descripción
 
+[Video : Explicación de lo que hay que hacer 🌟](https://www.loom.com/share/6e52e683796e44ce8a23e585bdba3c93?sid=ebfd426d-bbb9-4e37-9cbc-467ae73997ac)
+
 En este reto práctico, crearás una página que simule la nota de un diario o periódico. Para hacerlo, utilizarás el editor de código "en la nube" llamado CodePen y aplicarás distintas "etiquetas"" básicas del lenguaje `HTML` que te servirán para dar formato y estructura mínimas a tu contenido.
 
 ## Guía de evaluación
@@ -48,3 +50,4 @@ Como todo en la vida, hay muchas maneras de resolver un mismo problema, se hará
 - No dudes ni un instante en buscar ayuda u opinión de alguna compañera.
 - Recuerda que puedes pedir [la evaluación de una compañera antes de terminar tu reto](https://laboratoria1.gitbook.io/codigom/curriculum_model/lea_model_06_assessment.md).
 - ¡Diviértete y disfruta del proceso de aprendizaje! Recuerda que estar aturdida y confundida es parte natural del proceso.
+- [Video : Tutorial o solución](https://www.loom.com/share/e23a5d140e53454a85db47c0c0d8f628?sid=38b96ce5-6ef2-4d31-aace-45fa355523b0)

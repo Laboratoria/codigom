@@ -14,6 +14,8 @@ Aprenderás a utilizar etiquetas adicionales de `HTML` para crear una página se
 
 ## Descripción
 
+[Video : Explicación de lo que hay que hacer 🌟](https://www.loom.com/share/6e52e683796e44ce8a23e585bdba3c93?sid=ebfd426d-bbb9-4e37-9cbc-467ae73997ac)
+
 Continuarás trabajando sólo con `HTML` pero agregaremos algunas etiquetas nuevas para que puedas practicar un poco más.
 
 Utilizando un nuevo proyecto de CodePen, crea una página `HTML` simple que funcione como tu presentación personal. Esta debe incluir un título, 2 párrafos de bienvenida, una lista de intereses o _hobbies_, un enlace a un sitio web de tu interés y una imagen apropiada.
@@ -55,3 +57,4 @@ Utilizando un nuevo proyecto de CodePen, crea una página `HTML` simple que func
 - Para la etiqueta de la imagen, utiliza la URL de una que ya esté "en línea". Puedes subir la que quieras a https://imgur.com/ y obtener la URL con el botón "Grab Link".
 - Recuerda que puedes pedir [la evaluación de una compañera antes de terminar tu reto](https://laboratoria1.gitbook.io/codigom/curriculum_model/lea_model_06_assessment.md).
 - ¡Diviértete y disfruta del proceso de aprendizaje! Recuerda que estar aturdida y confundida es parte natural del proceso.
+- [Video : Tutorial o solución](https://www.loom.com/share/e23a5d140e53454a85db47c0c0d8f628?sid=38b96ce5-6ef2-4d31-aace-45fa355523b0)
