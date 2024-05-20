@@ -20,7 +20,7 @@ Por otro lado, es importante que sepas que hay muchas razones por las que creemo
 
 ### Bloque introductorio
 
-Para cada área o "campo" técnico te ofrecemos un bloque introductorio diseñado para darte una visión clara y concreta, en un formato flexible y con poco compromiso. 
+Para cada área o "campo" técnico te ofrecemos un bloque introductorio diseñado para darte una visión clara y concreta, en un formato flexible y con poco compromiso de tiempo. 
 
 > En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios de cada disciplina de tu elección. Puedes explorar y probar todo lo que quieras.
 
