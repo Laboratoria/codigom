@@ -43,9 +43,9 @@ Algunos aspectos importantes:
 **Ejemplos de Uso**
 
 - **Pequeñas Empresas**: Creación de sitios web, tiendas en línea y automatización de marketing.
-- **Departamentos de Marketing**: Automatización de campañas de correo electrónico y gestión de leads.
+- **Departamentos de Marketing**: Automatización de campañas de correo electrónico y gestión de *leads*.
 - **Equipos de Recursos Humanos**: Automatización de procesos de contratación y gestión de empleados.
-- **Educadores**: Creación de plataformas de aprendizaje en línea y gestión de cursos.
+- 
 
 **Ventajas y Limitaciones**
 

@@ -88,12 +88,14 @@
   * [Módulo 1: Todo sobre...](curriculum_noc/activities/00_01_00_noc_all_about.md)
     
     * ♦️ [Entendiendo Internet y la Web](curriculum_noc/activities/00_01_01_internet_web.md)
-    * ♦️ [Qué es no-code](curriculum_noc/activities/00_01_02_web_dev.md)
-    * [El impacto del Desarrollo Web en la vida cotidiana](curriculum_noc/activities/00_01_03_dev_life.md)
-    * [Tendencias actuales y futuras en el Desarrollo Web](curriculum_noc/activities/00_01_04_dev_trends.md)
-    * [Herramientas y tecnologías básicas del Desarrollo Web](curriculum_noc/activities/00_01_05_dev_tools.md)
+    * ♦️ [Qué es no-code]()
+    * ♦️ [Qué es la IA]()
+    * [El impacto y las oportunidades]()
+    * [Tendencias actuales y futuras]()
+    * [Herramientas y tecnologías básicas del no-code](curriculum_noc/activities/00_01_05_dev_tools.md)
+    * [Herramientas y tecnologías básicas de IA](curriculum_noc/activities/00_01_05_dev_tools.md)
   
-  * [Módulo 2: Aprende haciendo tu primera app/automatización](curriculum_noc/activities/00_02_00_practice.md)
+  * [Módulo 2: Aprende haciendo tu primera automatización](curriculum_noc/activities/00_02_00_practice.md)
     
     * ♦️ [Reto: Mi Primera Página HTML](curriculum_noc/activities/00_02_01_myfirst.md)
     * ♦️ [Reflexiona y comenta](curriculum_noc/activities/00_02_02_close.md)
@@ -105,3 +107,14 @@
     * ♦️ [Reto 1.1 : XXX](curriculum_noc/activities/01_01_01_project_myFirstWeb.md)
 
 * Tópicos
+  
+  * APIs.
+  * Lógica de programación.
+  * Bases de datos.
+  * Privacidad y seguridad.
+  * Machine/deep learing
+  * IA generativa.
+  * LLMs
+  * Prompting
+  * Ética
+  * 
