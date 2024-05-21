@@ -64,7 +64,6 @@
     
     * 🔹[Reto 3.1 : Diseño Responsivo con Media Queries](curriculum_dev/activities/01_03_01_project_responsive_mediaqueries.md)
     * 🔹[Reto 3.2 : Diseño responsivo con unidades relativas y flexbox](curriculum_dev/activities/01_03_02_project_responsive_flexbox.md)
-    * 🔹[Reto 3.3 : Imágenes responsivas con HTML y CSS](curriculum_dev/activities/01_03_03_project_responsive_images.md)
   
   * 🔷 Módulo 4 : Programar sin escribir código (en prep...)
 

@@ -1,15 +1,48 @@
-# 🔹Reto 3.2 : Diseño responsivo con unidades relativas y flexbox
+# 🔹Reto 3.2: Diseño Responsivo con Unidades Relativas y Flexbox
 
---- 
+**Dificultad:** 🌻🌻🌻
 
-Dificultad: 🌻🌻🌻
+**Aprendizaje:** 🍯🍯🍯 
 
-Aprendizaje: 🍯🍯🍯
+**Tiempo:** ⏱⏱⏱ 
 
-Tiempo: ⏱⏱⏱⏱
+**Reacciona** con 👀 cuando comiences la lectura, actividad o reto.
 
----
+## Meta de Aprendizaje
 
-🔵 Habilidad (H): Maquetación Web, básica > 🔷 Módulo 3: Diseño web responsivo > 🔹Reto 3.1: Diseño Responsivo con Media Queries > **🔹Reto 3.2 : Diseño responsivo con unidades relativas y flexbox** > 🔹Reto 3.3 : Imágenes responsivas con HTML y CSS
+Utilizar unidades relativas y Flexbox para crear un diseño web responsivo y flexible que se adapte a diferentes tamaños de pantalla.
 
---- 
+## Descripción
+
+[Video : Explicación de lo que hay que hacer 🌟]()
+
+En este reto, utilizarás unidades relativas y Flexbox para crear un diseño web responsivo y flexible que se adapte a diferentes tamaños de pantalla. Asegúrate de que tu página se vea bien y sea fácil de usar en dispositivos móviles, tabletas y computadoras de escritorio.
+
+**No cumples con la meta de aprendizaje si:**
+
+- [x] No utilizas unidades relativas y Flexbox de manera efectiva para crear un diseño web responsivo.
+- [x] Los elementos de la página no se ajustan correctamente en diferentes dispositivos y tamaños de pantalla.
+- [x] El diseño no es coherente y funcional en todas las condiciones de visualización. 
+
+
+## Insumos para tu aprendizaje
+
+- [Texto: CodePen, fork o bifurcación](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_fork)
+- [Texto: Unidades relativas](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_units)
+- [Texto: Flexbox](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_flexbox)
+- [Juego: Flexbox Froggy](https://flexboxfroggy.com/)
+
+## Pauta de trabajo
+
+- Crea un fork de tu proyecto realizado en el reto 3.1 para trabajar sobre una copia pero sin alterar lo ya conseguido.
+
+- Modifica el diseño de tu página utilizando unidades relativas como %, vw, vh, vmin y vmax.
+
+- Utiliza Flexbox para organizar y alinear los elementos de la página de manera responsiva.
+
+- Experimenta con diferentes unidades relativas para definir tamaños y dimensiones flexibles en tu diseño.
+
+- Recuerda que puedes combinar estos atributos con las Media Queries que ya tienes definidas y/o definir nuevas
+
+
+- [Video : Tutorial o solución]()
