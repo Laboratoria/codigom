@@ -54,6 +54,7 @@
     
     * 🔹[Reto 1.1 : Mi Primera Página HTML](curriculum_dev/activities/01_01_01_project_myFirstWeb.md)
     * 🔹[Reto 1.2 : Agregando estilos con CSS](curriculum_dev/activities/01_01_02_project_add_CSS.md)
+    * 🔹[Reto 1.3 : HTML semántico](curriculum_dev/activities/01_01_03_project_semantic_HTML.md)
   
   * 🔷 [Módulo 2 : Tu primer formulario web](curriculum_dev/activities/01_02_00_modulo_form.md)
     

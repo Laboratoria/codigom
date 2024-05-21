@@ -2,9 +2,9 @@
 
 ## ¿Qué es CSS?
 
-CSS (Cascading Style Sheets) es un lenguaje de estilos utilizado para describir la presentación de documentos escritos en HTML o XML. CSS se encarga de cómo se ven los elementos en una página web, permitiendo separar el código referente al contenido del de la presentación. Con CSS, se pueden aplicar estilos como colores, fuentes, espaciados, tamaños, y disposición de los elementos en la página, creando así diseños atractivos y profesionales.
+CSS (Cascading Style Sheets) es un lenguaje de estilos utilizado para describir la presentación de documentos escritos en HTML o XML. CSS se encarga de cómo se ven los elementos en una página web, permitiendo separar el código referente al contenido del de la presentación. Con CSS, se pueden aplicar estilos como colores, fuentes, espaciados, tamaños, y disposición de los elementos en la página, creando así diseños funcionales, atractivos y profesionales.
 
-### ¿Cómo es la Sintaxis Básica de CSS?
+## ¿Cómo es la Sintaxis Básica de CSS?
 
 La sintaxis básica de CSS consiste en reglas formadas por **selectores** y **declaraciones**. Una regla CSS tiene el siguiente formato:
 
@@ -17,7 +17,7 @@ selector {
 - **Selector**: Indica qué elementos HTML se verán afectados por las reglas de estilo. Los selectores pueden ser de tipo, clase, ID, entre otros.
 - **Declaraciones**: Dentro de las llaves `{}`, se colocan las propiedades y valores que se aplicarán a los elementos seleccionados. Cada declaración tiene una propiedad (qué aspecto se quiere modificar) seguida de dos puntos `:`, y un valor (cómo se quiere modificar ese aspecto) seguido de un punto y coma `;`.
 
-#### Ejemplo de una Regla CSS Básica:
+### Ejemplo de una Regla CSS Básica:
 
 ```css
 p {
@@ -32,17 +32,30 @@ En este ejemplo:
 - La **declaración** `color: blue;` establece que el color del texto de los párrafos será azul.
 - La **declaración** `font-size: 16px;` establece que el tamaño de la fuente será de 16 píxeles.
 
+### Comentarios en CSS
+
+Así como es una buena práctica comentar tu código HTML y JavaScript, también es una buena práctica comentar tu código CSS. Los comentarios en CSS se hacen de la siguiente manera:
+
+- El comienzo se indica mediante los caracteres `/*`.
+- El final del comentario se indica mediante `*/`.
+
+Veamos un ejemplo:
+
+```css
+/* Comentario en CSS */
+```
+
 ## Selectores básicos
 
 Los selectores básicos en CSS se utilizan para seleccionar y aplicar estilos a elementos HTML. Aquí hay una breve explicación de cada uno:
 
-1. **Selector de Tipo**: Selecciona todos los elementos de un tipo específico. Ejemplo: `p` selecciona todos los párrafos `<p>`.
+1. **Selector de Tipo**: Selecciona todos los elementos HTML de un tipo específico. Ejemplo: `p` selecciona todos los párrafos `<p>`.
 
-2. **Selector de Clase**: Selecciona todos los elementos con una clase específica. Ejemplo: `.miClase` selecciona todos los elementos con `class="miClase"`.
+2. **Selector de Clase**: Selecciona todos los elementos con una clase específica. Ejemplo: `.miClase` selecciona todos los elementos HTML con `class="miClase"`.
 
-3. **Selector de ID**: Selecciona el elemento con un ID específico. Ejemplo: `#miID` selecciona el elemento con `id="miID"`.
+3. **Selector de ID**: Selecciona el elemento HTML con un ID específico. Ejemplo: `#miID` selecciona el elemento con `id="miID"`.
 
-4. **Selector Universal**: Selecciona todos los elementos. Ejemplo: `*` selecciona todos los elementos en la página.
+4. **Selector Universal**: Selecciona todos los elementos. Ejemplo: `*` selecciona todos los elementos HTML en la página.
 
 5. **Selector de Atributo**: Selecciona elementos que tienen un atributo específico. Ejemplo: `[type="text"]` selecciona todos los elementos con `type="text"`.
 
@@ -76,97 +89,39 @@ p {
 }
 ```
 
-## Reglas de Cascada y Herencia en CSS
+## Propiedades
 
-CSS, o Cascading Style Sheets, utiliza un conjunto de reglas conocidas como "cascada" y "herencia" para determinar cómo se aplican los estilos a los elementos HTML. Estos conceptos son fundamentales para entender cómo funcionan y se priorizan las reglas de estilo en una página web.
+Las propiedades CSS son reglas que permiten estilizar elementos de una página web. A continuación, te presentamos algunas de las propiedades CSS más utilizadas y su función principal. 
 
-Es posible que en algún momento descubras que el CSS que esperabas que se aplique a un elemento "no funciona". Esto puede ocurrir cuando has creado dos reglas que podrían aplicarse al mismo elemento. La cascada y la especificidad controlan qué regla se aplica cuando hay conflictos o superposición. Es posible que la regla que finalmente se aplica a tu elemento no sea la que esperas, por lo que es crucial entender cómo funcionan estos mecanismos.
+#### 1. **Color y Fondo**
 
-### Cascada
+- **color**: Define el color del texto. Ejemplo: `color: blue;`.
+- **background-color**: Establece el color de fondo de un elemento. Ejemplo: `background-color: yellow;`.
+- **background-image**: Aplica una imagen de fondo. Ejemplo: `background-image: url('imagen.jpg');`.
 
-En CSS, la cascada significa que el orden de las reglas es importante: cuando dos reglas tienen la misma especificidad, se aplica la que aparece última en el CSS.
+#### 2. **Texto**
 
-En el siguiente ejemplo, hay dos reglas que pueden aplicarse a un h1. El h1 termina siendo azul porque estas reglas tienen la misma especificidad y, por lo tanto, se aplica la última.
+- **font-size**: Define el tamaño de la fuente. Ejemplo: `font-size: 16px;`.
+- **font-family**: Especifica la familia de fuentes. Ejemplo: `font-family: Arial, sans-serif;`.
+- **font-weight**: Establece el grosor del texto. Ejemplo: `font-weight: bold;`.
+- **text-align**: Alinea el texto dentro de un elemento. Ejemplo: `text-align: center;`.
+- **line-height**: Define la altura de la línea. Ejemplo: `line-height: 1.5;`.
 
-En este ejemplo, el `h1` será azul porque la última regla en el CSS tiene prioridad.
+#### 3. **Modelo de Caja**
 
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <style>
-      h1 {
-        color: red;
-      }
-      h1 {
-        color: blue;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Texto en h1</h1>
-  </body>
-</html>
-```
+- **width** y **height**: Definen el ancho y la altura de un elemento. Ejemplo: `width: 100px; height: 50px;`.
+- **margin**: Establece el espacio exterior de un elemento. Ejemplo: `margin: 10px;`.
+- **padding**: Define el espacio interior de un elemento. Ejemplo: `padding: 15px;`.
+- **border**: Especifica el borde de un elemento. Ejemplo: `border: 1px solid black;`.
 
-### Especificidad
+#### 4. **Animaciones y Transiciones**
 
-La especificidad determina cuál regla se aplica cuando diferentes selectores pueden afectar el mismo elemento. Básicamente, mide lo específico que es un selector:
+- **transition**: Define la transición entre dos estados de un elemento. Ejemplo: `transition: all 0.3s ease;`.
+- **animation**: Aplica una animación a un elemento. Ejemplo: `animation: move 2s infinite;`.
 
-- Un selector de elemento es menos específico y tiene una puntuación de especificidad más baja.
-- Un selector de clase es más específico y tiene una puntuación de especificidad más alta.
+Estas propiedades son solo una introducción al vasto mundo de CSS. Con ellas, puedes empezar a crear y estilizar páginas web de manera efectiva. Explorar y experimentar con estas y otras propiedades es esencial para dominar el diseño web.
 
-Por ejemplo, si hay dos reglas que pueden aplicarse a un h1, este será rojo si una de las reglas usa un selector de clase, ya que esta tiene mayor especificidad, incluso si la regla con el selector de elemento está más abajo en el código.
-
-Aquí, el `h1` será verde porque el selector de clase `.highlight` tiene mayor especificidad que el selector de elemento `h1`.
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <style>
-      h1 {
-        color: red;
-      }
-      .highlight {
-        color: green;
-      }
-    </style>
-  </head>
-  <body>
-    <h1 class="highlight">Texto en h1</h1>
-  </body>
-</html>
-```
-
-### Herencia
-
-En CSS, la herencia significa que ciertos valores de propiedades establecidas para elementos padre son heredados por sus elementos hijo, mientras que otros no.
-
-Por ejemplo, si un elemento tiene establecido el color y la fuente, todos sus hijos también tendrán esos valores, a menos que se les haya aplicado un color y una fuente diferentes.
-
-Algunas propiedades, como el ancho, no se heredan. Si un elemento tiene un ancho del 50%, sus descendientes no tendrán automáticamente un 50% del ancho del padre, lo que evitaría complicaciones en el uso de CSS.
-
-En este caso, el texto del párrafo `<p>` será de color púrpura y usará la fuente Arial porque hereda estos estilos del elemento padre `<div class="parent">`.
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <style>
-      .parent {
-        color: purple;
-        font-family: Arial, sans-serif;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="parent">
-      <p>Texto heredado</p>
-    </div>
-  </body>
-</html>
-```
+> :robot: **IA Tip:** "Dame 3 ejemplos de diferentes usos para cada una de las propiedades 'animation' y 'transition' de CSS"
 
 ## Valores y unidades
 
@@ -179,18 +134,18 @@ Aquí tienes un breve resumen:
 ### Unidades Relativas
 
 1. **`em` y `rem`**:
-
+   
    - **`em`**: Relativa al tamaño de la fuente del elemento contenedor.
    - **`rem`**: Relativa al tamaño de la fuente de la raíz (html).
    - **Recomendación**: Usar `rem` para tamaños globales y `em` para tamaños específicos que necesitan ser relativos al contexto local.
 
 2. **Porcentajes (`%`)**:
-
+   
    - Relativos al tamaño del elemento contenedor.
    - **Recomendación**: Útil para layouts flexibles y responsivos, especialmente en anchuras y alturas.
 
 3. **Viewport Units (`vw`, `vh`, `vmin`, `vmax`)**:
-
+   
    - **`vw`**: 1% del ancho del viewport.
    - **`vh`**: 1% de la altura del viewport.
    - **`vmin`**: 1% del menor entre el ancho y la altura del viewport.
@@ -200,78 +155,26 @@ Aquí tienes un breve resumen:
 ### Unidades Absolutas
 
 1. **Píxeles (`px`)**:
-
+   
    - Valor absoluto que no cambia con el contexto.
    - **Recomendación**: Útil para bordes finos, sombras, y cuando se necesita precisión fija.
 
 2. **Otros (pt, pc, in, cm, mm)**:
-
+   
    - Usados principalmente en impresiones o cuando se necesita un tamaño exacto físico.
-   - **Recomendación**: En diseño web, es raro su uso; `px`, `em`, `rem` y las viewport units son más comunes y flexibles.
+   - **Recomendación**: En diseño web, es raro su uso; `px`, `em`, `rem` y las *viewport units* son más comunes y flexibles.
 
 ### Unidades Funcionales
 
 1. **`calc()`**:
-
+   
    - Permite hacer cálculos con diferentes unidades.
    - **Recomendación**: Muy útil para combinaciones dinámicas y precisas, por ejemplo, `width: calc(100% - 50px);`.
 
 2. **CSS Custom Properties (Variables)**:
-
+   
    - Definidas con `--variable-name` y utilizadas con `var(--variable-name)`.
    - **Recomendación**: Facilitan la gestión de temas y valores repetitivos, facilitando el mantenimiento del código.
-
-### General
-
-- **Diseño Responsivo**: Combina unidades relativas y absolutas para crear _layouts_ que se adapten a diferentes tamaños de pantalla.
-- **Accesibilidad**: Considera el tamaño de fuente adecuado para la legibilidad, utilizando `rem` para escalar fuentes según la configuración del usuario.
-
-### Ejemplo Práctico
-
-```css
-html {
-  font-size: 16px; /* Base size */
-}
-
-body {
-  font-size: 1rem; /* 16px */
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  width: 80%;
-  max-width: 1200px;
-  padding: 2rem; /* 32px */
-}
-
-.header {
-  height: 10vh; /* 10% of viewport height */
-  background-color: #333;
-}
-
-.button {
-  padding: 1em 2em;
-  font-size: 1em; /* Relative to container's font size */
-}
-```
-
-Estas recomendaciones te ayudarán a mantener un diseño flexible, responsivo y accesible.
-
-## Comentarios en CSS
-
-Así como es buena práctica comentar tu código HTML y JavaScript, es buena práctica comentar tu CSS. Los comentarios en CSS se hacen de la siguiente manera:
-
-- El comienzo se indica mediante los caracteres `/*`.
-- El final del comentario se indica mediante `*/`.
-
-Veamos un ejemplo:
-
-```css
-/* Comentario en CSS */
-```
-
----
 
 ## ¿Cómo se agrega CSS en un documento HTML?
 
@@ -299,7 +202,7 @@ Además, estamos mezclando la información de estilo con la información estruct
 
 ### 2. CSS en la sección _head_ del documento HTML
 
-**Nota si estás trabajando en CodePen:** Esto no lo puedes hacer. Recuerda que CodePen ya incluye (oculta) la única etiqueta `<head>` que se admite para cada documento `HTML` y tú no la puedes modificar (ni siquiera la puedes ver). No obstante, es importante que sepas cómo funciona realmente todo.
+> **Nota si estás trabajando en CodePen:** Esto no lo puedes hacer. Recuerda que CodePen ya incluye (oculta) la única etiqueta `<head>` que se admite para cada documento `HTML` y tú no la puedes modificar (ni siquiera la puedes ver). No obstante, es importante que sepas cómo funciona realmente todo.
 
 Otra opción es colocar los estilos dentro de un elemento HTML `<style>` que colocamos en la sección `<head>`. Por ejemplo, para representar los mismos estilos del `h1` anterior tendríamos lo siguiente:
 
