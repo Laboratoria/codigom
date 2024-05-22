@@ -65,7 +65,7 @@
     * 🔹[Reto 3.1 : Diseño Responsivo con Media Queries](curriculum_dev/activities/01_03_01_project_responsive_mediaqueries.md)
     * 🔹[Reto 3.2 : Diseño responsivo con unidades relativas y flexbox](curriculum_dev/activities/01_03_02_project_responsive_flexbox.md)
   
-  * 🔷 Módulo 4 : Programar sin escribir código (en prep...)
+ * 🔷 Módulo 4 : Programar sin escribir código (en prep...)
 
 * Tópicos
   
@@ -77,6 +77,9 @@
   * [HTML Formularios](curriculum_dev/topics/html_forms.md)
   * [CSS, introducción](curriculum_dev/topics/css_intro.md)
   * [CSS, fundamentos](curriculum_dev/topics/css_fundamentos.md)
+  * [CSS, media queries](curriculum_dev/topics/css_media_queries.md)
+  * [CSS, media queries](curriculum_dev/topics/css_flexbox.md)
+  
 
 ## 🟢 No-code e IA
 
