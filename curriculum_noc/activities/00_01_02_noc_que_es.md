@@ -8,15 +8,17 @@
 
 ## Introducción
 
-El no-code, en castellano "sin código" es un enfoque de desarrollo de *software* que permite a personas sin conocimientos técnicos en programación crear aplicaciones y automatizar procesos usando herramientas visuales e interfaces intuitivas. En lugar de escribir código, las usuarias interactúan con componentes preconstruidos y configuraciones para construir soluciones personalizadas de diversa índole.
+El **no-code**, en castellano "sin código" es un concepto amplio respecto a un enfoque de desarrollo de *software* y todo tipo de soluciones digitales que permite a personas sin conocimientos técnicos en programación crear aplicaciones y automatizar procesos usando herramientas visuales e interfaces intuitivas. En lugar de escribir código, las usuarias interactúan con componentes preconstruidos y configuraciones para construir soluciones personalizadas de diversa índole.
+
+Cabe distinguir del concepto de **low-code** que, a diferencia del no-code, que está diseñado para usuarias sin experiencia en programación, el low-code está dirigido a desarrolladoras que tienen conocimientos básicos de programación y buscan acelerar el proceso de desarrollo. Así, el low-code combina componentes visuales con fragmentos de código personalizado para ofrecer una mayor flexibilidad y control sobre el desarrollo de aplicaciones. Esto permite crear soluciones más complejas y personalizadas que las que típicamente se pueden lograr con no-code.
+
+![](/home/diegovelezg/Documentos/GitHub/codigom/assets/NOC/no-code-industry-map.png)
 
 ## **¿Por qué es importante el no-code?**
 
 La cantidad inmensa de necesidades de creación de productos, servicios, soluciones digitales en general, automatizaciones de procesos manuales, etc. supera largamente la cantidad de profesionales *developers* capaces de satisfacer tal demanda de trabajo.
 
 Gracias a la inmensa proliferación de herramientas "no-code" y AI, hoy es posible resolver gran cantidad de esas necesidades "sin saber programar". Como discutimos en [La transformación del trabajo y las oportunidades](../../curriculum_model/lea_model_02_work.md) , muchos empleos tradicionales están desapareciendo aceleradamente, dando paso a nuevas oportunidades que requieren conocimientos y habilidades digitales concretas. Aprender herramientas de **no-code** e **inteligencia artificial (IA)** no solo abre puertas a estos nuevos empleos, sino que también permite a las personas crear soluciones innovadoras y adaptarse a los cambios del mercado laboral.
-
-[No-code vs Low-code vs Code... (y por qué tu trabajo está en riesgo) - YouTube](https://youtu.be/_Du-nvEKKRM?si=xJzv_aZa4txaBVQQ)
 
 Algunos aspectos importantes:
 
@@ -63,4 +65,47 @@ Algunos aspectos importantes:
 
 **Conclusión**
 
-El no-code está revolucionando la forma en que las personas y las empresas abordan el desarrollo de software, democratizando el acceso a la tecnología y permitiendo la creación rápida y eficiente de soluciones personalizadas. Aunque no reemplaza completamente a la programación tradicional, ofrece una alternativa poderosa para muchas aplicaciones y casos de uso, especialmente cuando se necesita rapidez y simplicidad.
+El no-code está revolucionando la forma en que las personas y las empresas abordan el desarrollo de *software*, democratizando el acceso a la tecnología y permitiendo la creación rápida y eficiente de soluciones personalizadas. Aunque no reemplaza completamente a la programación tradicional, ofrece una alternativa poderosa para muchas aplicaciones y casos de uso, especialmente cuando se necesita rapidez y simplicidad.
+
+---
+
+## Actividad
+
+Considerando como referencia inicial algunos de los ejemplos previos e identifica brevemente en 1 necesidad u oportunidad concreta que hayas tenido cerca recientemente y que sabes o intuyes que se podría resolver con herramientas no-code. Piensa en algo que ahorraría mucho tiempo de trabajo manual y/o dinero aportando  valor como solución.
+
+Luego busca alguna(s) herramienta(s) no-code que crees que te hubieran ayudado.
+
+### **Comparte de la siguiente manera:**
+
+En mi
+
+`[trabajo - emprendimiento - negocio familiar - etc.]`, 
+
+se necesitaba `[automatizar un proceso - crear un website - analizar datos - etc.]` .
+
+Hacerlo me hubiera significado `[ahorrar trabajo manual - que me consideren mejor - acceder a más oportunidades - etc.]` 
+
+Por ejemplo:  En mi **trabajo**, se necesitaba **automatizar** el envío de correos con una plantilla cada vez que se agregaba una fila a una hoja de cálculo con datos de un cliente. Hacerlo me hubiera significado **demostrar que soy capaz de hacer mucho más y acceder a alguna posible mejora de mi rol o condiciones de trabajo**.
+
+Agrega cualquier otro comentario o aspecto que quieras y te parezca relevante.
+
+## Insumos adicionales para tu aprendizaje:
+
+- Dr. Google (siempre)
+
+- AI: ChatGPT, Gemini, Perplexity, Bing, etc.. Recuerda que pueden alucinar y mentirte descaradamente, verifica siempre.
+
+- [No-code vs Low-code vs Code... (y por qué tu trabajo está en riesgo) - YouTube](https://youtu.be/_Du-nvEKKRM?si=xJzv_aZa4txaBVQQ)
+
+## Guía de Autoevaluación
+
+No habrás cumplido con la actividad si:
+
+- [x] No identificaste una oportunidad real en tu contexto para aplicar el enfoque no-code.
+- [x] No comentas en el hilo de Discord
+
+---
+
+> 💬 [Comenta en el hilo de Discord:]() siguiendo el formato propuesto y cualquier otra cosa que quieras agregar.
+
+---
