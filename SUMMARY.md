@@ -86,7 +86,7 @@
   
   * [Módulo 1: Todo sobre...](curriculum_noc/activities/00_01_00_noc_all_about.md)
     
-    * ♦️ [Entendiendo Internet y la Web](curriculum_noc/activities/00_01_01_internet_web.md)
+    * ♦️ [Entendiendo Internet y la Web](curriculum_dev/activities/00_01_01_internet_web.md)
     * ♦️ [Qué es no-code](curriculum_noc/activities/00_01_02_noc_que_es.md)
     * ♦️ [Qué es la IA](curriculum_noc/activities/00_01_03_ai_que_es.md)
     * [El impacto y las oportunidades]()
@@ -94,16 +94,16 @@
     * [Herramientas y tecnologías básicas del no-code](curriculum_noc/activities/00_01_05_dev_tools.md)
     * [Herramientas y tecnologías básicas de IA](curriculum_noc/activities/00_01_05_dev_tools.md)
   
-  * [Módulo 2: Aprende haciendo tu primera automatización](curriculum_noc/activities/00_02_00_practice.md)
+  * [Módulo 2: Aprende haciendo tu primera automatización]()
     
-    * ♦️ [Reto: Mi Primera Página HTML](curriculum_noc/activities/00_02_01_myfirst.md)
-    * ♦️ [Reflexiona y comenta](curriculum_noc/activities/00_02_02_close.md)
+    * ♦️ [Reto: Mi Primera automatización]()
+    * ♦️ [Reflexiona y comenta]()
 
-* [Habilidad (H): Automatización de flujos de trabajo](curriculum_noc/activities/01_00_00_overview.md)
+* [Habilidad (H): Automatización de flujos de trabajo]()
   
-  * [Módulo 1 :](curriculum_noc/activities/01_01_00_modulo_myFirstWeb.md)
+  * [Módulo 1 :]()
     
-    * ♦️ [Reto 1.1 : XXX](curriculum_noc/activities/01_01_01_project_myFirstWeb.md)
+    * ♦️ [Reto 1.1 : XXX]()
 
 * Tópicos
   
