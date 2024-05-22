@@ -14,15 +14,17 @@ Aprenderás la importancia y el uso de etiquetas semánticas de `HTML` para mejo
 
 [Video : Explicación de lo que hay que hacer 🌟]()
 
-Este reto se trata de reorganizar tu código. Seguirás trabajando en un *fork* de tu perfil personal pero te asegurarás de tener contenido diverso para trabajar con las etiquetas semánticas de manera adecuada.  Por ejemplo: "Soy...", "Sobre mí", "Mis intereses o *hobbies*", "Una cita o frase que me gusta o representa", etc.
+Este reto se trata básicamente de reorganizar tu código utilizando etiquetas semánticas apropiadas para tu contenido. 
 
-Incluye las etiquetas `<header>`, `<section>`, `<article>`, y `<footer>` y organiza tu contenido según corresponda con estas etiquetas semánticas.
+Seguirás trabajando en un *fork* de tu perfil personal pero te asegurarás de tener contenido diverso que te permita agregar las etiquetas semánticas de manera adecuada.  Por ejemplo, teniendo contenido de este tipo: "Soy...", "Sobre mí", "Mis intereses o *hobbies*", "Una cita o frase que me gusta o representa", etc. será más fácil y natural decidir cómo y dónde utilizar estas nuevas etiquetas que, precisamente, indican el tipo de contenido que encierran.
+
+Incluye las etiquetas `<header>`, `<section>`, `<article>`, y `<footer>` y organiza tu contenido según corresponda.
 
 **No cumples con la meta de aprendizaje si:**
 
 - [x] No incluyes la etiqueta `<header>`  para tu título principal `<h1>`.
 
-- [x]  No añades un pie de página `<footer>` con cualquier información adicional como el año actual.
+- [x] No añades un pie de página `<footer>` con cualquier información adicional como el año actual.
 
 - [x] No divides **el resto** de tu contenido en secciones usando la etiqueta `<section>` .
 

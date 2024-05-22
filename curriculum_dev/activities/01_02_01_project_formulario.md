@@ -10,27 +10,26 @@
 
 ## Meta de Aprendizaje
 
-Ser capaz de diseñar y desarrollar un formulario web utilizando los elementos correspondientes de `HTML`.
+Ser capaz de diseñar y desarrollar un formulario web básico utilizando `HTML` y `CSS`.
 
 ## Descripción
 
 [Video : Explicación de lo que hay que hacer 🌟]()
 
-En este reto comenzaremos a trabajar en algo diferente, la creación de un formulario web. Los formularios son una parte esencial de la experiencia del usuario en la web, ya que permiten a los usuarios enviar información y realizar acciones en línea.
+Los formularios son una parte esencial de la experiencia de uso en la web, ya que permiten a las usuarias enviar información y realizar acciones en línea. Son la base de muchas interacciones cotidianas, desde registrarse en una cuenta hasta hacer una compra o completar una encuesta. 
 
-Utilizarás etiquetas HTML5 como `<input>`, `<textarea>`, y `<select>` para crear un formulario web interactivo y funcional. Asegúrate de incluir campos de entrada para nombre, edad, fecha de nacimiento, biografía, país, y cualquier otro campo que consideres relevante.
+Trabajando en un *fork* de tu página de perfil/personal, agregarás un formulario web interactivo que permita a tus visitantes ingresar estos datos: nombre, edad (mayor a cero y menor de 99), fecha de nacimiento, país, un comentario libre, y cualquier otro campo que consideres relevante. Tendrás.
 
 **No cumples con la meta de aprendizaje si:**
 
 - [x] No incluyes un campo de texto `input` para nombre.
 - [x] No incluyes un campo de texto `input` de tipo número `type="number"` para edad.
 - [x] No incluyes un campo de texto `input` de tipo fecha `type="date"` para fecha de nacimiento.
-- [x] No incluyes un campo de texto largo `textarea` para una minibiografía.
-- [x] No incluyes un selector `select` con diversas opciones `option` para país.
-- [x] No utilizas etiquetas semánticas como `<form>`, `<label>`, y `<input>` para estructurar y organizar tu formulario.
-- [x] No te aseguras de proporcionar instrucciones claras y descriptivas utilizando etiquetas `<label>` y atributos `placeholder` para cada campo de entrada.
-- [x] No validas tu formulario utilizando atributos HTML como `required`, `pattern`, `min`, `max`, etc., para garantizar que los usuarios ingresen la información de manera adecuada.
-
+- [x] No incluyes un campo de texto largo `textarea` para el comentario.
+- [x] No incluyes un selector `select` con diversas opciones `option` de países para seleccionar una de entre todas.
+- [x] No validas tu formulario utilizando atributos HTML como `required`, `pattern`, `min`, `max`, etc., para garantizar que las usuarias ingresen la información según te indicamos arriba.
+- [x] No utilizas etiquetas semánticas como `<form>`, `<label>`, y `<input>` para estructurar y organizar el código de tu formulario.
+- [x] No proporcionas instrucciones claras y descriptivas del formulario utilizando etiquetas `<label>` y atributos `placeholder` para cada campo de entrada.
 
 ## Insumos para tu aprendizaje
 
@@ -41,13 +40,13 @@ Utilizarás etiquetas HTML5 como `<input>`, `<textarea>`, y `<select>` para crea
 
 ## Pauta de trabajo
 
-- Comienza por planificar la estructura de tu formulario seleccionando los elementos s de HTML5 adecuados para cada pregunta.
+- Si estás trabajando en CodePen, Haz un `fork` de tu reto anterior para que trabajes sobre una copia sin alterar tu resultado previo.
 
-- Utiliza etiquetas semánticas como `<form>`, `<label>`, y `<input>` para organizar y estructurar tu formulario de manera clara y accesible.
+- Comienza por leer y probar libremente las etiquetas que te resultan "nuevas". Comienza agregando campo por campo para que vayas observando el resultado y si surge cualquier error sepas exactamente que ocurrió con algo que acabas de agregar.
 
-- Utiliza comentarios en tu código HTML para explicar la función de cada elemento y facilitar la comprensión y mantenimiento del formulario en el futuro.
+- Agrega etiquetas semánticas como `<form>`, `<label>`, y `<input>` para organizar y estructurar tu formulario de manera clara y accesible.
 
-- Haz un `fork` de tu reto anterior en CodePen para que trabajes sobre una copia, pero sin alterar lo anterior.
+- Utiliza comentarios en tu código HTML para explicarle a tu yo del futuro la función de cada elemento y facilitar la comprensión y mantenimiento del formulario. Expresarlo en palabras también te ayuda a conceptualizar y entender mejor cada cosa que aprendes.
 
 - No dudes en pedir ayuda y/o retroalimentación a tus compañeras o buscar inspiración en otros sitios web para mejorar el diseño de tu página.
 

@@ -10,42 +10,45 @@
 
 ## Meta de Aprendizaje
 
-Utilizar Media Queries para ajustar el diseño de un sitio web a diferentes dispositivos y tamaños de pantalla.
+Utilizar Media Queries para ajustar el diseño de un sitio web a 2 o más diferentes tamaños de pantalla de diferentes dispositivos. Las Media Queries son reglas `CSS` que permiten aplicar estilos específicos a un documento `HTML` y ajustar su diseño en función de las características del dispositivo en el que se muestra, como el ancho de la pantalla.
 
 ## Descripción
 
 [Video : Explicación de lo que hay que hacer 🌟]()
 
-En este reto, utilizarás Media Queries para ajustar el diseño de tu página web a diferentes tamaños de pantalla. Asegúrate de que tu página se vea bien y sea fácil de usar en dispositivos móviles, tabletas y computadoras de escritorio.
+En este reto, trabajarás en tu código CSS, utilizando Media Queries para conseguir que tu sitio web se adapte automáticamente según el ancho de la pantalla.
+
+Trabajaremos en conseguirlo para, al menos, dos tamaños de pantalla: dispositivos móviles típicos y computadoras de escritorio típicas. Esto significa que tu diseño debe:
+
+- **En dispositivos móviles (pantallas de hasta 991px de ancho)**:
+  
+  - Ajustar el tamaño del texto y los botones para que sean fácilmente legibles y clicables.
+  - Organizar el contenido en una sola columna para facilitar el desplazamiento vertical. Una "caja"" debajo de la anterior y así sucesivamente.
+
+- **En computadoras de escritorio (pantallas de 992px de ancho en adelante)**:
+  
+  - Utilizar un diseño de varias columnas para aprovechar el espacio adicional.
+  - Aumentar los márgenes y el espacio entre elementos para mejorar la legibilidad y la apariencia general.
 
 **No cumples con la meta de aprendizaje si:**
 
-- [x] No utilizas Media Queries para ajustar el diseño de tu página web a diferentes tamaños de pantalla.
-- [x] Todos los elementos de la página no se ven ni funcionan correctamente en cada punto de quiebre `breakpoint` definido por las Media Queries
-- [x] El diseño no es consistente y legible en todos los dispositivos.  Asegúrate de que el diseño sea coherente y legible en todos los dispositivos, manteniendo una apariencia visual agradable y funcionalidad adecuada.
-
+- [x] No utilizas reglas Media Queries para ajustar tu página web según los dos tamaños de pantalla indicados.
+- [x] Tu diseño no cambia en los puntos de quiebre `breakpoint` indicados.
+- [x] No son visibles, legibles y utilizables todos los elementos de tu página en cada caso. Debes mantener una apariencia visual mínimamente agradable y consistente con tu diseño.
 
 ## Insumos para tu aprendizaje
 
 - [Texto: CodePen, fork o bifurcación](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_fork)
-- [Texto: Media queries](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_media_queries)
 - [Video: Atributos en HTML](https://youtu.be/yMX901oVtn8?si=J0SX7nqPv877CANi)
+- [Texto: Media queries](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_media_queries)
+- :robot: **AI Tip:** Pregúntale a Gemini, ChatGPT o cualquier otro chat IA lo siguiente, ¿cómo simulo diferentes tamaños de pantalla en Google Chrome para ayudarme a verificar si mi diseño responsivo funciona correctamente?
 
 ## Pauta de trabajo
 
-- En un nuevo proyecto dentro de CodePen, crea una estructura HTML básica que tenga distintos elementos,  puedes copiar y pegar los elementos HTML y estilos CSS que tienes en los retos anteriores
+- Haz un `fork` de tu reto anterior en CodePen para que trabajes sobre una copia, pero sin alterar lo anterior.
 
-- Utiliza Media Queries para ajustar el diseño de tu página web a diferentes tamaños de pantalla. 
+- Para trabajar en tu código sin mayores complicaciones y confusiones, es crucial tu aprendizaje y práctica previas sobre agregar comentarios a tu código para ti misma, el uso de etiquetas semánticas HTML y el modelo de caja en CSS. Asegúrate de que lo comprendiste y aplicaste adecuadamente.
 
-- Te sugerimos  utilizar los siguientes tamaños básicos que funcionan para estos tres tipos de dispositivo:
-    - Móvil: de 991px hacia abajo, tú página se verá en  vertical
-    - Escritorio: de 992px hacia arriba, tu página se verá en horizontal
-
-- Comienza por definir los puntos de quiebre para tus Media Queries, considerando al menos los tamaños proporcionados
-
-- Utiliza las Media Queries sugeridas para ajustar el contenido de tu página según el ancho de la pantalla del dispositivo.
-
-- Asegúrate de que todos los elementos de la página se vean y funcionen correctamente tanto en una pantalla horizontal (tu computadora), como en una vertical (estirando la pantalla para simular un celular)
-
+- Si prefieres comenzar con menos líneas de código para minimizar las probabilidades de error, puedes probar las Media Queries utilizando algunos `<div>` de prueba con contenido simple antes de usar tu contenido real.
 
 - [Video : Tutorial o solución]()

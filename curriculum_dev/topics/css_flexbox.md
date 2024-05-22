@@ -31,8 +31,6 @@ Flexbox (que viene de _Flexible Box_) fue creada para que estas tareas fuesen mu
 
 ## Propiedades para elementos madre
 
-![container flex](https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg)
-
 Cuando utilizamos _Flexbox_, es muy importante saber qué propiedades son declaradas en los elementos madre (por ejemplo, un `section` que alineará a los elementos hijos o _flex items_) y cuáles serán declarados en los elementos hijos. Abajo estan algunas de las propiedades que deben ser declaradas utilizando un elemento madre como selector (para alinear a sus hijos):
 
 **flex-direction** determina el origen y el fin del flujo de dos items. Siguen el patrón establecido en la escritura occidental: de izquierda hacia derecha en `row`, de arriba hacia abajo en `column`, y para indicar que sea el sentido inverso, podemos utilizar `-reverse`.
@@ -87,9 +85,7 @@ La propiedad **flex-flow** es un tipo de propiedad _shorthand_ (una sola declara
 }
 ```
 
-![align-content](https://css-tricks.com/wp-content/uploads/2018/10/align-content.svg)
-
-## Propriedades para elementos hijos
+## ![align-content](https://css-tricks.com/wp-content/uploads/2018/10/align-content.svg)Propriedades para elementos hijos
 
 A continuación, veremos las propiedades que pueden ser declaradas teniendo como selector a los elementos hijos.
 
@@ -117,8 +113,6 @@ La propiedad **order** determina el orden en el cual apareceran los elementos.
 }
 ```
 
-![order](https://css-tricks.com/wp-content/uploads/2018/10/order.svg)
-
 **flex-grow** define la habilidad de un elemento hijo de 'crecer' y ocupar un área más grande si es necesario. Por ejemplo, si en una lista de 3 hijos, 2 de ellos tienen la propiedad `flex-grow: 1` y uno de ellos tiene `flex-grow: 2`, este último crecerá para ocupar el doble de tamaño de sus hermanos.
 
 ```css
@@ -140,3 +134,108 @@ La propiedad **order** determina el orden en el cual apareceran los elementos.
 ![align-self](https://css-tricks.com/wp-content/uploads/2018/10/align-self.svg)
 
 Existen otras propiedades para los hijos como `flex-shrink`, `flex-basis` y el shorthand `flex`, puedes investigar más sobre ellos para conocer aún más propiedades.
+
+## Flexbox vs. Media Queries
+
+### Media Queries
+
+**Qué son:**
+
+- Son reglas condicionales de CSS que permiten aplicar estilos específicos en función de características del dispositivo, como el ancho de la pantalla.
+
+**Para qué sirven:**
+
+- Son ideales para definir "puntos de quiebre" (`breakpoints`) en tu diseño. Por ejemplo, puedes cambiar el diseño cuando la pantalla es menor a 600px (para móviles) y mayor a 1200px (para escritorio).
+
+**Ejemplo de uso:**
+
+```css
+/* Estilos generales para todos los dispositivos */
+body {
+  font-size: 16px;
+}
+
+/* Estilos específicos para dispositivos con pantallas de hasta 600px */
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+/* Estilos específicos para dispositivos con pantallas de más de 1200px */
+@media (min-width: 1200px) {
+  body {
+    font-size: 18px;
+  }
+}
+```
+
+### Flexbox
+
+**Qué es:**
+
+- Es un sistema de diseño CSS que organiza los elementos dentro de un contenedor flexible (`flex container`).
+
+**Para qué sirve:**
+
+- Proporciona un control detallado sobre la alineación, dirección y distribución de los elementos dentro del contenedor, sin importar el tamaño exacto del dispositivo.
+- Es útil para diseños que necesitan ser fluidos y adaptarse a cambios de tamaño de manera flexible.
+
+**Ejemplo de uso:**
+
+```css
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.item {
+  flex: 1;
+}
+```
+
+### Diferencias Clave
+
+1. **Función Principal:**
+   
+   - **Media Queries:** Ajusta estilos en función de características específicas del dispositivo, como el ancho de la pantalla.
+   - **Flexbox:** Organiza y distribuye elementos dentro de un contenedor de manera flexible, sin depender de características específicas del dispositivo.
+
+2. **Puntos de Quiebre:**
+   
+   - **Media Queries:** Necesitas definir puntos de quiebre específicos para aplicar diferentes estilos.
+   - **Flexbox:** Ajusta automáticamente los elementos dentro de un contenedor según el espacio disponible.
+
+3. **Control y Flexibilidad:**
+   
+   - **Media Queries:** Ofrecen control sobre cuándo se aplican ciertos estilos, pero no sobre cómo se distribuyen los elementos dentro de un contenedor.
+   - **Flexbox:** Ofrece control detallado sobre la distribución de los elementos dentro de un contenedor, independientemente de los puntos de quiebre.
+
+### Ejemplo Combinado
+
+**Uso de Media Queries y Flexbox juntos:**
+
+- Puedes usar Media Queries para definir cuándo cambiar el diseño y Flexbox para ajustar la disposición de los elementos dentro de ese diseño.
+
+```css
+/* Estilos generales para todos los dispositivos */
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.item {
+  flex: 1;
+}
+
+/* Estilos específicos para dispositivos con pantallas de hasta 600px */
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+  }
+}
+```
+
+En este ejemplo, usamos Media Queries para cambiar la dirección del contenedor Flexbox de una fila a una columna cuando la pantalla es menor a 600px de ancho. Flexbox se encarga de la disposición flexible de los elementos dentro del contenedor, sin importar el tamaño exacto del dispositivo.
