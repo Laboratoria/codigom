@@ -2,9 +2,9 @@
 
 **Dificultad:** 🌻🌻
 
-**Aprendizaje:** 🍯🍯🍯 
+**Aprendizaje:** 🍯🍯🍯
 
-**Tiempo:** ⏱⏱⏱ 
+**Tiempo:** ⏱⏱⏱
 
 **Reacciona** con 👀 cuando comiences la lectura, actividad o reto.
 
@@ -21,12 +21,12 @@ En este reto, trabajarás en tu código CSS, utilizando Media Queries para conse
 Trabajaremos en conseguirlo para, al menos, dos tamaños de pantalla: dispositivos móviles típicos y computadoras de escritorio típicas. Esto significa que tu diseño debe:
 
 - **En dispositivos móviles (pantallas de hasta 991px de ancho)**:
-  
+
   - Ajustar el tamaño del texto y los botones para que sean fácilmente legibles y clicables.
   - Organizar el contenido en una sola columna para facilitar el desplazamiento vertical. Una "caja"" debajo de la anterior y así sucesivamente.
 
 - **En computadoras de escritorio (pantallas de 992px de ancho en adelante)**:
-  
+
   - Utilizar un diseño de varias columnas para aprovechar el espacio adicional.
   - Aumentar los márgenes y el espacio entre elementos para mejorar la legibilidad y la apariencia general.
 
@@ -39,7 +39,6 @@ Trabajaremos en conseguirlo para, al menos, dos tamaños de pantalla: dispositiv
 ## Insumos para tu aprendizaje
 
 - [Texto: CodePen, fork o bifurcación](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_fork)
-- [Video: Atributos en HTML](https://youtu.be/yMX901oVtn8?si=J0SX7nqPv877CANi)
 - [Texto: Media queries](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_media_queries)
 - :robot: **AI Tip:** Pregúntale a Gemini, ChatGPT o cualquier otro chat IA lo siguiente, ¿cómo simulo diferentes tamaños de pantalla en Google Chrome para ayudarme a verificar si mi diseño responsivo funciona correctamente?
 
