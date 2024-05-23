@@ -12,7 +12,7 @@ El **no-code**, en castellano "sin código" es un concepto amplio respecto a un 
 
 Cabe distinguir del concepto de **low-code** que, a diferencia del no-code, que está diseñado para usuarias sin experiencia en programación, el low-code está dirigido a desarrolladoras que tienen conocimientos básicos de programación y buscan acelerar el proceso de desarrollo. Así, el low-code combina componentes visuales con fragmentos de código personalizado para ofrecer una mayor flexibilidad y control sobre el desarrollo de aplicaciones. Esto permite crear soluciones más complejas y personalizadas que las que típicamente se pueden lograr con no-code.
 
-![](/home/diegovelezg/Documentos/GitHub/codigom/assets/NOC/no-code-industry-map.png)
+![](../../assets/NOC/no-code-industry-map.png)
 
 ## **¿Por qué es importante el no-code?**
 
