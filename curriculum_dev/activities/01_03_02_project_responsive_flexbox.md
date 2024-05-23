@@ -24,7 +24,6 @@ En este reto, utilizarás unidades relativas y Flexbox para crear un diseño web
 - [x] Los elementos de la página no se ajustan correctamente en diferentes dispositivos y tamaños de pantalla.
 - [x] El diseño no es coherente y funcional en todas las condiciones de visualización. 
 
-
 ## Insumos para tu aprendizaje
 
 - [Texto: CodePen, fork o bifurcación](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_fork)
@@ -44,5 +43,12 @@ En este reto, utilizarás unidades relativas y Flexbox para crear un diseño web
 
 - Recuerda que puedes combinar estos atributos con las Media Queries que ya tienes definidas y/o definir nuevas
 
-
 - [Video : Tutorial o solución]()
+
+---
+
+> - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
+> 
+> - Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1215722402961555466) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
+
+---

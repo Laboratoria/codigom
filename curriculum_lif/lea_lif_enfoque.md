@@ -54,7 +54,7 @@ Te proponemos esta lista acotada de habilidades para observar.
 
 ---
 
-> 💬 **[Comenta en Discord:](https://discord.com/channels/1209273049304666113/1237453097484292168)**
+> 💬 [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1237453097484292168)
 > 
 > - ¿Qué piensas del enfoque que te proponemos?
 > - ¿Hay alguna experiencia que quieras compartir en la que se evidencia la importancia de estas habilidades?

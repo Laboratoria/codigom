@@ -24,7 +24,7 @@ Su trabajo es relevante porque desafía conceptos arraigados sobre la igualdad y
 
 ---
 
-> <mark>💬</mark> [Comenta en Discord:](https://discord.com/channels/1209273049304666113/1215448579662028820) ¿Habías pensado alguna vez en las implicaciones de que casi todo esté hecho para "los promedios"?, ¿te das cuenta de lo absurdo y, sin embargo, aceptado que tenemos esto?
+> 💬 [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1215448579662028820) ¿Habías pensado alguna vez en las implicaciones de que casi todo esté hecho para "los promedios"?, ¿te das cuenta de lo absurdo y, sin embargo, aceptado que tenemos esto?
 
 ---
 

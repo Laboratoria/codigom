@@ -45,3 +45,11 @@ Incluye las etiquetas `<header>`, `<section>`, `<article>`, y `<footer>` y organ
 - No dudes en pedir ayuda y/o retroalimentación a tus compañeras o buscar inspiración en otros sitios web para mejorar el diseño de tu página.
 
 - [Video : Tutorial o solución]()
+
+---
+
+> - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
+> 
+> - Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1243288546895331491) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
+
+---

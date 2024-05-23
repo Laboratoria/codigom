@@ -8,4 +8,4 @@
 * Reflexión y participación en comentarios y foros de discusión. 
 * Trabajo en un reto práctico.
 
-Buscamos permitirte la aplicación de lo aprendido, una reflexión sobre tu propio proceso de aprendizaje y tu motivación para continuar.
+Intenta la aplicación de lo aprendido, luego reflexiona sobre tu propio proceso de aprendizaje y tu motivación para continuar.

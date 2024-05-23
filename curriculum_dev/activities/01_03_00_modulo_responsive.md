@@ -15,5 +15,3 @@ El diseño web responsivo es una técnica de diseño y desarrollo web que permit
 - **Implementación de unidades relativas**: El uso de unidades relativas como %, vw, vh, vmin y vmax para crear diseños flexibles y escalables que se ajusten automáticamente a la pantalla del usuario.
 
 - **Utilización de Flexbox y Grid**: Cómo utilizar los sistemas de diseño Flexbox y Grid de CSS para crear diseños complejos y responsivos con facilidad. Estas herramientas permiten una distribución precisa de los elementos y una alineación intuitiva, haciendo que el diseño sea más manejable y adaptable.
-
-

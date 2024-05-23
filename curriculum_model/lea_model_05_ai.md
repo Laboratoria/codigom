@@ -70,6 +70,6 @@ Seguramente estaremos hablando y utilizando mucho más todo esto para acelerar y
 
 ---
 
-> <mark>💬</mark> [Comenta en Discord:](https://discord.com/channels/1209273049304666113/1215449353250938901) ¿Hay algo que te preocupe sobre usar las IAs para aprender?, ¿te parece que son contraproducentes?, ¿tienes alguna recomendación sobre cómo las estás usando de forma responsable?
+> 💬 [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1215449353250938901) ¿Hay algo que te preocupe sobre usar las IAs para aprender?, ¿te parece que son contraproducentes?, ¿tienes alguna recomendación sobre cómo las estás usando de forma responsable?
 
 ---
