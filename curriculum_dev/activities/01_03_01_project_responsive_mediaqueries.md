@@ -21,12 +21,12 @@ En este reto, trabajarás en tu código CSS, utilizando Media Queries para conse
 Trabajaremos en conseguirlo para, al menos, dos tamaños de pantalla: dispositivos móviles típicos y computadoras de escritorio típicas. Esto significa que tu diseño debe:
 
 - **En dispositivos móviles (pantallas de hasta 991px de ancho)**:
-
+  
   - Ajustar el tamaño del texto y los botones para que sean fácilmente legibles y clicables.
   - Organizar el contenido en una sola columna para facilitar el desplazamiento vertical. Una "caja"" debajo de la anterior y así sucesivamente.
 
 - **En computadoras de escritorio (pantallas de 992px de ancho en adelante)**:
-
+  
   - Utilizar un diseño de varias columnas para aprovechar el espacio adicional.
   - Aumentar los márgenes y el espacio entre elementos para mejorar la legibilidad y la apariencia general.
 
