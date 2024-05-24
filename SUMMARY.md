@@ -67,17 +67,17 @@
 
 - Tópicos
 
-  - [CodePen, introducción](curriculum_dev/topics/editors_codepen.md)
-  - [CodePen, error de DOCTYPE](curriculum_dev/topics/editors_codepen_doctype.md)
-  - [CodePen, fork o bifurcación](curriculum_dev/topics/editors_codepen_fork.md)
+  - [CodePen Introducción](curriculum_dev/topics/editors_codepen.md)
+  - [CodePen Error de DOCTYPE](curriculum_dev/topics/editors_codepen_doctype.md)
+  - [CodePen Fork o bifurcación](curriculum_dev/topics/editors_codepen_fork.md)
   - [HTML](curriculum_dev/topics/html.md)
   - [HTML Semántico](curriculum_dev/topics/html_semantic.md)
   - [HTML Formularios](curriculum_dev/topics/html_forms.md)
-  - [CSS, introducción](curriculum_dev/topics/css_intro.md)
-  - [CSS, fundamentos](curriculum_dev/topics/css_fundamentos.md)
-  - [CSS, media queries](curriculum_dev/topics/css_media_queries.md)
-  - [CSS, units](curriculum_dev/topics/css_units.md)
-  - [CSS, flexbox](curriculum_dev/topics/css_flexbox.md)
+  - [CSS Introducción](curriculum_dev/topics/css_intro.md)
+  - [CSS Fundamentos](curriculum_dev/topics/css_fundamentos.md)
+  - [CSS Media queries](curriculum_dev/topics/css_media_queries.md)
+  - [CSS Unidades](curriculum_dev/topics/css_units.md)
+  - [CSS Flexbox](curriculum_dev/topics/css_flexbox.md)
 
 ## 🟢 No-code e IA
 
