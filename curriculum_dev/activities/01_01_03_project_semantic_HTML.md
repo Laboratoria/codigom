@@ -12,7 +12,7 @@ Aprenderás la importancia y el uso de etiquetas semánticas de `HTML` para mejo
 
 ## Descripción
 
-[Video : Explicación de lo que hay que hacer 🌟]()
+[Video : Explicación de lo que hay que hacer 🌟](https://www.loom.com/share/1af31989c6c446c2976b6f7701a48025)
 
 Este reto se trata básicamente de reorganizar tu código utilizando etiquetas semánticas apropiadas para tu contenido.
 
@@ -44,7 +44,7 @@ Incluye las etiquetas `<header>`, `<section>`, `<article>`, y `<footer>` y organ
 
 - No dudes en pedir ayuda y/o retroalimentación a tus compañeras o buscar inspiración en otros sitios web para mejorar el diseño de tu página.
 
-- [Video : Tutorial o solución]()
+- [Video : Tutorial o solución](https://www.loom.com/share/cf9ae7bd73d745a08c3ca03fa743b924)
 
 ---
 

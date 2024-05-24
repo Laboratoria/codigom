@@ -2,9 +2,9 @@
 
 **Dificultad:** 🌻
 
-**Aprendizaje:** 🍯🍯 
+**Aprendizaje:** 🍯🍯
 
-**Tiempo:** ⏱⏱⏱ 
+**Tiempo:** ⏱⏱⏱
 
 **Reacciona** con 👀 cuando comiences la lectura, actividad o reto.
 
@@ -16,9 +16,9 @@ Ser capaz de diseñar y desarrollar un formulario web básico utilizando `HTML` 
 
 [Video : Explicación de lo que hay que hacer 🌟]()
 
-Los formularios son una parte esencial de la experiencia de uso en la web, ya que permiten a las usuarias enviar información y realizar acciones en línea. Son la base de muchas interacciones cotidianas, desde registrarse en una cuenta hasta hacer una compra o completar una encuesta. 
+Los formularios son una parte esencial de la experiencia de uso en la web, ya que permiten a las usuarias enviar información y realizar acciones en línea. Son la base de muchas interacciones cotidianas, desde registrarse en una cuenta hasta hacer una compra o completar una encuesta.
 
-Trabajando en un *fork* de tu página de perfil/personal, agregarás un formulario web interactivo que permita a tus visitantes ingresar estos datos: nombre, edad (mayor a cero y menor de 99), fecha de nacimiento, país, un comentario libre, y cualquier otro campo que consideres relevante. Tendrás.
+Trabajando en un _fork_ de tu página de perfil/personal, agregarás un formulario web interactivo que permita a tus visitantes ingresar estos datos: nombre, edad (mayor a cero y menor de 99), fecha de nacimiento, país, un comentario libre, y cualquier otro campo que consideres relevante. Tendrás.
 
 **No cumples con la meta de aprendizaje si:**
 
@@ -34,7 +34,6 @@ Trabajando en un *fork* de tu página de perfil/personal, agregarás un formular
 ## Insumos para tu aprendizaje
 
 - [Texto: CodePen, fork o bifurcación](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_fork)
-- [Texto: HTML Semántico](https://laboratoria1.gitbook.io/codigom/desarrollo-web/topicos/html_semantic)
 - [Texto: Formularios en HTML](https://laboratoria1.gitbook.io/codigom/desarrollo-web/topicos/html_forms)
 - [Video: Atributos en HTML](https://youtu.be/yMX901oVtn8?si=J0SX7nqPv877CANi)
 
@@ -55,7 +54,7 @@ Trabajando en un *fork* de tu página de perfil/personal, agregarás un formular
 ---
 
 > - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
-> 
+>
 > - Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1214692430004359238) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
 
 ---
