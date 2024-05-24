@@ -14,7 +14,8 @@ Ser capaz de diseñar y desarrollar un formulario web básico utilizando `HTML` 
 
 ## Descripción
 
-[Video : Explicación de lo que hay que hacer 🌟]()
+[Video 1 : Explicación de lo que hay que hacer 🌟](https://www.loom.com/share/cf7505b757434c66b1075c38266aa2ea)
+[Video 2 : Explicación de lo que hay que hacer 🌟](https://www.loom.com/share/456e24aac9824895828c1c0a426d4722)
 
 Los formularios son una parte esencial de la experiencia de uso en la web, ya que permiten a las usuarias enviar información y realizar acciones en línea. Son la base de muchas interacciones cotidianas, desde registrarse en una cuenta hasta hacer una compra o completar una encuesta.
 
@@ -49,7 +50,7 @@ Trabajando en un _fork_ de tu página de perfil/personal, agregarás un formular
 
 - No dudes en pedir ayuda y/o retroalimentación a tus compañeras o buscar inspiración en otros sitios web para mejorar el diseño de tu página.
 
-- [Video : Tutorial o solución]()
+- [Video : Tutorial o solución](https://www.loom.com/share/086493cb16ac42fab7129d35a790899b)
 
 ---
 

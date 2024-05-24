@@ -14,19 +14,19 @@ Utilizar Media Queries para ajustar el diseño de un sitio web a 2 o más difere
 
 ## Descripción
 
-[Video : Explicación de lo que hay que hacer 🌟]()
+[Video : Explicación de lo que hay que hacer 🌟](https://www.loom.com/share/d48b7f10d4914b2193a34a1cf4ca0f95)
 
 En este reto, trabajarás en tu código CSS, utilizando Media Queries para conseguir que tu sitio web se adapte automáticamente según el ancho de la pantalla.
 
 Trabajaremos en conseguirlo para, al menos, dos tamaños de pantalla: dispositivos móviles típicos y computadoras de escritorio típicas. Esto significa que tu diseño debe:
 
 - **En dispositivos móviles (pantallas de hasta 991px de ancho)**:
-  
+
   - Ajustar el tamaño del texto y los botones para que sean fácilmente legibles y clicables.
   - Organizar el contenido en una sola columna para facilitar el desplazamiento vertical. Una "caja"" debajo de la anterior y así sucesivamente.
 
 - **En computadoras de escritorio (pantallas de 992px de ancho en adelante)**:
-  
+
   - Utilizar un diseño de varias columnas para aprovechar el espacio adicional.
   - Aumentar los márgenes y el espacio entre elementos para mejorar la legibilidad y la apariencia general.
 
@@ -50,12 +50,12 @@ Trabajaremos en conseguirlo para, al menos, dos tamaños de pantalla: dispositiv
 
 - Si prefieres comenzar con menos líneas de código para minimizar las probabilidades de error, puedes probar las Media Queries utilizando algunos `<div>` de prueba con contenido simple antes de usar tu contenido real.
 
-- [Video : Tutorial o solución]()
+- [Video : Tutorial o solución](https://www.loom.com/share/5ee2ede46d0b4290b5cafbbf3e8fbdc9)
 
 ---
 
 > - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
-> 
+>
 > - Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1215722209461542943) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
 
 ---
