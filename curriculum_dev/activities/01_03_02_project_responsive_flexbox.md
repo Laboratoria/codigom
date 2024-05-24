@@ -14,22 +14,22 @@ Utilizar unidades relativas y Flexbox para crear un diseño web responsivo y fle
 
 ## Descripción
 
-[Video : Explicación de lo que hay que hacer 🌟]()
+[Video : Explicación de lo que hay que hacer 🌟](https://www.loom.com/share/cd87bcb8c3a440f7ac7ce44de9b8a9b4)
 
 En este reto, profundizarás en el uso de Flexbox y unidades relativas (`%`, `vw`, `vh`, `vmin`, `vmax`) para mejorar y flexibilizar el diseño web responsivo que comenzaste en el reto anterior. La idea es que entiendas cómo Flexbox puede simplificar el manejo de la disposición de los elementos en comparación con el uso exclusivo de Media Queries.
 
 1. **Unidades Relativas**:
-   
+
    - Utiliza unidades relativas (`%`, `vw`, `vh`, `vmin`, `vmax`) para definir tamaños y dimensiones flexibles en tu diseño.
    - Asegúrate de que los elementos se adapten proporcionalmente a diferentes tamaños de pantalla.
 
 2. **Flexbox**:
-   
+
    - Implementa Flexbox para organizar y alinear los elementos de tu página.
    - Usa las propiedades de Flexbox (`flex-direction`, `justify-content`, `align-items`, `flex-wrap`, etc.) para crear un diseño más adaptable y eficiente.
 
 3. **Integración con Media Queries**:
-   
+
    - Combina las unidades relativas y Flexbox con las Media Queries que ya definiste en el reto anterior.
    - Asegúrate de que tu diseño sea coherente y funcional en dispositivos móviles, tabletas y computadoras de escritorio.
 
@@ -60,12 +60,12 @@ En este reto, profundizarás en el uso de Flexbox y unidades relativas (`%`, `vw
 
 - Utiliza herramientas de desarrollo en tu navegador (como las de Google Chrome) para simular diferentes tamaños de pantalla y verificar que tu diseño responsivo funciona correctamente.
 
-- [Video : Tutorial o solución]()
+- [Video : Tutorial o solución](https://www.loom.com/share/7dca2b3859544170bd7b7bceb35b8a97)
 
 ---
 
 > - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
-> 
+>
 > - Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1215722402961555466) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
 
 ---
