@@ -1,10 +1,10 @@
-# Inicio
+# ♦️ El impacto y las oportunidades
 
 ## Comunidad de aprendizaje introductorio de habilidades para la economía digital
 
 Prepárate para la digitalización/automatización del trabajo.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>No-code e IA</strong></td><td>Crea soluciones digitales sin escribir código. Sitios web, automatizaciones, apps, etc.</td><td></td><td></td><td></td></tr><tr><td><strong>Análisis de datos</strong></td><td>Aprende a hacer análisis de datos, reportes, etc.</td><td></td><td></td><td></td></tr><tr><td><strong>Introducción al desarrollo web</strong></td><td>Da tus primeros pasos en el desarrollo web front-end. Quieres explorar un cambio de carrera.</td><td></td><td></td><td></td></tr><tr><td><strong>Habilidades transversales</strong></td><td>Desarrolla tus habilidades de solución de problemas, colaboración, comunicación, iniciativa, etc. Bienestar, finanzas personales, etc.</td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>## No-code e IA</td><td>Crea soluciones digitales sin escribir código. Sitios web, automatizaciones, apps, etc.</td><td></td><td></td><td></td></tr><tr><td>## Análisis de datos</td><td>Aprende a hacer análisis de datos, reportes, etc.</td><td></td><td></td><td></td></tr><tr><td>## Introducción al desarrollo web</td><td>Da tus primeros pasos en el desarrollo web front-end. Quieres explorar un cambio de carrera.</td><td></td><td></td><td></td></tr><tr><td>## Habilidades transversales</td><td>Desarrolla tus habilidades de solución de problemas, colaboración, comunicación, iniciativa, etc. Bienestar, finanzas personales, etc.</td><td></td><td></td><td></td></tr></tbody></table>
 
 * Adquiere ventajas competitivas para acceder a mejores oportunidades. Puede ser dentro de tu misma profesión-oficio-rubro.
 * "Sé que tengo que aprender nuevas habilidades pero no sé por dónde comenzar, es demasiado conocimiento disperso”.

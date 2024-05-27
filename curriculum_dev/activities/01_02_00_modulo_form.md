@@ -1,4 +1,4 @@
-# 🔷 Módulo 2: Tu primer formulario web
+# Módulo 2 : Tu primer formulario web
 
 **Tiempo:** ⏱ 5min
 
@@ -8,10 +8,10 @@ Los formularios `HTML` son una herramienta fundamental para recopilar informaci�
 
 ## Lo que aprenderás
 
-- Uso de formularios `HTML` para recopilar información y datos.
-- Cómo estructurar y maquetar un formulario básico con `HTML`.
-- Identificación de los diferentes tipos de campos de formulario.
-- Estilización básica de formularios con `CSS` para mejorar su apariencia y usabilidad.
-- Aplicación de etiquetas y atributos esenciales para la accesibilidad del formulario.
-- Uso de campos específicos como `type=number` y `type=date` para entradas 
-- Aplicación de aspectos de validación para asegurar la correcta entrada de datos.
+* Uso de formularios `HTML` para recopilar información y datos.
+* Cómo estructurar y maquetar un formulario básico con `HTML`.
+* Identificación de los diferentes tipos de campos de formulario.
+* Estilización básica de formularios con `CSS` para mejorar su apariencia y usabilidad.
+* Aplicación de etiquetas y atributos esenciales para la accesibilidad del formulario.
+* Uso de campos específicos como `type=number` y `type=date` para entradas
+* Aplicación de aspectos de validación para asegurar la correcta entrada de datos.

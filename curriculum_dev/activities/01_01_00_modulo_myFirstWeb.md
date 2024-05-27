@@ -1,4 +1,4 @@
-# 🔷 Módulo 1: Tu primera web con estilos básicos
+# Módulo 1 : Tu primera web con estilos básicos
 
 **Tiempo:** ⏱ 5min
 
@@ -8,6 +8,6 @@ En este módulo te surmergirás, con calma, en dos lenguajes fundamentales para 
 
 ## Lo que aprenderás
 
-- Qué son y qué características básicas tienen los lenguajes HTML y CSS.
-- Estructura y etiquetas básicas de HTML.
-- Propiedades de estilo básicas en CSS, selectores y "modelo de caja".
+* Qué son y qué características básicas tienen los lenguajes HTML y CSS.
+* Estructura y etiquetas básicas de HTML.
+* Propiedades de estilo básicas en CSS, selectores y "modelo de caja".
