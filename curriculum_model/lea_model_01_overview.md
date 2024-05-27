@@ -12,6 +12,12 @@ Quizás solamente buscas informarte un poco de las oportunidades de la **econom�
 
 En todos los casos eres bienvenida porque hemos diseñado la experiencia de manera que se adecue a cada persona. :smile:
 
+### Plataformas, materiales y sesiones en vivo.
+
+Te proponemos una experiencia de aprendizaje introductorio en la que puedes participar desde simplemente asistir a eventos en vivo, *online* o presenciales, con ponencias sobre diversos temas relacionados a las oportunidades para acceder a la economía digital,  
+
+Aunque siempre te alentaremos a expandir y profundizar por tu cuenta, todo el "material" **mínimamente indispensable** para tu aprendizaje, en forma de lecturas, videos, diagramas, etc. lo encontrarás en este sitio. Por otro lado, todas las interacciones personales las tendremos en Discord, incluyendo eventos especiales y las sesiones en vivo de ayudantía con el equipo de Laboratoria.
+
 Por otro lado, es importante que sepas que hay muchas razones por las que creemos en un tipo de aprendizaje significativo que involucra el conocimiento y desarrollo de habilidades "técnicas", pero también habilidades transversales "para la vida". Te invitamos a explorar el contenido y actividades que hay al respecto.
 
 ## Estructura
