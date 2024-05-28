@@ -10,7 +10,9 @@
 
 ## Meta de Aprendizaje
 
-Utilizar unidades relativas y Flexbox para crear un diseño web responsivo y flexible que se adapte a diferentes tamaños de pantalla. Aprenderás a comparar y combinar esta técnica con las Media Queries aprendidas en el reto anterior para lograr un diseño más dinámico y adaptable a diferentes dispositivos.
+Utilizar unidades relativas y Flexbox para crear un diseño web responsivo y flexible que se adapte a diferentes tamaños de pantalla. Flexbox es un método de diseño de página para organizar elementos en filas o columnas, donde los elementos de contenido se ensanchan para rellenar el espacio adicional y se encogen para caber en espacios más pequeños para manejar diseños responsivos y dinámicos en páginas web.
+
+Aprenderás a comparar y combinar esta técnica con las Media Queries aprendidas en el reto anterior para lograr un diseño más dinámico y adaptable a diferentes dispositivos.
 
 ## Descripción
 
