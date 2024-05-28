@@ -2,15 +2,17 @@
 
 **Tiempo:** :stopwatch: 5min
 
-El movimiento de no-code está transformando la manera en que se crean y gestionan aplicaciones y soluciones digitales. El uso de estas herramientas y soluciones permite a personas sin conocimientos técnicos profundos desarrollar aplicaciones, automatizar procesos y crear soluciones digitales usando interfaces visuales y herramientas intuitivas, sin necesidad de escribir código.
+Desde hace unos años, el movimiento de no-code está transformando la manera en que se crean y gestionan soluciones digitales de todo tipo y tamaño. El uso de estas herramientas **permite a personas sin conocimientos técnicos profundos desarrollar aplicaciones, automatizar procesos y crear soluciones digitales** usando interfaces visuales y herramientas intuitivas, sin necesidad de escribir código.
 
-Además, estamos viviendo una revolución impulsada por la inteligencia artificial generativa. Esta tecnología ha avanzado al punto de poder "comprender" el lenguaje natural de las personas, convirtiéndose en una poderosa herramienta para comunicar nuestras necesidades de forma natural y obtener resultados precisos e híper personalizados. La aparición y fácil acceso a herramientas como ChatGPT, Gemini o Perplexity, nos permiten tener la oportunidad de aprender de forma autónoma como nunca antes de lo que queramos y de la manera y profundidad que mejor se adecue a cada quien.
+Además, estamos viviendo otra revolución impulsada por la inteligencia artificial generativa. Esta tecnología ha avanzado al punto de poder "comprender" razonablemente bien el lenguaje natural de las personas, convirtiéndose en una poderosa herramienta para comunicar nuestras necesidades de forma natural y obtener resultados precisos e híper personalizados. La aparición y fácil acceso a herramientas como ChatGPT, Gemini o Perplexity, nos da la oportunidad de aprender de forma autónoma como nunca antes, de lo que queramos y de la manera y profundidad que mejor se adecue a cada quien.
 
-Al integrar AI generativa con herramientas no-code, cualquier persona puede crear soluciones avanzadas sin necesidad de conocimientos técnicos, aprovechando la capacidad de la AI para interpretar y ejecutar instrucciones en lenguaje natural.
+> Al integrar IA generativa con herramientas no-code, se facilita aún más la posibilidad de explicar en lenguaje natural lo que se quiere hacer y obtener una solución o recomendación concreta de las herramientas que integran ambas tecnologías. 
+> 
+> Por ejemplo, hoy es posible usar una herramienta de no-code como Zapier y, gracias a su integración con IA generativa de lenguaje, escribir algo como "Quiero que cada vez que llegue un correo a mi cuenta de GMAIL con el asunto 'factura' y del remitente contabilidad@unaempresa.com , se agregue una fila a una hoja de calculo en Google Sheets....." y obtener una propuesta de integración y flujo sobre la que terminar los detalles, revisar, y comenzar  a utilizar.
 
-Esta tendencia es crucial en la era actual, ya que democratiza el desarrollo de software, permitiendo que más personas puedan participar en la innovación digital. Al combinar no-code con inteligencia artificial, se pueden crear soluciones avanzadas que aprovechan el poder de la AI para tareas como el análisis de datos, la automatización de procesos repetitivos y la creación de experiencias personalizadas.
+Esta tendencia es crucial, ya que democratiza la creación de soluciones digitales, permitiendo que más personas puedan participar en satisfacer las inmensas necesidades de digitalización. Al combinar no-code con inteligencia artificial se pueden crear soluciones avanzadas que aprovechan el poder de la AI para tareas como el análisis de datos, la automatización de procesos repetitivos y la creación de experiencias personalizadas.
 
-El ámbito de no-code y AI se caracteriza por su rápida evolución. Nuevas herramientas y plataformas emergen constantemente, ofreciendo capacidades cada vez más avanzadas y accesibles. Esto exige a los profesionales mantenerse al día con el **aprendizaje continuo**. Esta naturaleza dinámica no solo mantiene el campo emocionante y desafiante, sino que también abre numerosas oportunidades para la innovación y el desarrollo profesional.
+El ámbito de no-code y AI se caracteriza por su rápida evolución. Nuevas herramientas y plataformas emergen constantemente, ofreciendo capacidades cada vez más avanzadas y accesibles. Esto exige a las profesionales mantenerse al día con el **aprendizaje continuo**. Esta naturaleza dinámica no solo mantiene el campo emocionante y desafiante, sino que también abre numerosas oportunidades para la innovación y el desarrollo profesional.
 
 **Esfuerzo hasta la competencia mínima:** 😅😅😅
 
@@ -28,13 +30,13 @@ Buscamos responder de manera simple y breve a las preguntas:
 
 1. ¿Qué es exactamente no-code y AI?
 2. ¿Para qué sirven en la vida cotidiana de las personas?
-3. ¿Qué hace alguien que se dedica a estas áreas?
+3. ¿Qué hace alguien que se dedica o trabaja con estas tecnologías?
 4. ¿Cuáles son las perspectivas de futuro?
 5. ¿Cuáles son las herramientas y plataformas clave que se utilizan?
 
 **Módulo 2**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión + trabajo en un reto práctico.
 
-Permitiremos la aplicación de lo aprendido y la reflexión sobre tu propio proceso de autoaprendizaje y motivación para continuar.
+Te proponemos la aplicación de parte de lo aprendido, y la reflexión sobre tu propio proceso de autoaprendizaje y motivación para continuar.
 
 </details>
 
@@ -66,3 +68,96 @@ Lo que aprenderás:
 2. Crear experiencias personalizadas: Utilizar AI para analizar datos de usuarios y personalizar la experiencia de las usuarias.
 
 </details>
+
+A partir de acá, te te proponemos algunos casos de necesidades frecuentes
+¡Identifica el(los) que más se acerca(n) a tus necesidades y comienza a aprender!
+
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th>
+      </th>
+      <th>
+      </th>
+      <th>
+      </th>
+      <th data-hidden data-card-target data-type="content-ref">
+      </th>
+      <th data-hidden data-card-cover data-type="files">
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Landing page + recolección de emails de contacto.
+      </td>
+      <td>
+        Una página web en la que puedes reolectar correos de contacto.
+      </td>
+      <td>
+        Ejemplo: Un producto o servicio
+      </td>
+      <td>
+        <a href="https://www.google.com">
+          www.google.com
+        </a>
+      </td>
+      <td>
+        <a href="../assets/thumbnail_placeholder.jpg"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Enviar mensajes de Whatsapp con eventos de Gmail o Google Sheets.
+      </td>
+      <td>
+        Card2, ln2
+      </td>
+      <td>
+      </td>
+      <td>
+        <a href="https://www.google.com">
+          www.google.com
+        </a>
+      </td>
+      <td>
+        <a href="../assets/thumbnail_placeholder.jpg"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Una tienda en línea con Shopify.
+      </td>
+      <td>
+        Card3, ln2
+      </td>
+      <td>
+      </td>
+      <td>
+        <a href="../">
+          ..
+        </a>
+      </td>
+      <td>
+        <a href="../assets/thumbnail_placeholder.jpg"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Automatización de RR.SS.
+      </td>
+      <td>
+        Card4, ln2
+      </td>
+      <td>
+      </td>
+      <td>
+        <a href="../assets/thumbnail_placeholder.jpg"></a>
+      </td>
+      <td>
+        <a href="../assets/thumbnail_placeholder.jpg"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
