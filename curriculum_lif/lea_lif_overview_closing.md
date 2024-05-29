@@ -2,7 +2,7 @@
 
 Ahora que completaste el bloque introductorio, completa la siguiente actividad para terminar.
 
-Escribe un mensaje numerado en el hilo, de manera que cubras lo siguiente:
+Escribe un mensaje numerado en el hilo de Discord, de manera que cubras lo siguiente:
 
 ## 1. Integración
 
@@ -10,7 +10,7 @@ Escribe un mensaje numerado en el hilo, de manera que cubras lo siguiente:
 
 ## 2. Aprender a aprender
 
-Resume en 5 o más *emojis* tu sensación sobre tu percepción de tu capacidad para aprender por ti misma sobre estos asuntos.
+Resume en 5 o más *emojis* tu sensación sobre tu percepción de tu propia capacidad para aprender por ti misma sobre estos asuntos.
 
 ## 3. Motivación
 
@@ -18,7 +18,7 @@ En una oración, ¿qué tan motivada te sientes para seguir aprendiendo sobre c�
 
 ---
 
-> 💬 [**Envía tu respuesta en el hilo de Discord:**](https://discord.com/channels/1209273049304666113/1238194332939587659)
+> <mark>💬 [**Envía tu respuesta en el hilo de Discord:**](https://discord.com/channels/1209273049304666113/1238194332939587659)</mark>
 > 
 > - 1... 2... y 3....
 

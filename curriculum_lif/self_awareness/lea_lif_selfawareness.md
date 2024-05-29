@@ -2,6 +2,8 @@
 
 **Tiempo :** :stopwatch: 30min
 
+> :headphones: Recuerda que puedes usar la extensión de [Speechify](https://speechify.com/es/extension-de-chrome/) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
+
 ## Introducción
 
 > «El autoconocimiento parece haberse convertido en la última palabra de moda del *management*, y por una buena razón. La investigación actual sugiere que cuando nos vemos a nosotras mismas con claridad tenemos más [confianza](http://guilfordjournals.com/doi/abs/10.1521/jscp.23.4.475.40307) y [creatividad](http://guilfordjournals.com/doi/abs/10.1521/jscp.23.4.475.40307). Tomamos [mejores y más sensatas decisiones](https://www.jstor.org/stable/20152338?seq=1#page_scan_tab_contents), construimos [relaciones más sólidas](http://www.emeraldinsight.com/doi/abs/10.1108/02683940310484008) y nos [comunicamos más efectivamente](http://www.emeraldinsight.com/doi/abs/10.1108/EJTD-04-2015-0031?journalCode=ejtd). Tenemos menos tendencia a [mentir, engañar y robar](http://guilfordjournals.com/doi/abs/10.1521/jscp.23.4.475.40307). Somos [mejores trabajadoras](https://www.ncbi.nlm.nih.gov/pubmed/9109286) y obtenemos [más ascensos](http://onlinelibrary.wiley.com/doi/10.1111/j.1464-0597.1991.tb01002.x/abstract). Además, somos [líderes más efectivas](http://onlinelibrary.wiley.com/doi/10.1111/j.1464-0597.1991.tb01002.x/abstract) con [empleadas más satisfechas](http://amj.aom.org/content/23/2/320.abstract) y en [compañías más rentables](http://www.idpublications.org/wp-content/uploads/2014/12/Self-Awareness-and-Organizational-performance-Full-Paper.pdf).» *Tasha Eurich, What Self-Awareness Really Is (and How to Cultivate It)*
@@ -21,7 +23,7 @@ Fomentar la autoconciencia es, por lo tanto, un camino hacia una vida más plena
 
 ---
 
-> 💬 **[Comenta en Discord:](https://discord.com/channels/1209273049304666113/1210727974484185178)** 
+> <mark>💬 **[Comenta en Discord:](https://discord.com/channels/1209273049304666113/1210727974484185178)** </mark>
 > 
 > - ¿Quieres compartir tu tipo de personalidad y comentar algo al respecto?
 

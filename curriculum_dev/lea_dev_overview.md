@@ -2,11 +2,13 @@
 
 **Tiempo:** :stopwatch: 5min
 
+> :headphones: Recuerda que puedes usar la extensión de [Speechify](https://speechify.com/es/extension-de-chrome/) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
+
 El desarrollo web es la disciplina dedicada a la creación, mantenimiento y optimización de soluciones digitales que operan a través de la web. Esto abarca desde sitios web hasta aplicaciones complejas y servicios que facilitan interacciones digitales en múltiples plataformas, no solo entre personas y computadoras, sino también exclusivamente entre computadoras y otros dispositivos.
 
-Esta disciplina es fundamental para la sociedad y la economía modernas, ya que no solo facilita la presencia digital y la conexión entre organizaciones y consumidores de todo el mundo, sino que también asegura el funcionamiento óptimo de millones de dispositivos de diversas índoles en todo momento.
+Esta disciplina es fundamental para la sociedad y la economía modernas, ya que no sólo facilita la presencia digital y la conexión entre organizaciones y usuarias o consumidoras de todo el mundo, sino que también asegura el funcionamiento óptimo de millones de dispositivos de diversa índoles en todo momento.
 
-El desarrollo web se caracteriza por su constante evolución. Nuevas herramientas, librerías, patrones de trabajo, tendencias, etc.  emergen regularmente, lo que requiere que las profesionales se mantengan actualizadas a través del **aprendizaje permanente**. Esta naturaleza dinámica del desarrollo web no sólo mantiene el campo vibrante y desafiante, sino que también crea constantemente oportunidades para el crecimiento profesional y la innovación.
+El desarrollo web se caracteriza por su constante evolución. Nuevas herramientas, librerías, patrones de trabajo, tendencias, etc.  emergen regularmente, lo que requiere que las profesionales se mantengan actualizadas a través del **aprendizaje permanente**. 
 
 En resumen, ofrece una variedad de roles y especializaciones que pueden adaptarse a diferentes intereses y habilidades, lo que la convierte en una carrera atractiva y prometedora. 
 

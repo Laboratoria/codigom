@@ -1,2 +1,0 @@
-# Finanzas personales (en prep...)
-

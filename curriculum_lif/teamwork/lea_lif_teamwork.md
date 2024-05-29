@@ -1,16 +1,16 @@
 # Trabajo en equipo
 
-## Trabajo en equipo
-
 **Tiempo** :stopwatch: **:** 12min
+
+> :headphones: Recuerda que puedes usar la extensión de [Speechify](https://speechify.com/es/extension-de-chrome/) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
 
 ### Introducción
 
-Todo el trabajo de la industria digital, implica crear y mejorar productos o servicios de alta complejidad en un contexto de innovación constante. Este tipo de trabajos, sea en Desarrollo Web, Diseño de Experiencias de Usuario o Análisis de Datos, se conocen como trabajos de la era del conocimiento porque, precisamente, implican trabajar con el conocimiento (abstracto) y las habilidades de las personas y no con máquinas o en fábricas. Este tipo de trabajo depende de la interacción entre personas y de su capacidad para adaptarse y colaborar con el fin de lograr objetivos comunes.
+Buena parte del trabajo que requiere la economía digital, implica crear y mejorar procesos, productos o servicios de alta complejidad en un contexto de innovación constante. Este tipo de trabajos también se conocen como trabajos de la era del conocimiento porque, precisamente, implican trabajar con el conocimiento (abstracto) y las habilidades de las personas, y no con máquinas o en fábricas. Este tipo de trabajo depende de la interacción entre personas y de su capacidad para adaptarse y colaborar con el fin de lograr objetivos comunes.
 
-Si bien esto parece una obviedad, en la práctica muchas veces enfrentamos el trabajo en equipo con ingenuidad y una mentalidad inapropiada que nos produce frustración y esfuerzo desperdiciado. Solemos pensar que trabajar en equipo implica sumar esfuerzos como si las personas fuéramos máquinas. Es típico creer que si agregamos personas a un equipo, el esfuerzo se redistribuye en partes iguales y, por lo tanto, terminaremos el trabajo más pronto y mejor; si lo piensas un poco, es un concepto de eficiencia sumamente “mecánico”. Pensar así implica dejar de lado complejidades de la comunicación entre las personas y los desafíos a los que se enfrentan. &#x20;
+Si bien esto parece una obviedad, en la práctica muchas veces enfrentamos el trabajo en equipo con ingenuidad y una mentalidad inapropiada que nos produce frustración y esfuerzo desperdiciado. Solemos pensar que trabajar en equipo implica sumar esfuerzos como si las personas fuéramos máquinas. Es típico creer que si agregamos personas a un equipo, el esfuerzo se redistribuye en partes iguales y, por lo tanto, terminaremos el trabajo más pronto y mejor; si lo piensas un poco, es un concepto de eficiencia sumamente “mecánico”. Pensar así implica dejar de lado complejidades de la comunicación entre las personas y los desafíos que implican.
 
-Si prefieres saltar toda la parte conceptual (y quizás aburrida) e ir directo a las recomendaciones, anda a [Mitos sobre el trabajo en equipo](lea\_lif\_teamwork.md#mitos-sobre-el-trabajo-en-equipo). De lo contrario, sigue leyendo.
+Si prefieres saltar toda la parte conceptual (y quizás aburrida) para ir directo a las recomendaciones, anda a [Mitos sobre el trabajo en equipo](lea\_lif\_teamwork.md#mitos-sobre-el-trabajo-en-equipo). De lo contrario, sigue leyendo.
 
 ## La complejidad de la comunicación no es solamente un asunto de la habilidad individual de cada persona
 
@@ -18,15 +18,15 @@ Asumimos que todos los problemas de comunicación tienen que ver con la habilida
 
 ![pasted image 0.png](https://codahosted.io/docs/UrlCH0OK3j/blobs/bl-Yr2yKQEgxo/88cfaf5bdde596a7bf3611b3be8096dc873e6406d0507939816137d360f0bcdce512a7dd516f25c8915737aa1dcaadc8b3d9e354dae4b2d7d68e5d369089ac4eba4de23de7ddf80112693afd643a5d3bab2114d579126a2a6637356fe20457c48dce5114)
 
-[Scrum Alliance](https://resources.scrumalliance.org/Article/doubling-down-on-scrum-fundamentals-helps-remote-teams-thrive). Imagen gráfica que muestra 2 personas con un canal de comunicación. Un grupo de 5 personas con 10 canales posibles de comunicación. Un grupo de 12 con 66 posibles canales de comunicación.
+*[Scrum Alliance](https://resources.scrumalliance.org/Article/doubling-down-on-scrum-fundamentals-helps-remote-teams-thrive). Imagen gráfica que muestra 2 personas con un canal de comunicación. Un grupo de 5 personas con 10 canales posibles de comunicación. Un grupo de 12 con 66 posibles canales de comunicación.*
 
 La cantidad de canales de comunicación posibles = N \* (N-1) / 2 donde N es la cantidad de personas.
 
-Es obvia la cantidad de cosas que pueden salir mal en la comunicación de equipos grandes, ¿verdad?. Esta es la principal razón por la que muchas veces se prefieren equipos de trabajo multidisciplinarios de no más de 5-7 personas. Es también la razón por la que te recomendamos procurar grupos de colaboración-trabajo relativamente pequeños. Así puedes  desarrollar habilidades de comunicación y colaboración, pero sin complejizar innecesariamente tu proceso.
+Es obvia la cantidad de cosas que pueden salir mal en la comunicación de equipos grandes, ¿verdad?. Esta es la principal razón por la que muchas veces se prefieren equipos de trabajo multidisciplinarios de no más de 5-7 personas. Es también la razón por la que te recomendamos procurar grupos de colaboración-trabajo relativamente pequeños. Así puedes  desarrollar habilidades de comunicación y colaboración, pero sin complejizar innecesariamente el proceso.
 
 ## La interpretación de la “única realidad”
 
-Los seres humanos tenemos la impresión de que la realidad es una sola, de que nuestro cerebro es infalible en la interpretación de la misma y, por lo tanto, estar de acuerdo es algo que no debería requerir demasiado esfuerzo. Veamos algunas ideas importantes al respecto.
+Los seres humanos tenemos la impresión de que la realidad es una sola, creemos que nuestro cerebro es infalible en la interpretación de la misma y, por lo tanto, pensamos que estar de acuerdo es algo que no debería requerir demasiado esfuerzo. Veamos algunas ideas al respecto.
 
 ### Diversidad cultural
 
@@ -64,7 +64,7 @@ Es posible que por las experiencias o creencias previas ya existan en tu mente a
 
 ### ⛔ Mito 1: Vamos a ser amigas y llevarnos de maravilla.
 
-Tu objetivo es aprender. Si bien esperamos que forjes relaciones sanas con tus compañeras, no es un requisito para tener un trabajo en equipo profesional, satisfactorio y productivo. De la misma forma, el hecho de que lleves una muy buena relación e incluso tengas una amistad ciertas compañeras, no es necesariamente una señal ni garantía de que el trabajo en equipo esté funcionando y aportando al aprendizaje de todas las involucradas.
+Tu objetivo es aprender. Si bien esperamos que forjes relaciones sanas con tus compañeras, no es un requisito para tener una colaboración profesional, satisfactoria y productiva. De la misma forma, el hecho de que lleves una muy buena relación e incluso tengas una amistad con alguna compañera, no es necesariamente una señal ni garantía de que la colaboración esté funcionando y aportando al aprendizaje de todas las involucradas.
 
 ### ⛔ Mito 2: Trabajar en equipo implica siempre llegar a una solución que guste a todas.
 
@@ -84,25 +84,26 @@ Esta es una de esas clásicas situaciones en las que te diríamos que si ya supi
 
 ### ⛔ Mito 6: Divide y vencerás
 
-De esto hablamos brevemente antes. El resultado de dividir el trabajo como si de una fábrica de ladrillos se tratase, puede resultar en un Frankestein pegoteado que no signifique aprendizaje para ninguna de las involucradas. Es importante que encuentres un balance entre la colaboración en la “solución general” y las responsabilidades individuales.
+De esto ya hablamos brevemente antes. El resultado de dividir el trabajo como si de una fábrica de ladrillos se tratase, puede resultar en un Frankestein pegoteado que no signifique aprendizaje para ninguna de las involucradas. Es importante que encuentres un balance entre la colaboración en la “solución general” y las responsabilidades individuales.
 
-## Principios para el trabajo en equipo en Laboratoria
+## Principios para la colaboración y el trabajo en equipo en Laboratoria
 
+* Reciprocidad.
 * Aprendizaje y profesionalismo por sobre la amistad.
 * Respeto a la diversidad por sobre el pensamiento único o normativo.
-* Aprendizaje genuino por sobre "avance".
+* Aprendizaje genuino por sobre cualquier otro tipo de "avance".
 * Abordar los problemas oportunamente, antes que evadirlos o posponerlos.
 * Preguntar directa y explícitamente antes que suponer/asumir lo que otra(s) está(n) pensando o haciendo.
 
 ***
 
-> 💬 [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1215434121623380018)
->
+> <mark>💬 [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1215434121623380018)</mark>
+> 
 > * Comenta las 2 ideas de la lectura que más sensaciones te generaron (positivas o negativas).
 
 ***
 
 Extra por si quieres profundizar:
 
-* 🐝 Las abejas utilizan danzas para comunicar la ubicación de fuentes de néctar a sus compañeras, indicando orientación, distancia y calidad del néctar. La danza en forma de ocho (danza de la cola) indica la orientación y distancia utilizando la posición del sol como referencia. Estos movimientos precisos aseguran que sus compañeras encuentren y recolecten néctar eficientemente.
-* :seedling: "Pensar rápido, pensar despacio" es un libro de D. Kahneman, ganador del Premio Nobel, que explora los dos sistemas que moldean nuestro pensamiento: el Sistema 1, rápido, intuitivo y emocional, y el Sistema 2, más lento, deliberativo y lógico. Kahneman desentraña cómo estas dos formas de pensar influyen en nuestras decisiones y nuestro juicio, a menudo de maneras que nos predisponen a errores y sesgos cognitivos. El libro ofrece una mirada profunda a cómo operamos mentalmente, revelando que aunque creemos que nuestras decisiones son racionales, a menudo están mucho más influenciadas por emociones y heurísticas automáticas de lo que pensamos.
+* 🐝 Las abejas utilizan danzas para comunicar la ubicación de fuentes de néctar a sus compañeras, indicando orientación, distancia y calidad del néctar. La danza en forma de ocho indica la orientación y distancia utilizando la posición del sol como referencia. Estos movimientos precisos aseguran que sus compañeras encuentren y recolecten néctar eficientemente.
+* :seedling: "Pensar rápido, pensar despacio" es un libro del premio Nobel D. Kahneman que explora los dos sistemas que moldean nuestro pensamiento: el Sistema 1, rápido, intuitivo y emocional, y el Sistema 2, más lento, deliberativo y lógico. Kahneman desentraña cómo estas dos formas de pensar influyen en nuestras decisiones y nuestro juicio, a menudo de maneras que nos predisponen a errores y sesgos cognitivos. El libro ofrece una mirada profunda a cómo operamos mentalmente, revelando que aunque creemos que nuestras decisiones son racionales, a menudo están mucho más influenciadas por emociones y heurísticas automáticas de lo que pensamos.

@@ -12,13 +12,13 @@ Quizás solamente buscas informarte un poco de las oportunidades de la **econom�
 
 En todos los casos eres bienvenida porque hemos diseñado la experiencia de manera que se adecue a cada persona. :smile:
 
+Te proponemos una experiencia de aprendizaje introductorio en la que puedes participar desde simplemente asistir a eventos en vivo, *online* o presenciales, con ponencias sobre diversos temas relacionados a las oportunidades para acceder y participar efectivamente de la economía digital.
+
 ### Plataformas, materiales y sesiones en vivo.
 
-Te proponemos una experiencia de aprendizaje introductorio en la que puedes participar desde simplemente asistir a eventos en vivo, *online* o presenciales, con ponencias sobre diversos temas relacionados a las oportunidades para acceder a la economía digital,  
+Aunque siempre te alentaremos a expandir y profundizar por tu cuenta, todo el "material" **mínimamente indispensable** para tu aprendizaje, en forma de lecturas, videos, diagramas, etc. lo encontrarás en este sitio. Por otro lado, todas las interacciones las tendremos en Discord, incluyendo eventos especiales, ayuda y colaboración entre compañeras, conversaciones, discusiones, y las sesiones en vivo de ayudantía con el equipo de Laboratoria.
 
-Aunque siempre te alentaremos a expandir y profundizar por tu cuenta, todo el "material" **mínimamente indispensable** para tu aprendizaje, en forma de lecturas, videos, diagramas, etc. lo encontrarás en este sitio. Por otro lado, todas las interacciones personales las tendremos en Discord, incluyendo eventos especiales y las sesiones en vivo de ayudantía con el equipo de Laboratoria.
-
-Por otro lado, es importante que sepas que hay muchas razones por las que creemos en un tipo de aprendizaje significativo que involucra el conocimiento y desarrollo de habilidades "técnicas", pero también habilidades transversales "para la vida". Te invitamos a explorar el contenido y actividades que hay al respecto.
+Seguramente te resultará mucha información para comenzar pero te irás acostumbrando poco a poco.
 
 ## Estructura
 
@@ -34,13 +34,13 @@ Este enfoque te permite sumergirte sin la presión de un compromiso largo, ideal
 
 Este bloque no sólo te informará, sino que te motivará a reflexionar sobre cómo estas disciplinas impactan en la vida diaria de las personas y cómo podrías integrarlas en tu futuro. El bloque concluye con un "reto" o "mini-proyecto" que te dará la oportunidad de poner en práctica algo de lo aprendido para que puedas entender si es algo que quisieras continuar aprendiendo. 
 
-Es tu oportunidad de explorar libremente, con la mente abierta y sin la presión de una decisión o compromiso a largo plazo. ¿Lista para comenzar este viaje? 
+Es tu oportunidad de explorar libremente, con la mente abierta y sin la presión de una decisión o compromiso a largo plazo. ¿Lista para comenzar el viaje? :rocket:
 
 ### Desarrollo de habilidades
 
 Si después de completar el bloque introductorio, quieres continuar, te encontrarás con que hemos agrupado todo en función de **habilidades concretas** de cada área. Así, para cada habilidad, te encontrarás con módulos que cubren aspectos específicos de la habilidad, y retos o actividades que es lo que irás completando poco a poco para conseguir desarrollar la habilidad indicada.
 
-Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o muñeca rusa 🪆
+Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o muñeca rusa 🪆. Las habilidades funcionan como un "contenedor" de módulos y los módulos como "contenedores" de actividades de todo tipo y/o retos que es lo que tendrás que "hacer" o ir completando.
 
 ![](../assets/metodolog_02.png)
 
@@ -50,9 +50,9 @@ Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o 
 
 Una habilidad es una destreza para ejecutar o hacer algo concreto. Puedes comprender los conceptos de gravedad, velocidad, equilibrio, etc., pero eso no significa que tengas **la habilidad de andar en bicicleta**.
 
-La habilidad es esa capacidad práctica de aplicar lo que sabes, o incluso lo que intuyes,  para lograr hacer algo efectivamente: andar en bicicleta. Este es nuestro objetivo último, que puedas desarrollar habilidades que te permitan hacer cosas de verdad, en la practica.
+La habilidad es esa capacidad práctica de aplicar lo que sabes, o incluso lo que intuyes,  para lograr hacer algo efectivamente: andar en bicicleta. Este es nuestro objetivo último, que puedas desarrollar habilidades que te permitan hacer cosas de verdad, en la practica, y que eso te permita acceder a más y mejores oportunidades.
 
-Una habilidad se desarrolla **completando todas las actividades y los retos de los todos los módulos** que se incluyen en cada habilidad. En ese sentido, las habilidades funcionan como un "contenedor" de módulos.
+Una habilidad se desarrolla **completando todas las actividades y los retos de todos los módulos que se incluyen en cada habilidad***. 
 
 ---
 
@@ -82,7 +82,7 @@ Cada reto aborda una sola meta de aprendizaje, pero es posible que haya más de 
 
 ### Pongamos todo junto en un ejemplo
 
-Supongamos que te quieres convertir en ciclista. Para conseguirlo, deberás completar pasos intermedios que te llevarán, poco a poco, a la construcción y desarrollo de las habilidades. El área o campo se vería algo así:
+Supongamos que te quieres convertir en ciclista (campo). Para conseguirlo, deberás completar pasos intermedios que te llevarán, poco a poco, a la construcción y desarrollo de las habilidades necesarias. El área o campo se vería algo así:
 
 ##### Bloque introductorio
 
@@ -94,13 +94,19 @@ Definición clara y precisa de lo que implica aprender a andar en bicicleta ¿Qu
 
 ###### Módulo 2:
 
-Conocimiento fundamental. Las actividades son del tipo lecturas, vídeos, reflexión, participación en comentarios y foros de discusión + 1 reto práctico o micro-proyecto que contiene el 100% de todo lo necesario para completarlo. 
+Conocimiento fundamental. Las actividades son del tipo lecturas, vídeos, reflexión, participación en comentarios y foros de discusión + 1 reto práctico o mini-proyecto que contiene el 100% de todo lo necesario para completarlo. 
 
-**Reto: Equilibrio**: en este reto tienes la meta de aprender a mantenerte en equilibrio con la bicicleta en la misma posición alternando el apoyo en un pie o el otro, no los dos. Tendrás una guía y recursos de conocimiento como inercia, gravedad, lesiones, etc.
+**Reto: Equilibrio 1**. 
+
+En este reto tienes la meta de aprender a mantenerte en equilibrio con la bicicleta en la misma posición alternando el apoyo en un pie o el otro durante 1 minuto o más. 
+
+Tendrás una guía y recursos de conocimiento fundacional como inercia, gravedad, lesiones, etc. Tendremos sesiones de ayudantía en vivo con el equipo de Laboratoria para que puedas resolver dudas o pedir ayuda. No son clases.
+
+Para terminar, te daremos una pauta para que puedas evaluar tu propio aprendizaje y, si quieres, pedir evaluación de alguna compañera también.
 
 ---
 
-Puedes llegar solamente hasta acá y está totalmente OK. Pero si quieres continuar, pasarías directamente al desarrollo de la primera habilidad.
+Puedes llegar solamente hasta acá y está totalmente OK. Pero si quieres continuar, pasarías directamente al desarrollo de una primera habilidad.
 
 ##### **Habilidad**: andar en bicicleta en la ciudad.
 
@@ -108,9 +114,9 @@ Puedes llegar solamente hasta acá y está totalmente OK. Pero si quieres contin
   
   - **Reto 1.1 - Equilibrio:** en este reto tienes la meta de mantener el equilibrio sin pedalear y solamente con el impulso de alguien que te ayude.
   
-  - **Reto 1.2** - **Romper la inercia**: en este reto tienes la meta de aprender a pedalear para arrancar y frenar para detenerte. 
+  - **Reto 1.2** - **Romper la inercia**: en este reto tienes la meta de aprender a pedalear para arrancar y frenar cuidadosamente para detenerte. 
   
-  - **Reto 1.3 - Frenar**: la meta es aprender a frenar con el freno trasero para evitar irte de narices hacia adelante.
+  - **Reto 1.3 - Frenar balanceando freno delantero y trasero**: la meta es aprender a frenar con el freno trasero para evitar irte de narices hacia adelante.
 
 - **Módulo 2**: dar una vuelta completa a una plaza o parque con rectas y curvas.
   
@@ -124,8 +130,8 @@ Ya se entiende mejor, ¿verdad?
 
 ---
 
-> - :question: Plantea tus dudas por *chat* en el [canal #general de Discord](https://discord.com/channels/1209273049304666113/1209273050076291097)
+> - <mark> :question: </mark> Plantea tus dudas por *chat* en el [canal #general de Discord](https://discord.com/channels/1209273049304666113/1209273050076291097)
 > 
-> - 💬 Si quieres abrir una discusión, puedes hacerlo en el [foro de aprendizaje transversal en Discord](https://discord.com/channels/1209273049304666113/1217834825260601407)
+> - <mark> 💬 </mark> Si quieres abrir una discusión, puedes hacerlo en el [foro de aprendizaje transversal en Discord](https://discord.com/channels/1209273049304666113/1217834825260601407)
 
----  
+---

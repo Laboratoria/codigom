@@ -4,6 +4,8 @@
 
 Prepárate para la digitalización/automatización del trabajo.
 
+**Campos o áreas sobre las que puedes aprender:**
+
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>No-code e IA</strong></td><td>Crea soluciones digitales sin escribir código. Sitios web, automatizaciones, apps, etc.</td><td></td><td></td><td></td></tr><tr><td><strong>Análisis de datos</strong></td><td>Aprende a hacer análisis de datos, reportes, etc.</td><td></td><td></td><td></td></tr><tr><td><strong>Introducción al desarrollo web</strong></td><td>Da tus primeros pasos en el desarrollo web front-end. Quieres explorar un cambio de carrera.</td><td></td><td></td><td></td></tr><tr><td><strong>Habilidades transversales</strong></td><td>Desarrolla tus habilidades de solución de problemas, colaboración, comunicación, iniciativa, etc. Bienestar, finanzas personales, etc.</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 * Adquiere ventajas competitivas para acceder a mejores oportunidades. Puede ser dentro de tu misma profesión-oficio-rubro.
@@ -20,6 +22,14 @@ La **economía digital** se refiere a toda la actividad económica generada por 
 
 Las tecnologías emergentes y la inteligencia artificial (IA) asociadas a estos cambios están remodelando las sociedades, creando oportunidades pero también evidenciando riesgos. La automatización y digitalización están llevando a la desaparición constante y acelerada de trabajos "tradicionales", aumentando la necesidad de que las personas adquieran nuevas habilidades digitales para mantenerse relevantes en el nuevo mercado laboral.
 
-Independientemente de las consideraciones sobre sesgos y discriminación, polarización de opiniones a gran escala, privacidad, seguridad y equidad, el cambio es inexorable y, por lo tanto, adaptarse es indispensable para la sostenibilidad y el crecimiento a largo plazo. Las personas deben adoptar un enfoque proactivo en el desarrollo de habilidades digitales y la integración de nuevas tecnologías para aprovechar las oportunidades y mitigar los riesgos asociados con esta transformación continua.
+Independientemente de las consideraciones sobre sesgos y discriminación, polarización de opiniones a gran escala, privacidad, seguridad y equidad, el cambio es inexorable y, por lo tanto, adaptarse es indispensable para la sostenibilidad y el crecimiento a largo plazo. Las personas neceistamos adoptar un enfoque proactivo en el desarrollo de habilidades digitales y la integración de nuevas tecnologías para aprovechar las oportunidades y mitigar los riesgos asociados con esta transformación continua.
 
-En el pasado, sólo ciertas profesiones o especialidades abordaban la creación de soluciones digitales, pero hoy, gracias a la democratización del conocimiento y las herramientas no-code, la IA, y otros avances, todas las personas puedan contribuir a la creación de soluciones. Este acceso democratizado permite a personas sin formación técnica avanzada desarrollar aplicaciones y herramientas digitales, fomentando una innovación más inclusiva y diversificada que beneficia a todos los sectores de la sociedad.
+En el pasado, sólo ciertas profesiones o especialidades abordaban la creación de soluciones digitales, pero hoy, gracias a la democratización del conocimiento y las herramientas no-code, la IA, y otros avances, "todas"" las personas pueden contribuir a desarrollar aplicaciones y crear de soluciones diversas, aunque no tengan formación técnica avanzada (como ingenierías), fomentando así una innovación más inclusiva y diversificada que beneficia a todos los sectores de la sociedad.
+
+---
+
+> - <mark> :question: </mark> Plantea tus dudas por *chat* en el [canal #general de Discord](https://discord.com/channels/1209273049304666113/1209273050076291097)
+> 
+> - <mark> 💬 </mark> Si quieres abrir una discusión, puedes hacerlo en el [foro de aprendizaje transversal en Discord](https://discord.com/channels/1209273049304666113/1217834825260601407)
+
+---

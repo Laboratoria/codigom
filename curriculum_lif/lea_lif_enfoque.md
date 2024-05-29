@@ -2,15 +2,23 @@
 
 **Tiempo :** :stopwatch: 15min
 
-La manera torpe de abordar este desafío sería hacer un curso para cada habilidad, darte ejercicios, un _quiz_ para cuantificar tu nivel de competencia y hacer un _ranking_ de mejores y peores. Ridículo, ¿no?.
+> :headphones: Recuerda que puedes usar la extensión de [Speechify](https://speechify.com/es/extension-de-chrome/) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
 
-Esto ignora el contexto en el que se desenvuelven estas habilidades. Puede ser que esta semana estés durmiendo muy mal y tu desempeño no sea el que quisieras y puede ser que mañana te toca colaborar con una compañera con la que te entiendes rápidamente y todo fluye de maravilla. Puede ser que para un tema o actividad, tu desempeño sea uno y, al mismo tiempo, en otro tipo de actividad, sea otro. No se te ocurriría promediarlo, ¿verdad? Es decir, es algo dinámico pero no solamente en el sentido lineal-ascendente sino que fluctuante.
+Una manera torpe de abordar este desafío sería hacer un curso para cada habilidad, darte ejercicios, un _quiz_ para cuantificar tu nivel de competencia y hacer un _ranking_ de mejores y peores. Ridículo, ¿no?.
 
-**Te proponemos un cambio de paradigma desde la “calificación” de habilidades hacia el auto-conocimiento basado en la observación y reflexión constantes.**
+Esto ignora el contexto en el que se desenvuelven estas habilidades. Puede ser que esta semana estés durmiendo muy mal y tu desempeño no sea el que quisieras y puede ser que mañana te toque colaborar con una compañera con la que te entiendes rápidamente y todo fluye de maravilla. Puede ser que para un tema o actividad, tu desempeño sea uno y, al mismo tiempo, en otro tipo de actividad, sea otro. No se te ocurriría promediarlo, ¿verdad? Es decir, esto es algo dinámico pero no solamente en el sentido lineal-ascendente sino que fluctuante.
 
-![pasted image 0.png](../assets/lifeskills\_dinamica.png)
+**Te proponemos un cambio de paradigma desde la “calificación” y "cuantificación" de habilidades hacia el auto-conocimiento basado en la observación y reflexión constantes.**
+
+![pasted image 0.png](../assets/lifeskills_dinamica.png)
 
 ## Pilares
+
+### Autoconocimiento (como meta-habilidad)
+
+El autoconocimiento (*self-awareness*) no solamente es un componente de la metacognición consciente sino que también puede ser visto como un resultado de la misma. Es la habilidad de examinar y entender quiénes somos en relación al dinámico mundo que nos rodea, nos permite controlar nuestro comportamiento y ajustar nuestras creencias, no solamente sobre nosotras mismas, sino que más importante aún, entre individuos.
+
+Conceptos asociados: introspección, juicio/criterio, pensamiento crítico, autopercepción (sesgos inconscientes), propósito, *self-awareness*. metacognición.
 
 ### Creencias
 
@@ -18,26 +26,20 @@ Desde pensar que el desarrollo del cerebro es fijo, que “no puedo” aprender 
 
 Conceptos asociados: neuroplasticidad y “Mentalidad de Crecimiento”, autoeficacia, sesgos, carga cultural, género, etc.
 
-### Autoconocimiento (meta-habilidad)
+## Premisas sobre las habilidades transversales
 
-El autoconocimiento (_self-awareness_) no solamente es un componente de la metacognición consciente sino que también puede ser visto como un resultado de la misma. Es la habilidad de examinar y entender quiénes somos en relación al dinámico mundo que nos rodea, nos permite controlar nuestro comportamiento y ajustar nuestras creencias, no solamente sobre nosotras mismas, sino que más importante aún, entre individuos.
-
-Conceptos asociados:  introspección, juicio/criterio, pensamiento crítico, autopercepción (sesgos inconscientes), propósito, _self-awareness_. metacognición.
-
-## Premisas sobre las habilidades
-
-1. Esto no es ingeniería, es solamente una aproximación. Comenzamos reconociendo que es inútil aspirar a la exactitud.
+1. Esto no es ingeniería, es solamente una aproximación. Comenzamos reconociendo que es inútil aspirar a la medición y la exactitud.
 2. Aunque por necesidad presentemos las habilidades organizadas de alguna manera, lo cierto es que no son aspectos discretos, todas se interrelacionan y no son excluyentes. Lo hacemos así porque tenemos limitaciones cognitivas que nos imposibilitan representar algo de tal complejidad con precisión.
 3. Evolucionan muy lentamente. Se requiere cambios de hábitos, de percepciones, entendimientos, personas, contextos, etc. No depende solamente de saber: “sé lo que es el pensamiento crítico, ergo lo puedo tener”.
-4. Para cada persona, la relevancia de cada una de las habilidades será distinta. Dependerá de tu personalidad, historia/experiencia, contexto, necesidades, preferencias, etc.
+4. Para cada persona, la relevancia de cada una de las habilidades será distinta. Dependerá de su personalidad, historia/experiencia, afinidad, contexto, necesidades, preferencias, etc.
 
-### Foco en algunas habilidades
+### Foco en algunas habilidades en particular
 
 Te proponemos esta lista acotada de habilidades para observar.
 
 **INICIATIVA**: Defines, priorizas y completas tareas sin supervisión directa. Participas preguntando y opinando. Eres diligente, tomando el control de tu proceso e intentas solucionar los problemas o situaciones sin necesidad de directrices explícitas.
 
-**PLANIFICACIÓN, ORGANIZACIÓN Y MANEJO DEL TIEMPO**: Es capaz de estructurar una “ruta”, identificar dependencias y posibles impedimentos. Logras priorizar y organizar tu trabajo de forma adaptativa en lugar de intentar “predecir”.
+**PLANIFICACIÓN, ORGANIZACIÓN Y MANEJO DEL TIEMPO**: Eres capaz de estructurar una “ruta”, identificar dependencias y posibles impedimentos. Logras priorizar y organizar tu trabajo de forma adaptativa en lugar de intentar “predecir” lo que no conoces o dominas.
 
 **COMUNICACIÓN EFICAZ**: Articulas y transmites preguntas, pensamientos e ideas con claridad y facilitando el diálogo (oral o escrito). Incluye tu capacidad de escucha activa y la adecuación del mensaje pudiendo interactuar respetuosamente y de manera constructiva con personas de diferentes orígenes y perspectivas.
 
@@ -51,8 +53,8 @@ Te proponemos esta lista acotada de habilidades para observar.
 
 ***
 
-> 💬 [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1237453097484292168)
->
+> <mark>💬 [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1237453097484292168)</mark>
+> 
 > * ¿Qué piensas del enfoque que te proponemos?
 > * ¿Hay alguna experiencia que quieras compartir en la que se evidencia la importancia de estas habilidades?
 
