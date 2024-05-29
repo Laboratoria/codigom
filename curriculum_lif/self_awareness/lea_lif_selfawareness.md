@@ -23,7 +23,7 @@ Fomentar la autoconciencia es, por lo tanto, un camino hacia una vida más plena
 
 ---
 
-> <mark>💬 **[Comenta en Discord:](https://discord.com/channels/1209273049304666113/1210727974484185178)** </mark>
+> :mega: 💬 **[Comenta en Discord:](https://discord.com/channels/1209273049304666113/1210727974484185178)** 
 > 
 > - ¿Quieres compartir tu tipo de personalidad y comentar algo al respecto?
 

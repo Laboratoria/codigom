@@ -54,7 +54,7 @@ Piensa la cantidad inmensa de trabajo manual que se hace en miles de empleos y p
 
 ---
 
-> <mark> 💬  [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1215445879411052554)</mark> ¿Te parece una visión exagerada sobre el cambio del empleo?, ¿es algo que ya estás viviendo directamente?, ¿qué temores tienes al respecto?
+> :mega: 💬  [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1215445879411052554) ¿Te parece una visión exagerada sobre el cambio del empleo?, ¿es algo que ya estás viviendo directamente?, ¿qué temores tienes al respecto?
 
 --- 
 

@@ -106,6 +106,6 @@ No habrás cumplido con la actividad si:
 
 ---
 
-> 💬 [Comenta en el hilo de Discord:]() siguiendo el formato propuesto y cualquier otra cosa que quieras agregar.
+> :mega: 💬 [Comenta en el hilo de Discord:]() siguiendo el formato propuesto y cualquier otra cosa que quieras agregar.
 
 ---

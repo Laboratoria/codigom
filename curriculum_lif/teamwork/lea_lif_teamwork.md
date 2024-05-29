@@ -97,7 +97,7 @@ De esto ya hablamos brevemente antes. El resultado de dividir el trabajo como si
 
 ***
 
-> <mark>💬 [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1215434121623380018)</mark>
+> :mega: 💬 [**Comenta en Discord:**](https://discord.com/channels/1209273049304666113/1215434121623380018)
 > 
 > * Comenta las 2 ideas de la lectura que más sensaciones te generaron (positivas o negativas).
 

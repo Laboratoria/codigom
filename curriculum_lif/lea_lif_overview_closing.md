@@ -18,7 +18,7 @@ En una oración, ¿qué tan motivada te sientes para seguir aprendiendo sobre c�
 
 ---
 
-> <mark>💬 [**Envía tu respuesta en el hilo de Discord:**](https://discord.com/channels/1209273049304666113/1238194332939587659)</mark>
+> :mega: 💬 [**Envía tu respuesta en el hilo de Discord:**](https://discord.com/channels/1209273049304666113/1238194332939587659)
 > 
 > - 1... 2... y 3....
 

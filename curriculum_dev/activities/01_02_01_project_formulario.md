@@ -55,7 +55,7 @@ Trabajando en un _fork_ de tu página de perfil/personal, agregarás un formular
 ---
 
 > - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
->
-> - Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1214692430004359238) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
+> 
+> - :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1214692430004359238) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
 
 ---

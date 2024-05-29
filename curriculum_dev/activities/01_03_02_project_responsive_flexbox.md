@@ -21,17 +21,17 @@ Aprenderás a comparar y combinar esta técnica con las Media Queries aprendidas
 En este reto, profundizarás en el uso de Flexbox y unidades relativas (`%`, `vw`, `vh`, `vmin`, `vmax`) para mejorar y flexibilizar el diseño web responsivo que comenzaste en el reto anterior. La idea es que entiendas cómo Flexbox puede simplificar el manejo de la disposición de los elementos en comparación con el uso exclusivo de Media Queries.
 
 1. **Unidades Relativas**:
-
+   
    - Utiliza unidades relativas (`%`, `vw`, `vh`, `vmin`, `vmax`) para definir tamaños y dimensiones flexibles en tu diseño.
    - Asegúrate de que los elementos se adapten proporcionalmente a diferentes tamaños de pantalla.
 
 2. **Flexbox**:
-
+   
    - Implementa Flexbox para organizar y alinear los elementos de tu página.
    - Usa las propiedades de Flexbox (`flex-direction`, `justify-content`, `align-items`, `flex-wrap`, etc.) para crear un diseño más adaptable y eficiente.
 
 3. **Integración con Media Queries**:
-
+   
    - Combina las unidades relativas y Flexbox con las Media Queries que ya definiste en el reto anterior.
    - Asegúrate de que tu diseño sea coherente y funcional en dispositivos móviles, tabletas y computadoras de escritorio.
 
@@ -67,7 +67,7 @@ En este reto, profundizarás en el uso de Flexbox y unidades relativas (`%`, `vw
 ---
 
 > - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
->
-> - Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1215722402961555466) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
+> 
+> - :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1215722402961555466) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
 
 ---

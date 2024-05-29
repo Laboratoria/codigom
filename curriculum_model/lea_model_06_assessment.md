@@ -40,11 +40,11 @@ Sigue los siguientes pasos para participar de la dinámica:
 
 1. Deja un mensaje según corresponda en 🔵[dev-ayuda](https://discord.com/channels/1209273049304666113/1210673338947739758) |🟢[noc-ayuda](https://discord.com/channels/1209273049304666113/1230553558823342120) | 🟠[dat-ayuda](https://discord.com/channels/1209273049304666113/1232000787719262270) pidiendo evaluaciónde una compañera y un enlace/liga al recurso para que todas puedan acceder.  
    
-   <img title="" src="../assets/2024-04-24%2017-06-47.png" alt="" >
+    ![](../assets/2024-04-24%2017-06-47.png)
    
    También puedes etiquetar o "arrobar" a una compañera de la que quieres recibir  evaluación si así lo prefieres.
    
-   <img src="../assets/2024-04-24%2017-09-04.png" title="" alt="">
+    ![](../assets/2024-04-24%2017-09-04.png)
 
 2. Cuando una compañera responda a tu mensaje podrás decidir si quieres recompensarla por su ayuda. Sé justa y responsable con tu decisión. 
    
@@ -55,9 +55,9 @@ Sigue los siguientes pasos para participar de la dinámica:
 
 ---
 
-> - <mark> :question: </mark> Plantea tus dudas por *chat* en el [canal #general de Discord](https://discord.com/channels/1209273049304666113/1209273050076291097)
+> - :question: Plantea tus dudas por *chat* en el [canal #general de Discord](https://discord.com/channels/1209273049304666113/1209273050076291097)
 > 
-> - <mark> 💬 </mark> Si quieres abrir una discusión, puedes hacerlo en el [foro de aprendizaje transversal en Discord](https://discord.com/channels/1209273049304666113/1217834825260601407)
+> - :mega: 💬  Si quieres abrir una discusión, puedes hacerlo en el [foro de aprendizaje transversal en Discord](https://discord.com/channels/1209273049304666113/1217834825260601407)
 
 ---
 

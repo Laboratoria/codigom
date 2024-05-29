@@ -48,7 +48,7 @@ Más adelante nos ocuparemos de abordar brevemente:
 
 ---
 
-> 💬 **[Comenta en Discord:](https://discord.com/channels/1209273049304666113/1238188383952437259)**
+> :mega: 💬 **[Comenta en Discord:](https://discord.com/channels/1209273049304666113/1238188383952437259)**
 > 
 > - ¿Tenías conocimiento de las evidencias compartidas en la lectura y videos?
 > - ¿Sigues alguna estrategia o hábito que quieras compartir?

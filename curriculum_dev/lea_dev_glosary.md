@@ -1,5 +1,3 @@
 # Glosario
 
 Framework
-
-

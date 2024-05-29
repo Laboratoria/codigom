@@ -49,6 +49,6 @@ No es un ejercicio estético pero igual intenta mantener tus estilos lo más arm
 ***
 
 > * 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum\_model/lea\_model\_06\_assessment.md) antes de terminar tu reto y compartir la URL.
-> * Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1215720612756983828) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
+> * :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1215720612756983828) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
 
 ***
