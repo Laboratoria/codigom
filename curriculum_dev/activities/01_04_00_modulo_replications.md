@@ -1,15 +1,13 @@
-# Módulo 4 : ¡Manos a la obra! Replica sitios web con diseño responsivo
+# Módulo 4 : Practica replicando sitios web reales
 
 **Tiempo:** ⏱ 5min
 
 ## Introducción
 
-¡Es hora de poner en práctica tus conocimientos de diseño web responsivo! En este módulo 4, te enfrentarás al emocionante desafío de replicar sitios web reales, reforzando tus habilidades y adquiriendo experiencia en la creación de páginas que se adaptan a diferentes dispositivos.
-
-¿Estás listo para convertirte en un maestro del diseño web responsivo? ¡Comencemos!
+¡Es hora de practicar más lo aprendido sobre diseño web responsivo! En este módulo  te enfrentarás al desafío de replicar 3 sitios web distintos, reforzando tus habilidades y adquiriendo experiencia con distintos diseños.
 
 ## Lo que aprenderás
 
-Al completar este módulo, habrás adquirido experiencia práctica invaluable en la creación de sitios web con diseño responsivo. Esta habilidad te permitirá crear sitios web que se adapten a cualquier dispositivo, brindando una experiencia de usuario óptima para todos tus visitantes.
+Habrás adquirido más experiencia práctica creando sitios web con diseño responsivo. Para conseguir esa experiencia práctica, es  importante que experimentes la aplicación de lo aprendido en distintos escenarios y eso es lo que te proponemos.
 
-Recuerda que la práctica constante es la clave para dominar el diseño web responsivo. Continúa experimentando con diferentes técnicas, creando tus propios proyectos y perfeccionando tus habilidades. ¡El mundo del desarrollo web te espera!
+Recuerda que la práctica constante es la clave para dominar cualquier habilidad. Continúa experimentando creando tus propios proyectos y ejercitando tus habilidades. Algo útil que siempre puedes hacer es probar distintas maneras de resolver un mismo asunto o problema, eso fomenta tu habilidad de solucionar problemas y de pensar creativamente sobre algo que estás recién aprendiendo. 

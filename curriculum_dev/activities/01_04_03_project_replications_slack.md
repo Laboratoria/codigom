@@ -1,57 +1,48 @@
-## Reto 4.3: Replica una sección del sitio de Slack
+# Reto 4.3: Replica una sección del sitio de Slack
 
-**Dificultad:** 🌻🌻🌻
+**Dificultad:** 🌻🌻🌻 
 
-**Aprendizaje:** 🍯🍯
+**Aprendizaje:** 🍯🍯 
 
-**Tiempo:** ⏱⏱⏱⏱
+**Tiempo:** ⏱⏱⏱⏱ 
 
 **Reacciona** con 👀 cuando comiences la lectura, actividad o reto.
 
 ## Meta de Aprendizaje
 
-Replicar una sección del sitio web de Slack, utilizando HTML, CSS, Flexbox y Media Queries para crear un diseño responsivo.
+Practicar tus habilidades de diseño responsivo, utilizando HTML, CSS, Flexbox y Media Queries, unidades relativas y sistemas de diseño Flexbox o Grid.
 
 ## Descripción
 
-En este reto, replicarás una sección del sitio web de Slack, enfocándote en la estructura HTML y los estilos CSS para que el diseño se adapte a diferentes tamaños de pantalla.
+Este reto se trata de replicar la versión de la sección "Mensajería" del sitio web de Slack de la imagen que se adjunta, respetando la estructura y su comportamiento responsivo.
 
-**Sección a replicar:**
+Crea la estructura HTML y aplica los estilos CSS necesarios para que el diseño tenga los colores, estilos, etc., y que se adapte, al menos, a 2 diferentes tamaños de pantalla (escritorio y móvil).
+
+En este caso, enfócate también en el contenido además en conseguir la estructura y comportamiento deseados.
+
+Esta vez te daremos menos detalles sobre el diseño y sobre la pauta de autoevaluación, lo hacemos deliberadamente para que tú tengas todo el control en este último reto.
+
+## **Sección a replicar:**
 
 ![Imagen de la sección del sitio de Slack](https://i.imgur.com/izbx2OH.jpeg)
 
-**Características del diseño:**
+### **Insumos:**
 
-- **Barra de navegación:**
-  - [Logotipo](https://i.imgur.com/5aKbiF1.png) de slack
-  - Lista de enlaces de navegación
-  - Botones de llamada a la acción
-- **Sección informativa:**
-  - Textos de diferentes tamaños
-  - Botones de llamada a la acción
-- **Imagen:**
-  - [Imagen](https://i.imgur.com/RA1SU7F.jpeg) de personas chateando
+- [Logotipo](https://i.imgur.com/5aKbiF1.png) de slack.
+- [Imagen](https://i.imgur.com/RA1SU7F.jpeg) de personas chateando.
 
 **No cumples con la meta de aprendizaje si:**
 
-- [x] No replicas la estructura HTML de la sección seleccionada.
-- [x] La sección no se centra en la pantalla ni se adapta a diferentes tamaños de pantalla.
-- [x] No utilizas Flexbox para distribuir los elementos de la sección de manera organizada.
-- [x] No consideras el uso de Media Queries para ajustar el diseño en dispositivos móviles.
-- [x] No agregas iconos similares a los de Slack.
+- [x] No completas el reto, analizas detalladamente tu trabajo en comparación al original y corriges cualquier detalle necesario.
 
 ## Pauta de trabajo
 
-- Crea un nuevo proyecto en CodePen
-
-- Replica la estructura HTML de la sección seleccionada
-
-- Aplica estilos CSS para que la sección se centre en la pantalla y se adapte a diferentes tamaños de pantalla utilizando Flexbox
-
-- Considera el uso de Media Queries para ajustar el diseño en dispositivos móviles
-
-- Prueba tu sitio web en diferentes tamaños de pantalla para asegurarte de que se adapta correctamente
+- Presta especial atención al menú de navegación que es completamente diferente en la versión de escritorio que en la de móviles.
 
 ---
 
 > - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
+> 
+> - :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1247957188971073657) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
+
+---
