@@ -14,6 +14,8 @@ Practicar tus habilidades de diseño responsivo, utilizando HTML y CSS (Media Qu
 
 ## Descripción
 
+[Video : Explicación de lo que hay que hacer 🌟](https://www.loom.com/share/1cd1812918c4431697d6370119f2a085)
+
 Este reto se trata de replicar la estructura y comportamiento responsivo a partir de la imagen proporcionada. Crea la estructura HTML y aplica los estilos CSS necesarios para que el diseño web se adapte, al menos, a 2 diferentes tamaños de pantalla (escritorio y móvil).
 
 Enfócate solamente en conseguir la estructura y comportamiento deseados. El texto y/o imágenes que utilices son irrelevantes. 

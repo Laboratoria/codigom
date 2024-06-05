@@ -14,6 +14,8 @@ Practicar tus habilidades de diseño responsivo, utilizando HTML y CSS (Media Qu
 
 ## Descripción
 
+[Video : Explicación de lo que hay que hacer 🌟](https://www.loom.com/share/48d81a2fd4a2484cabed8b2daad10d19)
+
 Este reto se trata de replicar la versión de interfaz de *login* de Netflix de la imagen que se adjunta, respetando la estructura y su comportamiento responsivo. 
 
 Crea la estructura HTML y aplica los estilos CSS necesarios para que el diseño tenga los colores, estilos, etc., y que se adapte, al menos, a 2 diferentes tamaños de pantalla (escritorio y móvil).
@@ -47,7 +49,7 @@ En este caso, enfócate también en el contenido además en conseguir la estruct
 
 **No cumples con la meta de aprendizaje si:**
 
-- [x] No replicas replicas todos los elementos y estilos.
+- [x] No replicas todos los elementos y estilos.
 - [x] No utilizas Media Queries para ajustar tu página según los dos tamaños de pantalla indicados. Considera los puntos de quiebre `breakpoint` : hasta 991px de ancho para dispositivos móviles y 992 o más para dispositivos de escritorio.
 - [x] El formulario no se centra en la pantalla ni se adapta, al menos, los 2 diferentes tamaños de pantalla (*desktop* y *mobile*) indicados.
 - [x] No utilizas Flexbox para distribuir los elementos del formulario de manera organizada.
