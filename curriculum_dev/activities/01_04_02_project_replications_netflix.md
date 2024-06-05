@@ -10,7 +10,7 @@
 
 ## Meta de Aprendizaje
 
-Practicar tus habilidades de diseño responsivo, utilizando HTML, CSS, Flexbox y Media Queries, unidades relativas y sistemas de diseño Flexbox o Grid.
+Practicar tus habilidades de diseño responsivo, utilizando HTML y CSS (Media Queries, unidades relativas y sistemas de diseño Flexbox o Grid)
 
 ## Descripción
 

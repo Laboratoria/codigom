@@ -10,7 +10,7 @@
 
 ## Meta de Aprendizaje
 
-Practicar tus habilidades de diseño responsivo, utilizando HTML, CSS, Flexbox y Media Queries, unidades relativas y sistemas de diseño Flexbox o Grid.
+Practicar tus habilidades de diseño responsivo, utilizando HTML y CSS (Media Queries, unidades relativas y sistemas de diseño Flexbox o Grid)
 
 ## Descripción
 
@@ -32,7 +32,7 @@ Enfócate solamente en conseguir la estructura y comportamiento deseados. El tex
 - **Menú de navegación (naranja):**
   
   - Para dispositivos de escritorio: Espacio vertical a la izquierda de la página para 3 enlaces.
-  - Para dispositivos de escritorio: Espacio horizontal en la parte superior de la página para 3 enlaces.
+  - Para dispositivos de móviles: Espacio horizontal en la parte superior de la página para 3 enlaces.
 
 - **Sección principal (blanco-gris):**
   
@@ -58,7 +58,7 @@ Enfócate solamente en conseguir la estructura y comportamiento deseados. El tex
 
 - En dispositivos móviles (pantallas de hasta 991px de ancho): organiza el contenido en una sola columna para facilitar el desplazamiento vertical.
 
-- En computadoras de escritorio (pantallas de 992px de ancho en adelante): Utiliza un diseño de varias columnas para aprovechar el espacio adicional.
+- En dispositivos de escritorio (pantallas de 992px de ancho en adelante): Utiliza un diseño de varias columnas para aprovechar el espacio adicional.
 
 - Utiliza Media Queries para definir los estilos específicos para cada tamaño de pantalla. Por ejemplo, el tamaño de texto.
 
