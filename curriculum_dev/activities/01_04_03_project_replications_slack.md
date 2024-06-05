@@ -37,7 +37,7 @@ Esta vez te daremos menos detalles sobre el diseño y sobre la pauta de autoeval
 
 ## Pauta de trabajo
 
-- Presta especial atención al menú de navegación que es completamente diferente en la versión de escritorio que en la de móviles.
+- Presta especial atención al menú de navegación que es completamente diferente en la versión de escritorio que en la de móviles. No es necesario que el menú sea funcional, solo encárgate de mostrar los elementos correctos en cada tamaño de pantalla.
 
 ---
 

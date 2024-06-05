@@ -51,7 +51,7 @@
   * [Módulo 4 : Practica replicando sitios reales](curriculum\_dev/activities/01\_04\_00\_modulo\_replications.md)
     * [Reto 4.1 : Replicación de diseño web básico](curriculum\_dev/activities/01\_04\_01\_project\_replications\_basic.md)
     * [Reto 4.2 : Replicación de login de Netflix](curriculum\_dev/activities/01\_04\_02\_project\_replications\_netflix.md)
-    * [Reto 4.3 : Replicación de login de Slack](curriculum_dev/activities/01_04_03_project_replications_slack.md)
+    * [Reto 4.3 : Replicación de Mensajería de Slack](curriculum_dev/activities/01_04_03_project_replications_slack.md)
 * [🔵 Tópicos](desarrollo-web/topicos/README.md)
   * [CodePen Introducción](curriculum\_dev/topics/editors\_codepen.md)
   * [CodePen Error de DOCTYPE](curriculum\_dev/topics/editors\_codepen\_doctype.md)
