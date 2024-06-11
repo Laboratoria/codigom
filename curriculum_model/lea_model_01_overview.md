@@ -28,7 +28,7 @@ Seguramente te resultará mucha información para comenzar pero te irás acostum
 
 Para cada área o "campo" técnico te ofrecemos un bloque introductorio diseñado para darte una visión clara y concreta, en un formato flexible y con poco compromiso de tiempo. 
 
-> En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios de cada disciplina de tu elección. Puedes explorar y probar todo lo que quieras.
+> En tan solo 2 semanas, dedicando un máximo de 5 horas por semana a tu propio ritmo, explorarás los aspectos introductorios de cada disciplina de tu elección. Puedes explorar y probar todo lo que quieras.
 
 Este enfoque te permite sumergirte sin la presión de un compromiso largo, ideal para descubrir si tu interés inicial se convierte en habilidades concretas o simplemente en un conocimiento valioso para tu crecimiento personal y profesional.
 
@@ -38,7 +38,7 @@ Es tu oportunidad de explorar libremente, con la mente abierta y sin la presión
 
 ### Desarrollo de habilidades
 
-Si después de completar el bloque introductorio, quieres continuar, te encontrarás con que hemos agrupado todo en función de **habilidades concretas** de cada área. Así, para cada habilidad, te encontrarás con módulos que cubren aspectos específicos de la habilidad, y retos o actividades que es lo que irás completando poco a poco para conseguir desarrollar la habilidad indicada.
+Si después de completar el bloque introductorio, quieres continuar aprendiendo sobre eso, te encontrarás con que hemos agrupado todo en función de **habilidades concretas** de cada área. Así, para cada habilidad, te encontrarás con módulos que cubren aspectos específicos de la habilidad, y retos o actividades que es lo que irás completando poco a poco para conseguir desarrollar la habilidad indicada.
 
 Encontrarás todo organizado de la siguiente manera. Es como una *matrioshka* o muñeca rusa 🪆. Las habilidades funcionan como un "contenedor" de módulos y los módulos como "contenedores" de actividades de todo tipo y/o retos que es lo que tendrás que "hacer" o ir completando.
 
@@ -52,13 +52,13 @@ Una habilidad es una destreza para ejecutar o hacer algo concreto. Puedes compre
 
 La habilidad es esa capacidad práctica de aplicar lo que sabes, o incluso lo que intuyes,  para lograr hacer algo efectivamente: andar en bicicleta. Este es nuestro objetivo último, que puedas desarrollar habilidades que te permitan hacer cosas de verdad, en la practica, y que eso te permita acceder a más y mejores oportunidades.
 
-Una habilidad se desarrolla **completando todas las actividades y los retos de todos los módulos que se incluyen en cada habilidad***. 
+Una habilidad se desarrolla **completando todas las actividades y los retos de todos los módulos que se incluyen en cada habilidad**. 
 
 ---
 
 #### :large_blue_diamond: Módulo (M)
 
-Los módulos son un “contenedor” de varias actividades y retos. Se agrupan en módulos para:
+Los módulos son un “contenedor” de varias actividades y retos agrupamos para:
 
 - Intercalar temas de aprendizaje:
   
@@ -66,7 +66,7 @@ Los módulos son un “contenedor” de varias actividades y retos. Se agrupan e
   
   - Aumentar la complejidad gradualmente: la complejidad de lo que irás aprendiendo es mayor que la suma de sus partes, entonces queremos ir combinando unas cosas con otras poco a poco.
 
-- Que puedas tener referencia un poco más "grande" o "general" de cuánto vas aprendiendo.
+- Darte algo de perspectiva para que tengas una referencia un poco más "grande" o "general" de cuánto vas aprendiendo.
 
 ---
 
@@ -74,7 +74,9 @@ Los módulos son un “contenedor” de varias actividades y retos. Se agrupan e
 
 En Laboratoria, desde hace años creemos firmemente en el aprendizaje activo y en  "aprender haciendo" (*learning by doing*).
 
-El reto es el principal vehículo de aprendizaje. Cada uno es 100% autocontenido, es decir que indica lo que debes conseguir hacer y contiene todos los insumos para adquirir el conocimiento necesario y ponerlo en práctica.
+Te encontrarás con algunas **actividades** que te piden reflexionar/opinar/compartir sobre algo de lo aprendido.
+
+Por otro lado, los **retos** son el principal vehículo de aprendizaje y los puedes entender como mini-proyectos. Cada uno es 100% autocontenido, es decir que indica lo que debes conseguir hacer y, además, contiene todos los insumos para adquirir el conocimiento necesario y ponerlo en práctica.
 
 Cada reto aborda una sola meta de aprendizaje, pero es posible que haya más de un reto para una misma meta de aprendizaje. La finalidad de esto es que practiques más de una vez una misma meta si así nos parece necesario.
 
@@ -82,7 +84,7 @@ Cada reto aborda una sola meta de aprendizaje, pero es posible que haya más de 
 
 ### Pongamos todo junto en un ejemplo
 
-Supongamos que te quieres convertir en ciclista (campo). Para conseguirlo, deberás completar pasos intermedios que te llevarán, poco a poco, a la construcción y desarrollo de las habilidades necesarias. El área o campo se vería algo así:
+Supongamos que te quieres convertir en ciclista (esta sería el área o "campo"). Para conseguirlo, deberás completar pasos intermedios que te llevarán, poco a poco, a la construcción y desarrollo de las habilidades necesarias. El área o campo se vería algo así:
 
 ##### Bloque introductorio
 
@@ -100,13 +102,15 @@ Conocimiento fundamental. Las actividades son del tipo lecturas, vídeos, reflex
 
 En este reto tienes la meta de aprender a mantenerte en equilibrio con la bicicleta en la misma posición alternando el apoyo en un pie o el otro durante 1 minuto o más. 
 
-Tendrás una guía y recursos de conocimiento fundacional como inercia, gravedad, lesiones, etc. Tendremos sesiones de ayudantía en vivo con el equipo de Laboratoria para que puedas resolver dudas o pedir ayuda. No son clases.
+Tendrás una guía y recursos de conocimiento fundacional como inercia, gravedad, posibles lesiones, etc. Tendremos sesiones de ayudantía en vivo con el equipo de Laboratoria para que puedas resolver dudas o pedir ayuda. No son clases.
 
-Para terminar, te daremos una pauta para que puedas evaluar tu propio aprendizaje y, si quieres, pedir evaluación de alguna compañera también.
+Para terminar, te daremos una pauta para que puedas evaluar tu propio aprendizaje y, si quieres, puedes pedir evaluación de alguna compañera también.
+
+Si llegas solamente hasta acá está totalmente OK. Quizás probaste algo que hace tiempo querías y no te parece que tengas afinidad o que se alinee con tu contexto actual.
 
 ---
 
-Puedes llegar solamente hasta acá y está totalmente OK. Pero si quieres continuar, pasarías directamente al desarrollo de una primera habilidad.
+Si quieres continuar, pasarías directamente al desarrollo de una primera habilidad.
 
 ##### **Habilidad**: andar en bicicleta en la ciudad.
 
@@ -116,7 +120,7 @@ Puedes llegar solamente hasta acá y está totalmente OK. Pero si quieres contin
   
   - **Reto 1.2** - **Romper la inercia**: en este reto tienes la meta de aprender a pedalear para arrancar y frenar cuidadosamente para detenerte. 
   
-  - **Reto 1.3 - Frenar balanceando freno delantero y trasero**: la meta es aprender a frenar con el freno trasero para evitar irte de narices hacia adelante.
+  - **Reto 1.3 - Frenar balanceando el freno delantero y el trasero**: la meta es aprender a frenar más con el freno trasero para evitar irte de narices hacia adelante.
 
 - **Módulo 2**: dar una vuelta completa a una plaza o parque con rectas y curvas.
   

@@ -1,8 +1,14 @@
 # Inicio
 
-## Comunidad de aprendizaje introductorio de habilidades para la economía digital
+## Tu futuro en la economía digital comienza aquí
 
-Prepárate para la digitalización/automatización del trabajo.
+Bienvenida a la comunidad de aprendizaje para mujeres en la que darás tus primeros pasos para participar de la economía digital. Conoce y desarrolla habilidades de IA, no-code, análisis de datos, desarrollo web y más. Prepárate para un mundo en el que estas habilidades son indispensables y se consideran la nueva "alfabetización".
+
+Crece si miedo en un entorno colaborativo y con sesiones en vivo que se adapta 100% a tu disponibilidad y ritmo.
+
+Aprender y dominar estas habilidades no sólo te permite minimizar el impacto de la desaparición de trabajos tradicionales, sino que también te posiciona para aprovechar nuevas oportunidades en el dinámico mercado laboral actual y del futuro.
+
+-----
 
 **Campos o áreas sobre las que puedes aprender:**
 
@@ -10,19 +16,16 @@ Prepárate para la digitalización/automatización del trabajo.
 
 * Adquiere ventajas competitivas para acceder a mejores oportunidades. Puede ser dentro de tu misma profesión-oficio-rubro.
 * "Sé que tengo que aprender nuevas habilidades pero no sé por dónde comenzar, es demasiado conocimiento disperso”.
-* Aprendizaje en comunidad de mujeres y sesiones “en vivo”.&#x20;
 * No son "cursos en línea", es una comunidad de aprendizaje colaborativo con sesiones en vivo para preguntar y resolver dudas.
 * Puedes aprender de todo lo que esté disponible, es un “mundo abierto”. A tu ritmo, al menos 5 horas a la semana aprox.
 
-Aprender y dominar estas habilidades no sólo te permite minimizar el impacto de la desaparición de trabajos tradicionales, sino que también te posiciona para aprovechar nuevas oportunidades en el dinámico mercado laboral actual y del futuro.
-
 ## La nueva economía
 
-La **economía digital** se refiere a toda la actividad económica generada por la interconexión de personas, empresas y dispositivos a través de Internet. Este fenómeno está transformando los modelos de negocio y los comportamientos de consumo, redefiniendo la manera en que producimos, trabajamos y vivimos, impulsando un cambio profundo y acelerado en todas direcciones.
+La **economía digital** se refiere a toda la actividad económica generada por la interconexión de personas, empresas y dispositivos a través de Internet. Este fenómeno está transformando los modelos de negocio y los comportamientos de consumo, redefiniendo la manera en que producimos, trabajamos y vivimos, creando un cambio profundo y acelerado en todas direcciones.
 
 Las tecnologías emergentes y la inteligencia artificial (IA) asociadas a estos cambios están remodelando las sociedades, creando oportunidades pero también evidenciando riesgos. La automatización y digitalización están llevando a la desaparición constante y acelerada de trabajos "tradicionales", aumentando la necesidad de que las personas adquieran nuevas habilidades digitales para mantenerse relevantes en el nuevo mercado laboral.
 
-Independientemente de las consideraciones sobre sesgos y discriminación, polarización de opiniones a gran escala, privacidad, seguridad y equidad, el cambio es inexorable y, por lo tanto, adaptarse es indispensable para la sostenibilidad y el crecimiento a largo plazo. Las personas neceistamos adoptar un enfoque proactivo en el desarrollo de habilidades digitales y la integración de nuevas tecnologías para aprovechar las oportunidades y mitigar los riesgos asociados con esta transformación continua.
+Independientemente de las consideraciones sobre sesgos y discriminación, polarización de opiniones, privacidad, seguridad y equidad, el cambio es inexorable y, por lo tanto, adaptarse es indispensable para la sostenibilidad y el crecimiento a largo plazo. Las personas necesitamos adoptar un enfoque proactivo en el desarrollo de habilidades digitales y la integración de nuevas tecnologías para aprovechar las oportunidades y mitigar los riesgos asociados con esta transformación continua.
 
 En el pasado, sólo ciertas profesiones o especialidades abordaban la creación de soluciones digitales, pero hoy, gracias a la democratización del conocimiento y las herramientas no-code, la IA, y otros avances, "todas"" las personas pueden contribuir a desarrollar aplicaciones y crear de soluciones diversas, aunque no tengan formación técnica avanzada (como ingenierías), fomentando así una innovación más inclusiva y diversificada que beneficia a todos los sectores de la sociedad.
 
