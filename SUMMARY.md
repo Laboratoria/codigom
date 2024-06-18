@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 ## 💜 Bienvenida
 
@@ -6,86 +6,114 @@
 
 ## 📑 Metodología de aprendizaje
 
-* [¿Cómo voy a aprender?](curriculum\_model/lea\_model\_01\_overview.md)
-* [La transformación del trabajo y las oportunidades](curriculum\_model/lea\_model\_02\_work.md)
-* [El mito de los promedios](curriculum\_model/lea\_model\_03\_average.md)
-* [Filosofía de aprendizaje](curriculum\_model/lea\_model\_04\_philosophy.md)
-* [IA como herramienta de aprendizaje](curriculum\_model/lea\_model\_05\_ai.md)
-* [Evaluaciones](curriculum\_model/lea\_model\_06\_assessment.md)
+* [¿Cómo voy a aprender?](curriculum_model/lea_model_01_overview.md)
+* [La transformación del trabajo y las oportunidades](curriculum_model/lea_model_02_work.md)
+* [El mito de los promedios](curriculum_model/lea_model_03_average.md)
+* [Filosofía de aprendizaje](curriculum_model/lea_model_04_philosophy.md)
+* [IA como herramienta de aprendizaje](curriculum_model/lea_model_05_ai.md)
+* [Evaluaciones](curriculum_model/lea_model_06_assessment.md)
 
 ## 🌈 Habilidades transversales o core skills
 
-* [Inicio y ruta de aprendizaje](curriculum\_lif/lea\_lif\_overview.md)
-* [Bloque Introductorio](habilidades-transversales-o-core-skills/bloque-introductorio/README.md)
-  * [Enfoque](curriculum\_lif/lea\_lif\_enfoque.md)
-  * [Autoconocimiento](curriculum\_lif/self\_awareness/lea\_lif\_selfawareness.md)
-  * [Trabajo en equipo](curriculum\_lif/teamwork/lea\_lif\_teamwork.md)
-  * [Bienestar](curriculum\_lif/wellbeign/lea\_lif\_wellbeign\_intro.md)
-  * [Reflexiona y comenta](curriculum\_lif/lea\_lif\_overview\_closing.md)
-* [Bienestar digital (en prep...)](habilidades-transversales-o-core-skills/bienestar-digital-en-prep....md)
-* [Finanzas personales (en prep...)](habilidades-transversales-o-core-skills/finanzas-personales-en-prep....md)
+* [Inicio y ruta de aprendizaje](curriculum_lif/lea_lif_overview.md)
+
+* Bloque Introductorio
+  
+  * [Enfoque](curriculum_lif/lea_lif_enfoque.md)
+  * [Autoconocimiento](curriculum_lif/self_awareness/lea_lif_selfawareness.md)
+  * [Trabajo en equipo](curriculum_lif/teamwork/lea_lif_teamwork.md)    
+  * [Bienestar](curriculum_lif/wellbeign/lea_lif_wellbeign_intro.md)
+  * [Reflexiona y comenta](curriculum_lif/lea_lif_overview_closing.md)
+
+* Bienestar digital (en prep...)
+
+* Finanzas personales (en prep...)
 
 ## 🔵 Desarrollo Web
 
-* [Inicio y ruta de aprendizaje](curriculum\_dev/lea\_dev\_overview.md)
-* [🔵 Bloque Introductorio](desarrollo-web/bloque-introductorio/README.md)
-  * [Módulo 1: Todo sobre el desarrollo Web](curriculum\_dev/activities/00\_01\_00\_all\_about.md)
-    * [Entendiendo Internet y la Web](curriculum\_dev/activities/00\_01\_01\_internet\_web.md)
-    * [Qué es el desarrollo web front-end y qué es el back-end](curriculum\_dev/activities/00\_01\_02\_web\_dev.md)
-    * [El impacto del Desarrollo Web en la vida cotidiana](curriculum\_dev/activities/00\_01\_03\_dev\_life.md)
-    * [Tendencias actuales y futuras en el Desarrollo Web](curriculum\_dev/activities/00\_01\_04\_dev\_trends.md)
-    * [Herramientas y tecnologías básicas del Desarrollo Web](curriculum\_dev/activities/00\_01\_05\_dev\_tools.md)
-  * [Módulo 2: Aprende haciendo tu primera página](curriculum\_dev/activities/00\_02\_00\_practice.md)
-    * [Reto: Mi Primera Página HTML](curriculum\_dev/activities/00\_02\_01\_myfirst.md)
-    * [Reflexiona y comenta](curriculum\_dev/activities/00\_02\_02\_close.md)
-* [Habilidad (H): Maquetación Web, básica](curriculum\_dev/activities/01\_00\_00\_overview.md)
-  * [Módulo 1 : Tu primera web con estilos básicos](curriculum\_dev/activities/01\_01\_00\_modulo\_myFirstWeb.md)
-    * [Reto 1.1 : Mi Primera Página HTML](curriculum\_dev/activities/01\_01\_01\_project\_myFirstWeb.md)
-    * [Reto 1.2 : Agregando estilos con CSS](curriculum\_dev/activities/01\_01\_02\_project\_add\_CSS.md)
-    * [Reto 1.3 : HTML semántico](curriculum\_dev/activities/01\_01\_03\_project\_semantic\_HTML.md)
-  * [Módulo 2 : Tu primer formulario web](curriculum\_dev/activities/01\_02\_00\_modulo\_form.md)
-    * [Reto 2.1 : Creación de un formulario](curriculum\_dev/activities/01\_02\_01\_project\_formulario.md)
-  * [Módulo 3 : Diseño web responsivo](curriculum\_dev/activities/01\_03\_00\_modulo\_responsive.md)
-    * [Reto 3.1 : Diseño Responsivo con Media Queries](curriculum\_dev/activities/01\_03\_01\_project\_responsive\_mediaqueries.md)
-    * [Reto 3.2 : Diseño responsivo con unidades relativas y flexbox](curriculum\_dev/activities/01\_03\_02\_project\_responsive\_flexbox.md)
-  * [Módulo 4 : Practica replicando sitios reales](curriculum\_dev/activities/01\_04\_00\_modulo\_replications.md)
-    * [Reto 4.1 : Replicación de diseño web básico](curriculum\_dev/activities/01\_04\_01\_project\_replications\_basic.md)
-    * [Reto 4.2 : Replicación de login de Netflix](curriculum\_dev/activities/01\_04\_02\_project\_replications\_netflix.md)
-    * [Reto 4.3 : Replicación de Mensajería de Slack](curriculum_dev/activities/01_04_03_project_replications_slack.md)
-* [🔵 Tópicos](desarrollo-web/topicos/README.md)
-  * [CodePen Introducción](curriculum\_dev/topics/editors\_codepen.md)
-  * [CodePen Error de DOCTYPE](curriculum\_dev/topics/editors\_codepen\_doctype.md)
-  * [CodePen Fork o bifurcación](curriculum\_dev/topics/editors\_codepen\_fork.md)
-  * [HTML](curriculum\_dev/topics/html.md)
-  * [HTML Semántico](curriculum\_dev/topics/html\_semantic.md)
-  * [HTML Formularios](curriculum\_dev/topics/html\_forms.md)
-  * [CSS Introducción](curriculum\_dev/topics/css\_intro.md)
-  * [CSS Fundamentos](curriculum\_dev/topics/css\_fundamentos.md)
-  * [CSS Media queries](curriculum\_dev/topics/css\_media\_queries.md)
-  * [CSS Unidades](curriculum\_dev/topics/css\_units.md)
-  * [CSS Flexbox](curriculum\_dev/topics/css\_flexbox.md)
+* [Inicio y ruta de aprendizaje](curriculum_dev/lea_dev_overview.md)
+
+* Bloque Introductorio
+  
+  * [Módulo 1: Todo sobre el desarrollo Web](curriculum_dev/activities/00_01_00_all_about.md)
+    
+    * ◆ [Entendiendo Internet y la Web](curriculum_dev/activities/00_01_01_internet_web.md)
+    * ◆ [Qué es el desarrollo web front-end y qué es el back-end](curriculum_dev/activities/00_01_02_web_dev.md)
+    * [El impacto del Desarrollo Web en la vida cotidiana](curriculum_dev/activities/00_01_03_dev_life.md)
+    * [Tendencias actuales y futuras en el Desarrollo Web](curriculum_dev/activities/00_01_04_dev_trends.md)
+    * [Herramientas y tecnologías básicas del Desarrollo Web](curriculum_dev/activities/00_01_05_dev_tools.md)
+  
+  * 🔷[Módulo 2: Aprende haciendo tu primera página](curriculum_dev/activities/00_02_00_practice.md)
+    
+    * ◆ [Reto: Mi Primera Página HTML](curriculum_dev/activities/00_02_01_myfirst.md)
+    * ◆ [Reflexiona y comenta](curriculum_dev/activities/00_02_02_close.md)
+
+* [Habilidad (H): Maquetación Web, básica](curriculum_dev/activities/01_00_00_overview.md)
+  
+  * 🔷 [Módulo 1 : Tu primera web con estilos básicos](curriculum_dev/activities/01_01_00_modulo_myFirstWeb.md)
+    
+    * ◆ [Reto 1.1 : Mi Primera Página HTML](curriculum_dev/activities/01_01_01_project_myFirstWeb.md)
+    * ◆ [Reto 1.2 : Agregando estilos con CSS](curriculum_dev/activities/01_01_02_project_add_CSS.md)
+    * ◆ [Reto 1.3 : HTML semántico](curriculum_dev/activities/01_01_03_project_semantic_HTML.md)
+  
+  * 🔷 [Módulo 2 : Tu primer formulario web](curriculum_dev/activities/01_02_00_modulo_form.md)
+    
+    * ◆ [Reto 2.1 : Creación de un formulario](curriculum_dev/activities/01_02_01_project_formulario.md)
+  
+  * 🔷 [Módulo 3 : Diseño web responsivo](curriculum_dev/activities/01_03_00_modulo_responsive.md)
+    
+    * ◆ [Reto 3.1 : Diseño Responsivo con Media Queries](curriculum_dev/activities/01_03_01_project_responsive_mediaqueries.md)
+    * ◆ [Reto 3.2 : Diseño responsivo con unidades relativas y flexbox](curriculum_dev/activities/01_03_02_project_responsive_flexbox.md)
+
+* Tópicos
+  
+  * [CodePen, introducción](curriculum_dev/topics/editors_codepen.md)
+  * [CodePen, error de DOCTYPE](curriculum_dev/topics/editors_codepen_doctype.md)
+  * [CodePen, fork o bifurcación](curriculum_dev/topics/editors_codepen_fork.md)
+  * [HTML](curriculum_dev/topics/html.md)
+  * [HTML Semántico](curriculum_dev/topics/html_semantic.md)
+  * [HTML Formularios](curriculum_dev/topics/html_forms.md)
+  * [CSS, introducción](curriculum_dev/topics/css_intro.md)
+  * [CSS, fundamentos](curriculum_dev/topics/css_fundamentos.md)
+  * [CSS, media queries](curriculum_dev/topics/css_media_queries.md)
+  * [CSS, flexbox](curriculum_dev/topics/css_flexbox.md)
 
 ## 🟢 No-code e IA
 
-* [Inicio y ruta de aprendizaje](curriculum\_noc/lea\_noc\_overview.md)
-* [Bloque Introductorio](no-code-e-ia/bloque-introductorio/README.md)
-  * [Módulo 1: Todo sobre...](curriculum\_noc/activities/00\_01\_00\_noc\_all\_about.md)
-    * [Entendiendo Internet y la Web](curriculum\_dev/activities/00\_01\_01\_internet\_web.md)
-    * [Qué es no-code](curriculum\_noc/activities/00\_01\_02\_noc\_que\_es.md)
-    * [Qué es la IA](curriculum\_noc/activities/00\_01\_03\_ai\_que\_es.md)
-    * [♦️ El impacto y las oportunidades](<README (1).md>)
-    * [Tendencias actuales y futuras](<README (1).md>)
-    * [Herramientas y tecnologías básicas del no-code](no-code-e-ia/bloque-introductorio/00\_01\_00\_noc\_all\_about/herramientas-y-tecnologias-basicas-del-no-code.md)
-    * [Herramientas y tecnologías básicas de IA](no-code-e-ia/bloque-introductorio/00\_01\_00\_noc\_all\_about/herramientas-y-tecnologias-basicas-del-no-code.md)
-  * [Módulo 2: Aprende haciendo tu primera automatización](<README (1).md>)
-* [Habilidad (H): Automatización de flujos de trabajo](<README (1).md>)
-* [Tópicos](no-code-e-ia/topicos/README.md)
-  * [APIs.](no-code-e-ia/topicos/apis..md)
-  * [Lógica de programación.](no-code-e-ia/topicos/logica-de-programacion..md)
-  * [Bases de datos.](no-code-e-ia/topicos/bases-de-datos..md)
-  * [Privacidad y seguridad.](no-code-e-ia/topicos/privacidad-y-seguridad..md)
-  * [Machine/deep learing](no-code-e-ia/topicos/machine-deep-learing.md)
-  * [IA generativa.](no-code-e-ia/topicos/ia-generativa..md)
-  * [LLMs](no-code-e-ia/topicos/llms.md)
-  * [Prompting](no-code-e-ia/topicos/prompting.md)
-  * [Ética](no-code-e-ia/topicos/etica.md)
+* [Inicio y ruta de aprendizaje](curriculum_noc/lea_noc_overview.md)
+
+* Bloque Introductorio
+  
+  * [Módulo 1: Todo sobre...](curriculum_noc/activities/00_01_00_noc_all_about.md)
+    
+    * [Entendiendo Internet y la Web](curriculum_dev/activities/00_01_01_internet_web.md)
+    * [Qué es no-code](curriculum_noc/activities/00_01_02_noc_que_es.md)
+    * [Qué es la IA](curriculum_noc/activities/00_01_03_ai_que_es.md)
+    * [El impacto y las oportunidades]()
+    * [Tendencias actuales y futuras]()
+    * [Herramientas y tecnologías básicas del no-code](curriculum_noc/activities/00_01_05_dev_tools.md)
+    * [Herramientas y tecnologías básicas de IA](curriculum_noc/activities/00_01_05_dev_tools.md)
+  
+  * [Módulo 2: Aprende haciendo tu primera automatización]()
+    
+    * ♦️ [Reto: Mi Primera automatización]()
+    * ♦️ [Reflexiona y comenta]()
+
+* [Habilidad (H): Automatización de flujos de trabajo]()
+  
+  * [Módulo 1 :]()
+    
+    * ♦️ [Reto 1.1 : XXX]()
+
+* Tópicos
+  
+  * APIs.
+  * Lógica de programación.
+  * Bases de datos.
+  * Privacidad y seguridad.
+  * Machine/deep learing
+  * IA generativa.
+  * LLMs
+  * Prompting
+  * Ética
+  * 
