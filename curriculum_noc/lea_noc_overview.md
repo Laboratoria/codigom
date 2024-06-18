@@ -24,11 +24,13 @@ Nuevas herramientas y plataformas emergen constantemente, ofreciendo capacidades
 
 - **Equipos de Recursos Humanos**: Automatización de procesos de contratación y gestión de empleados.
 
-- **Enseñanza**: Organización de datos, generación de contenido y pautas, etc.
+- **Enseñanza**: Organización de datos, generación de material educativo personalizado, asistencia en la redacción de ensayos y trabajos académicos, etc.
+
+- **Atención al cliente**: Los chatbots avanzados utilizan LLMs para interactuar con los clientes, responder preguntas frecuentes y resolver problemas comunes de manera rápida y eficiente.
 
 - **Leyes**: Firmas digitales, etc.
 
-- **Gestión sociales, cultural y afines**: TBD
+- **Gestión social, cultural y afines**: TBD
 
 - **Negocios y administración**: TBD
 

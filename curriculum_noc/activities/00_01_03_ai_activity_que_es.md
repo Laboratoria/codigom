@@ -10,9 +10,9 @@
 
 La Inteligencia Artificial (IA) es una rama de la informática que se dedica al desarrollo de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. Esto incluye habilidades como el reconocimiento de voz, la toma de decisiones, la resolución de problemas, la comprensión del lenguaje natural y la percepción visual.
 
-Es importante distinguir la IA en general de una subcategoría específica conocida como IA generativa, que incluye modelos de lenguaje grande (LLM) como ChatGPT, Gemini o Perplexity, etc. Mientras que la IA abarca un amplio espectro de tecnologías y aplicaciones, la IA generativa se centra en la creación de contenido como texto, imágenes y sonidos, basándose en patrones aprendidos de grandes cantidades de datos.
+Es importante distinguir la IA en general de una subcategoría específica conocida como IA generativa, que incluye modelos de lenguaje grande (LLM) como ChatGPT, Gemini o Perplexity, etc. Mientras que la IA abarca un amplio espectro de tecnologías y aplicaciones, la IA generativa se centra en la generación de contenido como texto, imágenes y sonidos, basándose en patrones aprendidos de grandes cantidades de datos.
 
-La actual revolución introducida por los LLMs se explica en parte por su gran capacidad para "interpretar" el lenguaje humano natural y desarrollar un discurso coherente, aunque no necesariamente exacto. Esta capacidad, combinada con otras funcionalidades como el análisis de datos y la generación de código de *software*, abre una puerta a infinitas posibilidades.
+La actual revolución introducida por los LLMs se explica en parte por su gran capacidad para "interpretar" el lenguaje humano natural y desarrollar un discurso coherente, aunque no necesariamente exacto. Esta capacidad, combinada con otras funcionalidades como el análisis de datos y la generación de código de *software*, abre una puerta a infinitas posibilidades futuras.
 
 ## **¿Por qué es importante?**
 
@@ -24,14 +24,6 @@ Desde hace algunos años, la IA está revolucionando muchos aspectos de nuestra 
 - **Asistencia personalizada**: Los LLMs pueden proporcionar respuestas personalizadas en aplicaciones de atención al cliente, ayudando a resolver problemas de manera más efectiva.
 - **Automatización avanzada**: Permiten la automatización de tareas complejas que antes requerían intervención humana, como la generación de informes detallados o la escritura de código de software.
 - **Análisis y síntesis de información**: Capaces de analizar grandes cantidades de texto y generar resúmenes coherentes y relevantes, mejorando la toma de decisiones en negocios y otros campos.
-
-## **Ejemplos de Uso**
-
-- **Generación de contenido**: Herramientas como ChatGPT pueden escribir artículos, crear historias, redactar correos electrónicos y producir guiones para videos.
-- **Atención al cliente**: Los chatbots avanzados utilizan LLMs para interactuar con los clientes, responder preguntas frecuentes y resolver problemas comunes de manera rápida y eficiente.
-- **Educación**: Creación de material educativo personalizado, tutoría en línea y asistencia en la redacción de ensayos y trabajos académicos.
-- **Marketing**: Generación de campañas publicitarias personalizadas, creación de contenido para redes sociales y análisis de tendencias del mercado.
-- **Programación**: Herramientas como GitHub Copilot pueden ayudar a los desarrolladores sugiriendo líneas de código, completando funciones y depurando errores.
 
 ## **Ventajas y Limitaciones**
 

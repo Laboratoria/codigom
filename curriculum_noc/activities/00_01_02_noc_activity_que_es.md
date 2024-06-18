@@ -64,7 +64,7 @@ El no-code está revolucionando la forma en que las personas y las empresas abor
 
 ## Actividad
 
-Considerando como referencia inicial algunos de los ejemplos previos e identifica brevemente en 1 necesidad u oportunidad concreta que hayas tenido cerca recientemente y que sabes o intuyes que se podría resolver con herramientas no-code. Piensa en algo que ahorraría mucho tiempo de trabajo manual y/o dinero aportando  valor como solución.
+Considerando como referencia inicial algunos de los ejemplos previo, identifica 1 necesidad u oportunidad concreta que hayas tenido cerca recientemente y que sabes o intuyes que se podría resolver con herramientas no-code. Piensa en algo que ahorraría tiempo de trabajo manual y/o dinero aportando  valor como solución.
 
 Luego busca alguna(s) herramienta(s) no-code que crees que te hubieran ayudado.
 
