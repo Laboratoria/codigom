@@ -8,9 +8,9 @@
 
 ## Introducción
 
-El **no-code**, en castellano "sin código" es un concepto amplio respecto a un enfoque de desarrollo de *software* y todo tipo de soluciones digitales que permite a personas sin conocimientos técnicos en programación crear aplicaciones y automatizar procesos usando herramientas visuales e interfaces intuitivas. En lugar de escribir código, las usuarias interactúan con componentes preconstruidos y configuraciones para construir soluciones personalizadas de diversa índole.
+El **no-code**, en castellano "sin código" es un concepto amplio respecto a un enfoque de desarrollo de *software* y todo tipo de soluciones digitales que permite a personas sin conocimientos técnicos en programación crear aplicaciones y automatizar procesos usando herramientas visuales e interfaces intuitivas. En lugar de escribir código, las personas interactúan con componentes preconstruidos y configuraciones para construir soluciones personalizadas de diversa índole.
 
-Cabe distinguir del concepto de **low-code** que, a diferencia del no-code, que está diseñado para usuarias sin experiencia en programación, el low-code está dirigido a desarrolladoras que tienen conocimientos básicos de programación y buscan acelerar el proceso de desarrollo. Así, el low-code combina componentes visuales con fragmentos de código personalizado para ofrecer una mayor flexibilidad y control sobre el desarrollo de aplicaciones. Esto permite crear soluciones más complejas y personalizadas que las que típicamente se pueden lograr con no-code.
+Cabe distinguir del concepto de **low-code** (poco código) que, a diferencia del no-code, que está diseñado para usuarias sin experiencia en programación, el low-code está dirigido a desarrolladoras que tienen conocimientos de programación al menos básicos, y buscan acelerar el proceso de desarrollo. Así, el low-code combina componentes visuales con fragmentos de código personalizado para ofrecer una mayor flexibilidad y control sobre el desarrollo de aplicaciones. Esto permite crear soluciones más complejas y personalizadas que las que típicamente se pueden lograr con no-code.
 
 ![](../../assets/NOC/no-code-industry-map.png)
 
@@ -18,38 +18,31 @@ Cabe distinguir del concepto de **low-code** que, a diferencia del no-code, que 
 
 La cantidad inmensa de necesidades de creación de productos, servicios, soluciones digitales en general, automatizaciones de procesos manuales, etc. supera largamente la cantidad de profesionales *developers* capaces de satisfacer tal demanda de trabajo.
 
-Gracias a la inmensa proliferación de herramientas "no-code" y AI, hoy es posible resolver gran cantidad de esas necesidades "sin saber programar". Como discutimos en [La transformación del trabajo y las oportunidades](../../curriculum_model/lea_model_02_work.md) , muchos empleos tradicionales están desapareciendo aceleradamente, dando paso a nuevas oportunidades que requieren conocimientos y habilidades digitales concretas. Aprender herramientas de **no-code** e **inteligencia artificial (IA)** no solo abre puertas a estos nuevos empleos, sino que también permite a las personas crear soluciones innovadoras y adaptarse a los cambios del mercado laboral.
+Gracias a la inmensa proliferación de herramientas "no-code" y AI, hoy es posible resolver una gran cantidad de esas necesidades "sin saber programar". Como discutimos en [La transformación del trabajo y las oportunidades](../../curriculum_model/lea_model_02_work.md) , muchos empleos tradicionales están desapareciendo aceleradamente, dando paso a nuevas oportunidades que requieren conocimientos y habilidades digitales concretas. Aprender herramientas de **no-code** e **inteligencia artificial (IA)** no sólo abre puertas a estos nuevos empleos, sino que también permite a las personas crear soluciones innovadoras y adaptarse a los cambios del mercado laboral.
 
-Algunos aspectos importantes:
+## **Algunos aspectos importantes:**
 
-**Democratización**: Permite a cualquier persona, independientemente de su experiencia técnica, crear aplicaciones y automatizaciones.
+1. **Democratización**: Permite a cualquier persona, independientemente de su experiencia técnica, crear aplicaciones y automatizaciones.
+2. **Empoderamiento**: Empodera a los equipos no técnicos, como *marketing*, *ventas* y servicios, etc. para resolver problemas específicos sin depender de alguien de "TI".
+3. **Velocidad**: Facilita el desarrollo rápido de prototipos y soluciones sin necesidad de  ciclos largos de desarrollo.
+4. **Costo vs. efectividad**: En general, el costo de las herramientas es "bajo" respecto al valor que se puede obtener de las soluciones que permiten implementar.
 
-1. **Velocidad**: Facilita el desarrollo rápido de prototipos y soluciones sin necesidad de  ciclos largos de desarrollo.
-2. **Costo vs. efectividad**: En general, el costo de las herramientas es "bajo" respecto al valor que se puede obtener de las soluciones que permiten implementar.
-3. **Empoderamiento**: Empodera a los equipos no técnicos, como *marketing*, *ventas* y servicios, a resolver problemas específicos sin depender de alguien de "TI".
+## **Tipo de herramientas No-code más comunes:**
 
-**Tipo de herramientas comunes de No-code**
+- **Constructores de Sitios Web**: Plataformas como Framer o Carrd permiten crear y gestionar sitios web de manera visual e interactiva.
+- **Automatización de Flujos de Trabajo**: Herramientas como Zapier y Make conectan distintas aplicaciones y automatizan flujos, tareas y procesos repetitivos.
+- **Desarrollo de Aplicaciones web**: Plataformas como Bubble y Webflow permiten crear aplicaciones web y móviles completas.
+- **Gestión de Datos**: BigQuery, Looker Studio y Airtable combinan funcionalidades de hojas de cálculo con bases de datos y reportería.
 
-- **Constructores de Sitios Web**: Plataformas como Wix, Squarespace y Webflow permiten crear y gestionar sitios web de manera visual e interactiva.
-- **Automatización de Flujos de Trabajo**: Herramientas como Zapier y Integromat conectan aplicaciones y automatizan tareas y procesos repetitivos.
-- **Desarrollo de Aplicaciones**: Plataformas como Bubble y Adalo permiten crear aplicaciones web y móviles completas.
-- **Gestión de Proyectos y Bases de Datos**: Airtable y Notion combinan funcionalidades de hojas de cálculo con bases de datos y gestión de proyectos.
+## **¿Cómo Funciona el No-Code?**
 
-**¿Cómo Funciona el No-Code?**
+1. **Interfaces Visuales**: Usan editores del tipo arrastrar y soltar (drag-and-drop) para añadir y organizar componentes.
+2. **Plantillas y Componentes Preconstruidos**: Ofrecen módulos listos para usar que pueden ser personalizados según las necesidades de la usuaria.
+3. **Integraciones**: Conectan diversas aplicaciones y servicios mediante APIs y conectores predefinidos para:
+   1. Intercambiar datos.
+   2. Automatizar flujos de trabajo que se disparan automáticamente en respuesta a ciertos eventos o condiciones.
 
-1. **Interfaces Visuales**: Usan editores de arrastrar y soltar (drag-and-drop) para añadir y organizar componentes.
-2. **Plantillas y Componentes Preconstruidos**: Ofrecen módulos listos para usar que pueden ser personalizados según las necesidades del usuario.
-3. **Integraciones**: Conectan diversas aplicaciones y servicios mediante APIs y conectores predefinidos.
-4. **Flujos de Trabajo Automatizados**: Definen acciones que se disparan automáticamente en respuesta a ciertos eventos o condiciones.
-
-**Ejemplos de Uso**
-
-- **Pequeñas Empresas**: Creación de sitios web, tiendas en línea y automatización de marketing.
-- **Departamentos de Marketing**: Automatización de campañas de correo electrónico y gestión de *leads*.
-- **Equipos de Recursos Humanos**: Automatización de procesos de contratación y gestión de empleados.
-- 
-
-**Ventajas y Limitaciones**
+### **Ventajas y Limitaciones**
 
 - **Ventajas**:
   
@@ -63,7 +56,7 @@ Algunos aspectos importantes:
   - **Dependencia de la Plataforma**: Posible dependencia de un proveedor específico.
   - **Escalabilidad**: Puede tener limitaciones en proyectos muy grandes o complejos.
 
-**Conclusión**
+## **Conclusión**
 
 El no-code está revolucionando la forma en que las personas y las empresas abordan el desarrollo de *software*, democratizando el acceso a la tecnología y permitiendo la creación rápida y eficiente de soluciones personalizadas. Aunque no reemplaza completamente a la programación tradicional, ofrece una alternativa poderosa para muchas aplicaciones y casos de uso, especialmente cuando se necesita rapidez y simplicidad.
 

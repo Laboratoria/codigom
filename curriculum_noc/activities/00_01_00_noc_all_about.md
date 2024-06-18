@@ -19,8 +19,6 @@ Buscamos acercarte respuestas simples y breves a las preguntas:
 
 5. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan
 
-Tópicos (draft)
-
 1. **Concepto de Backend y Frontend**:
    
    - **Backend**: Parte del software que no es visible para el usuario, donde se maneja la lógica, bases de datos, y operaciones del servidor.
