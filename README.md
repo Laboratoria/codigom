@@ -4,7 +4,7 @@
 
 Bienvenida a la comunidad de aprendizaje para mujeres en la que darás tus primeros pasos para participar de la economía digital. Conoce y desarrolla habilidades de IA, no-code, análisis de datos, desarrollo web y más. Prepárate para un mundo en el que estas habilidades son indispensables y se consideran la nueva "alfabetización".
 
-Crece si miedo en un entorno colaborativo y con sesiones en vivo que se adapta 100% a tu disponibilidad y ritmo.
+Crece sin miedo en un entorno de aprendizaje colaborativo y con sesiones en vivo que se adapta 100% a tu disponibilidad y ritmo.
 
 Aprender y dominar estas habilidades no sólo te permite minimizar el impacto de la desaparición de trabajos tradicionales, sino que también te posiciona para aprovechar nuevas oportunidades en el dinámico mercado laboral actual y del futuro.
 
