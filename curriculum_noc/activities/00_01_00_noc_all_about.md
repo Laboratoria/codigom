@@ -1,4 +1,4 @@
-♦️ Módulo 1: Todo sobre el no-code e IA
+🔷 Módulo 1: Todo sobre el no-code e IA
 
 **Tiempo:** ⏱️ 5min
 

@@ -89,8 +89,7 @@
     * [Entendiendo Internet y la Web](curriculum_noc/activities/00_01_01_internet_web.md)
     * [Qué es no-code](curriculum_noc/activities/00_01_02_noc_que_es.md)
     * [Qué es la IA](curriculum_noc/activities/00_01_03_ai_que_es.md)
-    * [El impacto en la vida cotidiana](curriculum_dev/activities/00_01_03_dev_life.md) 
-    * [Tendencias actuales y futuras](curriculum_dev/activities/00_01_04_dev_trends.md)
+    * [Tendencias actuales y futuras]()
     * [Herramientas y tecnologías básicas del no-code](curriculum_noc/activities/00_01_05_dev_tools.md)
     * [Herramientas y tecnologías básicas de IA](curriculum_noc/activities/00_01_05_dev_tools.md)
   
@@ -101,7 +100,9 @@
 
 * [Habilidad (H): Automatización de flujos de trabajo]()
   
-  * 
+  * [Módulo 1 :]()
+    
+    * ♦️ [Reto 1.1 : XXX]()
 
 * Tópicos
   

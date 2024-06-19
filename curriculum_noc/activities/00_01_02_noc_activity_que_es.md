@@ -88,8 +88,6 @@ Agrega cualquier otro comentario o aspecto que quieras y te parezca relevante.
 
 - AI: ChatGPT, Gemini, Perplexity, Bing, etc.. Recuerda que pueden alucinar y mentirte descaradamente, verifica siempre.
 
-- [¿No code y low Code son tendencias en programaçión? #shorts - YouTube](https://youtu.be/eTdNR2bPKpI?si=sDjP-nl4ricxdi7Z)
-
 - [No-code vs Low-code vs Code... (y por qué tu trabajo está en riesgo) - YouTube](https://youtu.be/_Du-nvEKKRM?si=xJzv_aZa4txaBVQQ)
 
 ## Guía de Autoevaluación
@@ -101,6 +99,6 @@ No habrás cumplido con la actividad si:
 
 ---
 
-> :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1253005244103917679) , 💬 Comenta siguiendo el formato propuesto en el hilo y reacciona con ✅ para marcar tu progreso. 
+> 💬 [Comenta en el hilo de Discord:]() siguiendo el formato propuesto y cualquier otra cosa que quieras agregar.
 
 ---

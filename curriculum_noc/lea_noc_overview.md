@@ -1,8 +1,6 @@
-# No-Code e IA
+# No-Code y AI
 
 **Tiempo:** :stopwatch: 5min
-
-> :headphones: Recuerda que puedes usar la extensión de [Speechify](https://speechify.com/es/extension-de-chrome/) o cualquier otra para escuchar la narración del texto en lugar de leerlo.
 
 Desde hace unos años, el movimiento de no-code está transformando la manera en que se crean y gestionan soluciones digitales de todo tipo y tamaño. El uso de estas herramientas **permite a personas sin conocimientos técnicos profundos desarrollar aplicaciones, automatizar procesos y crear soluciones digitales** usando interfaces visuales y herramientas intuitivas, sin necesidad de escribir código.
 
