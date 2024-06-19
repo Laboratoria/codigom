@@ -88,6 +88,8 @@ Agrega cualquier otro comentario o aspecto que quieras y te parezca relevante.
 
 - AI: ChatGPT, Gemini, Perplexity, Bing, etc.. Recuerda que pueden alucinar y mentirte descaradamente, verifica siempre.
 
+- [¿No code y low Code son tendencias en programaçión? #shorts - YouTube](https://youtu.be/eTdNR2bPKpI?si=sDjP-nl4ricxdi7Z)
+
 - [No-code vs Low-code vs Code... (y por qué tu trabajo está en riesgo) - YouTube](https://youtu.be/_Du-nvEKKRM?si=xJzv_aZa4txaBVQQ)
 
 ## Guía de Autoevaluación
