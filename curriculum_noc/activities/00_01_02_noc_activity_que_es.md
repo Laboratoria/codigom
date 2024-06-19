@@ -101,6 +101,6 @@ No habrás cumplido con la actividad si:
 
 ---
 
-> 💬 [Comenta en el hilo de Discord:]() siguiendo el formato propuesto y cualquier otra cosa que quieras agregar.
+> :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1253005244103917679) , 💬 Comenta siguiendo el formato propuesto en el hilo y reacciona con ✅ para marcar tu progreso. 
 
 ---

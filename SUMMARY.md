@@ -101,9 +101,7 @@
 
 * [Habilidad (H): Automatización de flujos de trabajo]()
   
-  * [Módulo 1 :]()
-    
-    * ♦️ [Reto 1.1 : XXX]()
+  * 
 
 * Tópicos
   
