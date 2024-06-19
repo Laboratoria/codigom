@@ -37,33 +37,33 @@
   
   * [Módulo 1: Todo sobre el desarrollo Web](curriculum_dev/activities/00_01_00_all_about.md)
     
-    * ◆ [Entendiendo Internet y la Web](curriculum_dev/activities/00_01_01_internet_web.md)
-    * ◆ [Qué es el desarrollo web front-end y qué es el back-end](curriculum_dev/activities/00_01_02_web_dev.md)
+    * ♦ [Entendiendo Internet y la Web](curriculum_dev/activities/00_01_01_internet_web.md)
+    * ♦ [Qué es el desarrollo web front-end y qué es el back-end](curriculum_dev/activities/00_01_02_web_dev.md)
     * [El impacto del Desarrollo Web en la vida cotidiana](curriculum_dev/activities/00_01_03_dev_life.md)
     * [Tendencias actuales y futuras en el Desarrollo Web](curriculum_dev/activities/00_01_04_dev_trends.md)
     * [Herramientas y tecnologías básicas del Desarrollo Web](curriculum_dev/activities/00_01_05_dev_tools.md)
   
-  * 🔷[Módulo 2: Aprende haciendo tu primera página](curriculum_dev/activities/00_02_00_practice.md)
+  * 🔷 [Módulo 2: Aprende haciendo tu primera página](curriculum_dev/activities/00_02_00_practice.md)
     
-    * ◆ [Reto: Mi Primera Página HTML](curriculum_dev/activities/00_02_01_myfirst.md)
-    * ◆ [Reflexiona y comenta](curriculum_dev/activities/00_02_02_close.md)
+    * ♦ [Reto: Mi Primera Página HTML](curriculum_dev/activities/00_02_01_myfirst.md)
+    * ♦ [Reflexiona y comenta](curriculum_dev/activities/00_02_02_close.md)
 
 * [Habilidad (H): Maquetación Web, básica](curriculum_dev/activities/01_00_00_overview.md)
   
   * 🔷 [Módulo 1 : Tu primera web con estilos básicos](curriculum_dev/activities/01_01_00_modulo_myFirstWeb.md)
     
-    * ◆ [Reto 1.1 : Mi Primera Página HTML](curriculum_dev/activities/01_01_01_project_myFirstWeb.md)
-    * ◆ [Reto 1.2 : Agregando estilos con CSS](curriculum_dev/activities/01_01_02_project_add_CSS.md)
-    * ◆ [Reto 1.3 : HTML semántico](curriculum_dev/activities/01_01_03_project_semantic_HTML.md)
+    * ♦ [Reto 1.1 : Mi Primera Página HTML](curriculum_dev/activities/01_01_01_project_myFirstWeb.md)
+    * ♦ [Reto 1.2 : Agregando estilos con CSS](curriculum_dev/activities/01_01_02_project_add_CSS.md)
+    * ♦ [Reto 1.3 : HTML semántico](curriculum_dev/activities/01_01_03_project_semantic_HTML.md)
   
   * 🔷 [Módulo 2 : Tu primer formulario web](curriculum_dev/activities/01_02_00_modulo_form.md)
     
-    * ◆ [Reto 2.1 : Creación de un formulario](curriculum_dev/activities/01_02_01_project_formulario.md)
+    * ♦ [Reto 2.1 : Creación de un formulario](curriculum_dev/activities/01_02_01_project_formulario.md)
   
   * 🔷 [Módulo 3 : Diseño web responsivo](curriculum_dev/activities/01_03_00_modulo_responsive.md)
     
-    * ◆ [Reto 3.1 : Diseño Responsivo con Media Queries](curriculum_dev/activities/01_03_01_project_responsive_mediaqueries.md)
-    * ◆ [Reto 3.2 : Diseño responsivo con unidades relativas y flexbox](curriculum_dev/activities/01_03_02_project_responsive_flexbox.md)
+    * ♦ [Reto 3.1 : Diseño Responsivo con Media Queries](curriculum_dev/activities/01_03_01_project_responsive_mediaqueries.md)
+    * ♦ [Reto 3.2 : Diseño responsivo con unidades relativas y flexbox](curriculum_dev/activities/01_03_02_project_responsive_flexbox.md)
 
 * Tópicos
   
@@ -86,10 +86,9 @@
   
   * [Módulo 1: Todo sobre...](curriculum_noc/activities/00_01_00_noc_all_about.md)
     
-    * [Entendiendo Internet y la Web](curriculum_noc/activities/00_01_01_internet_web.md)
-    * [Qué es no-code](curriculum_noc/activities/00_01_02_noc_que_es.md)
-    * [Qué es la IA](curriculum_noc/activities/00_01_03_ai_que_es.md)
-    * [Tendencias actuales y futuras]()
+    * ♦ [Entendiendo Internet y la Web](curriculum_noc/activities/00_01_01_internet_web.md)
+    * ♦ [Qué es no-code](curriculum_noc/activities/00_01_02_noc_activity_que_es.md)
+    * ♦ [Qué es la IA](curriculum_noc/activities/00_01_03_ai_activity_que_es.md)
     * [Herramientas y tecnologías básicas del no-code](curriculum_noc/activities/00_01_05_dev_tools.md)
     * [Herramientas y tecnologías básicas de IA](curriculum_noc/activities/00_01_05_dev_tools.md)
   

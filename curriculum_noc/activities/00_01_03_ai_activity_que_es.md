@@ -84,7 +84,7 @@ No habrás cumplido con la actividad si:
 
 ---
 
-> 💬 [Comenta en el hilo de Discord:](https://discord.com/channels/1209273049304666113/1215445879411052554) sobre 1 o 2 respuestas a las preguntas de investigación que te parecieron particularmente interesantes o novedosas. No tengas miedo de parecer “que no sabes nada”, por algo estás acá ¿verdad?. Además, es hermoso aprender y compartir algo al respecto.
+> :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1253005294485639250) , 💬 Comparte en el hilo ssobre 1 o 2 respuestas a las preguntas de investigación que te parecieron particularmente interesantes o novedosas. No tengas miedo de parecer “que no sabes nada”, por algo estás acá ¿verdad?. Además, es hermoso aprender y compartir algo al respecto. Reacciona con ✅ para marcar tu progreso.
 
 ---
 

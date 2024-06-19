@@ -1,4 +1,4 @@
-# 🔹Qué es el No-Code
+# ♦️ Qué es el No-Code
 
 **Dificultad:** 🌻
 
@@ -88,6 +88,8 @@ Agrega cualquier otro comentario o aspecto que quieras y te parezca relevante.
 
 - AI: ChatGPT, Gemini, Perplexity, Bing, etc.. Recuerda que pueden alucinar y mentirte descaradamente, verifica siempre.
 
+- [No code y low code ¿son tendências em programaçión? #shorts - YouTube](https://youtube.com/shorts/eTdNR2bPKpI?si=xqP3jeCq4bIRyND9)
+
 - [No-code vs Low-code vs Code... (y por qué tu trabajo está en riesgo) - YouTube](https://youtu.be/_Du-nvEKKRM?si=xJzv_aZa4txaBVQQ)
 
 ## Guía de Autoevaluación
@@ -99,6 +101,6 @@ No habrás cumplido con la actividad si:
 
 ---
 
-> 💬 [Comenta en el hilo de Discord:]() siguiendo el formato propuesto y cualquier otra cosa que quieras agregar.
+> :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1253005244103917679) , 💬 Comparte en el hilo siguiendo el formato propuesto y reacciona con ✅ para marcar tu progreso.
 
 ---
