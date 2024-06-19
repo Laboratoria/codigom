@@ -8,7 +8,7 @@
 
 ## Introducción
 
-El **no-code**, en castellano "sin código" es un concepto amplio respecto a un enfoque de desarrollo de *software* y todo tipo de soluciones digitales que permite a personas sin conocimientos técnicos en programación crear aplicaciones y automatizar procesos usando herramientas visuales e interfaces intuitivas. En lugar de escribir código, las personas interactúan con componentes preconstruidos y configuraciones para construir soluciones personalizadas de diversa índole.
+El **no-code**, en castellano "sin código" es un concepto amplio respecto a un enfoque de desarrollo de *software* y todo tipo de soluciones digitales que permite a personas sin conocimientos técnicos en programación crear aplicaciones web, móviles, automatizar procesos usando herramientas visuales e interfaces intuitivas, etc. En lugar de escribir código, las personas interactúan con componentes preconstruidos y configuraciones para construir soluciones personalizadas de diversa índole.
 
 Cabe distinguir del concepto de **low-code** (poco código) que, a diferencia del no-code, que está diseñado para usuarias sin experiencia en programación, el low-code está dirigido a desarrolladoras que tienen conocimientos de programación al menos básicos, y buscan acelerar el proceso de desarrollo. Así, el low-code combina componentes visuales con fragmentos de código personalizado para ofrecer una mayor flexibilidad y control sobre el desarrollo de aplicaciones. Esto permite crear soluciones más complejas y personalizadas que las que típicamente se pueden lograr con no-code.
 
@@ -27,12 +27,7 @@ Gracias a la inmensa proliferación de herramientas "no-code" y AI, hoy es posib
 3. **Velocidad**: Facilita el desarrollo rápido de prototipos y soluciones sin necesidad de  ciclos largos de desarrollo.
 4. **Costo vs. efectividad**: En general, el costo de las herramientas es "bajo" respecto al valor que se puede obtener de las soluciones que permiten implementar.
 
-## **Tipo de herramientas No-code más comunes:**
-
-- **Constructores de Sitios Web**: Plataformas como Framer o Carrd permiten crear y gestionar sitios web de manera visual e interactiva.
-- **Automatización de Flujos de Trabajo**: Herramientas como Zapier y Make conectan distintas aplicaciones y automatizan flujos, tareas y procesos repetitivos.
-- **Desarrollo de Aplicaciones web**: Plataformas como Bubble y Webflow permiten crear aplicaciones web y móviles completas.
-- **Gestión de Datos**: BigQuery, Looker Studio y Airtable combinan funcionalidades de hojas de cálculo con bases de datos y reportería.
+# 
 
 ## **¿Cómo Funciona el No-Code?**
 

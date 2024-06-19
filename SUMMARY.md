@@ -89,8 +89,8 @@
     * ♦ [Entendiendo Internet y la Web](curriculum_noc/activities/00_01_01_internet_web.md)
     * ♦ [Qué es no-code](curriculum_noc/activities/00_01_02_noc_activity_que_es.md)
     * ♦ [Qué es la IA](curriculum_noc/activities/00_01_03_ai_activity_que_es.md)
-    * [Herramientas y tecnologías básicas del no-code](curriculum_noc/activities/00_01_05_dev_tools.md)
-    * [Herramientas y tecnologías básicas de IA](curriculum_noc/activities/00_01_05_dev_tools.md)
+    * [Herramientas y tecnologías básicas del no-code](curriculum_noc/activities/00_01_04_noc_activity_tools.md)
+    * [Herramientas y tecnologías básicas de IA](curriculum_noc/activities/00_01_05_ai_activity_tools.md)
   
   * [Módulo 2: Aprende haciendo tu primera automatización]()
     
