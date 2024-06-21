@@ -1,4 +1,4 @@
-🔷 Módulo 1: Todo sobre el no-code e IA
+# ◆ Módulo 1: Todo sobre no-code e IA
 
 **Tiempo:** ⏱️ 5min
 
@@ -9,12 +9,10 @@
 
 Buscamos acercarte respuestas simples y breves a las preguntas:
 
-1. ¿Qué es exactamente no-code?
+1. ¿Qué es exactamente no-code y qué es IA?
 
 2. ¿Para qué sirve en la vida cotidiana de la gente?
 
-3. ¿Qué hace exactamente alguien que se dedica a esto?
+3. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan?
 
-4. ¿Cuáles son las perspectivas de futuro?
-
-5. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan.
+4. ¿Qué perspectivas y oportunidades existen

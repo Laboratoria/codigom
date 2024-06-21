@@ -1,4 +1,4 @@
-# Herramientas No-code más comunes
+# ♦️ Herramientas IA generativa más comunes
 
 **Dificultad:** 🌻
 
@@ -10,7 +10,7 @@
 
 Hacer un listado o catálogo de herramientas no-code es un poco inútil y, en el mejor de los casos, algo efímero o transitorio. Como ya hemos comentado, la velocidad con la que proliferan estas herramientas es impactante, todos los días aparecen, desaparecen y mutan.
 
-Lo que sí podemos hacer para que comiences a hacerte una idea es hacer una clasificación (arbitraria) de los tipos de herramientas más comunes y algunos ejemplos populares y que en la fecha actual (junio 2024), ofrecen planes gratuitos.
+Lo que sí podemos hacer para que comiences a hacerte una idea es hacer una clasificación (arbitraria) de los tipos de herramientas más comunes con algunos ejemplos populares y que, en la fecha actual (junio 2024), ofrecen planes gratuitos que te permitirán aprender sin tener que pagar.
 
 ## Categorías o tipos
 
@@ -23,13 +23,13 @@ Lo que sí podemos hacer para que comiences a hacerte una idea es hacer una clas
 
 ## Actividad
 
-Elije 2 de las herramientas propuestas, de categorías diferentes:
+Elije 2 de las herramientas propuestas, de 2 categorías diferentes:
 
-1. Investiga brevemente sobre ellas y cómo te podrían servir.
+1. Investiga brevemente sobre cada una de ellas y cómo te podrían servir.
 
 2. Crea una cuenta.
 
-3. Intenta hacer algo a modo de prueba hasta que te topes con la primera dificultad.
+3. Intenta hacer algo a modo de prueba hasta que te topes con **la primera dificultad.**
 
 4. Comparte qué elegiste y con qué dificultad te topaste.
 
@@ -47,6 +47,6 @@ No habrás cumplido con la actividad si:
 
 ---
 
-> :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1253005451042492537) , 💬 Comparte en el hilo qué herramientas elegiste, por qué y con qué dificultad te topaste. Reacciona con ✅ para marcar tu progreso.
+> :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1253005380443701248) , 💬 Comparte en el hilo qué herramientas elegiste, por qué y con qué dificultad te topaste. Reacciona con ✅ para marcar tu progreso.
 
 ---

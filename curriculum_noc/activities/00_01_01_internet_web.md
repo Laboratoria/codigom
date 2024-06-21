@@ -1,4 +1,4 @@
-# 🔹Entendiendo Internet y la Web
+# ♦️ Entendiendo Internet y la Web
 
 **Dificultad:** 🌻
 
@@ -8,15 +8,83 @@
 
 ## Introducción
 
-Antes de comenzar con el desarrollo web propiamente tal, es crucial que tengas una claridad básica de qué es y cómo funciona la Internet y la World Wide Web (WWW), que a menudo, se usan indistintamente, pero son cosas distintas y funciones diferenciadas. 
+Antes de comenzar, es crucial que tengas una claridad básica de qué es y cómo funciona la Internet y la World Wide Web (WWW), que a menudo, se usan indistintamente, pero son cosas distintas y funciones diferenciadas. También cómo y para qué se comunican las máquinas (servidores / bots) para conseguir diferentes propósitos.
+
+## ¿Qué es Internet?
+
+Internet, por otro lado, es la infraestructura global de redes que conecta millones de computadoras y dispositivos en todo el mundo. Es la red física que permite la comunicación y el intercambio de datos entre estos dispositivos. Desde su origen como un proyecto militar, Internet ha evolucionado hasta convertirse en una red global que facilita la comunicación, el acceso a la información y una amplia gama de servicios, desde el correo electrónico hasta el comercio electrónico y las redes sociales.
 
 ## ¿Qué es la World Wide Web?
 
 La World Wide Web (WWW) es una parte de Internet que conocemos y usamos a diario. En castellano significa "Red de alcance mundial". Es un sistema de distribución de documentos de hipertexto o hipermedios interconectados y accesibles a través de Internet mediante un navegador web. Cuando visitas un sitio web, estás utilizando la WWW. Puedes ver páginas web que contienen una variedad de contenido, como texto, imágenes, videos y más, y puedes navegar entre ellas a través de enlaces.
 
+#### Tráfico de Internet: Humanos vs. Máquinas
+
+Aunque solemos pensar en el tráfico de Internet como generado directamente por la actividad de las personas, la realidad es que la mayor parte del tráfico se genera entre servidores y robots, aunque esté gatillado por la actividad humana.
+
+Los servidores se conectan entre sí para intercambiar información. Este intercambio ocurre incluso entre servidores de distintos productos/servicios. Por ejemplo, 
+
+
+
+Estos *bots* realizan diversas tareas, como indexar páginas web para motores de búsqueda, verificar la disponibilidad de servicios y automatizar procesos de negocio.
+
+#### El Backend y el Tráfico de Máquinas
+
+Este tráfico entre máquinas es una parte esencial del backend de Internet. El backend se refiere a todo lo que sucede detrás de escena en un sitio web o aplicación, incluyendo servidores, bases de datos y servicios de integración. Las comunicaciones en el backend permiten que diferentes sistemas se conecten e intercambien información de manera eficiente.
+
+#### La Importancia de las API
+
+### La Importancia de las API
+
+Las API (Interfaz de Programación de Aplicaciones) son esenciales en el mundo de no-code e IA. Una API es un conjunto de reglas que permiten que una aplicación se comunique con otra. En las plataformas no-code, las API permiten integrar diferentes servicios y automatizar tareas complejas sin necesidad de programación. Por ejemplo, herramientas como Zapier utilizan APIs para conectar aplicaciones y automatizar flujos de trabajo, lo que permite a los usuarios crear automatizaciones entre servicios como Google Sheets, Slack, y muchos otros sin escribir código.
+
+### Ejemplo de Uso de APIs en No-Code
+
+Imagina que quieres automatizar el proceso de enviar un mensaje de agradecimiento a nuevos suscriptores de tu newsletter. Con una herramienta no-code como Zapier, puedes crear una "zap" que utilice la API de tu servicio de correo electrónico para detectar nuevos suscriptores y automáticamente enviarles un mensaje de agradecimiento a través de la API de tu plataforma de email marketing.
+
+#### IA en el Desarrollo Web
+
+### IA en el Desarrollo Web
+
+La inteligencia artificial está revolucionando el desarrollo web al proporcionar herramientas que mejoran la eficiencia y personalización. Plataformas como ChatGPT pueden integrarse en sitios web para ofrecer soporte automatizado al cliente, mientras que herramientas de diseño asistido por IA pueden sugerir mejoras en la UX/UI basándose en análisis de datos. Con las soluciones no-code, estas integraciones se vuelven accesibles para cualquier usuario sin conocimientos técnicos avanzados.
+
+---
+
+### Ejemplo de un Curso No-Code con IA
+
+En este curso, aprenderás a utilizar herramientas no-code y API para automatizar tareas cotidianas y mejorar procesos empresariales. Exploraremos cómo integrar IA para crear experiencias más inteligentes y personalizadas.
+
+---
+
+Espero que estos cambios te ayuden a adaptar el contenido de tu curso para enfocarse más en no-code e IA, resaltando la importancia de las API para las automatizaciones. Si necesitas más detalles o ajustes adicionales, ¡házmelo saber!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Introducción
+
+Antes de comenzar, es crucial que tengas una claridad básica de qué es y cómo funciona la Internet y la World Wide Web (WWW), que a menudo, se usan indistintamente, pero son cosas distintas y funciones diferenciadas. 
+
+## 
+
 ## ¿Qué es Internet?
 
-Internet, por otro lado, es la infraestructura global de redes que conecta millones de computadoras y dispositivos en todo el mundo. Es la red física que permite la comunicación y el intercambio de datos entre estos dispositivos. Desde su origen como un proyecto militar, Internet ha evolucionado hasta convertirse en una red global que facilita la comunicación, el acceso a la información y una amplia gama de servicios, desde el correo electrónico hasta el comercio electrónico y las redes sociales.
+
 
 ## Relación con los motores de búsqueda y navegadores
 

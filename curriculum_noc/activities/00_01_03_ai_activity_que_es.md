@@ -1,4 +1,4 @@
-# 🔹Qué es la IA
+# ♦️ Qué es la IA
 
 **Dificultad:** 🌻
 
@@ -73,7 +73,7 @@ Investiga brevemente sobre las siguientes preguntas. **Elije 1 o 2 respuestas qu
 
 - [Curso de IA de Google para principiantes (Resumen en 10 minutos) - YouTube](https://youtu.be/-idMBeCCCzs?si=pyOvwYcDvX9qHV3h)
 
-- [Desde charlas casuales hasta titulares: ¿Qué #@$!% es la IA? - YouTube](https://www.youtube.com/watch?v=-InB0vz_Mec)
+- [Desde charlas casuales hasta titulares: ¿Qué #@$!% es la IA? - YouTube](https://youtu.be/FV6RHP4hwI4?si=BZ39aRsi2ZXIDZRJ)
 
 ## Guía de Autoevaluación
 

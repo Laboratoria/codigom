@@ -8,7 +8,7 @@
 
 ## Introducción
 
-Antes de comenzar con el desarrollo web propiamente tal, es crucial que tengas una claridad básica de qué es y cómo funciona la Internet y la World Wide Web (WWW), que a menudo, se usan indistintamente, pero son cosas distintas y funciones diferenciadas. 
+Antes de comenzar, es crucial que tengas una claridad básica de qué es y cómo funciona la Internet y la World Wide Web (WWW), que a menudo, se usan indistintamente, pero son cosas distintas y funciones diferenciadas. 
 
 ## ¿Qué es la World Wide Web?
 

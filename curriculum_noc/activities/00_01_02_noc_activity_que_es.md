@@ -25,9 +25,7 @@ Gracias a la inmensa proliferación de herramientas "no-code" y AI, hoy es posib
 1. **Democratización**: Permite a cualquier persona, independientemente de su experiencia técnica, crear aplicaciones y automatizaciones.
 2. **Empoderamiento**: Empodera a los equipos no técnicos, como *marketing*, *ventas* y servicios, etc. para resolver problemas específicos sin depender de alguien de "TI".
 3. **Velocidad**: Facilita el desarrollo rápido de prototipos y soluciones sin necesidad de  ciclos largos de desarrollo.
-4. **Costo vs. efectividad**: En general, el costo de las herramientas es "bajo" respecto al valor que se puede obtener de las soluciones que permiten implementar.
-
-# 
+4. **Costo vs. efectividad**: En general, el costo de las herramientas es "bajo" respecto al valor que se puede obtener de las soluciones que permiten implementar. 
 
 ## **¿Cómo Funciona el No-Code?**
 
@@ -65,15 +63,19 @@ Luego busca alguna(s) herramienta(s) no-code que crees que te hubieran ayudado.
 
 ### **Comparte de la siguiente manera:**
 
-En mi
+**En mi** (elije 1)
 
-`[trabajo - emprendimiento - negocio familiar - etc.]`, 
+`[trabajo | emprendimiento | negocio familiar | etc.]`, 
 
-se necesitaba `[automatizar un proceso - crear un website - analizar datos - etc.]` .
+**Se necesitaba** (elije 1)
 
-Hacerlo me hubiera significado `[ahorrar trabajo manual - que me consideren mejor - acceder a más oportunidades - etc.]` 
+`[automatizar un proceso | crear un website | analizar datos | etc.]` .
 
-Por ejemplo:  En mi **trabajo**, se necesitaba **automatizar** el envío de correos con una plantilla cada vez que se agregaba una fila a una hoja de cálculo con datos de un cliente. Hacerlo me hubiera significado **demostrar que soy capaz de hacer mucho más y acceder a alguna posible mejora de mi rol o condiciones de trabajo**.
+**Hacerlo me hubiera significado** (elije 1)
+
+`[ahorrar trabajo manual | que me consideren mejor | acceder a más oportunidades | etc.]` 
+
+Por ejemplo:  En mi **trabajo**, se necesitaba **automatizar** el envío de correos con una plantilla cada vez que se agregaba una fila a una hoja de cálculo con datos de un cliente. Hacerlo me hubiera significado **demostrar que soy capaz de hacer mucho más y acceder a alguna oportunidad de mejora de mi rol o condiciones de trabajo.**
 
 Agrega cualquier otro comentario o aspecto que quieras y te parezca relevante.
 
