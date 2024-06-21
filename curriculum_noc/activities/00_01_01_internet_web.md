@@ -1,4 +1,4 @@
-# ♦️ Entendiendo Internet y la Web
+# &#11045; Entendiendo Internet y la Web
 
 **Dificultad:** 🌻
 
@@ -23,8 +23,6 @@ La World Wide Web (WWW) es una parte de Internet que conocemos y usamos a diario
 Aunque solemos pensar en el tráfico de Internet como generado directamente por la actividad de las personas, la realidad es que la mayor parte del tráfico se genera entre servidores y robots, aunque esté gatillado por la actividad humana.
 
 Los servidores se conectan entre sí para intercambiar información. Este intercambio ocurre incluso entre servidores de distintos productos/servicios. Por ejemplo, 
-
-
 
 Estos *bots* realizan diversas tareas, como indexar páginas web para motores de búsqueda, verificar la disponibilidad de servicios y automatizar procesos de negocio.
 
@@ -58,24 +56,6 @@ En este curso, aprenderás a utilizar herramientas no-code y API para automatiza
 
 Espero que estos cambios te ayuden a adaptar el contenido de tu curso para enfocarse más en no-code e IA, resaltando la importancia de las API para las automatizaciones. Si necesitas más detalles o ajustes adicionales, ¡házmelo saber!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Introducción
 
 Antes de comenzar, es crucial que tengas una claridad básica de qué es y cómo funciona la Internet y la World Wide Web (WWW), que a menudo, se usan indistintamente, pero son cosas distintas y funciones diferenciadas. 
@@ -83,8 +63,6 @@ Antes de comenzar, es crucial que tengas una claridad básica de qué es y cómo
 ## 
 
 ## ¿Qué es Internet?
-
-
 
 ## Relación con los motores de búsqueda y navegadores
 
