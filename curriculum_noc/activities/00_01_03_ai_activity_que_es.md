@@ -14,7 +14,9 @@ Es importante distinguir la IA en general de una subcategoría específica conoc
 
 La actual revolución introducida por los LLMs se explica en parte por su gran capacidad para "interpretar" el lenguaje humano natural y desarrollar un discurso coherente, aunque no necesariamente exacto. Esta capacidad, combinada con otras funcionalidades como el análisis de datos y la generación de código de *software*, abre una puerta a infinitas posibilidades futuras.
 
-## **¿Por qué es importante?**
+Si bien esperamos que puedas aprender sobre varios aspectos de la IA, nos enfocaremos promordialemnte en le IA generativa (generación de texto, imágenes, sonido, etc.)
+
+## **¿Por qué es relevante?**
 
 Desde hace algunos años, la IA está revolucionando muchos aspectos de nuestra vida cotidiana, desde la forma en que trabajamos hasta cómo interactuamos con la tecnología. Su importancia radica en su capacidad para automatizar tareas, analizar grandes volúmenes de datos rápidamente y proporcionar soluciones innovadoras a problemas complejos.
 
@@ -88,6 +90,8 @@ No habrás cumplido con la actividad si:
 
 ---
 
-Extra:
+Opcional si quieres profundizar por tu cuenta::
 
 - [El futuro de la IA: Más allá del hype - Carlos Santana @DotCSV - #DigitalSummitIA - YouTube](https://youtu.be/kzloB10HgeY?si=ia76eNN9WMlhJlgL)
+- [La IA mejora la precisión de los diagnósticos de cáncer de piel en un estudio dirigido por Stanford Medicine](https://med-stanford-edu.translate.goog/news/all-news/2024/04/ai-skin-diagnosis.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=wapp#:~:text=AI%20improves%20accuracy%20of%20skin%20cancer%20diagnoses%20in%20Stanford%20Medicine%2Dled%20study,-share&text=Artificial%20intelligence%20algorithms%20powered%20by,Stanford%20Center%20for%20Digital%20Health.)
+- [Enlace](https://www-gov-uk.translate.goog/government/news/ai-technology-to-help-cut-cancer-waiting-lists?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=wapp#:~:text=Cancer%20waiting%20times%20are%20set,million%20in%20new%20Government%20funding.)

@@ -10,11 +10,11 @@ Al integrar IA generativa con herramientas no-code, se facilita aún más la pos
 
 **Por ejemplo,** hoy es posible usar una herramienta de no-code como Zapier y, gracias a su integración con IA generativa de lenguaje, escribir algo como "Quiero que cada vez que llegue un correo a mi cuenta de GMAIL con el asunto 'factura' y del remitente contabilidad@unaempresa.com , se agregue una fila a una hoja de calculo en Google Sheets....." y obtener una propuesta de integración y flujo sobre la que terminar los detalles, revisar, y comenzar a utilizar.
 
-Esta tendencia es crucial, ya que democratiza la creación de soluciones digitales, permitiendo que más personas puedan participar en satisfacer las inmensas necesidades de digitalización. Al combinar no-code con inteligencia artificial se pueden crear soluciones avanzadas que aprovechan el poder de ambas cosas para tareas como el análisis de datos, la automatización de procesos repetitivos y la creación de experiencias personalizadas.
+Esta tendencia es crucial, ya que democratiza la creación de soluciones digitales, permitiendo que más personas puedan participar en satisfacer las inmensas necesidades de digitalización de la actuaidad. Al combinar no-code con inteligencia artificial se pueden crear soluciones avanzadas que aprovechan el poder de ambas cosas para tareas como el análisis de datos, la automatización de procesos repetitivos y la creación de experiencias personalizadas.
 
 Nuevas herramientas y plataformas emergen constantemente, ofreciendo capacidades cada vez más avanzadas y accesibles. Esto exige a las profesionales mantenerse al día con el **aprendizaje continuo**. Esta naturaleza dinámica no solo mantiene el campo desafiante, sino que también abre numerosas oportunidades para la innovación y el desarrollo profesional.
 
-### **Ejemplos de Uso**
+### **Algunos ejemplos de casos de uso**
 
 - **Pequeñas y Micro Empresas**: Para emprendedoras / negocios familiares. Creación de sitios web, tiendas en línea y automatización de marketing, manejo de inventarios, facturaciones, etc.
 

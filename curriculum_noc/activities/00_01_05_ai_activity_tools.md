@@ -8,16 +8,24 @@
 
 ## Introducción
 
-Hacer un listado o catálogo de herramientas no-code es un poco inútil y, en el mejor de los casos, algo efímero o transitorio. Como ya hemos comentado, la velocidad con la que proliferan estas herramientas es impactante, todos los días aparecen, desaparecen y mutan.
+Si bienla IA generativa ha estado en constante evolución desde hace más de 10 años,  con la popularización de ChatGPT desde finales del 2022, ha habido una "explosión" de herramientas para diversos tipos de uso. Es muy difícil seguir el rastro de todas y cada una de las herramientas y aplicaciones pero vamos a intentar una simple clasificación según su tipo de uso y algunos ejemplos (a junio de 2024).
 
-Lo que sí podemos hacer para que comiences a hacerte una idea es hacer una clasificación (arbitraria) de los tipos de herramientas más comunes con algunos ejemplos populares y que, en la fecha actual (junio 2024), ofrecen planes gratuitos que te permitirán aprender sin tener que pagar.
+| Tipo de IA Generativa                     | Herramientas/Productos                                                              | Plan de prueba y/o Gratuito |
+| ----------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------- |
+| **Generación de Imágenes**                | Midjourney, DALL-E, Stable Diffusion                                                | Sí                          |
+| **Generación de Texto**                   | OpenAI ChatGPT, Google Gemini, Perplexity                                           | Sí                          |
+| **Generación de Audio**                   | Jukedeck (parte de ByteDance), Aiva (Artificial Intelligence Virtual Artist), Boomy | Sí                          |
+| **Generación de Video**                   | Synthesia, Pictory, Lumen5                                                          | Sí                          |
+| **Generación de Código**                  | GitHub Copilot, Tabnine, Replit Ghostwriter                                         | Sí                          |
+| **Generación de Modelos 3D**              | NVIDIA GauGAN, Point-E (OpenAI), Sculptris                                          | No                          |
+| **Generación de Arte**                    | Artbreeder, DeepArt, RunwayML                                                       | Sí                          |
+| **Generación de Texto a Voz (TTS)**       | Google Text-to-Speech, Amazon Polly, Murf AI                                        | Sí                          |
+| **Generación de Música**                  | Amper Music, OpenAI MuseNet, Endlesss                                               | Sí                          |
+| **Generación de Realidad Aumentada (AR)** | Adobe Aero, ZapWorks, Blippar                                                       | Sí                          |
 
-## Categorías o tipos
 
-- **Constructores de Sitios Web**: Plataformas como Framer o Carrd permiten crear y gestionar sitios web de manera visual e interactiva.
-- **Automatización de Flujos de Trabajo**: Herramientas como Zapier y Make conectan distintas aplicaciones y automatizan flujos, tareas y procesos repetitivos.
-- **Desarrollo de Aplicaciones web**: Plataformas como Bubble y Webflow permiten crear aplicaciones web y móviles completas.
-- **Gestión de Datos**: BigQuery, Looker Studio y Airtable combinan funcionalidades de hojas de cálculo con bases de datos y reportería.
+
+
 
 ---
 
