@@ -56,11 +56,13 @@ Lo que aprenderás:
 
 Buscamos responder de manera simple y breve a las preguntas:
 
-1. ¿Qué es exactamente no-code y AI?
-2. ¿Para qué sirven en la vida cotidiana de las personas?
-3. ¿Qué puede hacer alguien que se dedica o trabaja con estas tecnologías?
-4. ¿Cuáles son las perspectivas de futuro?
-5. ¿Cuáles son las herramientas y plataformas clave que se utilizan?
+1. ¿Qué es exactamente no-code y qué es IA?
+
+2. ¿Para qué sirve en la vida cotidiana de la gente?
+
+3. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan?
+
+4. ¿Qué perspectivas y oportunidades existen
 
 **Módulo 2**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión + trabajo en un reto práctico.
 
