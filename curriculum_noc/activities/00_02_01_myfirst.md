@@ -65,6 +65,6 @@ No te olvides de que estar aturdida y confundida es parte natural del proceso de
 
 > - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
 > 
-> - :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1215721936777257060) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
+> - :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1253057799961968671) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
 
 ---
