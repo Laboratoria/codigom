@@ -98,16 +98,14 @@
     * [Herramientas y tecnologías básicas del no-code](curriculum_noc/activities/00_01_04_noc_activity_tools.md)
     * [Herramientas y tecnologías básicas de IA](curriculum_noc/activities/00_01_05_ai_activity_tools.md)
   
-  * [Módulo 2: Aprende haciendo tu primera automatización]()
+  * [Módulo 2: Aprende haciendo tu primera automatización](curriculum_noc/activities/00_02_00_practice.md)
     
-    * [Reto : Mi Primera automatización]()
-    * [Reflexiona y comenta]()
+    * [Reto : Mi Primera automatización](curriculum_noc/activities/00_02_01_myfirst.md)
+    * [Reflexiona y comenta](curriculum_noc/activities/00_02_02_close.md)
 
 * [Habilidad (H): Automatización de flujos de trabajo]()
   
-  * [Módulo 1 :]()
-    
-    * [Reto 1.1 : XXX]()
+  * 
 
 * Tópicos
   
