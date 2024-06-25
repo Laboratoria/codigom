@@ -14,9 +14,9 @@ Esta tendencia es crucial, ya que democratiza la creación de soluciones digital
 
 Nuevas herramientas y plataformas emergen constantemente, ofreciendo capacidades cada vez más avanzadas y accesibles. Esto exige a las profesionales mantenerse al día con el **aprendizaje continuo**. Esta naturaleza dinámica no solo mantiene el campo desafiante, sino que también abre numerosas oportunidades para la innovación y el desarrollo profesional.
 
-### **Algunos ejemplos de casos de uso**
+### **Unos cuantos ejemplos de casos de uso**
 
-- **Pequeñas y Micro Empresas**: Para emprendedoras / negocios familiares. Creación de sitios web, tiendas en línea y automatización de marketing, manejo de inventarios, facturaciones, etc.
+- **Pequeñas y Micro Empresas**: Para emprendedoras / negocios familiares. Creación de sitios web, tiendas en línea, automatización de marketing, manejo de inventarios, facturaciones, etc.
 
 - **Productividad General**: Para oficinistas / trabajo administrativo. Automatización de procesos, comunicaciones, facturación, etc.
 
@@ -26,7 +26,7 @@ Nuevas herramientas y plataformas emergen constantemente, ofreciendo capacidades
 
 - **Enseñanza**: Organización de datos, generación de material educativo personalizado, asistencia en la redacción de ensayos y trabajos académicos, etc.
 
-- **Atención al cliente**: Los chatbots avanzados utilizan LLMs para interactuar con los clientes, responder preguntas frecuentes y resolver problemas comunes de manera rápida y eficiente.
+- **Atención al cliente**: Los chatbots avanzados utilizan LLMs para interactuar con los clientes, responder preguntas frecuentes y resolver problemas comunes de manera rápida y eficiente. Encuestas de satisfacción, etc.
 
 - **Leyes**: Firmas digitales, etc.
 
@@ -80,11 +80,11 @@ Lo que aprenderás:
 </details>
 
 <details>
-<summary>🔵 Habilidad (H): Creación de Aplicaciones No-Code</summary>
+<summary>🔵 Habilidad (H): Prompting básico</summary>
 
 Lo que aprenderás:
 
-1. Desarrollar aplicaciones utilizando plataformas no-code: Creación de aplicaciones funcionales sin escribir una sola línea de código.
+Los fundamentos del prompting, la técnica de formular y ajustar solicitudes a modelos de IA generativa para obtener resultados deseados. Desarrollarás la habilidad de crear prompts efectivos que maximicen la precisión y relevancia de los resultados.
 
 </details>
 
@@ -99,9 +99,10 @@ Lo que aprenderás:
 
 </details>
 
-A partir de acá, te te proponemos algunos casos de necesidades frecuentes
+A partir de acá, te te propondremos algunos casos de necesidades frecuentes
 ¡Identifica el(los) que más se acerca(n) a tus necesidades y comienza a aprender!
 
+<!---
 <table data-view="cards">
   <thead>
     <tr>
@@ -175,7 +176,7 @@ A partir de acá, te te proponemos algunos casos de necesidades frecuentes
     </tr>
     <tr>
       <td>
-        Automatización de RR.SS.
+        Automatización de posts de RR.SS.
       </td>
       <td>
         Card4, ln2
@@ -191,3 +192,4 @@ A partir de acá, te te proponemos algunos casos de necesidades frecuentes
     </tr>
   </tbody>
 </table>
+-->
