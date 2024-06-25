@@ -27,18 +27,16 @@ Desde hace algunos años, la IA está revolucionando muchos aspectos de nuestra 
 - **Automatización avanzada**: Permiten la automatización de tareas complejas que antes requerían intervención humana, como la generación de informes detallados o la escritura de código de software.
 - **Análisis y síntesis de información**: Capaces de analizar grandes cantidades de texto y generar resúmenes coherentes y relevantes, mejorando la toma de decisiones en negocios y otros campos.
 
-## **Ventajas y Limitaciones**
-
-### **Ventajas:**
+## **Ventajas:**
 
 - **Automatización de la creatividad**: Capaces de generar contenido creativo y técnico con poca intervención humana.
 - **Rapidez y eficiencia**: Producen resultados en un tiempo mucho menor comparado con el esfuerzo humano.
 - **Accesibilidad**: Permiten a individuos y pequeñas empresas acceder a tecnologías avanzadas sin necesidad de grandes inversiones.
 - **Adaptabilidad**: Pueden ser entrenadas y ajustadas para tareas específicas, mejorando su precisión y relevancia.
 
-### **Limitaciones:**
+## **Limitaciones:**
 
-- **Falta de comprensión profunda**: Aunque pueden generar texto coherente, no tienen una verdadera comprensión del contexto y el significado como los humanos.
+- **Falta de comprensión profunda**: Aunque pueden generar texto coherente, no  siempre tienen una verdadera comprensión del contexto y el significado como los humanos.
 - **Dependencia de datos**: Su efectividad depende de la calidad y cantidad de datos disponibles. Datos sesgados pueden producir resultados sesgados.
 - **Precisión y exactitud**: A veces, los LLMs pueden generar información incorrecta o engañosa debido a la falta de precisión en sus respuestas.
 - **Privacidad y seguridad**: El manejo de datos sensibles requiere medidas estrictas de seguridad para evitar brechas de privacidad y uso indebido de la información.

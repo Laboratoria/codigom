@@ -98,6 +98,12 @@ Lo que aprenderás:
 2. Crear experiencias personalizadas: Utilizar AI para analizar datos de usuarios y personalizar la experiencia de las usuarias.
 
 </details>
+<summary>🔵 Habilidad (H): LLMs open source locales</summary>
+</details>
+
+</details>
+<summary>🔵 Habilidad (H): Agentes IA</summary>
+</details>
 
 A partir de acá, te te propondremos algunos casos de necesidades frecuentes
 ¡Identifica el(los) que más se acerca(n) a tus necesidades y comienza a aprender!

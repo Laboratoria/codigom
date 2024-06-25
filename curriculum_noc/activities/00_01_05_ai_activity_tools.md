@@ -4,38 +4,39 @@
 
 **Aprendizaje:** 🍯
 
-**Tiempo:** ⏱⏱ 1h
+**Tiempo:** ⏱⏱⏱ 2h
 
 ## Introducción
 
-Si bienla IA generativa ha estado en constante evolución desde hace más de 10 años,  con la popularización de ChatGPT desde finales del 2022, ha habido una "explosión" de herramientas para diversos tipos de uso. Es muy difícil seguir el rastro de todas y cada una de las herramientas y aplicaciones pero vamos a intentar una simple clasificación según su tipo de uso y algunos ejemplos (a junio de 2024).
+Si bienla IA generativa ha estado en constante evolución desde hace más de 10 años,  con la popularización de ChatGPT desde finales del 2022, ha habido una "explosión" de herramientas para diversos tipos de uso. Es muy difícil seguir el rastro de todas y cada una de las herramientas y aplicaciones pero podemos intentar una simple clasificación según su tipo de uso (a junio de 2024).
 
-| Tipo de IA Generativa                     | Herramientas/Productos                                                              | Plan de prueba y/o Gratuito |
-| ----------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------- |
-| **Generación de Imágenes**                | Midjourney, DALL-E, Stable Diffusion                                                | Sí                          |
-| **Generación de Texto**                   | OpenAI ChatGPT, Google Gemini, Perplexity                                           | Sí                          |
-| **Generación de Audio**                   | Jukedeck (parte de ByteDance), Aiva (Artificial Intelligence Virtual Artist), Boomy | Sí                          |
-| **Generación de Video**                   | Synthesia, Pictory, Lumen5                                                          | Sí                          |
-| **Generación de Código**                  | GitHub Copilot, Tabnine, Replit Ghostwriter                                         | Sí                          |
-| **Generación de Modelos 3D**              | NVIDIA GauGAN, Point-E (OpenAI), Sculptris                                          | No                          |
-| **Generación de Arte**                    | Artbreeder, DeepArt, RunwayML                                                       | Sí                          |
-| **Generación de Texto a Voz (TTS)**       | Google Text-to-Speech, Amazon Polly, Murf AI                                        | Sí                          |
-| **Generación de Música**                  | Amper Music, OpenAI MuseNet, Endlesss                                               | Sí                          |
-| **Generación de Realidad Aumentada (AR)** | Adobe Aero, ZapWorks, Blippar                                                       | Sí                          |
+- Texto (ChatGPT, Gemini, Perplexity, etc.
+
+- Imágenes (DallE, MidJourney, etc.).
+
+- Texto a voz natural (ElevenLabs, etc.)
+
+- Código (GH Copilot, Cursor, etc.)
+
+- Etc!!!!
 
 ---
 
 ## Actividad
 
-Elije 2 de las herramientas propuestas, de 2 categorías diferentes:
+Mira el video de [20 Herramientas de IA que no puedes IGNORAR - YouTube](https://www.youtube.com/watch?v=YRrThW5absA&t=13s).
 
-1. Investiga brevemente sobre cada una de ellas y cómo te podrían servir.
+Elije 2 de las herramientas mostradas, de 2 categorías que jamás hayas usado. 
+
+Por ejemplo: "Solamente he usado IA de texto como ChatGPT o Gemini entonces voy a probar 1 de generación de imágenes y una de audio"
+
+1. Investiga brevemente.
 
 2. Crea una cuenta.
 
-3. Intenta hacer algo a modo de prueba hasta que te topes con **la primera dificultad.**
+3. Dedica 30 minutos para hacer algo con cada una de ellas. Explora tu curiosidad y creatividad.
 
-4. Comparte qué elegiste y con qué dificultad te topaste.
+4. Comparte tus resultados y comenta lo que más te sorprendió.
 
 ## Insumos adicionales para tu aprendizaje:
 
