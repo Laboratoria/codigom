@@ -1,4 +1,4 @@
-# ♦️ Herramientas No-code más comunes
+# ◾Herramientas No-code más comunes
 
 **Dificultad:** 🌻
 
@@ -10,7 +10,7 @@
 
 Hacer un listado o catálogo de herramientas no-code es un poco inútil y, en el mejor de los casos, algo efímero o transitorio. Como ya hemos comentado, la velocidad con la que proliferan estas herramientas es impactante, todos los días aparecen, desaparecen y mutan.
 
-Lo que sí podemos facilitarte para que comiences a hacerte una idea general, es proponer una clasificación (arbitraria) de los tipos de herramientas más comunes con algunos ejemplos populares y que, en la fecha actual (junio 2024), ofrecen planes gratuitos que te permitirán aprender sin tener que pagar.
+Lo que sí podemos hacer para que comiences a hacerte una idea general, es proponerte una clasificación (arbitraria) de los tipos de herramientas más comunes con algunos ejemplos populares y que, a junio de 2024, ofrecen planes gratuitos que te permitirán probar y aprender sin tener que pagar.
 
 ## Categorías o tipos
 
@@ -31,7 +31,7 @@ Elije 2 de las herramientas propuestas, de 2 categorías diferentes:
 
 3. Intenta hacer algo a modo de prueba hasta que te topes con **la primera dificultad.**
 
-4. Comparte qué elegiste, por qué y con qué dificultad te topaste.
+4. Comparte cuáles elegiste, por qué y con qué dificultad te topaste.
 
 ## Insumos adicionales para tu aprendizaje:
 

@@ -1,4 +1,4 @@
-# &#9670; Módulo 1: Todo sobre no-code e IA
+# ◼️Módulo 1: Todo sobre no-code e IA
 
 **Tiempo:** ⏱️ 5min
 

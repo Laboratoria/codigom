@@ -1,4 +1,4 @@
-# ♦️ Qué es la IA
+# ◾Qué es la IA
 
 **Dificultad:** 🌻
 

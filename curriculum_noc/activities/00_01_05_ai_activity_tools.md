@@ -1,4 +1,4 @@
-# ♦️ Herramientas IA generativa más comunes
+# ◾ Herramientas IA generativa más comunes
 
 **Dificultad:** 🌻
 
@@ -22,10 +22,6 @@ Si bienla IA generativa ha estado en constante evolución desde hace más de 10 
 | **Generación de Texto a Voz (TTS)**       | Google Text-to-Speech, Amazon Polly, Murf AI                                        | Sí                          |
 | **Generación de Música**                  | Amper Music, OpenAI MuseNet, Endlesss                                               | Sí                          |
 | **Generación de Realidad Aumentada (AR)** | Adobe Aero, ZapWorks, Blippar                                                       | Sí                          |
-
-
-
-
 
 ---
 

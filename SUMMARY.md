@@ -64,11 +64,12 @@
     
     * [Reto : Diseño Responsivo con Media Queries](curriculum_dev/activities/01_03_01_project_responsive_mediaqueries.md)
     * [Reto : Diseño responsivo con unidades relativas y flexbox](curriculum_dev/activities/01_03_02_project_responsive_flexbox.md)
-   
+  
   * [Módulo 4 : Practica replicando sitios reales](curriculum_dev/activities/01_04_00_modulo_replications.md)
-    * [Reto 4.1 : Replicación de diseño web básico](curriculum_dev/activities/01_04_01_project_replications_basic.md)
-    * [Reto 4.2 : Replicación de login de Netflix](curriculum_dev/activities/01_04_02_project_replications_netflix.md)
-    * [Reto 4.3 : Replicación de Mensajería de Slack](curriculum_dev/activities/01_04_03_project_replications_slack.md)
+    
+    * [Reto : Replicación de diseño web básico](curriculum_dev/activities/01_04_01_project_replications_basic.md)
+    * [Reto : Replicación de login de Netflix](curriculum_dev/activities/01_04_02_project_replications_netflix.md)
+    * [Reto : Replicación de Mensajería de Slack](curriculum_dev/activities/01_04_03_project_replications_slack.md)
 
 * Tópicos
   
