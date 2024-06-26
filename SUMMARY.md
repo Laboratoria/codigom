@@ -29,7 +29,7 @@
 
 * Finanzas personales (en prep...)
 
-## 🔵 Desarrollo Web
+## 💙 Desarrollo Web
 
 * [Inicio y ruta de aprendizaje](curriculum_dev/lea_dev_overview.md)
 
@@ -84,7 +84,7 @@
   * [CSS, media queries](curriculum_dev/topics/css_media_queries.md)
   * [CSS, flexbox](curriculum_dev/topics/css_flexbox.md)
 
-## 🟢 No-code e IA
+## 💚	No-code e IA
 
 * [Inicio y ruta de aprendizaje](curriculum_noc/lea_noc_overview.md)
 
