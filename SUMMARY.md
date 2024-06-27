@@ -84,7 +84,7 @@
   * [CSS, media queries](curriculum_dev/topics/css_media_queries.md)
   * [CSS, flexbox](curriculum_dev/topics/css_flexbox.md)
 
-## 💚	No-code e IA
+## 💚 No-code e IA
 
 * [Inicio y ruta de aprendizaje](curriculum_noc/lea_noc_overview.md)
 
@@ -104,8 +104,6 @@
     * [Reflexiona y comenta](curriculum_noc/activities/00_02_02_close.md)
 
 * [Habilidad (H): Automatización de flujos de trabajo]()
-  
-  * 
 
 * Tópicos
   
@@ -118,3 +116,42 @@
   * LLMs
   * Prompting
   * Ética
+
+## 🧡 Análisis de datos
+
+* [Inicio y ruta de aprendizaje](curriculum_dat/lea_dat_overview.md)
+
+* Bloque Introductorio
+  
+  * [Módulo 1 : Todo sobre...](curriculum_dat/activities/00_01_00_dat_all_about.md)
+    
+    * [Actividad : Entendiendo Internet y la Web](curriculum_dat/activities/00_01_01_internet_web.md)
+    * [Actividad : Qué es no-code](curriculum_dat/activities/00_01_02_dat_activity_que_es.md)
+    * [Actividad : Qué es la IA](curriculum_dat/activities/00_01_03_ai_activity_que_es.md)
+    * [Herramientas y tecnologías básicas del no-code](curriculum_dat/activities/00_01_04_dat_activity_tools.md)
+    * [Herramientas y tecnologías básicas de IA](curriculum_dat/activities/00_01_05_ai_activity_tools.md)
+  
+  * [Módulo 2: Aprende haciendo](curriculum_dat/activities/00_02_00_practice.md)
+    
+    * [Reto : Mi Primera automatización](curriculum_dat/activities/00_02_01_myfirst.md)
+    * [Reflexiona y comenta](curriculum_dat/activities/00_02_02_close.md)
+
+* [Habilidad (H): Análisis exploratorio]()
+  
+  * [Módulo 1 : Variables categóricas]()
+    
+    * [Reto : Agrupar datos]()
+    * [Reto : Visualizar variables]()
+  
+  * [Módulo 2 : Medidas de tendencia central y distribución]()
+    
+    * [Reto : Aplicar medidas de tendencia central]()
+    * [Reto : Visualizar la distribución]()
+  
+  * [Módulo 3 : Análisis de comportamiento en el tiempo]()
+
+* [Habilidad (H): Técnicas de análisis 1]()
+
+* Tópicos
+  
+  * [Variables categóricas]()
