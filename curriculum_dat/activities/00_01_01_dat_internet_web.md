@@ -1,69 +1,45 @@
-# ◾Entendiendo Internet y la Web
+# ◾Importancia y Aplicaciones del Análisis de Datos
 
 **Dificultad:** 🌻
 
 **Aprendizaje:** 🍯
 
-**Tiempo:** ⏱ 30min
+**Tiempo:** ⏱ 30min 
 
 ## Introducción
 
-Antes de comenzar, es crucial que tengas una claridad básica de qué es y cómo funciona la Internet y la World Wide Web (WWW), que a menudo, se usan indistintamente, pero son cosas distintas y funciones diferenciadas. También cómo y para qué se comunican las máquinas (servidores / bots) para conseguir diferentes propósitos.
+El análisis de datos es crucial en diversos campos y situaciones cotidianas. No sólo se limita a profesionales del mismo, sino que es una herramienta valiosa para emprendedoras, administrativas, *marketers*, recursos humanos, y más. Aquí algunos ejemplos adicionales de su aplicación:
 
-## ¿Qué es Internet?
+1. **Deportes**: Análisis de rendimiento de jugadores, predicción de lesiones, estrategias de juego basadas en datos históricos.
+2. **Transporte y Logística**: Optimización de rutas, análisis de tiempos de entrega, predicción de demanda de transporte.
+3. **Energía y Medio Ambiente**: Monitoreo de consumo energético, predicción de picos de demanda, análisis de impacto ambiental.
+4. **Agricultura**: Predicción de cosechas, análisis de suelos, optimización del uso de recursos como agua y fertilizantes.
+5. **Seguridad Pública**: Análisis de patrones de crimen, predicción de incidentes, planificación de recursos policiales.
+6. **Entretenimiento y Medios**: Análisis de audiencias, personalización de contenido, predicción de tendencias en consumo de medios.
 
-Internetes la infraestructura global de redes que conecta millones de computadoras y dispositivos en todo el mundo. Es la red física que permite la comunicación y el intercambio de datos entre estos dispositivos. Desde su origen como un proyecto militar, Internet ha evolucionado hasta convertirse en una red global que facilita la comunicación, el acceso a la información y una amplia gama de servicios, desde el correo electrónico hasta el comercio electrónico y las redes sociales.
+### Tendencias en el Análisis de Datos
 
-## ¿Qué es la World Wide Web?
+El campo del análisis de datos está en constante evolución, impulsado por varias tendencias clave:
 
-La World Wide Web (WWW), por otro lado, es una parte de Internet que conocemos y usamos a diario. En castellano significa "Red de alcance mundial". Es un sistema de distribución de documentos de hipertexto o hipermedios interconectados y accesibles a través de Internet mediante un navegador web. Cuando visitas un sitio web, estás utilizando la WWW. Puedes ver páginas web que contienen una variedad de contenido, como texto, imágenes, videos y más, y puedes navegar entre ellas a través de enlaces.
+1. **Big Data**: El manejo y análisis de enormes volúmenes de datos provenientes de diversas fuentes como redes sociales, sensores IoT, y transacciones digitales.
+2. **Machine Learning**: La creación de modelos que pueden aprender y hacer predicciones o tomar decisiones basadas en datos.
+3. **Inteligencia Artificial**: Aplicaciones que usan algoritmos avanzados para automatizar procesos y mejorar la toma de decisiones.
+4. **Data Visualization**: Herramientas y técnicas para presentar datos de manera visual, facilitando la comprensión y toma de decisiones.
+5. **Real-time Data Analysis**: Análisis de datos en tiempo real para respuestas y decisiones inmediatas.
+6. **Data Privacy**: Enfoque creciente en la seguridad y privacidad de los datos, especialmente con regulaciones como GDPR.
 
-## Relación con los motores de búsqueda y navegadores
+## Preguntas Gatilladoras
 
-Los navegadores web son aplicaciones que utilizamos en diferentes dispositivos (PCs, teléfonos, TVs, etc.) para acceder a la WWW a través de Internet. Ejemplos populares incluyen Google Chrome, Mozilla Firefox y Safari. Utilizamos los motores de búsqueda, como Google, Bing o Yahoo, para encontrar información en la WWW. Estos motores cumplen la función de indexar páginas web disponibles en Internet, permitiéndonos buscar y acceder a ellas fácilmente.
-
-## Tráfico de Internet: Humanos vs. máquinas
-
-Aunque solemos pensar en el tráfico de Internet como generado principalmente por personas utilizando sitios web o aplicaciones  para comunicarse, consumir o compartir contenido, etc. No obstante, la realidad es que la mayor parte del tráfico se genera **entre servidores y robots**, aunque esté gatillado por la actividad humana.
-
-Los servidores se conectan entre sí para intercambiar información. Este intercambio ocurre incluso entre servidores de distintos productos/servicios. Por ejemplo:
-
-### Ejemplo 1: Integración de servicios de pago
-
-Un sitio de comercio electrónico necesita procesar pagos de manera segura.
-
-**Comunicación entre Servidores:**
-
-1. **Cliente hace un pago:** Compra y proporciona los detalles de pago.
-2. **Servidor del comercio electrónico:** Envía una solicitud al servidor del proveedor de servicios de pago (por ejemplo, Stripe o PayPal) con la información del pago.
-3. **Servidor del Proveedor de Pago:** Recibe la solicitud, procesa el pago y devuelve una respuesta al servidor del sitio de comercio electrónico, indicando si el pago fue exitoso o no.
-4. **Confirmación de Pago:** El servidor del sitio de comercio electrónico recibe la respuesta y actualiza el estado del pedido del cliente en su base de datos.
-
-### Ejemplo 2: Autenticación de usuarios
-
-Cada vez que usas "Iniciar sesión con mi cuenta de Google" en algún sitio web que usa la autenticación de G.
-
-**Comunicación entre Servidores:**
-
-1. **Usuario inicia sesión con Google:** El usuario selecciona la opción de "Iniciar sesión con Google" en la aplicación web.
-2. **Autenticación con Google:** La aplicación web redirige a la usuaria a la página de autenticación de Google, ahí ingresa sus credenciales (correo electrónico y contraseña). se solicita a la usuaria que autorice a la aplicación web para acceder a la información de su cuenta de Google.
-3. **Google envía un código de autorización:** Una vez que la usuaria autoriza la aplicación, Google la redirige de vuelta a la aplicación web con un código de autorización.
-4. **Servidor de la Aplicación Web:** El servidor de la aplicación web recibe el código de autorización y envía una solicitud al servidor de Google para intercambiar ese código por un *token* de acceso.
-5. **Servidor de Google:** El servidor de Google verifica el código de autorización y, si es válido, devuelve un *token* de acceso y un *token* de actualización al servidor de la aplicación web.
-6. **Acceso a Recursos Protegidos:** El servidor de la aplicación web utiliza el *token* de acceso para autenticar a la usuaria y permitirle acceder a los recursos protegidos en la aplicación. Además, puede usar el *token* de actualización para obtener un nuevo *token* de acceso cuando el actual expire.
-7. **Confirmación de Autenticación:** El servidor de la aplicación web puede almacenar el *token* de acceso y el *token* de actualización en su base de datos para gestionar futuras solicitudes de acceso del usuario.
-
-Como ves en estos dos simples ejemplos, hay todo un "mundo paralelo" de comunicaciones e intercambio de datos entre servidores, es ese el tipo de tráfico que es mayoritario en Internet.
-
-El concepto de ***backend*** se refiere, precisamente, a la parte de una aplicación web o sitio web que no es visible para la usuaria final, pero que es esencial para su funcionamiento.
-
-## La importancia de las API
-
-Una API (Interfaz de Programación de Aplicaciones) es un conjunto de definiciones y protocolos que permiten que una aplicación se comunique con otra de manera predefinida, limitada y segura. 
-
-Una posible metáfora (muy simple) para explicar una API sería un restaurante. El mesero (API) toma los pedidos de los clientes (solicitudes), los lleva a la cocina (backend) y trae la comida (respuesta) de vuelta a los clientes. Eso es muy diferente a lo caótico e inseguro que sería que cada cliente entre a la cocina a decir lo que quiere, etc. etc. Cada aplicación o sitio decide qué datos quiere intercambiar, en qué lenguajes de programación, bajo qué reglas, etc.
-
-Muchas plataformas de no-code, gracias al uso de las API, permiten a sus usuarias integrar diferentes servicios y automatizar tareas complejas sin necesidad de programación. Por ejemplo, herramientas como Zapier utilizan APIs para conectar aplicaciones y automatizar flujos de trabajo.
+1. ¿Cómo ha transformado la digitalización el rol del análisis de datos en las empresas?
+2. ¿Qué diferencias hay entre un analista de datos y un científico de datos?
+3. ¿Cómo puede un pequeño negocio utilizar el análisis de datos para mejorar sus operaciones diarias?
+4. ¿Qué ventajas ofrece la analítica avanzada frente a los métodos tradicionales de análisis?
+5. ¿Cómo influye el análisis de datos en la toma de decisiones estratégicas dentro de una empresa?
+6. ¿Qué herramientas de visualización de datos son más efectivas y por qué?
+7. ¿Cómo se puede aplicar el análisis de datos en el ámbito de la educación para mejorar el rendimiento estudiantil?
+8. ¿Cuáles son los desafíos más comunes que enfrentan los analistas de datos al trabajar con Big Data?
+9. ¿De qué manera el análisis de datos puede contribuir a la sostenibilidad y eficiencia energética?
+10. ¿Qué consideraciones éticas deben tenerse en cuenta al recopilar y analizar datos personales?
 
 ---
 

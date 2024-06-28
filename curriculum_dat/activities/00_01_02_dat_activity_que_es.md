@@ -1,81 +1,52 @@
-# ◾Qué es el No-Code
+# ◾Importancia y Aplicaciones del Análisis de Datos
 
 **Dificultad:** 🌻
 
 **Aprendizaje:** 🍯
 
-**Tiempo:** ⏱ 45min
+**Tiempo:** ⏱ 30min
 
 ## Introducción
 
-El **no-code**, en castellano "sin código" es un concepto amplio respecto a un enfoque de desarrollo de *software* y todo tipo de soluciones digitales que permite a personas sin conocimientos técnicos en programación crear aplicaciones web, móviles, automatizar procesos usando herramientas visuales e interfaces intuitivas, etc. En lugar de escribir código, las personas interactúan con componentes preconstruidos y configuraciones para construir soluciones personalizadas de diversa índole.
+El análisis de datos es crucial en diversos campos y situaciones cotidianas. No sólo se limita a profesionales del mismo, sino que es una herramienta valiosa para emprendedoras, administrativas, *marketers*, recursos humanos, y más. Aquí algunos ejemplos adicionales de su aplicación:
 
-Cabe distinguir del concepto de **low-code** (poco código) que, a diferencia del no-code, que está diseñado para usuarias sin experiencia en programación, el low-code está dirigido a desarrolladoras que tienen conocimientos de programación al menos básicos, y buscan acelerar el proceso de desarrollo. Así, el low-code combina componentes visuales con fragmentos de código personalizado para ofrecer una mayor flexibilidad y control sobre el desarrollo de aplicaciones. Esto permite crear soluciones más complejas y personalizadas que las que típicamente se pueden lograr con no-code.
+1. **Deportes**: Análisis de rendimiento de jugadores, predicción de lesiones, estrategias de juego basadas en datos históricos.
+2. **Transporte y Logística**: Optimización de rutas, análisis de tiempos de entrega, predicción de demanda de transporte.
+3. **Energía y Medio Ambiente**: Monitoreo de consumo energético, predicción de picos de demanda, análisis de impacto ambiental.
+4. **Agricultura**: Predicción de cosechas, análisis de suelos, optimización del uso de recursos como agua y fertilizantes.
+5. **Seguridad Pública**: Análisis de patrones de crimen, predicción de incidentes, planificación de recursos policiales.
+6. **Entretenimiento y Medios**: Análisis de audiencias, personalización de contenido, predicción de tendencias en consumo de medios.
 
-![](../../assets/NOC/no-code-industry-map.png)
+### Tendencias en el Análisis de Datos
 
-## **¿Por qué es importante el no-code?**
+El campo del análisis de datos está en constante evolución, impulsado por varias tendencias clave:
 
-La cantidad inmensa de necesidades de creación de productos, servicios, soluciones digitales en general, automatizaciones de procesos manuales, etc. supera largamente la cantidad de profesionales *developers* capaces de satisfacer tal demanda de trabajo.
-
-Gracias a la inmensa proliferación de herramientas "no-code" y AI, hoy es posible resolver una gran cantidad de esas necesidades "sin saber programar". Como discutimos en [La transformación del trabajo y las oportunidades](../../curriculum_model/lea_model_02_work.md) , muchos empleos tradicionales están desapareciendo aceleradamente, dando paso a nuevas oportunidades que requieren conocimientos y habilidades digitales concretas. Aprender herramientas de **no-code** e **inteligencia artificial (IA)** no sólo abre puertas a estos nuevos empleos, sino que también permite a las personas crear soluciones innovadoras y adaptarse a los cambios del mercado laboral.
-
-## **Algunos aspectos importantes:**
-
-1. **Democratización**: Permite a cualquier persona, independientemente de su experiencia técnica, crear aplicaciones y automatizaciones.
-2. **Empoderamiento**: Empodera a los equipos no técnicos, como *marketing*, *ventas* y servicios, etc. para resolver problemas específicos sin depender de alguien de "TI".
-3. **Velocidad**: Facilita el desarrollo rápido de prototipos y soluciones sin necesidad de  ciclos largos de desarrollo.
-4. **Costo vs. efectividad**: En general, el costo de las herramientas es "bajo" respecto al valor que se puede obtener de las soluciones que permiten implementar. 
-
-## **¿Cómo Funciona el No-Code?**
-
-1. **Interfaces Visuales**: Usan editores del tipo arrastrar y soltar (drag-and-drop) para añadir y organizar componentes.
-2. **Plantillas y Componentes Preconstruidos**: Ofrecen módulos listos para usar que pueden ser personalizados según las necesidades de la usuaria.
-3. **Integraciones**: Conectan diversas aplicaciones y servicios mediante APIs y conectores predefinidos para:
-   1. Intercambiar datos.
-   2. Automatizar flujos de trabajo que se disparan automáticamente en respuesta a ciertos eventos o condiciones.
-
-### **Ventajas y Limitaciones**
-
-- **Ventajas**:
-  
-  - **Facilidad de Uso**: No requiere conocimientos de programación.
-  - **Velocidad de Implementación**: Soluciones rápidas y eficientes.
-  - **Flexibilidad**: Fácil de modificar y escalar según las necesidades.
-
-- **Limitaciones**:
-  
-  - **Personalización Limitada**: Puede no ser tan flexible como el desarrollo a medida.
-  - **Dependencia de la Plataforma**: Posible dependencia de un proveedor específico.
-  - **Escalabilidad**: Puede tener limitaciones en proyectos muy grandes o complejos.
-
-## **Conclusión**
-
-El no-code está revolucionando la forma en que las personas y las empresas abordan el desarrollo de *software*, democratizando el acceso a la tecnología y permitiendo la creación rápida y eficiente de soluciones personalizadas. Aunque no reemplaza completamente a la programación tradicional, ofrece una alternativa poderosa para muchas aplicaciones y casos de uso, especialmente cuando se necesita rapidez y simplicidad.
+1. **Big Data**: El manejo y análisis de enormes volúmenes de datos provenientes de diversas fuentes como redes sociales, sensores IoT, y transacciones digitales.
+2. **Machine Learning**: La creación de modelos que pueden aprender y hacer predicciones o tomar decisiones basadas en datos.
+3. **Inteligencia Artificial**: Aplicaciones que usan algoritmos avanzados para automatizar procesos y mejorar la toma de decisiones.
+4. **Data Visualization**: Herramientas y técnicas para presentar datos de manera visual, facilitando la comprensión y toma de decisiones.
+5. **Real-time Data Analysis**: Análisis de datos en tiempo real para respuestas y decisiones inmediatas.
+6. **Data Privacy**: Enfoque creciente en la seguridad y privacidad de los datos, especialmente con regulaciones como GDPR.
 
 ---
 
 ## Actividad
 
-Considerando como referencia inicial algunos de los ejemplos previo, identifica 1 necesidad u oportunidad concreta que hayas tenido cerca recientemente y que sabes o intuyes que se podría resolver con herramientas no-code. Piensa en algo que ahorraría tiempo de trabajo manual y/o dinero aportando  valor como solución.
+Mira este video de 14 minutos: [¿Qué hace un analista de datos? | Caterina Abanoni - YouTube](https://www.youtube.com/watch?v=pFbNK-S79qM)
 
-Luego busca alguna(s) herramienta(s) no-code que crees que te hubieran ayudado.
+Considerando como referencia algunos de los ejemplos que te hemos estado dando y lo que encuentres en el video, **identifica 1 situación concreta de tu vida personal o laboral en la que te hubiera servido saber un poco de análisis de datos**. 
 
 ### **Comparte de la siguiente manera:**
 
-**En mi** (elije 1)
+1. **Contexto**: [¿Quién? Describe el contexto de la situación.]
+2. **Objetivo**: [¿Qué? Detalla el objetivo del análisis.]
+3. **Impacto**: [¿Para qué? Explica el valor o impacto esperado.]
 
-`[trabajo | emprendimiento | negocio familiar | etc.]`, 
+Por ejemplo:
 
-**Se necesitaba** (elije 1)
-
-`[automatizar un proceso | crear un website | analizar datos | etc.]` .
-
-**Hacerlo me hubiera significado** (elije 1)
-
-`[ahorrar trabajo manual | que me consideren mejor | acceder a más oportunidades | etc.]` 
-
-Por ejemplo:  En mi **trabajo**, se necesitaba **automatizar** el envío de correos con una plantilla cada vez que se agregaba una fila a una hoja de cálculo con datos de un cliente. Hacerlo me hubiera significado **demostrar que soy capaz de hacer mucho más y acceder a alguna oportunidad de mejora de mi rol o condiciones de trabajo.**
+1. **Contexto**: Yo que trabajo en el área de marketing de una empresa de e-commerce.
+2. **Objetivo**: Quiero analizar el comportamiento de compra de las clientes durante el último trimestre.
+3. **Impacto**: Para identificar patrones y tendencias que me permitan diseñar campañas de marketing más efectivas y aumentar las ventas.
 
 Agrega cualquier otro comentario o aspecto que quieras y te parezca relevante.
 
@@ -85,16 +56,12 @@ Agrega cualquier otro comentario o aspecto que quieras y te parezca relevante.
 
 - AI: ChatGPT, Gemini, Perplexity, Bing, etc.. Recuerda que pueden alucinar y mentirte descaradamente, verifica siempre.
 
-- [No code y low code ¿son tendências em programaçión? #shorts - YouTube](https://youtube.com/shorts/eTdNR2bPKpI?si=xqP3jeCq4bIRyND9)
-
-- [No-code vs Low-code vs Code... (y por qué tu trabajo está en riesgo) - YouTube](https://youtu.be/_Du-nvEKKRM?si=xJzv_aZa4txaBVQQ)
-
 ## Guía de Autoevaluación
 
 No habrás cumplido con la actividad si:
 
 - [x] No identificaste una oportunidad real en tu contexto para aplicar el enfoque no-code.
-- [x] No comentas en el hilo de Discord
+- [x] No comentas en el hilo de Discord según el formato propuesto.
 
 ---
 

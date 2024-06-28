@@ -8,7 +8,7 @@ El análisis de datos es fundamental para la sociedad y la economía modernas, y
 
 Además de ser una interesante y prometedora línea de carrera, a un nivel más introductorio es un excelente complemento para muchas profesiones/trabajos/roles/rubros. 
 
-En resumen, el análisis de datos ofrece una variedad de oportunidades para adaptarse a diferentes intereses, habilidades y escenarios, lo que lo convierte en un aprendizaje muy útil para cualquiera.
+En resumen, la aplicación del análisis de datos se adapta a diferentes perfiles, intereses, habilidades y escenarios, lo que lo convierte en un aprendizaje muy útil para cualquiera.
 
 ### **Unos cuantos ejemplos de casos de uso**
 
@@ -45,12 +45,14 @@ En resumen, el análisis de datos ofrece una variedad de oportunidades para adap
 ## Ruta: Introducción al Análisis de Datos
 
 <details>
-<summary>🔵 Bloque Introductorio, indispensable</summary>
+<summary>⚫ Bloque Introductorio, indispensable</summary>
 
-Esta introducción busca proporcionarte una comprensión clara y concisa de lo que trata esta disciplina, en un formato flexible y con poco compromiso. En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los conceptos básicos y tendrás la oportunidad de aplicar parte de lo aprendido en un reto/mini proyecto práctico.
+Esta introducción busca proporcionarte una comprensión clara y concisa de lo que trata esta disciplina, en un formato flexible y con poco compromiso. En tan solo 2 semanas, dedicando aproximadamente 5 horas por semana a tu propio ritmo, explorarás los conceptos básicos y tendrás la oportunidad de aplicar parte de lo aprendido en un reto o mini proyecto práctico.
 
-Lo que aprenderás:
-**Módulo 1**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión.
+**Lo que aprenderás:**
+
+**◼️ Módulo 1**: 
+Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión.
 
 1. ¿Qué es exactamente?
 
@@ -60,138 +62,33 @@ Lo que aprenderás:
 
 4. ¿Qué perspectivas y oportunidades existen?
 
-**Módulo 2**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión + trabajo en un reto práctico.
+**◼️ Módulo 2**: Conocimiento fundamental en formato de lecturas, videos, etc. + reflexión y participación en comentarios y foros de discusión + trabajo en un reto práctico.
 
 Te proponemos la aplicación de parte de lo aprendido, y la reflexión sobre tu propio proceso de autoaprendizaje y motivación para continuar.
 
-</details>
-
-<details>
-<summary>🔵 Habilidad (H): Automatización de procesos/flujos de trabajo</summary>
-
-Lo que aprenderás:
-
-1. Automatizar procesos empresariales: Usar herramientas no-code para automatizar tareas repetitivas y mejorar la eficiencia operativa.
+## En estas primeras 3 habilidades aprenderás a hacer una segmentación de clientes.
 
 </details>
 
 <details>
-<summary>🔵 Habilidad (H): Prompting básico</summary>
+<summary>⚫ Habilidad (H): Análisis exploratorio</summary>
 
-Lo que aprenderás:
-
-Los fundamentos del prompting, la técnica de formular y ajustar solicitudes a modelos de IA generativa para obtener resultados deseados. Desarrollarás la habilidad de crear prompts efectivos que maximicen la precisión y relevancia de los resultados.
+**Lo que aprenderás:**
+La habilidad de hacer un análisis exploratorio de datos (AED) es una etapa crucial que tiene como objetivo obtener una comprensión inicial y general de los datos antes de aplicar técnicas o métricas. Es una práctica común en la ciencia de datos y la estadística, y se utiliza para descubrir patrones, tendencias, relaciones y anomalías en los datos de manera exploratoria e informal.
 
 </details>
 
 <details>
-<summary>🔵 Habilidad (H): Implementación de AI en Soluciones No-Code, básica</summary>
+<summary>⚫ Habilidad (H): Técnicas de análisis 1</summary>
 
-Lo que aprenderás:
-
-1. Integrar modelos de AI en aplicaciones no-code: Uso de modelos pre-entrenados para agregar capacidades de AI a tus aplicaciones.
-
-2. Crear experiencias personalizadas: Utilizar AI para analizar datos de usuarios y personalizar la experiencia de las usuarias.
+**Lo que aprenderás:**
+Las técnicas de análisis pueden ser muy variadas, pues dependen del problema que se pretende solucionar, incluso se pueden utilizar distintas técnicas combinadas para llegar a un resultado o profundizar los hallazgos. En este hito vamos a aplicar una técnica de análisis para segmentar clientes a través de lo que se conoce como RFM.
 
 </details>
-<summary>🔵 Habilidad (H): LLMs open source locales</summary>
-</details>
+
+<summary>⚫ Habilidad (H): Reportes y dashboards 1</summary>
+
+**Lo que aprenderás:**
+Un *dashboard* es una herramienta de visualización de datos que proporciona una representación gráfica y resumida de información relevante y, en muchos casos, actualizada en tiempo real. Es una interfaz gráfica que presenta de manera clara y concisa métricas, indicadores clave de rendimiento (KPI), tendencias y otros datos importantes en un solo lugar.
 
 </details>
-<summary>🔵 Habilidad (H): Agentes IA</summary>
-</details>
-
-A partir de acá, te te propondremos algunos casos de necesidades frecuentes
-¡Identifica el(los) que más se acerca(n) a tus necesidades y comienza a aprender!
-
-<!---
-<table data-view="cards">
-  <thead>
-    <tr>
-      <th>
-      </th>
-      <th>
-      </th>
-      <th>
-      </th>
-      <th data-hidden data-card-target data-type="content-ref">
-      </th>
-      <th data-hidden data-card-cover data-type="files">
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        Landing page + recolección de emails de contacto.
-      </td>
-      <td>
-        Una página web en la que puedes reolectar correos de contacto.
-      </td>
-      <td>
-        Ejemplo: Un producto o servicio
-      </td>
-      <td>
-        <a href="https://www.google.com">
-          www.google.com
-        </a>
-      </td>
-      <td>
-        <a href="../assets/thumbnail_placeholder.jpg"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Enviar mensajes de Whatsapp con eventos de Gmail o Google Sheets.
-      </td>
-      <td>
-        Card2, ln2
-      </td>
-      <td>
-      </td>
-      <td>
-        <a href="https://www.google.com">
-          www.google.com
-        </a>
-      </td>
-      <td>
-        <a href="../assets/thumbnail_placeholder.jpg"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Una tienda en línea con Shopify.
-      </td>
-      <td>
-        Card3, ln2
-      </td>
-      <td>
-      </td>
-      <td>
-        <a href="../">
-          ..
-        </a>
-      </td>
-      <td>
-        <a href="../assets/thumbnail_placeholder.jpg"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Automatización de posts de RR.SS.
-      </td>
-      <td>
-        Card4, ln2
-      </td>
-      <td>
-      </td>
-      <td>
-        <a href="../assets/thumbnail_placeholder.jpg"></a>
-      </td>
-      <td>
-        <a href="../assets/thumbnail_placeholder.jpg"></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
--->
