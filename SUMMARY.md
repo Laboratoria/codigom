@@ -128,12 +128,12 @@
     * [Actividad : Importancia y aplicación](curriculum_dat/activities/00_01_01_dat_activity_que_es.md)
     * [Actividad . EL rol de las personas en la era de la IA](curriculum_dat/activities/00_01_03_dat_activity_ai.md)
     * [Actividad : Qué es la IA](curriculum_dat/activities/00_01_04_dat_activity_ai_que_es.md)
-    * [Herramientas y tecnologías básicas](curriculum_dat/activities/00_01_05_dat_activity_tools.md)
+    * [Herramientas y tecnologías básicas](curriculum_dat/activities/00_01_05_dat_read_tools.md)
   
-  * [Módulo 2: Aprende haciendo](curriculum_dat/activities/00_02_00_practice.md)
+  * [Módulo 2: Aprende haciendo](curriculum_dat/activities/00_02_00_dat_practice.md)
     
-    * [Reto : Mis primeras tablas dinámicas](curriculum_dat/activities/00_02_01_myfirst.md)
-    * [Reflexiona y comenta](curriculum_dat/activities/00_02_02_close.md)
+    * [Reto : Mis primeras tablas dinámicas](curriculum_dat/activities/00_02_01_dat_myfirst.md)
+    * [Reflexiona y comenta](curriculum_dat/activities/00_02_02_dat_close.md)
 
 * [Habilidad (H): Análisis exploratorio]()
   
