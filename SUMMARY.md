@@ -125,7 +125,7 @@
   
   * [Módulo 1 : Todo sobre...](curriculum_dat/activities/00_01_00_dat_all_about.md)
     
-    * [Actividad : Importancia y aplicación](curriculum_dat/activities/00_01_02_dat_activity_que_es.md)
+    * [Actividad : Importancia y aplicación](curriculum_dat/activities/00_01_01_dat_activity_que_es.md)
     * [Actividad . EL rol de las personas en la era de la IA](curriculum_dat/activities/00_01_03_dat_activity_ai.md)
     * [Actividad : Qué es la IA](curriculum_dat/activities/00_01_04_dat_activity_ai_que_es.md)
     * [Herramientas y tecnologías básicas](curriculum_dat/activities/00_01_05_dat_activity_tools.md)
