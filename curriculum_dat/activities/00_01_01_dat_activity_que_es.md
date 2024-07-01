@@ -1,4 +1,4 @@
-# ◾Importancia y Aplicaciones del Análisis de Datos
+# ◾Importancia y aplicaciones del Análisis de Datos
 
 **Dificultad:** 🌻
 
@@ -8,7 +8,7 @@
 
 ## Introducción
 
-El análisis de datos es crucial en diversos campos y situaciones cotidianas. No sólo se limita a profesionales del mismo, sino que es una herramienta valiosa para emprendedoras, administrativas, *marketers*, recursos humanos, y más. Aquí algunos ejemplos adicionales de su aplicación:
+El análisis de datos es crucial en diversos campos y situaciones cotidianas. No sólo se limita a profesionales que lo tienen como carrera, sino que es una herramienta valiosa para emprendedoras, administrativas, *marketers*, recursos humanos, y más. Aquí algunos ejemplos adicionales de su aplicación:
 
 1. **Deportes**: Análisis de rendimiento de jugadores, predicción de lesiones, estrategias de juego basadas en datos históricos.
 2. **Transporte y Logística**: Optimización de rutas, análisis de tiempos de entrega, predicción de demanda de transporte.

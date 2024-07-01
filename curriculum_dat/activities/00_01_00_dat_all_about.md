@@ -9,10 +9,10 @@
 
 Buscamos acercarte respuestas simples y breves a las preguntas:
 
-1. ¿Qué es exactamente no-code y qué es IA?
+1. ¿Qué es exactamente?
 
 2. ¿Para qué sirve en la vida cotidiana de la gente?
 
 3. ¿Cuáles son las herramientas, tecnologías o métodos clave que se utilizan?
 
-4. ¿Qué perspectivas y oportunidades existen
+4. ¿Qué perspectivas y oportunidades existen?

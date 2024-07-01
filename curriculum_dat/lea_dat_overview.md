@@ -18,11 +18,11 @@ En resumen, la aplicación del análisis de datos se adapta a diferentes perfile
 
 - **Marketing y Publicidad**: Análisis de campañas, segmentación de audiencia, predicción de tendencias de mercado, análisis de sentimientos en redes sociales, etc.
 
-- **Recursos Humanos**: Análisis de rotación de empleados, predicción de necesidades de capacitación, evaluación del desempeño, análisis de satisfacción laboral, etc.
+- **Recursos Humanos**: Análisis de rotación de empleados, evaluación del desempeño, análisis de satisfacción laboral, etc.
 
 - **Educación**: Análisis del rendimiento académico, personalización del aprendizaje, predicción de abandono escolar, análisis de la eficacia de métodos educativos, etc.
 
-- **Atención al Cliente**: Análisis de feedback, segmentación de clientes, optimización de tiempos de respuesta, análisis de satisfacción del cliente, etc.
+- **Atención al Cliente**: Análisis de *feedback*, segmentación de clientes, optimización de tiempos de respuesta, análisis de satisfacción del cliente, etc.
 
 - **Finanzas y Contabilidad**: Detección de fraudes, análisis de riesgo, predicción de ingresos, optimización de portafolios, etc.
 
@@ -73,7 +73,6 @@ Te proponemos la aplicación de parte de lo aprendido, y la reflexión sobre tu 
 <details>
 <summary>⚫ Habilidad (H): Análisis exploratorio</summary>
 
-**Lo que aprenderás:**
 La habilidad de hacer un análisis exploratorio de datos (AED) es una etapa crucial que tiene como objetivo obtener una comprensión inicial y general de los datos antes de aplicar técnicas o métricas. Es una práctica común en la ciencia de datos y la estadística, y se utiliza para descubrir patrones, tendencias, relaciones y anomalías en los datos de manera exploratoria e informal.
 
 </details>
@@ -81,14 +80,12 @@ La habilidad de hacer un análisis exploratorio de datos (AED) es una etapa cruc
 <details>
 <summary>⚫ Habilidad (H): Técnicas de análisis 1</summary>
 
-**Lo que aprenderás:**
-Las técnicas de análisis pueden ser muy variadas, pues dependen del problema que se pretende solucionar, incluso se pueden utilizar distintas técnicas combinadas para llegar a un resultado o profundizar los hallazgos. En este hito vamos a aplicar una técnica de análisis para segmentar clientes a través de lo que se conoce como RFM.
+Las técnicas de análisis pueden ser muy variadas, pues dependen del problema que se pretende solucionar, incluso se pueden utilizar distintas técnicas combinadas para llegar a un resultado o profundizar los hallazgos. En este caso vamos a aprender una técnica de análisis para segmentar clientes a través de lo que se conoce como RFM.
 
 </details>
 
 <summary>⚫ Habilidad (H): Reportes y dashboards 1</summary>
 
-**Lo que aprenderás:**
-Un *dashboard* es una herramienta de visualización de datos que proporciona una representación gráfica y resumida de información relevante y, en muchos casos, actualizada en tiempo real. Es una interfaz gráfica que presenta de manera clara y concisa métricas, indicadores clave de rendimiento (KPI), tendencias y otros datos importantes en un solo lugar.
+Un *dashboard* o panel de control es una herramienta de visualización de datos que proporciona una representación gráfica y resumida de información relevante y, en muchos casos, actualizada en tiempo real. Es una interfaz gráfica que presenta de manera clara y concisa métricas, indicadores clave de rendimiento (KPI), tendencias y otros datos importantes en un solo lugar. Aprenderás a crear un *dashboard* con los resultados de tu análisis. Trabajarás en Looker Studio/Power BI (revisar Mire)
 
 </details>

@@ -13,5 +13,3 @@ Son variables categóricas que no tienen un orden natural o jerarquía entre las
 ## Variables Ordinales:
 
 Son variables categóricas que tienen un orden o jerarquía entre las categorías, pero la distancia entre ellas no es cuantificable. Es decir, se pueden clasificar en un orden específico, pero no se puede determinar la magnitud de la diferencia entre las categorías. Ejemplos de variables ordinales pueden ser la escala de satisfacción (muy insatisfecho, insatisfecho, neutral, satisfecho, muy satisfecho), niveles de educación (primaria, secundaria, universitaria), clasificaciones de opiniones (bajo, medio, alto), etc.
-
-
