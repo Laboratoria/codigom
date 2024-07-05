@@ -1,4 +1,4 @@
-# Herramientas No-code más comunes
+# Herramientas de Analisis de datos más comunes
 
 **Tiempo:** ⏱ 10min
 
@@ -10,9 +10,25 @@ El valor de las herramientas radica en que sepas cómo, cuándo y para qué usar
 
 Algunas de las herramientas y lenguajes de uso frecuente:
 
+### Herramientas para una exploración inicial
+
+Estas herramientas permiten almacenar y gestionar datos de manera eficiente, además de permitir cálculos y visualizaciones.
+
+1. MS Excel
+
+- Manejo de hojas de cálculo.
+- Capacidad de almacenar y organizar datos de forma estructurada.
+- Funcionalidades básicas de análisis y visualización de datos.
+
+2. Google Sheets
+
+- Similar a MS Excel, pero basada en la nube.
+- Colaboración en tiempo real con múltiples usuarios.
+- Funcionalidades de análisis y visualización de datos.
+
 ### Almacenamiento de Datos
 
-Estas herramientas permiten almacenar y gestionar grandes volúmenes de datos, facilitando el análisis a gran escala.
+Estas otras herramientas permiten almacenar y gestionar grandes volúmenes de datos, facilitando el análisis a gran escala.
 
 1. MySQL.
 
@@ -48,7 +64,7 @@ Estos lenguajes son fundamentales para realizar análisis estadísticos y manipu
    
    - Pandas: para manipulación y análisis de datos
    - Matplotlib y Seaborn: para visualización de datos
-   - Jupyter Notebooks: para crear y compartir documentos que contienen código, visualizaciones y narrativas
+   - Jupyter Notebooks / Google Colab: para crear y compartir documentos que contienen código, visualizaciones y narrativas
 
 ### Herramientas de Reportería
 
