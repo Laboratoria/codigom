@@ -12,7 +12,7 @@ Con el rápido desarrollo de herramientas de inteligencia artificial (AI) como l
 
 La realidad es que, en lugar de ver estas herramientas como una amenaza, podemos verlas como aliados que amplifican nuestras capacidades. Algunas herramientas de IA pueden procesar y analizar grandes volúmenes de datos a velocidades increíbles, pero las personas todavía tienen un papel crucial que desempeñar. 
 
-Un aspecto relevante para esta consideración es la proliferación de IA generativa, especialmente los modelos de lenguage LLM como ChatGPT, Gemini, etc. que son capaces de "comprender" muy bien el lenguaje natural de las personas para recibir instrucciones concretas.
+Un aspecto relevante para esta consideración es la proliferación de IA generativa, especialmente los modelos de lenguage LLM (large language model) como ChatGPT, Gemini, etc. que son capaces de "comprender" muy bien el lenguaje natural de las personas para recibir instrucciones concretas.
 
 La clave está en apalancar nuestras habilidades y conocimientos con estas nuevas tecnologías para ser más eficientes y efectivos.
 
@@ -34,7 +34,7 @@ La clave está en apalancar nuestras habilidades y conocimientos con estas nueva
 
 ## Actividad
 
-Mira este video de 8 minutos (recuerda activar los subtítulos en castellano): [Will AI Replace Data Scientists? - YouTube](https://www.youtube.com/watch?v=mLP4kdk3DoI) y reflexiona sobre la aparente tensión o dicotomía entre los temores hacia las nuevas tecnologías y el potencial que estas herramientas ofrecen. Elije una de estas dos preguntas y comenta:
+Mira este video de 8 minutos (recuerda activar los subtítulos en castellano): [Will AI Replace Data Scientists? - YouTube](https://www.youtube.com/watch?v=mLP4kdk3DoI) y/o este video de 4 minutos: [¿Será el trabajo del analista de datos reemplazado por la IA?](https://www.youtube.com/watch?v=upBfy54-jmI) y reflexiona sobre la aparente tensión o dicotomía entre los temores hacia las nuevas tecnologías y el potencial que estas herramientas ofrecen. Elije una de estas dos preguntas y comenta:
 
 1. ¿Qué piensas sobre el temor hacia las nuevas tecnologías en el análisis de datos?
 
