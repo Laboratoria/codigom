@@ -6,7 +6,7 @@ Escribe un mensaje numerado en el hilo, de manera que cubras lo siguiente:
 
 ## 1. Integración
 
-¿De qué manera crees que las habilidades de desarrollo web podrían integrarse a tu vida personal y/o profesional?
+¿De qué manera crees que las habilidades de análisis de datos podrían integrarse a tu vida personal y/o profesional?
 
 ## 2. Aprender a aprender
 
@@ -14,7 +14,7 @@ Escribe un mensaje numerado en el hilo, de manera que cubras lo siguiente:
 
 ## 3. Motivación
 
-En una oración, ¿qué tan motivada te sientes para seguir aprendiendo sobre desarrollo web?
+En una oración, ¿qué tan motivada te sientes para seguir aprendiendo sobre análisis de datos?
 
 ---
 
