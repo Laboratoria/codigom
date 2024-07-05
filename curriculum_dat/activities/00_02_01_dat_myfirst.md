@@ -1,19 +1,9 @@
-# ◾Reto 2.1 : Mis primeras tablas dinámicas.
+# ◾Reto 2.1 : Mis primeras tablas dinámicas
 
-**Dificultad:** :sunflower: (de 1 a 3)﻿
-**Aprendizaje:** :honey_pot: :honey_pot: ﻿(de 1 a 3)
-**Tiempo:** ⏱⏱⏱ 2-4 hrs.
+**Dificultad:** :sunflower: 
+**Aprendizaje:** :honey_pot: :honey_pot: ﻿
+**Tiempo:** ⏱⏱ 2-4 hrs.
 **Reacciona** con :eyes:﻿ cuando comiences la lectura, actividad o reto.
-
-## Template Notes:
-
-- La idea central es que sea un mini-proyecto con las siguientes características:
-  
-  - Tiempo de dedicación máximo estimado 4 horas continuas, hasta 6 si es fragmentado.
-  
-  - Una única meta de aprendizaje por mini-proyecto.
-  
-  - No más de 5 "piezas" (conceptos/herramientas/lecturas/videos).
 
 ## Meta de Aprendizaje
 
@@ -21,9 +11,9 @@ Utilizar tablas dinámicas de **Hojas de Cálculo de Google** para resumir datos
 
 #### Descripción
 
-**Video:** Explicación de lo que hay que hacer 🌟 (TBD)
+**Video:** [Explicación de lo que hay que hacer](https://www.loom.com/share/a9b99254fa57421c9f843bfaa7e38289?sid=979ed125-3dde-4ac1-bd16-c897950ed328) 🌟
 
-En este reto práctico, utilizarás un conjunto de datos que te proveemos para bla bla bla. Esto es algo que típicamente podrías utilizar para... podría ser, por ejemplo, el caso en el que necesitas simular una respuesta automática a un cliente que ha solicitado información o soporte telefónico en un pequeño negocio.
+En este desafío práctico, trabajarás con un conjunto de datos de una tienda de productos importados. Te proporcionaremos la tabla de clientes de esta tienda. Imagina que eres parte del equipo de la tienda y te interesa conocer cuántas personas han respondido a la última campaña de marketing. Además, te gustaría obtener características resumidas de estos clientes, como el promedio de ingresos y la proporción de clientes solteros y casados.
 
 #### Guía de Evaluación
 
@@ -31,12 +21,14 @@ Aprender a monitorear y evaluar tu aprendizaje permanente (*lifelong learning*) 
 
 Como todo en la vida, hay muchas maneras de resolver un mismo problema. No obstante, esta guía de autoevaluación se referirá a lo que debes lograr MÍNIMAMENTE, para que consideres que has conseguido la meta de aprendizaje.
 
-- [x] Conectas correctamente tus cuentas de Google Sheets y Gmail a Zapier.
-- [x] Configuras el trigger de "New Spreadsheet Row" en Google Sheets.
-- [x] etc
+- [x] Crea al menos una tabla dinámica.
+- [x] Utiliza columnas y filas para organizar tus datos en la tabla dinámica.
+- [x] Explora y demuestra al menos 2 resúmenes de información usando promedio o sumatoria en las opciones de valores de la tabla dinámica.
+- [x] Demuestra el uso de los pencentuales preestablecidos en las opciones de valores de la tabla dinámica.
 
 #### Insumos para tu Aprendizaje
 
+- [Base de datos](https://docs.google.com/spreadsheets/d/1uNtn1U5l4sfnO8gi4-LjUVU9Yi8bONUzBHLStB8br6k/copy?)
 - [Concepto variables categóricas](../topics/variables_categóricas.md)
 - [Conceptos - Tipos de datos - proyecto 1 | Loom](https://www.loom.com/share/afa56686810e46309761bc889364b2d9?sid=cabf587c-7ba1-4419-b501-32c98a73e191)
 - [Spreadsheets - tablas dinamicas - proyecto 1 | Loom](https://www.loom.com/share/5937ac5fb32c424285e952bc07097580?sid=44e51ec0-a90d-4657-ab8d-ed543513adff)
@@ -44,23 +36,32 @@ Como todo en la vida, hay muchas maneras de resolver un mismo problema. No obsta
 
 #### Pauta de Trabajo
 
-1. Si no tienes una cuenta de G, créala. La necesitas para poder usar Hojas de Cálculo de Google.
+1. Si no tienes una cuenta de Google, créala. La necesitas para poder usar Hojas de Cálculo de Google.
 
-2. Crea una copia de GSHEETS....
+2. Haz una copia de este [archivo de Google Sheets](https://docs.google.com/spreadsheets/d/1uNtn1U5l4sfnO8gi4-LjUVU9Yi8bONUzBHLStB8br6k/copy?) que contiene los datos con los que trabajarás.
 
-3. .... ¿pedimos algo que demuestre un pre-análisis observando las tablas dinamicas?, como, cuáles son los más bla bla o lo que sea, como para que no quede en lo operativo puramente....
+3. Lee las descripciones de las variables que se encuentran en el archivo de la base de datos.
 
-#### Evaluación
+4. Identifica las variables categóricas.
 
-Recuerda que puedes pedir la evaluación de una compañera antes de terminar tu reto y compartir la URL.
+5. Identifica las variables numéricas con las cuales podemos calcular promedios, sumatorias o conteos.
+
+6. Encuentra la variable que indica si el cliente ha respondido a la campaña de marketing.
+
+7. Ahora crea tablas dinámicas para responder a estas preguntas:
+
+   - ¿Cuántos clientes tiene la tienda en total?
+   - ¿Cuántos clientes están casados?
+   - ¿Cuál es el promedio de ingreso anual?
+   - ¿Cuántos han respondido a la campaña de marketing?
+   - ¿Qué otros datos disponibles en la base de datos puedes utilizar para obtener un mejor entendimiento de los clientes de la tienda?
+
+   Puedes responder a las mismas preguntas anteriores, pero ahora separando los clientes que han respondido a la campaña de los que no lo han hecho.
+   
 
 #### ¡Diviértete y disfruta del proceso de aprendizaje!
 
 No te olvides de que estar aturdida y confundida es parte natural del proceso de aprendizaje verdadero.
-
-💡 **Evaluación:** Recuerda que puedes pedir la evaluación de una compañera antes de terminar tu reto y compartir la URL.
-
-📣 Al terminar, regresa a Discord, 💬 comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
 
 ---
 
