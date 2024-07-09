@@ -84,7 +84,7 @@
   * [CSS, media queries](curriculum_dev/topics/css_media_queries.md)
   * [CSS, flexbox](curriculum_dev/topics/css_flexbox.md)
 
-## 💚	No-code e IA
+## 💚 No-code e IA
 
 * [Inicio y ruta de aprendizaje](curriculum_noc/lea_noc_overview.md)
 
@@ -104,8 +104,6 @@
     * [Reflexiona y comenta](curriculum_noc/activities/00_02_02_close.md)
 
 * [Habilidad (H): Automatización de flujos de trabajo]()
-  
-  * 
 
 * Tópicos
   
@@ -118,3 +116,41 @@
   * LLMs
   * Prompting
   * Ética
+
+## 🧡 Análisis de datos
+
+* [Inicio y ruta de aprendizaje](curriculum_dat/lea_dat_overview.md)
+
+* Bloque Introductorio
+  
+  * [Módulo 1 : Todo sobre...](curriculum_dat/activities/00_01_00_dat_all_about.md)
+    
+    * [Actividad : Importancia y aplicación](curriculum_dat/activities/00_01_01_dat_activity_que_es.md)
+    * [Actividad . EL rol de las personas en la era de la IA](curriculum_dat/activities/00_01_03_dat_activity_ai.md)
+    * [Actividad : Qué es la IA](curriculum_dat/activities/00_01_04_dat_activity_ai_que_es.md)
+    * [Herramientas y tecnologías básicas](curriculum_dat/activities/00_01_05_dat_read_tools.md)
+  
+  * [Módulo 2: Aprende haciendo](curriculum_dat/activities/00_02_00_dat_practice.md)
+    
+    * [Reto : Mis primeras tablas dinámicas](curriculum_dat/activities/00_02_01_dat_myfirst.md)
+    * [Reflexiona y comenta](curriculum_dat/activities/00_02_02_dat_close.md)
+
+* [Habilidad (H): Análisis exploratorio]()
+  
+  * [Módulo 1 : Variables categóricas]()
+    
+    * [Reto : Agrupar datos]()
+    * [Reto : Visualizar variables]()
+  
+  * [Módulo 2 : Medidas de tendencia central y distribución]()
+    
+    * [Reto : Aplicar medidas de tendencia central]()
+    * [Reto : Visualizar la distribución]()
+  
+  * [Módulo 3 : Análisis de comportamiento en el tiempo]()
+
+* [Habilidad (H): Técnicas de análisis 1]()
+
+* Tópicos
+  
+  * [Variables categóricas]()
