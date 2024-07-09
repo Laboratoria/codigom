@@ -15,13 +15,10 @@ Algunas de las herramientas y lenguajes de uso frecuente:
 Estas herramientas permiten almacenar y gestionar datos de manera eficiente, además de permitir cálculos y visualizaciones.
 
 1. MS Excel
-
 - Manejo de hojas de cálculo.
 - Capacidad de almacenar y organizar datos de forma estructurada.
 - Funcionalidades básicas de análisis y visualización de datos.
-
 2. Google Sheets
-
 - Similar a MS Excel, pero basada en la nube.
 - Colaboración en tiempo real con múltiples usuarios.
 - Funcionalidades de análisis y visualización de datos.
@@ -114,6 +111,6 @@ No habrás cumplido con la actividad si:
 
 ---
 
-> :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1253005380443701248) , 💬 Comparte en el hilo qué herramientas elegiste, por qué y con qué dificultad te topaste. Reacciona con ✅ para marcar tu progreso.
+> :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1260275294355325101) , 💬 Comparte en el hilo qué herramientas elegiste, por qué y con qué dificultad te topaste. Reacciona con ✅ para marcar tu progreso.
 
 ---

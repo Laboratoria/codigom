@@ -55,6 +55,6 @@ No habrás cumplido con la actividad si:
 
 ---
 
-> :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1253005294485639250) , 💬 Comparte . Reacciona con ✅ para marcar tu progreso.
+> :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1260274948837216336) , 💬 Comparte . Reacciona con ✅ para marcar tu progreso.
 
 ---

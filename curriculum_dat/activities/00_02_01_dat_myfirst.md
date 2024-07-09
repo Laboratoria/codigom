@@ -49,15 +49,14 @@ Como todo en la vida, hay muchas maneras de resolver un mismo problema. No obsta
 6. Encuentra la variable que indica si el cliente ha respondido a la campaña de marketing.
 
 7. Ahora crea tablas dinámicas para responder a estas preguntas:
-
+   
    - ¿Cuántos clientes tiene la tienda en total?
    - ¿Cuántos clientes están casados?
    - ¿Cuál es el promedio de ingreso anual?
    - ¿Cuántos han respondido a la campaña de marketing?
    - ¿Qué otros datos disponibles en la base de datos puedes utilizar para obtener un mejor entendimiento de los clientes de la tienda?
-
-   Puedes responder a las mismas preguntas anteriores, pero ahora separando los clientes que han respondido a la campaña de los que no lo han hecho.
    
+   Puedes responder a las mismas preguntas anteriores, pero ahora separando los clientes que han respondido a la campaña de los que no lo han hecho.
 
 #### ¡Diviértete y disfruta del proceso de aprendizaje!
 
@@ -67,6 +66,6 @@ No te olvides de que estar aturdida y confundida es parte natural del proceso de
 
 > - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
 > 
-> - :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1253057799961968671) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
+> - :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1260275785286291520) , 💬 Comparte la URL de tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso.
 
 ---
