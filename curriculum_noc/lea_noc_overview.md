@@ -98,104 +98,13 @@ Lo que aprenderás:
 2. Crear experiencias personalizadas: Utilizar AI para analizar datos de usuarios y personalizar la experiencia de las usuarias.
 
 </details>
-<summary>🔵 Habilidad (H): LLMs open source locales</summary>
+<summary>🔵 Habilidad (H): Uso de LLMs open source </summary>
+Aprenderás sobre los principales modelos LLM open source, cuándo usarlos, y cómo ejecutarlos localmente de forma 100% gratuita.
 </details>
 
 </details>
-<summary>🔵 Habilidad (H): Agentes IA</summary>
+<summary>🔵 Habilidad (H): Creación de Agentes IA</summary>
+Los agentes IA pueden especializarse en tareas específicas y comunicarse entre sí para optimizar procesos y tomar decisiones de forma autónoma para hacer diversas tareas. APernderemos a utilizar algunos frameworks.
 </details>
 
-A partir de acá, te te propondremos algunos casos de necesidades frecuentes
-¡Identifica el(los) que más se acerca(n) a tus necesidades y comienza a aprender!
 
-<!---
-<table data-view="cards">
-  <thead>
-    <tr>
-      <th>
-      </th>
-      <th>
-      </th>
-      <th>
-      </th>
-      <th data-hidden data-card-target data-type="content-ref">
-      </th>
-      <th data-hidden data-card-cover data-type="files">
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        Landing page + recolección de emails de contacto.
-      </td>
-      <td>
-        Una página web en la que puedes reolectar correos de contacto.
-      </td>
-      <td>
-        Ejemplo: Un producto o servicio
-      </td>
-      <td>
-        <a href="https://www.google.com">
-          www.google.com
-        </a>
-      </td>
-      <td>
-        <a href="../assets/thumbnail_placeholder.jpg"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Enviar mensajes de Whatsapp con eventos de Gmail o Google Sheets.
-      </td>
-      <td>
-        Card2, ln2
-      </td>
-      <td>
-      </td>
-      <td>
-        <a href="https://www.google.com">
-          www.google.com
-        </a>
-      </td>
-      <td>
-        <a href="../assets/thumbnail_placeholder.jpg"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Una tienda en línea con Shopify.
-      </td>
-      <td>
-        Card3, ln2
-      </td>
-      <td>
-      </td>
-      <td>
-        <a href="../">
-          ..
-        </a>
-      </td>
-      <td>
-        <a href="../assets/thumbnail_placeholder.jpg"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Automatización de posts de RR.SS.
-      </td>
-      <td>
-        Card4, ln2
-      </td>
-      <td>
-      </td>
-      <td>
-        <a href="../assets/thumbnail_placeholder.jpg"></a>
-      </td>
-      <td>
-        <a href="../assets/thumbnail_placeholder.jpg"></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
--->
