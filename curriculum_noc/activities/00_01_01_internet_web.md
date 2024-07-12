@@ -12,7 +12,7 @@ Antes de comenzar, es crucial que tengas una claridad básica de qué es y cómo
 
 ## ¿Qué es Internet?
 
-Internetes la infraestructura global de redes que conecta millones de computadoras y dispositivos en todo el mundo. Es la red física que permite la comunicación y el intercambio de datos entre estos dispositivos. Desde su origen como un proyecto militar, Internet ha evolucionado hasta convertirse en una red global que facilita la comunicación, el acceso a la información y una amplia gama de servicios, desde el correo electrónico hasta el comercio electrónico y las redes sociales.
+Internet es la infraestructura global de redes que conecta millones de computadoras y dispositivos en todo el mundo. Es la red física que permite la comunicación y el intercambio de datos entre estos dispositivos. Desde su origen como un proyecto militar, Internet ha evolucionado hasta convertirse en una red global que facilita la comunicación, el acceso a la información y una amplia gama de servicios, desde el correo electrónico hasta el comercio electrónico y las redes sociales.
 
 ## ¿Qué es la World Wide Web?
 
