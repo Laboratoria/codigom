@@ -44,6 +44,13 @@ Comprende y calcula las medidas de tendencia central (Moda, Mediana, Promedio) p
 - **Asegúrate de comprender lo que estás haciendo.** No te limites solo a responder las preguntas planteadas; analiza, prueba, etc.
 
 - No temas experimentar y jugar con los datos.
+
+Aquí tienes algunos consejos para asegurarte de que estás en el camino correcto con tu análisis:
+
+- La mediana de compras en línea es 4, el promedio es 4.08 y la moda es 2.
+- Esto indica que el número más frecuente de compras en línea es 2, y el hecho de que el promedio sea mayor que la mediana sugiere la presencia de valores altos que influyen en el promedio.
+  
+Estos datos pueden servirte de referencia para verificar que tus cálculos y análisis son correctos.
   
 ¡Diviértete y disfruta del proceso de aprendizaje! Recuerda que sentirse aturdido y confundido es una parte natural del proceso.
 
