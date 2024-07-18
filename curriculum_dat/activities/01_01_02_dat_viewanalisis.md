@@ -51,6 +51,13 @@ Responde a las mismas preguntas del reto anterior, pero esta vez construyendo gr
 - **Asegúrate de que comprendes lo que estás haciendo.** No te limites solo a las preguntas planteadas; analiza, prueba, etc.
 
 - No tengas miedo de usar graficos; prueba colocando series y cambiando ejes para ver cómo se muestran los datos.
+
+Aquí tienes un ejemplo de dos gráficos que pueden ser utilizados para responder la primera pregunta:
+
+![image](https://github.com/user-attachments/assets/52e29a00-8377-481a-9bfd-0a841e332a06)
+
+Estos gráficos pueden servirte de referencia para verificar que tus cálculos y análisis son correctos.
+
   
 ¡Diviértete y disfruta del proceso de aprendizaje! Recuerda que sentirse aturdido y confundido es una parte natural del proceso.
 
