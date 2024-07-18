@@ -135,19 +135,22 @@
     * [Reto : Mis primeras tablas dinámicas](curriculum_dat/activities/00_02_01_dat_myfirst.md)
     * [Reflexiona y comenta](curriculum_dat/activities/00_02_02_dat_close.md)
 
-* [Habilidad (H): Análisis exploratorio]()
+* [Habilidad (H): Análisis exploratorio](curriculum_dat/activities/01_00_00_dat_overview.md)
   
-  * [Módulo 1 : Variables categóricas]()
+  * [Módulo 1 : Variables categóricas](curriculum_dat/activities/01_01_00_dat_variablescategoricas.md)
     
-    * [Reto : Agrupar datos]()
-    * [Reto : Visualizar variables]()
+    * [Reto : Agrupar datos](curriculum_dat/activities/01_01_01_dat_myfirstanalisis.md)
+    * [Reto : Visualizar variables](curriculum_dat/activities/01_01_02_dat_viewanalisis.md)
   
-  * [Módulo 2 : Medidas de tendencia central y distribución]()
+  * [Módulo 2 : Medidas de tendencia central y distribución](curriculum_dat/activities/01_02_00_dat_tendenciacentral.md)
     
-    * [Reto : Aplicar medidas de tendencia central]()
-    * [Reto : Visualizar la distribución]()
+    * [Reto : Aplicar medidas de tendencia central](curriculum_dat/activities/01_02_01_dat_medidas.md)
+    * [Reto : Visualizar la distribución](curriculum_dat/activities/01_02_02_dat_distribuicion.md)
   
-  * [Módulo 3 : Análisis de comportamiento en el tiempo]()
+  * [Módulo 3 : Análisis de comportamiento en el tiempo](curriculum_dat/activities/01_03_00_dat_vizulizareneltiempo.md)
+ 
+    * [Reto : Visualizar datos a lo largo del tiempo](curriculum_dat/activities/01_03_01_dat_graficolinea.md)
+    * [Reto : Visualizar datos con gráficos combinados](curriculum_dat/activities/01_03_02_dat_graficocombinado.md)
 
 * [Habilidad (H): Técnicas de análisis 1]()
 
