@@ -17,15 +17,15 @@ Aprenderás a agrupar y resumir datos utilizando variables categóricas, lo que 
 
 A través de tablas dinámicas, busque responder las siguientes preguntas en su análisis exploratorio:
 
-- ¿Qué nivel de educación predomina en este grupo de clientes?
-- ¿Cuál es el rango de edad de estos clientes?
-- ¿Cuántos están casados y cuántos son solteros?
-- ¿Cuál es el ingreso anual promedio?
-- ¿Cuál es el número promedio de hijos por cliente?
-- ¿Cuántos respondieron a la campaña de marketing realizada por la empresa?
-- ¿Cuál es la frecuencia promedio de compra?
-- ¿Cuál es el valor monetario promedio por categoría de producto?
-- ¿Dónde se realizan más compras: en línea o en la tienda?
+1. ¿Qué nivel educativo predomina en este grupo de clientes?
+2. ¿Cuál es el rango de edad de estos clientes?
+3. ¿Cuántos están casados y cuántos son solteros?
+4. ¿Cuál es el ingreso anual máximo y mínimo?
+5. ¿Cuántos hijos tienen los clientes?
+6. ¿Cuántos respondieron a la campaña de marketing realizada por la empresa?
+7. ¿Cuál es la frecuencia total de compra?
+8. ¿Cuál es el valor monetario total por categoría de producto?
+9. ¿Dónde se realizan más compras: en línea o en la tienda?
 
 ### No cumples con la meta de aprendizaje si:
 
