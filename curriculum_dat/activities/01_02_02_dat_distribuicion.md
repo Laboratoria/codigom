@@ -39,6 +39,15 @@ Comprende la distribución de las variables "compras en línea" y "compras en ti
 - **Asegúrate de comprender lo que estás haciendo.** No te limites solo a responder las preguntas planteadas; analiza, prueba, etc.
 
 - No temas experimentar y jugar con los datos.
+
+Aquí tienes un ejemplo de histograma para la variable compras en linea:
+
+![image](https://github.com/user-attachments/assets/6d1a39a3-307b-4744-b95c-26afbf350f2d)
+
+- Como vimos en el reto anterior, el promedio está siendo influenciado por un valor alto que hace que el promedio sea mayor que la mediana, y que el histograma tenga una cola hacia la derecha.
+
+Estos gráfico puede servirte de referencia para verificar que tus cálculos y análisis son correctos.
+
   
 ¡Diviértete y disfruta del proceso de aprendizaje! Recuerda que sentirse aturdido y confundido es una parte natural del proceso.
 
