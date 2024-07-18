@@ -28,7 +28,7 @@ Utiliza la variable "fecha_entrada" para comprender el patrón de registro de nu
 
 ## Insumos para tu aprendizaje
 
-- [Video sobre gráficos de líneas]([https://www.youtube.com/watch?v=zVmBz3uZ6OU&t=176s](https://www.youtube.com/watch?v=HXYZRCWfV7M)
+- [Video sobre gráficos de líneas](https://www.youtube.com/watch?v=HXYZRCWfV7M)
 
 ## Pauta de trabajo
 
