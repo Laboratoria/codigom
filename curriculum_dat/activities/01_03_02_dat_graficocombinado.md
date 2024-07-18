@@ -39,6 +39,11 @@ Utiliza la variable "fecha_entrada" para entender el patrón de registro de nuev
 - **Asegúrate de comprender lo que estás haciendo.** No te limites solo a responder las preguntas planteadas; analiza, prueba, etc.
 
 - No temas experimentar y jugar con los datos.
+
+Este es un ejemplo de gráfico combinado que muestra la suma de compras de vino según los clientes con fecha de entrada en el mismo mes y el total de clientes que se registraron en ese mes:
+
+![image](https://github.com/user-attachments/assets/65aec943-78f7-46ea-a122-329ee3aa82ee)
+
   
 ¡Diviértete y disfruta del proceso de aprendizaje! Recuerda que sentirse aturdido y confundido es una parte natural del proceso.
 
