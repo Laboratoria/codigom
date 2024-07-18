@@ -1,4 +1,4 @@
-# Módulo 1: Medidas de Tendencia Central y Distribución de Datos
+# Módulo 2: Medidas de Tendencia Central y Distribución de Datos
 
 **Tiempo:** ⏱ 5min
 
