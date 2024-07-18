@@ -58,8 +58,19 @@ A través de tablas dinámicas, busque responder las siguientes preguntas en su 
 - **Asegúrate de que comprendes lo que estás haciendo.** No te limites solo a las preguntas planteadas; analiza, prueba, etc.
 
 - No tengas miedo de usar tablas dinámicas; prueba colocando las variables en columnas y filas para ver cómo se muestran los datos.
+
+Aquí tienes algunos tips para asegurarte de que estás en el camino correcto con tu análisis:
+
+- El 50.31% de los clientes tienen un grado universitario o superior.
+- El cliente de mayor edad nació en 1893 y el más joven en 1996.
+- 864 clientes están casados y 483 son solteros.
+- El ingreso anual mínimo es 0 y el máximo es 162,397.
+
+Estos datos pueden servirte de referencia para verificar que tus cálculos y análisis son correctos.
   
 ¡Diviértete y disfruta del proceso de aprendizaje! Recuerda que sentirse aturdido y confundido es una parte natural del proceso.
+
+
 
 ---
 
