@@ -14,7 +14,7 @@ Es importante distinguir la IA en general de una subcategoría específica conoc
 
 La actual revolución introducida por los LLMs se explica en parte por su gran capacidad para "interpretar" el lenguaje humano natural y desarrollar un discurso coherente, aunque no necesariamente exacto. Esta capacidad, combinada con otras funcionalidades como el análisis de datos y la generación de código de *software*, abre una puerta a infinitas posibilidades futuras.
 
-Si bien esperamos que puedas aprender sobre varios aspectos de la IA, nos enfocaremos promordialemnte en le IA generativa (generación de texto, imágenes, sonido, etc.)
+Si bien esperamos que puedas aprender sobre varios aspectos de la IA, nos enfocaremos primordialemnte en le IA generativa (generación de texto, imágenes, sonido, etc.)
 
 ## **¿Por qué es relevante?**
 

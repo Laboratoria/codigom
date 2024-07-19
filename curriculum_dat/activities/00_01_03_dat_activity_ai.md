@@ -8,7 +8,7 @@
 
 ## Introducción
 
-Con el rápido desarrollo de herramientas de inteligencia artificial (AI) como los intérpretes de código y otros sistemas automatizados de análisis de datos, surge una pregunta crucial: ¿cuál es el rol de una persona en este nuevo panorama? ¿Deberíamos temer a estas tecnologías?
+Con el rápido desarrollo de herramientas de inteligencia artificial (AI) como los intérpretes de código y otros sistemas automatizados de análisis de datos, **surge una pregunta crucial**: ¿cuál es el rol de una persona en este nuevo panorama? ¿Deberíamos temer a estas tecnologías?
 
 La realidad es que, en lugar de ver estas herramientas como una amenaza, podemos verlas como aliados que amplifican nuestras capacidades. Algunas herramientas de IA pueden procesar y analizar grandes volúmenes de datos a velocidades increíbles, pero las personas todavía tienen un papel crucial que desempeñar. 
 
@@ -19,9 +19,9 @@ La clave está en apalancar nuestras habilidades y conocimientos con estas nueva
 ## Ventajas de complementar con IA:
 
 - **Automatización de Tareas Repetitivas y Tediosas**: Las herramientas de AI pueden hacerse cargo de tareas repetitivas y laboriosas, como la limpieza de datos, liberando tiempo para que los analistas humanos se concentren en aspectos más estratégicos y creativos.
-- **Análisis en Tiempo Real**: La AI puede procesar datos en tiempo real, proporcionando información actualizada y permitiendo decisiones rápidas y basadas en datos.
-- **Predicciones y Modelos Avanzados**: Los algoritmos de AI pueden identificar patrones complejos y hacer predicciones precisas que serían difíciles de detectar para un humano.
-- **Detección de Anomalías**: Las AI pueden detectar anomalías en los datos de manera eficiente, ayudando a identificar problemas potenciales antes de que se conviertan en grandes inconvenientes.
+- **Análisis en Tiempo Real**: La IA puede procesar datos en "tiempo real", proporcionando información actualizada y permitiendo decisiones rápidas y basadas en datos.
+- **Predicciones y Modelos Avanzados**: Los algoritmos de IA pueden identificar patrones complejos y hacer predicciones precisas que serían difíciles de detectar para un humano.
+- **Detección de Anomalías**: Las IA pueden detectar anomalías en los datos de manera eficiente, ayudando a identificar problemas potenciales antes de que se conviertan en grandes inconvenientes.
 
 ## El Rol Humano:
 

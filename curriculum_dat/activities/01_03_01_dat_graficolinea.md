@@ -1,15 +1,10 @@
-
-
-
-
-
-# 🔹Reto 1.1: Visualizar datos a lo largo del tiempo
+# ◾Reto 3.1: Visualizar datos a lo largo del tiempo
 
 **Dificultad:** 🌻
 
 **Aprendizaje:** 🍯🍯
 
-**Tiempo:** ⏱⏱
+**Tiempo:** ⏱⏱ 1-2 hrs.
 
 **Reacciona** con :eyes: cuando comiences la lectura y/o actividad.
 
@@ -19,12 +14,12 @@ Aprenderás crear e interpretar los datos a lo largo del tiempo a través de gr�
 
 ## Descripción
 
-Utiliza la variable "fecha_entrada" para comprender el patrón de registro de nuevos clientes. Además, emplea esta fecha para identificar otros patrones presentes en los datos también.
+Utiliza la variable "fecha_entrada" para comprender el patrón de registro de nuevos clientes. Este análisis te permitirá identificar las épocas del año, meses o días específicos en los que se registran más clientes, lo cual es vital para estrategias de marketing y planificación de recursos, stock, etc. del negocio. Además, emplea esta fecha para identificar otros patrones presentes en los datos, como picos de actividad, tendencias estacionales o anomalías. 
 
-### Metas de Aprendizaje
+### Cumples con la meta de aprendizaje si:
 
-- [x] Crear un gráfico de línea.
-- [x] Interpretar correctamente el gráfico.
+- [x] Creas un gráfico de líneas.
+- [x] Interpretas correctamente el gráfico (pregunta o asiste a las sesiones en vivo de ayudantía).
 
 ## Insumos para tu aprendizaje
 
@@ -42,15 +37,14 @@ Utiliza la variable "fecha_entrada" para comprender el patrón de registro de nu
 
 Prueba crear una columna con el año y el mes utilizando las fórmulas CONCATENATE, YEAR y MONTH para visualizar el gráfico de esta manera:
 
-![image](https://github.com/user-attachments/assets/a687c14e-72d3-42ef-8cf0-c92f28641394)
+![image](assets/350093985-a687c14e-72d3-42ef-8cf0-c92f28641394.png)
 
-  
 ¡Diviértete y disfruta del proceso de aprendizaje! Recuerda que sentirse aturdido y confundido es una parte natural del proceso.
 
 ---
 
 > - 💡 Evaluación: Recuerda que puedes pedir la [evaluación de una compañera](../curruculum_model/lea_model_06_assessment.md) antes de terminar tu reto y compartir la URL.
 > 
-> - :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1209888657507487744) , 💬 Comparte el link de tu spreadsheet en el hilo y reacciona con ✅ para marcar tu progreso. No olvides dejar el enlace público para que tus compañeras puedan verlo.
+> - :mega: Al terminar, [**regresa a Discord**](https://discord.com/channels/1209273049304666113/1209888657507487744) , 💬 Comparte el enlace a tu trabajo en el hilo y reacciona con ✅ para marcar tu progreso. No olvides dejar el enlace público para que tus compañeras puedan verlo.
 
 ---

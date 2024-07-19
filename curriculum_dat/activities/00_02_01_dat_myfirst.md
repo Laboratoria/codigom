@@ -1,4 +1,4 @@
-# ◾Reto 2.1 : Mis primeras tablas dinámicas
+# ◾Reto 2.1 : Tablas dinámicas
 
 **Dificultad:** :sunflower: 
 **Aprendizaje:** :honey_pot: :honey_pot: ﻿
@@ -13,7 +13,15 @@ Utilizar tablas dinámicas de **Hojas de Cálculo de Google** para resumir datos
 
 **Video:** [Explicación de lo que hay que hacer](https://www.loom.com/share/a9b99254fa57421c9f843bfaa7e38289?sid=979ed125-3dde-4ac1-bd16-c897950ed328) 🌟
 
-En este desafío práctico, trabajarás con un conjunto de datos de una tienda de productos importados. Te proporcionaremos la tabla de clientes de esta tienda. Imagina que eres parte del equipo de la tienda y te interesa conocer cuántas personas han respondido a la última campaña de marketing. Además, te gustaría obtener características resumidas de estos clientes, como el promedio de ingresos y la proporción de clientes solteros y casados.
+En este desafío práctico, trabajarás con un **conjunto de datos** (*dataset*) de una tienda de productos importados. Te proporcionaremos la tabla de clientes de esta tienda. Imagina que eres parte del equipo de la tienda y necesitas responder las siguientes preguntas:
+
+1. Cuántas personas han respondido a la última campaña de *marketing*. 
+
+2. Sobre las características de las clientes:
+   
+   1. Cuál es el promedio de ingresos.
+   
+   2. Cuál es la proporción de solteras y casadas.
 
 #### Guía de Evaluación
 
@@ -24,7 +32,7 @@ Como todo en la vida, hay muchas maneras de resolver un mismo problema. No obsta
 - [x] Crea al menos una tabla dinámica.
 - [x] Utiliza columnas y filas para organizar tus datos en la tabla dinámica.
 - [x] Explora y demuestra al menos 2 resúmenes de información usando promedio o sumatoria en las opciones de valores de la tabla dinámica.
-- [x] Demuestra el uso de los pencentuales preestablecidos en las opciones de valores de la tabla dinámica.
+- [x] Demuestra el uso de los porcentuales preestablecidos en las opciones de valores de la tabla dinámica.
 
 #### Insumos para tu Aprendizaje
 
