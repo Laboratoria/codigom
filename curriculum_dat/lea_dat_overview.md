@@ -89,3 +89,5 @@ Las técnicas de análisis pueden ser muy variadas, pues dependen del problema q
 Un *dashboard* o panel de control es una herramienta de visualización de datos que proporciona una representación gráfica y resumida de información relevante y, en muchos casos, actualizada en tiempo real. Es una interfaz gráfica que presenta de manera clara y concisa métricas, indicadores clave de rendimiento (KPI), tendencias y otros datos importantes en un solo lugar. Aprenderás a crear un *dashboard* con los resultados de tu análisis. Trabajarás en Looker Studio/Power BI (revisar Mire)
 
 </details>
+
+---
