@@ -32,7 +32,7 @@ Como todo en la vida, hay muchas maneras de resolver un mismo problema. No obsta
 - [x] Crea al menos una tabla dinámica.
 - [x] Utiliza columnas y filas para organizar tus datos en la tabla dinámica.
 - [x] Explora y demuestra al menos 2 resúmenes de información usando promedio o sumatoria en las opciones de valores de la tabla dinámica.
-- [x] Demuestra el uso de los porcentuales preestablecidos en las opciones de valores de la tabla dinámica.
+- [x] Demuestra el uso de porcentajes en tablas dinámicas.
 
 #### Insumos para tu Aprendizaje
 
