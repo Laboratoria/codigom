@@ -82,6 +82,7 @@
   * [CSS, introducción](curriculum_dev/topics/css_intro.md)
   * [CSS, fundamentos](curriculum_dev/topics/css_fundamentos.md)
   * [CSS, media queries](curriculum_dev/topics/css_media_queries.md)
+  * [CSS, unidades relativas](curriculum_dev/topics/css_units.md)
   * [CSS, flexbox](curriculum_dev/topics/css_flexbox.md)
 
 ## 💚 No-code e IA
