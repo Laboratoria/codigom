@@ -45,7 +45,7 @@ En este reto, profundizarás en el uso de Flexbox y unidades relativas (`%`, `vw
 
 - [Texto: CodePen, fork o bifurcación](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_fork)
 - [Texto: Unidades relativas](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_units)
-- [Texto: Flexbox](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_flexbox)
+- [Texto: Flexbox](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_flexbox.md)
 - [Juego: Flexbox Froggy](https://flexboxfroggy.com/)
 
 ## Pauta de trabajo
