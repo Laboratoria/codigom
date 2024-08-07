@@ -38,8 +38,8 @@ Trabajaremos en conseguirlo para, al menos, dos tamaños de pantalla: dispositiv
 
 ## Insumos para tu aprendizaje
 
-- [Texto: CodePen, fork o bifurcación](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/editors_codepen_fork)
-- [Texto: Media queries](https://laboratoria1.gitbook.io/codigom/curriculum_dev/topics/css_media_queries)
+- [Texto: CodePen, fork o bifurcación](../topics/editors_codepen_fork.md)
+- [Texto: Media queries](../topics/css_media_queries.md)
 - :robot: **AI Tip:** Pregúntale a Gemini, ChatGPT o cualquier otro chat IA lo siguiente, ¿cómo simulo diferentes tamaños de pantalla en Google Chrome para ayudarme a verificar si mi diseño responsivo funciona correctamente?
 
 ## Pauta de trabajo
