@@ -1,10 +1,10 @@
 # ◾Reto 1.2: Calcular cuartiles para el análisis RFM
 
-**Dificultad:** 🌻
+**Dificultad:** 🌻🌻
 
-**Aprendizaje:** 🍯🍯
+**Aprendizaje:** 🍯🍯🍯
 
-**Tiempo:** ⏱⏱⏱ 3-5 hrs.
+**Tiempo:** ⏱⏱ 4-6 hrs.
 
 **Reacciona** con :eyes: cuando comiences la lectura y/o actividad.
 
