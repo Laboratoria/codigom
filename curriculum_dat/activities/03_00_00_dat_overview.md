@@ -1,5 +1,3 @@
-Aquí tienes un texto similar adaptado para **dashboards en Looker Studio**:
-
 # ⚫ Habilidad (H): Creación de Dashboards
 
 **Tiempo:** ⏱ 5min
