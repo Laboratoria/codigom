@@ -1,5 +1,3 @@
-Aquí tienes el texto ajustado:
-
 # ◾Reto 1.1: Crear variables para calcular recencia, frecuencia y monto total
 
 **Dificultad:** 🌻
