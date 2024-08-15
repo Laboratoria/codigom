@@ -10,7 +10,7 @@ Las **técnicas de análisis de datos** son métodos y métricas previamente est
 
 ## Lo que aprenderás:
 
-En este módulo, utilizaremos la técnica de análisis **Segmentación RFM en Spreadsheets**, la cual te permitirá comprender y segmentar a tus clientes según su historial y comportamiento de compra. Aprenderás:
+En esta habilidad, utilizaremos la técnica de análisis **Segmentación RFM en Spreadsheets**, la cual te permitirá comprender y segmentar a tus clientes según su historial y comportamiento de compra. Aprenderás:
 
 - Cálculo de Recencia, Frecuencia y Valor Monetario: Aprenderás a calcular las tres dimensiones de RFM para cada cliente utilizando fórmulas y funciones en Spreadsheets.
 
