@@ -1,5 +1,3 @@
-Aquí tienes el texto ajustado y mejorado:
-
 # ◾Reto 1.2: Calcular cuartiles para el análisis RFM
 
 **Dificultad:** 🌻
