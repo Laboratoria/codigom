@@ -153,8 +153,26 @@
     * [Reto : Visualizar datos a lo largo del tiempo](curriculum_dat/activities/01_03_01_dat_graficolinea.md)
     * [Reto : Visualizar datos con gráficos combinados](curriculum_dat/activities/01_03_02_dat_graficocombinado.md)
 
-* [Habilidad (H): Técnicas de análisis 1]()
+* [Habilidad (H): Técnicas de análisis ](curriculum_dat/activities/02_00_00_dat_overview.md)
 
-* Tópicos
+  * [Módulo 1 : Crear Nuevas Variables y Calcular Cuartiles para Análisis RFM](curriculum_dat/activities/02_01_00_dat_cuartil.md)
+    
+    * [Reto : Crear variables para calcular recencia, frecuencia y monto total](curriculum_dat/activities/02_01_01_dat_newvariables.md)
+    * [Reto : Calcular cuartiles para el análisis RFM](curriculum_dat/activities/02_01_02_dat_calccuartil.md)
   
-  * [Variables categóricas]()
+  * [Módulo 2 : Segmentación RFM](curriculum_dat/activities/02_02_00_dat_segmentacion.md)
+    
+    * [Reto : Crear score para el análisis RFM](curriculum_dat/activities/02_02_01_dat_score.md)
+    * [Reto : Segmentación RFM](curriculum_dat/activities/02_02_02_dat_segmentacionrfm.md)
+   
+* [Habilidad (H): Creación de Dashboards ](curriculum_dat/activities/03_00_00_dat_overview.md)
+
+  * [Módulo 1 : Empezar con Looker Studio](curriculum_dat/activities/02_01_00_dat_cuartil.md)
+    
+    * [Reto : Conectar datos a Looker Studio](curriculum_dat/activities/03_01_01_dat_subirdatos.md)
+    * [Reto : Visualizar datos generales](curriculum_dat/activities/03_01_02_dat_scorecards.md)
+  
+  * [Módulo 2 : Crear un dashboard en looker Studio](curriculum_dat/activities/03_02_00_dat_dashboard.md)
+    
+    * [Reto : Gráficos en Looker Studio](curriculum_dat/activities/03_02_01_dat_graficos.md)
+    * [Reto : Filtros en los dashboards](curriculum_dat/activities/03_02_02_dat_filtros.md)
